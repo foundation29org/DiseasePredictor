@@ -1,0 +1,4603 @@
+[
+  {
+    "Name": "CLCNKB",
+    "Id": "ID:1188",
+    "Score": 1,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0507202731648998,
+            "Hp": "0002900"
+          },
+          {
+            "Score": 0.0760804097473497,
+            "Hp": "0002902",
+            "Condition": "Hyponatremia",
+            "Id": "HP:0002902",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Condition": "Hypochloremia",
+            "Id": "HP:0003113",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.836884507220846,
+            "Hp": "0003113"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00209221126805212,
+            "Hp": "0002900",
+            "Condition": "bartter syndrome type 3",
+            "Id": "OMIM:607364",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Id": "OMIM:613090",
+            "Condition": "bartter syndrome type 4b",
+            "IdNote": "CLINVAR",
+            "Score": 0.00104610563402606,
+            "Hp": "0002900"
+          },
+          {
+            "Id": "OMIM:613090",
+            "Condition": "bartter syndrome type 4b",
+            "IdNote": "CLINVAR",
+            "Score": 0.00156915845103909,
+            "Hp": "0002902"
+          },
+          {
+            "Score": 0.01726074296143,
+            "Hp": "0003113",
+            "Id": "OMIM:613090",
+            "Condition": "bartter syndrome type 4b",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0143465915523574,
+            "Hp": "0002900",
+            "Id": "ORPHANET:358",
+            "Condition": "gitelman syndrome",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CLCNKA",
+    "Id": "ID:1187",
+    "Score": 0.983561197179591,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia",
+            "Hp": "0002900",
+            "Score": 0.0507202731648998
+          },
+          {
+            "Hp": "0002902",
+            "Score": 0.0760804097473497,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hyponatremia",
+            "Id": "HP:0002902"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003113",
+            "Condition": "Hypochloremia",
+            "Hp": "0003113",
+            "Score": 0.836884507220846
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:613090",
+            "Condition": "bartter syndrome type 4b",
+            "IdNote": "CLINVAR",
+            "Score": 0.00104610563402606,
+            "Hp": "0002900"
+          },
+          {
+            "Hp": "0002902",
+            "Score": 0.00156915845103909,
+            "IdNote": "CLINVAR",
+            "Condition": "bartter syndrome type 4b",
+            "Id": "OMIM:613090"
+          },
+          {
+            "Hp": "0003113",
+            "Score": 0.01726074296143,
+            "IdNote": "CLINVAR",
+            "Condition": "bartter syndrome type 4b",
+            "Id": "OMIM:613090"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BSND",
+    "Id": "ID:7809",
+    "Score": 0.963685190133096,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypokalemia",
+            "Id": "HP:0002900",
+            "Hp": "0002900",
+            "Score": 0.0507202731648998
+          },
+          {
+            "Condition": "Hyponatremia",
+            "Id": "HP:0002902",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0760804097473497,
+            "Hp": "0002902"
+          },
+          {
+            "Hp": "0003113",
+            "Score": 0.836884507220846,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003113",
+            "Condition": "Hypochloremia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAGED2",
+    "Id": "ID:10916",
+    "Score": 0.963685190133096,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0507202731648998,
+            "Hp": "0002900",
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Hp": "0002902",
+            "Score": 0.0760804097473497,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hyponatremia",
+            "Id": "HP:0002902"
+          },
+          {
+            "Hp": "0003113",
+            "Score": 0.836884507220846,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypochloremia",
+            "Id": "HP:0003113"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC26A3",
+    "Id": "ID:1811",
+    "Score": 0.963685190133096,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0507202731648998,
+            "Hp": "0002900"
+          },
+          {
+            "Score": 0.0760804097473497,
+            "Hp": "0002902",
+            "Id": "HP:0002902",
+            "Condition": "Hyponatremia",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Id": "HP:0003113",
+            "Condition": "Hypochloremia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.836884507220846,
+            "Hp": "0003113"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC12A1",
+    "Id": "ID:6557",
+    "Score": 0.887604780385746,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0507202731648998,
+            "Hp": "0002900"
+          },
+          {
+            "Hp": "0003113",
+            "Score": 0.836884507220846,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003113",
+            "Condition": "Hypochloremia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNJ1",
+    "Id": "ID:3758",
+    "Score": 0.887604780385746,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002900",
+            "Score": 0.0507202731648998,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypokalemia",
+            "Id": "HP:0002900"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypochloremia",
+            "Id": "HP:0003113",
+            "Hp": "0003113",
+            "Score": 0.836884507220846
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "OCRL",
+    "Id": "ID:4952",
+    "Score": 0.238226783021389,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00475502560920935,
+            "Hp": "0002900",
+            "Id": "OMIM:309000",
+            "Condition": "lowe syndrome",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Score": 0.02536013658245,
+            "Hp": "0002900",
+            "Condition": "lowe syndrome",
+            "Id": "OMIM:309000",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:309000",
+            "Condition": "lowe syndrome",
+            "Hp": "0002902",
+            "Score": 0.0128385691448653
+          },
+          {
+            "Id": "OMIM:309000",
+            "Condition": "lowe syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0684723687726147,
+            "Hp": "0002902"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0002900",
+            "Score": 0.0507202731648998,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypokalemia",
+            "Id": "HP:0002900"
+          },
+          {
+            "Score": 0.0760804097473497,
+            "Hp": "0002902",
+            "Condition": "Hyponatremia",
+            "Id": "HP:0002902",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SCN4A",
+    "Id": "ID:6329",
+    "Score": 0.170832220053528,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0002900",
+            "Score": 0.0167376901444169,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hypokalemic periodic paralysis type 1",
+            "Id": "OMIM:170400"
+          },
+          {
+            "Hp": "0002900",
+            "Score": 0.00104610563402606,
+            "IdNote": "CLINVAR",
+            "Condition": "hypokalemic periodic paralysis type 2",
+            "Id": "OMIM:613345"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Episodic hypokalemia",
+            "Id": "HP:0012726",
+            "Hp": "0002900",
+            "Score": 0.0507202731648998
+          },
+          {
+            "Score": 0.0760804097473497,
+            "Hp": "0002902",
+            "Condition": "Hyponatremia",
+            "Id": "HP:0002902",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0002900",
+            "Score": 0.00380402048736748,
+            "IdNote": "ORPHANET",
+            "Condition": "hyperkalemic periodic paralysis",
+            "Id": "ORPHANET:682"
+          },
+          {
+            "Id": "ORPHANET:681",
+            "Condition": "hypokalemic periodic paralysis",
+            "IdNote": "ORPHANET",
+            "Score": 0.0167376901444169,
+            "Hp": "0002900"
+          },
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "hyperkalemic periodic paralysis",
+            "Id": "ORPHANET:682",
+            "Hp": "0002902",
+            "Score": 0.00570603073105123
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SCNN1G",
+    "Id": "ID:6340",
+    "Score": 0.165927750782315,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:526",
+            "Condition": "liddle syndrome",
+            "Hp": "0002900",
+            "Score": 0.0391270678700656
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0002900",
+            "Score": 0.0507202731648998,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia"
+          },
+          {
+            "Id": "HP:0002902",
+            "Condition": "Hyponatremia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0760804097473497,
+            "Hp": "0002902"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SCNN1B",
+    "Id": "ID:6338",
+    "Score": 0.165927750782315,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0507202731648998,
+            "Hp": "0002900",
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Score": 0.0760804097473497,
+            "Hp": "0002902",
+            "Id": "HP:0002902",
+            "Condition": "Hyponatremia",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:526",
+            "Condition": "liddle syndrome",
+            "IdNote": "ORPHANET",
+            "Score": 0.0391270678700656,
+            "Hp": "0002900"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CTNS",
+    "Id": "ID:1497",
+    "Score": 0.159406572803971,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia",
+            "Hp": "0002900",
+            "Score": 0.0507202731648998
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hyponatremia",
+            "Id": "HP:0002902",
+            "Hp": "0002902",
+            "Score": 0.0760804097473497
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:213",
+            "Condition": "cystinosis",
+            "Hp": "0002900",
+            "Score": 0.0326058898917213
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYP11B1",
+    "Id": "ID:1584",
+    "Score": 0.126800682912249,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0507202731648998,
+            "Hp": "0002900",
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Hp": "0002902",
+            "Score": 0.0760804097473497,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002902",
+            "Condition": "Hyponatremia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYP11B2",
+    "Id": "ID:1585",
+    "Score": 0.126800682912249,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002900",
+            "Score": 0.0507202731648998,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia"
+          },
+          {
+            "Id": "HP:0002902",
+            "Condition": "Hyponatremia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0760804097473497,
+            "Hp": "0002902"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AVPR2",
+    "Id": "ID:554",
+    "Score": 0.102756103415014,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "nephrogenic syndrome of inappropriate antidiuresis",
+            "Id": "OMIM:300539",
+            "IdNote": "CLINVAR",
+            "Score": 0.00156915845103909,
+            "Hp": "0002902"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002902",
+            "Condition": "Hyponatremia",
+            "Hp": "0002902",
+            "Score": 0.0760804097473497
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "nephrogenic syndrome of inappropriate antidiuresis",
+            "Id": "ORPHANET:93606",
+            "Hp": "0002902",
+            "Score": 0.0251065352166254
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CACNA1S",
+    "Id": "ID:779",
+    "Score": 0.101979449232177,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Episodic hypokalemia",
+            "Id": "HP:0012726",
+            "Hp": "0002900",
+            "Score": 0.0507202731648998
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:170400",
+            "Condition": "hypokalemic periodic paralysis type 1",
+            "Hp": "0002900",
+            "Score": 0.0167376901444169
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:188580",
+            "Condition": "thyrotoxic periodic paralysis",
+            "Hp": "0002900",
+            "Score": 0.00104610563402606
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:681",
+            "Condition": "hypokalemic periodic paralysis",
+            "Hp": "0002900",
+            "Score": 0.0167376901444169
+          },
+          {
+            "Hp": "0002900",
+            "Score": 0.0167376901444169,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:79102",
+            "Condition": "thyrotoxic periodic paralysis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NR0B1",
+    "Id": "ID:190",
+    "Score": 0.101186944963975,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0002902",
+            "Score": 0.0251065352166254,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "adrenal hypoplasia congenital",
+            "Id": "OMIM:300200"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hyponatremia",
+            "Id": "HP:0002902",
+            "Hp": "0002902",
+            "Score": 0.0760804097473497
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HMBS",
+    "Id": "ID:3145",
+    "Score": 0.0997839567627202,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          },
+          {
+            "Hp": "0002902",
+            "Score": 0.0760804097473497,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002902",
+            "Condition": "Hyponatremia"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "porphyria acute intermittent",
+            "Id": "OMIM:176000",
+            "Hp": "0002902",
+            "Score": 0.00570603073105123
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRF1",
+    "Id": "ID:5551",
+    "Score": 0.0892613407360779,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hemophagocytic lymphohistiocytosis familial 1",
+            "Id": "OMIM:267700",
+            "Hp": "0002902",
+            "Score": 0.00502130704332508
+          },
+          {
+            "Score": 0.00313831690207817,
+            "Hp": "0002902",
+            "Id": "OMIM:603553",
+            "Condition": "hemophagocytic lymphohistiocytosis familial 2",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Hp": "0002902",
+            "Score": 0.00502130704332508,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hemophagocytic lymphohistiocytosis familial 2",
+            "Id": "OMIM:603553"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0760804097473497,
+            "Hp": "0002902",
+            "Condition": "Hyponatremia",
+            "Id": "HP:0002902",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CA12",
+    "Id": "ID:771",
+    "Score": 0.0776495681983887,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002902",
+            "Condition": "Hyponatremia",
+            "Hp": "0002902",
+            "Score": 0.0760804097473497
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:143860",
+            "Condition": "hyperchlorhidrosis isolated",
+            "IdNote": "CLINVAR",
+            "Score": 0.00156915845103909,
+            "Hp": "0002902"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SARS2",
+    "Id": "ID:54938",
+    "Score": 0.0776495681983887,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "hyperuricemia pulmonary hypertension renal failure and alkalosis",
+            "Id": "OMIM:613845",
+            "Hp": "0002902",
+            "Score": 0.00156915845103909
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0760804097473497,
+            "Hp": "0002902",
+            "Condition": "Hyponatremia",
+            "Id": "HP:0002902",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SCNN1A",
+    "Id": "ID:6337",
+    "Score": 0.0760804097473497,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002902",
+            "Condition": "Hyponatremia",
+            "Hp": "0002902",
+            "Score": 0.0760804097473497
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYP11A1",
+    "Id": "ID:1583",
+    "Score": 0.0760804097473497,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002902",
+            "Condition": "Hyponatremia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0760804097473497,
+            "Hp": "0002902"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NR3C2",
+    "Id": "ID:4306",
+    "Score": 0.0760804097473497,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002902",
+            "Score": 0.0760804097473497,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hyponatremia",
+            "Id": "HP:0002902"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NFKB2",
+    "Id": "ID:4791",
+    "Score": 0.0760804097473497,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0760804097473497,
+            "Hp": "0002902",
+            "Condition": "Hyponatremia",
+            "Id": "HP:0002902",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NNT",
+    "Id": "ID:23530",
+    "Score": 0.0760804097473497,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0760804097473497,
+            "Hp": "0002902",
+            "Condition": "Hyponatremia",
+            "Id": "HP:0002902",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CPOX",
+    "Id": "ID:1371",
+    "Score": 0.0760804097473497,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0760804097473497,
+            "Hp": "0002902",
+            "Condition": "Hyponatremia",
+            "Id": "HP:0002902",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HSD3B2",
+    "Id": "ID:3284",
+    "Score": 0.0760804097473497,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0760804097473497,
+            "Hp": "0002902",
+            "Condition": "Hyponatremia",
+            "Id": "HP:0002902",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TBX19",
+    "Id": "ID:9095",
+    "Score": 0.0760804097473497,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0760804097473497,
+            "Hp": "0002902",
+            "Condition": "Hyponatremia",
+            "Id": "HP:0002902",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SAMD9",
+    "Id": "ID:54809",
+    "Score": 0.0760804097473497,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002902",
+            "Score": 0.0760804097473497,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hyponatremia",
+            "Id": "HP:0002902"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "USP8",
+    "Id": "ID:9101",
+    "Score": 0.068717789449219,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Score": 0.0507202731648998,
+            "Hp": "0002900",
+            "Condition": "Hypokalemia",
+            "Id": "HP:0002900",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC4A1",
+    "Id": "ID:6521",
+    "Score": 0.068717789449219,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Score": 0.0507202731648998,
+            "Hp": "0002900",
+            "Condition": "Hypokalemia",
+            "Id": "HP:0002900",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDH23",
+    "Id": "ID:64072",
+    "Score": 0.068717789449219,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          },
+          {
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0507202731648998,
+            "Hp": "0002900"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNJ10",
+    "Id": "ID:3766",
+    "Score": 0.0685040689433428,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "east syndrome",
+            "Id": "ORPHANET:199343",
+            "Hp": "0002900",
+            "Score": 0.0167376901444169
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "sesame syndrome",
+            "Id": "OMIM:612780",
+            "Hp": "0002900",
+            "Score": 0.00104610563402606
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0002900",
+            "Score": 0.0507202731648998,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC12A3",
+    "Id": "ID:6559",
+    "Score": 0.0674579633093167,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0167376901444169,
+            "Hp": "0002900",
+            "Id": "ORPHANET:358",
+            "Condition": "gitelman syndrome",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Hypokalemia",
+            "Id": "HP:0002900",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0507202731648998,
+            "Hp": "0002900"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GABRA3",
+    "Id": "ID:2556",
+    "Score": 0.0674579633093167,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0167376901444169,
+            "Hp": "0002900",
+            "Condition": "thyrotoxic periodic paralysis",
+            "Id": "ORPHANET:79102",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0507202731648998,
+            "Hp": "0002900",
+            "Id": "HP:0012726",
+            "Condition": "Episodic hypokalemia",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HSD11B2",
+    "Id": "ID:3291",
+    "Score": 0.0637218717592236,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00104610563402606,
+            "Hp": "0002900",
+            "Id": "OMIM:218030",
+            "Condition": "apparent mineralocorticoid excess",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Hypokalemia",
+            "Id": "HP:0002900",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0507202731648998,
+            "Hp": "0002900"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0119554929602978,
+            "Hp": "0002900",
+            "Condition": "apparent mineralocorticoid excess",
+            "Id": "ORPHANET:320",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNE3",
+    "Id": "ID:10008",
+    "Score": 0.0626757661251975,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012726",
+            "Condition": "Episodic hypokalemia",
+            "Hp": "0002900",
+            "Score": 0.0507202731648998
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0002900",
+            "Score": 0.0119554929602978,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:681",
+            "Condition": "hypokalemic periodic paralysis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNJ18",
+    "Id": "ID:100134444",
+    "Score": 0.0626757661251975,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:79102",
+            "Condition": "thyrotoxic periodic paralysis",
+            "Hp": "0002900",
+            "Score": 0.0119554929602978
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0002900",
+            "Score": 0.0507202731648998,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012726",
+            "Condition": "Episodic hypokalemia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AIP",
+    "Id": "ID:9049",
+    "Score": 0.0591736520257165,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00845337886081659,
+            "Hp": "0002900",
+            "Condition": "pituitary adenoma acth secreting",
+            "Id": "OMIM:219090",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0507202731648998,
+            "Hp": "0002900",
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC2A2",
+    "Id": "ID:6514",
+    "Score": 0.0538585900669779,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002900",
+            "Score": 0.0507202731648998,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:227810",
+            "Condition": "fanconi bickel syndrome",
+            "IdNote": "CLINVAR",
+            "Score": 0.00313831690207817,
+            "Hp": "0002900"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SMAD4",
+    "Id": "ID:4089",
+    "Score": 0.0528124844329519,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "juvenile polyposis syndrome",
+            "Id": "OMIM:174900",
+            "IdNote": "CLINVAR",
+            "Score": 0.00209221126805212,
+            "Hp": "0002900"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia",
+            "Hp": "0002900",
+            "Score": 0.0507202731648998
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BMPR1A",
+    "Id": "ID:657",
+    "Score": 0.0528124844329519,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0507202731648998,
+            "Hp": "0002900"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:174900",
+            "Condition": "juvenile polyposis syndrome",
+            "Hp": "0002900",
+            "Score": 0.00209221126805212
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CACNA1D",
+    "Id": "ID:776",
+    "Score": 0.0517663787989258,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0002900",
+            "Score": 0.00104610563402606,
+            "IdNote": "CLINVAR",
+            "Condition": "primary aldosteronism seizures and neurologic abnormalities",
+            "Id": "OMIM:615474"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0507202731648998,
+            "Hp": "0002900"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CASR",
+    "Id": "ID:846",
+    "Score": 0.0508787740185401,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0507202731648998,
+            "Hp": "0002900",
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0002900",
+            "Score": 0.000158500853640312,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:601198",
+            "Condition": "hypocalcemia autosomal dominant 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FXYD2",
+    "Id": "ID:486",
+    "Score": 0.0507202731648998,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia",
+            "Hp": "0002900",
+            "Score": 0.0507202731648998
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CLDN10",
+    "Id": "ID:9071",
+    "Score": 0.0507202731648998,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002900",
+            "Score": 0.0507202731648998,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypokalemia",
+            "Id": "HP:0002900"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NR3C1",
+    "Id": "ID:2908",
+    "Score": 0.0507202731648998,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0507202731648998,
+            "Hp": "0002900"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL5A1",
+    "Id": "ID:1289",
+    "Score": 0.0507202731648998,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia",
+            "Hp": "0002900",
+            "Score": 0.0507202731648998
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL3A1",
+    "Id": "ID:1281",
+    "Score": 0.0507202731648998,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002900",
+            "Score": 0.0507202731648998,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypokalemia",
+            "Id": "HP:0002900"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYP17A1",
+    "Id": "ID:1586",
+    "Score": 0.0507202731648998,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0507202731648998,
+            "Hp": "0002900"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TP53",
+    "Id": "ID:7157",
+    "Score": 0.0507202731648998,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0507202731648998,
+            "Hp": "0002900"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNJ5",
+    "Id": "ID:3762",
+    "Score": 0.0507202731648998,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002900",
+            "Condition": "Hypokalemia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0507202731648998,
+            "Hp": "0002900"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ASL",
+    "Id": "ID:435",
+    "Score": 0.0297698202395803,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00074239754672817,
+            "Hp": "0001254",
+            "Condition": "argininosuccinate lyase deficiency",
+            "Id": "OMIM:207900",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Condition": "argininosuccinic aciduria",
+            "Id": "OMIM:207900",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00593918037382535,
+            "Hp": "0001254"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0001254",
+            "Score": 0.00509072603470745,
+            "IdNote": "ORPHANET",
+            "Condition": "argininosuccinic aciduria",
+            "Id": "ORPHANET:23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GCSH",
+    "Id": "ID:2653",
+    "Score": 0.0239366966581446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001254",
+            "Score": 0.00593918037382535,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:605899",
+            "Condition": "glycine encephalopathy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AMT",
+    "Id": "ID:275",
+    "Score": 0.0239366966581446,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "glycine encephalopathy",
+            "Id": "OMIM:605899",
+            "Hp": "0001254",
+            "Score": 0.00593918037382535
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC22A5",
+    "Id": "ID:6584",
+    "Score": 0.0239366966581446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00593918037382535,
+            "Hp": "0001254",
+            "Id": "OMIM:212140",
+            "Condition": "carnitine deficiency systemic primary",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACADS",
+    "Id": "ID:35",
+    "Score": 0.0239366966581446,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00593918037382535,
+            "Hp": "0001254",
+            "Condition": "acyl coa dehydrogenase short chain deficiency of",
+            "Id": "OMIM:201470",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACADM",
+    "Id": "ID:34",
+    "Score": 0.0239366966581446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:201450",
+            "Condition": "acyl coa dehydrogenase medium chain deficiency of",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00593918037382535,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GLDC",
+    "Id": "ID:2731",
+    "Score": 0.0239366966581446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00593918037382535,
+            "Hp": "0001254",
+            "Id": "OMIM:605899",
+            "Condition": "glycine encephalopathy",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PCCB",
+    "Id": "ID:5096",
+    "Score": 0.023830639865755,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00074239754672817,
+            "Hp": "0001254",
+            "Condition": "propionyl coa carboxylase deficiency",
+            "Id": "OMIM:606054",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:35",
+            "Condition": "propionic acidemia",
+            "IdNote": "ORPHANET",
+            "Score": 0.00509072603470745,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PCCA",
+    "Id": "ID:5095",
+    "Score": 0.023830639865755,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.00509072603470745,
+            "Hp": "0001254",
+            "Condition": "propionic acidemia",
+            "Id": "ORPHANET:35",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "propionyl coa carboxylase deficiency",
+            "Id": "OMIM:606054",
+            "Hp": "0001254",
+            "Score": 0.00074239754672817
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DPYD",
+    "Id": "ID:1806",
+    "Score": 0.0234594410923908,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "dihydropyrimidine dehydrogenase deficiency",
+            "Id": "ORPHANET:1675",
+            "IdNote": "ORPHANET",
+            "Score": 0.00509072603470745,
+            "Hp": "0001254"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001254",
+            "Score": 0.000371198773364085,
+            "IdNote": "CLINVAR",
+            "Condition": "dihydropyrimidine dehydrogenase deficiency",
+            "Id": "OMIM:274270"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DPYS",
+    "Id": "ID:1807",
+    "Score": 0.0234594410923908,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.000371198773364085,
+            "Hp": "0001254",
+            "Id": "OMIM:222748",
+            "Condition": "dihydropyrimidinase deficiency",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00509072603470745,
+            "Hp": "0001254",
+            "Id": "ORPHANET:38874",
+            "Condition": "dihydropyrimidinuria",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDHA1",
+    "Id": "ID:5160",
+    "Score": 0.0234594410923908,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.00509072603470745,
+            "Hp": "0001254",
+            "Condition": "pyruvate dehydrogenase e1 alpha deficiency",
+            "Id": "ORPHANET:79243",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001254",
+            "Score": 0.000371198773364085,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:312170",
+            "Condition": "pyruvate dehydrogenase e1 alpha deficiency"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLCS",
+    "Id": "ID:3141",
+    "Score": 0.0234594410923908,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001254",
+            "Score": 0.000371198773364085,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:253270",
+            "Condition": "holocarboxylase synthetase deficiency"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "holocarboxylase synthetase deficiency",
+            "Id": "ORPHANET:79242",
+            "IdNote": "ORPHANET",
+            "Score": 0.00509072603470745,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EIF2B5",
+    "Id": "ID:8893",
+    "Score": 0.0230882423190267,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:99854",
+            "Condition": "cree leukoencephalopathy",
+            "Hp": "0001254",
+            "Score": 0.00509072603470745
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EIF2B2",
+    "Id": "ID:8892",
+    "Score": 0.0230882423190267,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:99854",
+            "Condition": "cree leukoencephalopathy",
+            "Hp": "0001254",
+            "Score": 0.00509072603470745
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC39A4",
+    "Id": "ID:55630",
+    "Score": 0.0230882423190267,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00509072603470745,
+            "Hp": "0001254",
+            "Condition": "acrodermatitis enteropathica zinc deficiency type",
+            "Id": "ORPHANET:37",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EIF2B3",
+    "Id": "ID:8891",
+    "Score": 0.0230882423190267,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00509072603470745,
+            "Hp": "0001254",
+            "Condition": "cree leukoencephalopathy",
+            "Id": "ORPHANET:99854",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EIF2B1",
+    "Id": "ID:1967",
+    "Score": 0.0230882423190267,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "cree leukoencephalopathy",
+            "Id": "ORPHANET:99854",
+            "Hp": "0001254",
+            "Score": 0.00509072603470745
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IVD",
+    "Id": "ID:3712",
+    "Score": 0.0230882423190267,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:33",
+            "Condition": "isovaleric acidemia",
+            "Hp": "0001254",
+            "Score": 0.00509072603470745
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FBP1",
+    "Id": "ID:2203",
+    "Score": 0.0230882423190267,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001254",
+            "Score": 0.00509072603470745,
+            "IdNote": "ORPHANET",
+            "Condition": "fructose 1 6 bisphosphatase deficiency",
+            "Id": "ORPHANET:348"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EIF2B4",
+    "Id": "ID:8890",
+    "Score": 0.0230882423190267,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00509072603470745,
+            "Hp": "0001254",
+            "Condition": "cree leukoencephalopathy",
+            "Id": "ORPHANET:99854",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PAX8",
+    "Id": "ID:7849",
+    "Score": 0.0229821855266369,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:95720",
+            "Condition": "thyroid hypoplasia",
+            "Hp": "0001254",
+            "Score": 0.00424227169558955
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001254",
+            "Score": 0.00074239754672817,
+            "IdNote": "CLINVAR",
+            "Condition": "thyroid dysgenesis",
+            "Id": "OMIM:218700"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC2A1",
+    "Id": "ID:6513",
+    "Score": 0.021338305244596,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "glut1 deficiency syndrome 1",
+            "Id": "OMIM:606777",
+            "Hp": "0001254",
+            "Score": 0.000371198773364085
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "glut1 deficiency syndrome 1",
+            "Id": "OMIM:606777",
+            "Hp": "0001254",
+            "Score": 0.00296959018691269
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Paroxysmal lethargy",
+            "Id": "HP:0011973",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ABCD4",
+    "Id": "ID:5826",
+    "Score": 0.0207443872072135,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00118783607476507,
+            "Hp": "0001254",
+            "Id": "OMIM:277400",
+            "Condition": "methylmalonic aciduria and homocystinuria cblc type",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0001254",
+            "Score": 0.00118783607476507,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "methylmalonic aciduria and homocystinuria cblf type",
+            "Id": "OMIM:277380"
+          },
+          {
+            "Id": "OMIM:614857",
+            "Condition": "methylmalonic aciduria and homocystinuria cblj type",
+            "IdNote": "CLINVAR",
+            "Score": 0.000371198773364085,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MTRR",
+    "Id": "ID:4552",
+    "Score": 0.0207443872072135,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "homocystinuria megaloblastic anemia due to defect in cobalamin metabolism cble complementation type",
+            "Id": "OMIM:236270",
+            "Hp": "0001254",
+            "Score": 0.000371198773364085
+          },
+          {
+            "Score": 0.00118783607476507,
+            "Hp": "0001254",
+            "Id": "OMIM:277400",
+            "Condition": "methylmalonic aciduria and homocystinuria cblc type",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0001254",
+            "Score": 0.00118783607476507,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:277380",
+            "Condition": "methylmalonic aciduria and homocystinuria cblf type"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LMBRD1",
+    "Id": "ID:55788",
+    "Score": 0.0207443872072135,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "methylmalonic aciduria and homocystinuria cblc type",
+            "Id": "OMIM:277400",
+            "Hp": "0001254",
+            "Score": 0.00118783607476507
+          },
+          {
+            "Id": "OMIM:277380",
+            "Condition": "methylmalonic aciduria and homocystinuria cblf type",
+            "IdNote": "CLINVAR",
+            "Score": 0.000371198773364085,
+            "Hp": "0001254"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:277380",
+            "Condition": "methylmalonic aciduria and homocystinuria cblf type",
+            "Hp": "0001254",
+            "Score": 0.00118783607476507
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MMACHC",
+    "Id": "ID:25974",
+    "Score": 0.0203731884338494,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "methylmalonic aciduria and homocystinuria cblc type",
+            "Id": "OMIM:277400",
+            "Hp": "0001254",
+            "Score": 0.00118783607476507
+          },
+          {
+            "Condition": "methylmalonic aciduria and homocystinuria cblf type",
+            "Id": "OMIM:277380",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00118783607476507,
+            "Hp": "0001254"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MMADHC",
+    "Id": "ID:27249",
+    "Score": 0.0203731884338494,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001254",
+            "Score": 0.00118783607476507,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "methylmalonic aciduria and homocystinuria cblc type",
+            "Id": "OMIM:277400"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:277380",
+            "Condition": "methylmalonic aciduria and homocystinuria cblf type",
+            "Hp": "0001254",
+            "Score": 0.00118783607476507
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BCKDHB",
+    "Id": "ID:594",
+    "Score": 0.0194823113777757,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00148479509345634,
+            "Hp": "0001254",
+            "Id": "OMIM:248600",
+            "Condition": "maple syrup urine disease",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DBT",
+    "Id": "ID:1629",
+    "Score": 0.0194823113777757,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:248600",
+            "Condition": "maple syrup urine disease",
+            "Hp": "0001254",
+            "Score": 0.00148479509345634
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BCKDHA",
+    "Id": "ID:593",
+    "Score": 0.0194823113777757,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "maple syrup urine disease",
+            "Id": "OMIM:248600",
+            "Hp": "0001254",
+            "Score": 0.00148479509345634
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC25A15",
+    "Id": "ID:10166",
+    "Score": 0.0187399138310475,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001254",
+            "Score": 0.00074239754672817,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:238970",
+            "Condition": "hyperornithinemia hyperammonemia homocitrullinuria syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "OTC",
+    "Id": "ID:5009",
+    "Score": 0.0187399138310475,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00074239754672817,
+            "Hp": "0001254",
+            "Id": "OMIM:311250",
+            "Condition": "ornithine carbamoyltransferase deficiency",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CPT2",
+    "Id": "ID:1376",
+    "Score": 0.0187399138310475,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001254",
+            "Score": 0.000371198773364085,
+            "IdNote": "CLINVAR",
+            "Condition": "carnitine palmitoyltransferase ii deficiency infantile",
+            "Id": "OMIM:600649"
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "carnitine palmitoyltransferase ii deficiency lethal neonatal",
+            "Id": "OMIM:608836",
+            "Hp": "0001254",
+            "Score": 0.000371198773364085
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFS2",
+    "Id": "ID:4720",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "mitochondrial complex i deficiency",
+            "Id": "OMIM:252010",
+            "IdNote": "CLINVAR",
+            "Score": 0.000371198773364085,
+            "Hp": "0001254"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFA1",
+    "Id": "ID:4694",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001254",
+            "Score": 0.000371198773364085,
+            "IdNote": "CLINVAR",
+            "Condition": "mitochondrial complex i deficiency",
+            "Id": "OMIM:252010"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFAF5",
+    "Id": "ID:79133",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000371198773364085,
+            "Hp": "0001254",
+            "Condition": "mitochondrial complex i deficiency",
+            "Id": "OMIM:252010",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFA11",
+    "Id": "ID:126328",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.000371198773364085,
+            "Hp": "0001254",
+            "Id": "OMIM:252010",
+            "Condition": "mitochondrial complex i deficiency",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MMAB",
+    "Id": "ID:326625",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:251110",
+            "Condition": "methylmalonic aciduria cblb type",
+            "Hp": "0001254",
+            "Score": 0.000371198773364085
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ASS1",
+    "Id": "ID:445",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:215700",
+            "Condition": "citrullinemia type i",
+            "IdNote": "CLINVAR",
+            "Score": 0.000371198773364085,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFA13",
+    "Id": "ID:51079",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:252010",
+            "Condition": "mitochondrial complex i deficiency",
+            "IdNote": "CLINVAR",
+            "Score": 0.000371198773364085,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFS4",
+    "Id": "ID:4724",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "mitochondrial complex i deficiency",
+            "Id": "OMIM:252010",
+            "IdNote": "CLINVAR",
+            "Score": 0.000371198773364085,
+            "Hp": "0001254"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFV1",
+    "Id": "ID:4723",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:252010",
+            "Condition": "mitochondrial complex i deficiency",
+            "IdNote": "CLINVAR",
+            "Score": 0.000371198773364085,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TCN2",
+    "Id": "ID:6948",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "transcobalamin ii deficiency",
+            "Id": "OMIM:275350",
+            "IdNote": "CLINVAR",
+            "Score": 0.000371198773364085,
+            "Hp": "0001254"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FOXRED1",
+    "Id": "ID:55572",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "mitochondrial complex i deficiency",
+            "Id": "OMIM:252010",
+            "Hp": "0001254",
+            "Score": 0.000371198773364085
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MMAA",
+    "Id": "ID:166785",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001254",
+            "Score": 0.000371198773364085,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:251100",
+            "Condition": "methylmalonic aciduria cbla type"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFS1",
+    "Id": "ID:4719",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:252010",
+            "Condition": "mitochondrial complex i deficiency",
+            "IdNote": "CLINVAR",
+            "Score": 0.000371198773364085,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFS3",
+    "Id": "ID:4722",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001254",
+            "Score": 0.000371198773364085,
+            "IdNote": "CLINVAR",
+            "Condition": "mitochondrial complex i deficiency",
+            "Id": "OMIM:252010"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MRPS16",
+    "Id": "ID:51021",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001254",
+            "Score": 0.000371198773364085,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:610498",
+            "Condition": "combined oxidative phosphorylation deficiency 2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFAF4",
+    "Id": "ID:29078",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000371198773364085,
+            "Hp": "0001254",
+            "Condition": "mitochondrial complex i deficiency",
+            "Id": "OMIM:252010",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NFU1",
+    "Id": "ID:27247",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:605711",
+            "Condition": "multiple mitochondrial dysfunctions syndrome 1",
+            "Hp": "0001254",
+            "Score": 0.000371198773364085
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TIMMDC1",
+    "Id": "ID:51300",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:252010",
+            "Condition": "mitochondrial complex i deficiency",
+            "IdNote": "CLINVAR",
+            "Score": 0.000371198773364085,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFV2",
+    "Id": "ID:4729",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:252010",
+            "Condition": "mitochondrial complex i deficiency",
+            "Hp": "0001254",
+            "Score": 0.000371198773364085
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFAF1",
+    "Id": "ID:51103",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000371198773364085,
+            "Hp": "0001254",
+            "Condition": "mitochondrial complex i deficiency",
+            "Id": "OMIM:252010",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFAF3",
+    "Id": "ID:25915",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001254",
+            "Score": 0.000371198773364085,
+            "IdNote": "CLINVAR",
+            "Condition": "mitochondrial complex i deficiency",
+            "Id": "OMIM:252010"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFS6",
+    "Id": "ID:4726",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000371198773364085,
+            "Hp": "0001254",
+            "Condition": "mitochondrial complex i deficiency",
+            "Id": "OMIM:252010",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFAF2",
+    "Id": "ID:91942",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001254",
+            "Score": 0.000371198773364085,
+            "IdNote": "CLINVAR",
+            "Condition": "mitochondrial complex i deficiency",
+            "Id": "OMIM:252010"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RMND1",
+    "Id": "ID:55005",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001254",
+            "Score": 0.000371198773364085,
+            "IdNote": "CLINVAR",
+            "Condition": "combined oxidative phosphorylation deficiency 11",
+            "Id": "OMIM:614922"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC25A19",
+    "Id": "ID:60386",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001254",
+            "Score": 0.000371198773364085,
+            "IdNote": "CLINVAR",
+            "Condition": "striatal necrosis bilateral and progressive polyneuropathy",
+            "Id": "OMIM:613710"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CPT1A",
+    "Id": "ID:1374",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.000371198773364085,
+            "Hp": "0001254",
+            "Id": "OMIM:255120",
+            "Condition": "carnitine palmitoyltransferase i deficiency",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NUBPL",
+    "Id": "ID:80224",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:252010",
+            "Condition": "mitochondrial complex i deficiency",
+            "Hp": "0001254",
+            "Score": 0.000371198773364085
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFB9",
+    "Id": "ID:4715",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:252010",
+            "Condition": "mitochondrial complex i deficiency",
+            "IdNote": "CLINVAR",
+            "Score": 0.000371198773364085,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFB11",
+    "Id": "ID:54539",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001254",
+            "Score": 0.000371198773364085,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:252010",
+            "Condition": "mitochondrial complex i deficiency"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BOLA3",
+    "Id": "ID:388962",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000371198773364085,
+            "Hp": "0001254",
+            "Condition": "multiple mitochondrial dysfunctions syndrome 2",
+            "Id": "OMIM:614299",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFB3",
+    "Id": "ID:4709",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001254",
+            "Score": 0.000371198773364085,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:252010",
+            "Condition": "mitochondrial complex i deficiency"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM126B",
+    "Id": "ID:55863",
+    "Score": 0.0183687150576834,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.000371198773364085,
+            "Hp": "0001254",
+            "Id": "OMIM:252010",
+            "Condition": "mitochondrial complex i deficiency",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POLG2",
+    "Id": "ID:11232",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATP13A2",
+    "Id": "ID:23400",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HNF4A",
+    "Id": "ID:3172",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LYRM7",
+    "Id": "ID:90624",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MCCC1",
+    "Id": "ID:56922",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HADH",
+    "Id": "ID:3033",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACADVL",
+    "Id": "ID:37",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALDOB",
+    "Id": "ID:229",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MEN1",
+    "Id": "ID:4221",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BTD",
+    "Id": "ID:686",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC25A22",
+    "Id": "ID:79751",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GCH1",
+    "Id": "ID:2643",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GK",
+    "Id": "ID:2710",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NBAS",
+    "Id": "ID:51594",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POLG",
+    "Id": "ID:5428",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RYR1",
+    "Id": "ID:6261",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ABAT",
+    "Id": "ID:18",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CA5A",
+    "Id": "ID:763",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GABRB2",
+    "Id": "ID:2561",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HNF1A",
+    "Id": "ID:6927",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MCCC2",
+    "Id": "ID:64087",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HAMP",
+    "Id": "ID:57817",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACADSB",
+    "Id": "ID:36",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC19A2",
+    "Id": "ID:10560",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC25A20",
+    "Id": "ID:788",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NAGS",
+    "Id": "ID:162417",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC25A4",
+    "Id": "ID:291",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GYS2",
+    "Id": "ID:2998",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CPS1",
+    "Id": "ID:1373",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GALT",
+    "Id": "ID:2592",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NAA10",
+    "Id": "ID:8260",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC5A5",
+    "Id": "ID:6528",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AVP",
+    "Id": "ID:551",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRDX1",
+    "Id": "ID:5052",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MUT",
+    "Id": "ID:4594",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNJ11",
+    "Id": "ID:3767",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KRT18",
+    "Id": "ID:3875",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACADL",
+    "Id": "ID:33",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DLD",
+    "Id": "ID:1738",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KRT8",
+    "Id": "ID:3856",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ASPA",
+    "Id": "ID:443",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ABCC8",
+    "Id": "ID:6833",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "USP18",
+    "Id": "ID:11274",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0179975162843193,
+            "Hp": "0001254",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYP24A1",
+    "Id": "ID:1591",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RRM2B",
+    "Id": "ID:50484",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SIK1",
+    "Id": "ID:150094",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001254",
+            "Score": 0.0179975162843193,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001254",
+            "Condition": "Lethargy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC1A2",
+    "Id": "ID:6506",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "UCP2",
+    "Id": "ID:7351",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0179975162843193,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TH",
+    "Id": "ID:7054",
+    "Score": 0.0179975162843193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lethargy",
+            "Id": "HP:0001254",
+            "Hp": "0001254",
+            "Score": 0.0179975162843193
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "STX11",
+    "Id": "ID:8676",
+    "Score": 0.0100426140866502,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00502130704332508,
+            "Hp": "0002902",
+            "Id": "OMIM:267700",
+            "Condition": "hemophagocytic lymphohistiocytosis familial 1",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "hemophagocytic lymphohistiocytosis familial 2",
+            "Id": "OMIM:603553",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00502130704332508,
+            "Hp": "0002902"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "STXBP2",
+    "Id": "ID:6813",
+    "Score": 0.0100426140866502,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00502130704332508,
+            "Hp": "0002902",
+            "Id": "OMIM:267700",
+            "Condition": "hemophagocytic lymphohistiocytosis familial 1",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "hemophagocytic lymphohistiocytosis familial 2",
+            "Id": "OMIM:603553",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00502130704332508,
+            "Hp": "0002902"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "UNC13D",
+    "Id": "ID:201294",
+    "Score": 0.0100426140866502,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:267700",
+            "Condition": "hemophagocytic lymphohistiocytosis familial 1",
+            "Hp": "0002902",
+            "Score": 0.00502130704332508
+          },
+          {
+            "Score": 0.00502130704332508,
+            "Hp": "0002902",
+            "Id": "OMIM:603553",
+            "Condition": "hemophagocytic lymphohistiocytosis familial 2",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TSHR",
+    "Id": "ID:7253",
+    "Score": 0.00593918037382535,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "thyroid hypoplasia",
+            "Id": "ORPHANET:95720",
+            "IdNote": "ORPHANET",
+            "Score": 0.00593918037382535,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IKBKAP",
+    "Id": "ID:8518",
+    "Score": 0.00570603073105123,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "dysautonomia familial",
+            "Id": "OMIM:223900",
+            "Hp": "0002902",
+            "Score": 0.00570603073105123
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC26A4",
+    "Id": "ID:5172",
+    "Score": 0.00509072603470745,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "thyroid hypoplasia",
+            "Id": "ORPHANET:95720",
+            "Hp": "0001254",
+            "Score": 0.00509072603470745
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NKX2-1",
+    "Id": "ID:7080",
+    "Score": 0.00424227169558955,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.00424227169558955,
+            "Hp": "0001254",
+            "Id": "ORPHANET:95720",
+            "Condition": "thyroid hypoplasia",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NKX2-5",
+    "Id": "ID:1482",
+    "Score": 0.00424227169558955,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "thyroid hypoplasia",
+            "Id": "ORPHANET:95720",
+            "IdNote": "ORPHANET",
+            "Score": 0.00424227169558955,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FOXE1",
+    "Id": "ID:2304",
+    "Score": 0.00424227169558955,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "thyroid hypoplasia",
+            "Id": "ORPHANET:95720",
+            "IdNote": "ORPHANET",
+            "Score": 0.00424227169558955,
+            "Hp": "0001254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MTR",
+    "Id": "ID:4548",
+    "Score": 0.00237567214953015,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "methylmalonic aciduria and homocystinuria cblc type",
+            "Id": "OMIM:277400",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00118783607476507,
+            "Hp": "0001254"
+          },
+          {
+            "Hp": "0001254",
+            "Score": 0.00118783607476507,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "methylmalonic aciduria and homocystinuria cblf type",
+            "Id": "OMIM:277380"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GNAS",
+    "Id": "ID:2778",
+    "Score": 0.00158500853640312,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "cushing syndrome",
+            "Id": "OMIM:219080",
+            "Hp": "0002900",
+            "Score": 0.00158500853640312
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LDHA",
+    "Id": "ID:3939",
+    "Score": 0.00104610563402606,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "glycogen storage disease xi",
+            "Id": "OMIM:612933",
+            "Hp": "0002900",
+            "Score": 0.00104610563402606
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC6A9",
+    "Id": "ID:6536",
+    "Score": 0.000371198773364085,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001254",
+            "Score": 0.000371198773364085,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:617301",
+            "Condition": "glycine encephalopathy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TLR5",
+    "Id": "ID:7100",
+    "Score": 0.000356626920690702,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "legionellosis",
+            "Id": "OMIM:608556",
+            "IdNote": "CLINVAR",
+            "Score": 0.000356626920690702,
+            "Hp": "0002902"
+          }
+        ]
+      }
+    ]
+  }
+]

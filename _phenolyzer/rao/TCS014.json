@@ -1,0 +1,2657 @@
+[
+  {
+    "Name": "KRAS",
+    "Id": "ID:3845",
+    "Score": 1,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "noonan syndrome 1",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642",
+            "Score": 0.0039150256764671,
+            "Id": "OMIM:163950"
+          },
+          {
+            "Condition": "noonan syndrome 3",
+            "Id": "OMIM:609942",
+            "Score": 0.0039150256764671,
+            "Hp": "0001642",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:609942",
+            "Score": 0.0039150256764671,
+            "Condition": "noonan syndrome 3"
+          },
+          {
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610733",
+            "Score": 0.0039150256764671,
+            "Condition": "noonan syndrome 4"
+          },
+          {
+            "Score": 0.0039150256764671,
+            "Id": "OMIM:613224",
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "noonan syndrome 6"
+          },
+          {
+            "Condition": "noonan syndrome 7",
+            "Id": "OMIM:613706",
+            "Score": 0.0039150256764671,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642"
+          },
+          {
+            "Condition": "noonan syndrome 3",
+            "Id": "OMIM:609942",
+            "Score": 0.0250126640440954,
+            "Hp": "0012209",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0012209",
+            "Id": "OMIM:609942",
+            "Score": 0.0250126640440954,
+            "Condition": "noonan syndrome 3"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012209",
+            "Id": "HP:0012209",
+            "Score": 0.606367613190191,
+            "Condition": "Juvenile myelomonocytic leukemia"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Hp": "0001642",
+            "Id": "ORPHANET:3071",
+            "Score": 0.0268458903529173,
+            "Condition": "costello syndrome"
+          },
+          {
+            "Condition": "noonan syndrome",
+            "Id": "ORPHANET:648",
+            "Score": 0.0268458903529173,
+            "IdNote": "ORPHANET",
+            "Hp": "0001642"
+          },
+          {
+            "Condition": "juvenile myelomonocytic leukemia",
+            "Hp": "0012209",
+            "IdNote": "ORPHANET",
+            "Score": 0.171515410588082,
+            "Id": "ORPHANET:86834"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PTPN11",
+    "Id": "ID:5781",
+    "Score": 0.988181480930492,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "leopard syndrome 1",
+            "Id": "OMIM:151100",
+            "Score": 0.00237274283422248,
+            "Hp": "0001642",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Condition": "leopard syndrome 1",
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:151100",
+            "Score": 0.0126546284491866
+          },
+          {
+            "Condition": "noonan syndrome 1",
+            "IdNote": "CLINVAR",
+            "Hp": "0001642",
+            "Id": "OMIM:163950",
+            "Score": 0.0039150256764671
+          },
+          {
+            "Condition": "noonan syndrome 1",
+            "Id": "OMIM:163950",
+            "Score": 0.0039150256764671,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642"
+          },
+          {
+            "Score": 0.0039150256764671,
+            "Id": "OMIM:609942",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642",
+            "Condition": "noonan syndrome 3"
+          },
+          {
+            "Condition": "noonan syndrome 4",
+            "Score": 0.0039150256764671,
+            "Id": "OMIM:610733",
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.0039150256764671,
+            "Id": "OMIM:613224",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642",
+            "Condition": "noonan syndrome 6"
+          },
+          {
+            "Condition": "noonan syndrome 7",
+            "Score": 0.0039150256764671,
+            "Id": "OMIM:613706",
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "juvenile myelomonocytic leukemia",
+            "IdNote": "CLINVAR",
+            "Hp": "0012209",
+            "Id": "OMIM:607785",
+            "Score": 0.0250126640440954
+          },
+          {
+            "Condition": "noonan syndrome 3",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0012209",
+            "Score": 0.0250126640440954,
+            "Id": "OMIM:609942"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012209",
+            "Id": "HP:0012209",
+            "Score": 0.606367613190191,
+            "Condition": "Juvenile myelomonocytic leukemia"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0001642",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:648",
+            "Score": 0.0268458903529173,
+            "Condition": "noonan syndrome"
+          },
+          {
+            "Hp": "0012209",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:86834",
+            "Score": 0.171515410588082,
+            "Condition": "juvenile myelomonocytic leukemia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NF1",
+    "Id": "ID:4763",
+    "Score": 0.893548587558919,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Hp": "0001642",
+            "Score": 0.0223715752940977,
+            "Id": "ORPHANET:648",
+            "Condition": "noonan syndrome"
+          },
+          {
+            "Id": "ORPHANET:86834",
+            "Score": 0.142929508823402,
+            "IdNote": "ORPHANET",
+            "Hp": "0012209",
+            "Condition": "juvenile myelomonocytic leukemia"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642"
+          },
+          {
+            "Condition": "Juvenile myelomonocytic leukemia",
+            "Id": "HP:0012209",
+            "Score": 0.606367613190191,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012209"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:601321",
+            "Score": 0.00195751283823356,
+            "IdNote": "CLINVAR",
+            "Hp": "0001642",
+            "Condition": "neurofibromatosis noonan syndrome"
+          },
+          {
+            "Condition": "juvenile myelomonocytic leukemia",
+            "Id": "OMIM:607785",
+            "Score": 0.0250126640440954,
+            "Hp": "0012209",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CBL",
+    "Id": "ID:867",
+    "Score": 0.802895687822368,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0012209",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012209",
+            "Score": 0.606367613190191,
+            "Condition": "Juvenile myelomonocytic leukemia"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "juvenile myelomonocytic leukemia",
+            "Hp": "0012209",
+            "IdNote": "CLINVAR",
+            "Score": 0.0250126640440954,
+            "Id": "OMIM:607785"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0012209",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:86834",
+            "Score": 0.171515410588082,
+            "Condition": "juvenile myelomonocytic leukemia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ARHGAP26",
+    "Id": "ID:23092",
+    "Score": 0.631380277234286,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "juvenile myelomonocytic leukemia",
+            "Hp": "0012209",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:607785",
+            "Score": 0.0250126640440954
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Juvenile myelomonocytic leukemia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012209",
+            "Id": "HP:0012209",
+            "Score": 0.606367613190191
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MLLT11",
+    "Id": "ID:10962",
+    "Score": 0.631380277234286,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Juvenile myelomonocytic leukemia",
+            "Id": "HP:0012209",
+            "Score": 0.606367613190191,
+            "Hp": "0012209",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "juvenile myelomonocytic leukemia",
+            "Id": "OMIM:607785",
+            "Score": 0.0250126640440954,
+            "Hp": "0012209",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NRAS",
+    "Id": "ID:4893",
+    "Score": 0.339816319574564,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "noonan syndrome",
+            "IdNote": "ORPHANET",
+            "Hp": "0001642",
+            "Id": "ORPHANET:648",
+            "Score": 0.0268458903529173
+          },
+          {
+            "IdNote": "ORPHANET",
+            "Hp": "0012209",
+            "Score": 0.171515410588082,
+            "Id": "ORPHANET:86834",
+            "Condition": "juvenile myelomonocytic leukemia"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "noonan syndrome 1",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642",
+            "Score": 0.0039150256764671,
+            "Id": "OMIM:163950"
+          },
+          {
+            "Id": "OMIM:609942",
+            "Score": 0.0039150256764671,
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "noonan syndrome 3"
+          },
+          {
+            "Condition": "noonan syndrome 4",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642",
+            "Id": "OMIM:610733",
+            "Score": 0.0039150256764671
+          },
+          {
+            "Condition": "noonan syndrome 6",
+            "Hp": "0001642",
+            "IdNote": "CLINVAR",
+            "Score": 0.00195751283823356,
+            "Id": "OMIM:613224"
+          },
+          {
+            "Condition": "noonan syndrome 6",
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:613224",
+            "Score": 0.0039150256764671
+          },
+          {
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:613706",
+            "Score": 0.0039150256764671,
+            "Condition": "noonan syndrome 7"
+          },
+          {
+            "Condition": "noonan syndrome 3",
+            "Score": 0.0250126640440954,
+            "Id": "OMIM:609942",
+            "Hp": "0012209",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ELN",
+    "Id": "ID:2006",
+    "Score": 0.267297954356713,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642",
+            "Score": 0.0711822850266745,
+            "Id": "OMIM:194050",
+            "Condition": "williams beuren syndrome"
+          },
+          {
+            "Hp": "0001642",
+            "IdNote": "CLINVAR",
+            "Score": 0.0133466784425015,
+            "Id": "OMIM:194050",
+            "Condition": "williams syndrome"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "supravalvular aortic stenosis",
+            "Id": "ORPHANET:3193",
+            "Score": 0.0268458903529173,
+            "Hp": "0001642",
+            "IdNote": "ORPHANET"
+          },
+          {
+            "Score": 0.061013387165721,
+            "Id": "ORPHANET:904",
+            "Hp": "0001642",
+            "IdNote": "ORPHANET",
+            "Condition": "williams syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BRAF",
+    "Id": "ID:673",
+    "Score": 0.191302391009188,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "noonan syndrome",
+            "IdNote": "ORPHANET",
+            "Hp": "0001642",
+            "Score": 0.0313202054117368,
+            "Id": "ORPHANET:648"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "cardiofaciocutaneous syndrome 1",
+            "Score": 0.00195751283823356,
+            "Id": "OMIM:115150",
+            "Hp": "0001642",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Condition": "leopard syndrome 1",
+            "Id": "OMIM:151100",
+            "Score": 0.0126546284491866,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642"
+          },
+          {
+            "Score": 0.0039150256764671,
+            "Id": "OMIM:163950",
+            "Hp": "0001642",
+            "IdNote": "CLINVAR",
+            "Condition": "noonan syndrome 1"
+          },
+          {
+            "Condition": "noonan syndrome 1",
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:163950",
+            "Score": 0.0039150256764671
+          },
+          {
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:609942",
+            "Score": 0.0039150256764671,
+            "Condition": "noonan syndrome 3"
+          },
+          {
+            "Condition": "noonan syndrome 4",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642",
+            "Id": "OMIM:610733",
+            "Score": 0.0039150256764671
+          },
+          {
+            "Condition": "noonan syndrome 6",
+            "Score": 0.0039150256764671,
+            "Id": "OMIM:613224",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642"
+          },
+          {
+            "Score": 0.00195751283823356,
+            "Id": "OMIM:613706",
+            "IdNote": "CLINVAR",
+            "Hp": "0001642",
+            "Condition": "noonan syndrome 7"
+          },
+          {
+            "Id": "OMIM:613706",
+            "Score": 0.0039150256764671,
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "noonan syndrome 7"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0012209",
+            "Id": "OMIM:609942",
+            "Score": 0.0250126640440954,
+            "Condition": "noonan syndrome 3"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAF1",
+    "Id": "ID:5894",
+    "Score": 0.183472339656254,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Hp": "0001642",
+            "Id": "ORPHANET:648",
+            "Score": 0.0313202054117368,
+            "Condition": "noonan syndrome"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.0126546284491866,
+            "Id": "OMIM:151100",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642",
+            "Condition": "leopard syndrome 1"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642",
+            "Score": 0.0039150256764671,
+            "Id": "OMIM:163950",
+            "Condition": "noonan syndrome 1"
+          },
+          {
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:609942",
+            "Score": 0.0039150256764671,
+            "Condition": "noonan syndrome 3"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642",
+            "Score": 0.0039150256764671,
+            "Id": "OMIM:610733",
+            "Condition": "noonan syndrome 4"
+          },
+          {
+            "Condition": "noonan syndrome 6",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642",
+            "Id": "OMIM:613224",
+            "Score": 0.0039150256764671
+          },
+          {
+            "Score": 0.0039150256764671,
+            "Id": "OMIM:613706",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642",
+            "Condition": "noonan syndrome 7"
+          },
+          {
+            "Hp": "0012209",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0250126640440954,
+            "Id": "OMIM:609942",
+            "Condition": "noonan syndrome 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MLXIPL",
+    "Id": "ID:51085",
+    "Score": 0.169269778977122,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "williams syndrome",
+            "Hp": "0001642",
+            "IdNote": "ORPHANET",
+            "Score": 0.061013387165721,
+            "Id": "ORPHANET:904"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "williams syndrome",
+            "IdNote": "CLINVAR",
+            "Hp": "0001642",
+            "Score": 0.0133466784425015,
+            "Id": "OMIM:194050"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SOS1",
+    "Id": "ID:6654",
+    "Score": 0.168300908986481,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:163950",
+            "Score": 0.0039150256764671,
+            "Condition": "noonan syndrome 1"
+          },
+          {
+            "Condition": "noonan syndrome 3",
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:609942",
+            "Score": 0.0039150256764671
+          },
+          {
+            "Condition": "noonan syndrome 4",
+            "Id": "OMIM:610733",
+            "Score": 0.00195751283823356,
+            "Hp": "0001642",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Condition": "noonan syndrome 4",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642",
+            "Score": 0.0039150256764671,
+            "Id": "OMIM:610733"
+          },
+          {
+            "Condition": "noonan syndrome 6",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642",
+            "Id": "OMIM:613224",
+            "Score": 0.0039150256764671
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642",
+            "Score": 0.0039150256764671,
+            "Id": "OMIM:613706",
+            "Condition": "noonan syndrome 7"
+          },
+          {
+            "Condition": "noonan syndrome 3",
+            "Score": 0.0250126640440954,
+            "Id": "OMIM:609942",
+            "Hp": "0012209",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Pulmonic stenosis"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "noonan syndrome",
+            "Score": 0.0268458903529173,
+            "Id": "ORPHANET:648",
+            "IdNote": "ORPHANET",
+            "Hp": "0001642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LIMK1",
+    "Id": "ID:3984",
+    "Score": 0.166091998395574,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "williams syndrome",
+            "Score": 0.0711822850266745,
+            "Id": "ORPHANET:904",
+            "IdNote": "ORPHANET",
+            "Hp": "0001642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RFC2",
+    "Id": "ID:5982",
+    "Score": 0.155923100534621,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.061013387165721,
+            "Id": "ORPHANET:904",
+            "IdNote": "ORPHANET",
+            "Hp": "0001642",
+            "Condition": "williams syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHD7",
+    "Id": "ID:55636",
+    "Score": 0.148601494074733,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0313202054117368,
+            "Id": "OMIM:214800",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642",
+            "Condition": "charge syndrome"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0223715752940977,
+            "Id": "ORPHANET:138",
+            "IdNote": "ORPHANET",
+            "Hp": "0001642",
+            "Condition": "charge syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BAZ1B",
+    "Id": "ID:9031",
+    "Score": 0.145754202673666,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Pulmonic stenosis"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "williams syndrome",
+            "Id": "ORPHANET:904",
+            "Score": 0.0508444893047675,
+            "Hp": "0001642",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CLIP2",
+    "Id": "ID:7461",
+    "Score": 0.145754202673666,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001642",
+            "IdNote": "ORPHANET",
+            "Score": 0.0508444893047675,
+            "Id": "ORPHANET:904",
+            "Condition": "williams syndrome"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GTF2I",
+    "Id": "ID:2969",
+    "Score": 0.145754202673666,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "williams syndrome",
+            "Id": "ORPHANET:904",
+            "Score": 0.0508444893047675,
+            "IdNote": "ORPHANET",
+            "Hp": "0001642"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GTF2IRD1",
+    "Id": "ID:9569",
+    "Score": 0.145754202673666,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0508444893047675,
+            "Id": "ORPHANET:904",
+            "Hp": "0001642",
+            "IdNote": "ORPHANET",
+            "Condition": "williams syndrome"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TBL2",
+    "Id": "ID:26608",
+    "Score": 0.145754202673666,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "williams syndrome",
+            "Id": "ORPHANET:904",
+            "Score": 0.0508444893047675,
+            "Hp": "0001642",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAP2K1",
+    "Id": "ID:5604",
+    "Score": 0.143412531471797,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "noonan syndrome 1",
+            "Score": 0.0039150256764671,
+            "Id": "OMIM:163950",
+            "Hp": "0001642",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Score": 0.0039150256764671,
+            "Id": "OMIM:163950",
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "noonan syndrome 1"
+          },
+          {
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:609942",
+            "Score": 0.0039150256764671,
+            "Condition": "noonan syndrome 3"
+          },
+          {
+            "Id": "OMIM:610733",
+            "Score": 0.0039150256764671,
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "noonan syndrome 4"
+          },
+          {
+            "Score": 0.0039150256764671,
+            "Id": "OMIM:613224",
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "noonan syndrome 6"
+          },
+          {
+            "Id": "OMIM:613706",
+            "Score": 0.0039150256764671,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642",
+            "Condition": "noonan syndrome 7"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0012209",
+            "Id": "OMIM:609942",
+            "Score": 0.0250126640440954,
+            "Condition": "noonan syndrome 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZEB2",
+    "Id": "ID:9839",
+    "Score": 0.132102457295337,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "mowat wilson syndrome",
+            "Hp": "0001642",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:235730",
+            "Score": 0.00587253851470065
+          },
+          {
+            "Score": 0.0313202054117368,
+            "Id": "OMIM:235730",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642",
+            "Condition": "mowat wilson syndrome"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KANSL1",
+    "Id": "ID:284058",
+    "Score": 0.130144944457104,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001642",
+            "IdNote": "CLINVAR",
+            "Score": 0.0039150256764671,
+            "Id": "OMIM:610443",
+            "Condition": "koolen de vries syndrome"
+          },
+          {
+            "Condition": "koolen de vries syndrome",
+            "Score": 0.0313202054117368,
+            "Id": "OMIM:610443",
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HRAS",
+    "Id": "ID:3265",
+    "Score": 0.127628142236518,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "costello syndrome",
+            "Id": "ORPHANET:3071",
+            "Score": 0.0268458903529173,
+            "Hp": "0001642",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "costello syndrome",
+            "IdNote": "CLINVAR",
+            "Hp": "0001642",
+            "Score": 0.00587253851470065,
+            "Id": "OMIM:218040"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GPC4",
+    "Id": "ID:2239",
+    "Score": 0.126229918780636,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "Condition": "Pulmonic stenosis"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:312870",
+            "Score": 0.0313202054117368,
+            "Condition": "simpson golabi behmel syndrome type 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GPC3",
+    "Id": "ID:2719",
+    "Score": 0.126229918780636,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "simpson golabi behmel syndrome type 1",
+            "Id": "OMIM:312870",
+            "Score": 0.0313202054117368,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RIT1",
+    "Id": "ID:6016",
+    "Score": 0.12371311656005,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001642",
+            "IdNote": "ORPHANET",
+            "Score": 0.0268458903529173,
+            "Id": "ORPHANET:648",
+            "Condition": "noonan syndrome"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "noonan syndrome 8",
+            "IdNote": "CLINVAR",
+            "Hp": "0001642",
+            "Score": 0.00195751283823356,
+            "Id": "OMIM:615355"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SEMA3E",
+    "Id": "ID:9723",
+    "Score": 0.121755603721817,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "Condition": "Pulmonic stenosis"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "charge syndrome",
+            "Id": "ORPHANET:138",
+            "Score": 0.0268458903529173,
+            "Hp": "0001642",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ARHGAP31",
+    "Id": "ID:57514",
+    "Score": 0.121755603721817,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "adams oliver syndrome",
+            "Id": "ORPHANET:974",
+            "Score": 0.0268458903529173,
+            "IdNote": "ORPHANET",
+            "Hp": "0001642"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAB23",
+    "Id": "ID:51715",
+    "Score": 0.119238801501231,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "carpenter syndrome 1",
+            "IdNote": "CLINVAR",
+            "Hp": "0001642",
+            "Score": 0.00195751283823356,
+            "Id": "OMIM:201000"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "Condition": "Pulmonic stenosis"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0223715752940977,
+            "Id": "ORPHANET:65759",
+            "Hp": "0001642",
+            "IdNote": "ORPHANET",
+            "Condition": "carpenter syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FKTN",
+    "Id": "ID:2218",
+    "Score": 0.0988247390453665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.0039150256764671,
+            "Id": "OMIM:253800",
+            "IdNote": "CLINVAR",
+            "Hp": "0001642",
+            "Condition": "fukuyama congenital muscular dystrophy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAD21",
+    "Id": "ID:5885",
+    "Score": 0.0968672262071329,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "mungan syndrome",
+            "Id": "OMIM:611376",
+            "Score": 0.00195751283823356,
+            "IdNote": "CLINVAR",
+            "Hp": "0001642"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NRXN1",
+    "Id": "ID:9378",
+    "Score": 0.0968672262071329,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:614325",
+            "Score": 0.00195751283823356,
+            "IdNote": "CLINVAR",
+            "Hp": "0001642",
+            "Condition": "pitt hopkins like syndrome 2"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NEK9",
+    "Id": "ID:91754",
+    "Score": 0.0968672262071329,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "arthrogryposis perthes disease and upward gaze palsy",
+            "Score": 0.00195751283823356,
+            "Id": "OMIM:614262",
+            "IdNote": "CLINVAR",
+            "Hp": "0001642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "STRA6",
+    "Id": "ID:64220",
+    "Score": 0.0968672262071329,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "microphthalmia syndromic 9",
+            "Id": "OMIM:601186",
+            "Score": 0.00195751283823356,
+            "IdNote": "CLINVAR",
+            "Hp": "0001642"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LTBP2",
+    "Id": "ID:4053",
+    "Score": 0.0968672262071329,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:614819",
+            "Score": 0.00195751283823356,
+            "Hp": "0001642",
+            "IdNote": "CLINVAR",
+            "Condition": "weill marchesani syndrome 3"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SMAD3",
+    "Id": "ID:4088",
+    "Score": 0.0960960847860107,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "loeys dietz syndrome type 3",
+            "Score": 0.00118637141711124,
+            "Id": "OMIM:613795",
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TTC37",
+    "Id": "ID:9652",
+    "Score": 0.0952063062231772,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "trichohepatoenteric syndrome 1",
+            "Hp": "0001642",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:222470",
+            "Score": 0.000296592854277811
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ANKS6",
+    "Id": "ID:203286",
+    "Score": 0.0952063062231772,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "Condition": "Pulmonic stenosis"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "nephronophthisis 16",
+            "IdNote": "CLINVAR",
+            "Hp": "0001642",
+            "Id": "OMIM:615382",
+            "Score": 0.000296592854277811
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GATA4",
+    "Id": "ID:2626",
+    "Score": 0.0952063062231772,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0001642",
+            "Score": 0.000296592854277811,
+            "Id": "OMIM:614429",
+            "Condition": "ventricular septal defect 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ADK",
+    "Id": "ID:132",
+    "Score": 0.0952063062231772,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "hypermethioninemia due to adenosine kinase deficiency",
+            "Hp": "0001642",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:614300",
+            "Score": 0.000296592854277811
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAP2K2",
+    "Id": "ID:5605",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TAB2",
+    "Id": "ID:23118",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "G6PC3",
+    "Id": "ID:92579",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FBN1",
+    "Id": "ID:2200",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALDH18A1",
+    "Id": "ID:5832",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PPP1CB",
+    "Id": "ID:5500",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SOS2",
+    "Id": "ID:6655",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZNF469",
+    "Id": "ID:84627",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "B3GALT6",
+    "Id": "ID:126792",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DSG1",
+    "Id": "ID:1828",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZIC3",
+    "Id": "ID:7547",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BCOR",
+    "Id": "ID:54880",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BMP2",
+    "Id": "ID:650",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SHOC2",
+    "Id": "ID:8036",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FBLN5",
+    "Id": "ID:10516",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MGP",
+    "Id": "ID:4256",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SMC3",
+    "Id": "ID:9126",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ADAMTS10",
+    "Id": "ID:81794",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAP3K7",
+    "Id": "ID:6885",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RPL27",
+    "Id": "ID:6155",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KDM6A",
+    "Id": "ID:7403",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CCDC22",
+    "Id": "ID:28952",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GATA6",
+    "Id": "ID:2627",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EFEMP2",
+    "Id": "ID:30008",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RNF135",
+    "Id": "ID:84282",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHST3",
+    "Id": "ID:9469",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ENPP1",
+    "Id": "ID:5167",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NEK8",
+    "Id": "ID:284086",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "B4GALT7",
+    "Id": "ID:11285",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WNT4",
+    "Id": "ID:54361",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYP24A1",
+    "Id": "ID:1591",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GDF1",
+    "Id": "ID:2657",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRDM5",
+    "Id": "ID:11107",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NOTCH1",
+    "Id": "ID:4851",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993,
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LZTR1",
+    "Id": "ID:8216",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IGFBP7",
+    "Id": "ID:3490",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0949097133688993,
+            "Id": "HP:0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001642",
+            "Condition": "Pulmonic stenosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NOTCH2",
+    "Id": "ID:4853",
+    "Score": 0.0949097133688993,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pulmonic stenosis",
+            "Hp": "0001642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001642",
+            "Score": 0.0949097133688993
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EIF4H",
+    "Id": "ID:7458",
+    "Score": 0.061013387165721,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "williams syndrome",
+            "Score": 0.061013387165721,
+            "Id": "ORPHANET:904",
+            "Hp": "0001642",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FKBP6",
+    "Id": "ID:8468",
+    "Score": 0.061013387165721,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Hp": "0001642",
+            "Id": "ORPHANET:904",
+            "Score": 0.061013387165721,
+            "Condition": "williams syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LAT2",
+    "Id": "ID:7462",
+    "Score": 0.061013387165721,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.061013387165721,
+            "Id": "ORPHANET:904",
+            "IdNote": "ORPHANET",
+            "Hp": "0001642",
+            "Condition": "williams syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "B3GALTL",
+    "Id": "ID:145173",
+    "Score": 0.0576068063823017,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "peters plus syndrome",
+            "Id": "ORPHANET:709",
+            "Score": 0.0223715752940977,
+            "IdNote": "ORPHANET",
+            "Hp": "0001642"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "peters plus syndrome",
+            "IdNote": "CLINVAR",
+            "Hp": "0001642",
+            "Id": "OMIM:261540",
+            "Score": 0.0039150256764671
+          },
+          {
+            "Condition": "peters plus syndrome",
+            "Score": 0.0313202054117368,
+            "Id": "OMIM:261540",
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WBSCR27",
+    "Id": "ID:155368",
+    "Score": 0.0508444893047675,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "williams syndrome",
+            "Score": 0.0508444893047675,
+            "Id": "ORPHANET:904",
+            "Hp": "0001642",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BCL7B",
+    "Id": "ID:9275",
+    "Score": 0.0508444893047675,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Hp": "0001642",
+            "Id": "ORPHANET:904",
+            "Score": 0.0508444893047675,
+            "Condition": "williams syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WBSCR16",
+    "Id": "ID:81554",
+    "Score": 0.040675591443814,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "williams syndrome",
+            "Hp": "0001642",
+            "IdNote": "ORPHANET",
+            "Score": 0.040675591443814,
+            "Id": "ORPHANET:904"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DNAJC30",
+    "Id": "ID:84277",
+    "Score": 0.040675591443814,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Hp": "0001642",
+            "Score": 0.040675591443814,
+            "Id": "ORPHANET:904",
+            "Condition": "williams syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WBSCR22",
+    "Id": "ID:114049",
+    "Score": 0.040675591443814,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "williams syndrome",
+            "Hp": "0001642",
+            "IdNote": "ORPHANET",
+            "Score": 0.040675591443814,
+            "Id": "ORPHANET:904"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DOCK6",
+    "Id": "ID:57572",
+    "Score": 0.0268458903529173,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Hp": "0001642",
+            "Score": 0.0268458903529173,
+            "Id": "ORPHANET:974",
+            "Condition": "adams oliver syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KAT6B",
+    "Id": "ID:23522",
+    "Score": 0.0268458903529173,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Hp": "0001642",
+            "Id": "ORPHANET:648",
+            "Score": 0.0268458903529173,
+            "Condition": "noonan syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RBPJ",
+    "Id": "ID:3516",
+    "Score": 0.0268458903529173,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "adams oliver syndrome",
+            "Id": "ORPHANET:974",
+            "Score": 0.0268458903529173,
+            "Hp": "0001642",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MEGF8",
+    "Id": "ID:1954",
+    "Score": 0.0223715752940977,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:65759",
+            "Score": 0.0223715752940977,
+            "IdNote": "ORPHANET",
+            "Hp": "0001642",
+            "Condition": "carpenter syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EOGT",
+    "Id": "ID:285203",
+    "Score": 0.0223715752940977,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Hp": "0001642",
+            "Id": "ORPHANET:974",
+            "Score": 0.0223715752940977,
+            "Condition": "adams oliver syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGFBR1",
+    "Id": "ID:7046",
+    "Score": 0.00118637141711124,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642",
+            "Score": 0.00118637141711124,
+            "Id": "OMIM:613795",
+            "Condition": "loeys dietz syndrome type 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGFB2",
+    "Id": "ID:7042",
+    "Score": 0.00118637141711124,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001642",
+            "Id": "OMIM:613795",
+            "Score": 0.00118637141711124,
+            "Condition": "loeys dietz syndrome type 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGFBR2",
+    "Id": "ID:7048",
+    "Score": 0.00118637141711124,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "loeys dietz syndrome type 3",
+            "Id": "OMIM:613795",
+            "Score": 0.00118637141711124,
+            "Hp": "0001642",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  }
+]

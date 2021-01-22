@@ -1,0 +1,3864 @@
+[
+  {
+    "Name": "CDH3",
+    "Id": "ID:1001",
+    "Score": 1,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Macular degeneration",
+            "Score": 0.00812395020308665,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000608",
+            "Hp": "0000608"
+          },
+          {
+            "Hp": "0007754",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007754",
+            "Score": 0.760943335689116,
+            "Condition": "Macular dystrophy"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0007754",
+            "Id": "OMIM:225280",
+            "IdNote": "CLINVAR",
+            "Score": 0.015694456298588,
+            "Condition": "eem syndrome"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.215238257809207,
+            "Condition": "eem syndrome",
+            "Hp": "0007754",
+            "Id": "ORPHANET:1897",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ELOVL4",
+    "Id": "ID:6785",
+    "Score": 0.784761742190791,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.00812395020308665,
+            "Condition": "Macular atrophy",
+            "Hp": "0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007401"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007754",
+            "Hp": "0007754",
+            "Condition": "Macular dystrophy",
+            "Score": 0.760943335689116
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "stargardt disease 3",
+            "Score": 0.015694456298588,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:600110",
+            "Hp": "0007754"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PROM1",
+    "Id": "ID:8842",
+    "Score": 0.769621248108857,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131"
+          },
+          {
+            "Score": 0.000167556472938662,
+            "Condition": "retinitis pigmentosa 41",
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Condition": "retinitis pigmentosa 41",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:603786",
+            "Score": 0.000167556472938662,
+            "Condition": "stargardt disease 4"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0000608",
+            "Id": "HP:0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.00812395020308665,
+            "Condition": "Macular degeneration"
+          },
+          {
+            "Hp": "0007754",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007754",
+            "Score": 0.760943335689116,
+            "Condition": "Macular dystrophy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BEST1",
+    "Id": "ID:7439",
+    "Score": 0.76928613516298,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy"
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36"
+          },
+          {
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Cystoid macular degeneration",
+            "Score": 0.00812395020308665,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0008028",
+            "Hp": "0000608"
+          },
+          {
+            "Hp": "0007754",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007754",
+            "Score": 0.760943335689116,
+            "Condition": "Macular dystrophy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRPH2",
+    "Id": "ID:5961",
+    "Score": 0.76928613516298,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy",
+            "Hp": "0000608",
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131"
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007401",
+            "Score": 0.00812395020308665,
+            "Condition": "Macular atrophy"
+          },
+          {
+            "Id": "HP:0007754",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007754",
+            "Condition": "Macular dystrophy",
+            "Score": 0.760943335689116
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MFSD8",
+    "Id": "ID:256471",
+    "Score": 0.761390152950286,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Macular dystrophy",
+            "Score": 0.760943335689116,
+            "Id": "HP:0007754",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007754"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "ceroid lipofuscinosis neuronal 1",
+            "Score": 0.000223408630584883,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:256730",
+            "Hp": "0000608"
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:204200",
+            "Score": 0.000223408630584883,
+            "Condition": "ceroid lipofuscinosis neuronal 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IMPG2",
+    "Id": "ID:50939",
+    "Score": 0.761162184959893,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007754",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007754",
+            "Condition": "Macular dystrophy",
+            "Score": 0.760943335689116
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy"
+          },
+          {
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Hp": "0000608"
+          },
+          {
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNL1",
+    "Id": "ID:4567",
+    "Score": 0.760943335689116,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.760943335689116,
+            "Condition": "Macular dystrophy",
+            "Hp": "0007754",
+            "Id": "HP:0007754",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNE",
+    "Id": "ID:8923199",
+    "Score": 0.760943335689116,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.760943335689116,
+            "Condition": "Macular dystrophy",
+            "Hp": "0007754",
+            "Id": "HP:0007754",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SYCE1",
+    "Id": "ID:93426",
+    "Score": 0.760943335689116,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007754",
+            "Hp": "0007754",
+            "Condition": "Macular dystrophy",
+            "Score": 0.760943335689116
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNK",
+    "Id": "ID:8923190",
+    "Score": 0.760943335689116,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.760943335689116,
+            "Condition": "Macular dystrophy",
+            "Hp": "0007754",
+            "Id": "HP:0007754",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHST6",
+    "Id": "ID:4166",
+    "Score": 0.760943335689116,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.760943335689116,
+            "Condition": "Macular dystrophy",
+            "Hp": "0007754",
+            "Id": "HP:0007754",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TIMP3",
+    "Id": "ID:7078",
+    "Score": 0.760943335689116,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Macular dystrophy",
+            "Score": 0.760943335689116,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007754",
+            "Hp": "0007754"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RP1L1",
+    "Id": "ID:94137",
+    "Score": 0.760943335689116,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007754",
+            "Hp": "0007754",
+            "Condition": "Macular dystrophy",
+            "Score": 0.760943335689116
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BBS5",
+    "Id": "ID:129880",
+    "Score": 0.760943335689116,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007754",
+            "Hp": "0007754",
+            "Condition": "Macular dystrophy",
+            "Score": 0.760943335689116
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IMPG1",
+    "Id": "ID:3617",
+    "Score": 0.760943335689116,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.760943335689116,
+            "Condition": "Macular dystrophy",
+            "Hp": "0007754",
+            "Id": "HP:0007754",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PEX1",
+    "Id": "ID:5189",
+    "Score": 0.760943335689116,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007754",
+            "Id": "HP:0007754",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.760943335689116,
+            "Condition": "Macular dystrophy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYO5A",
+    "Id": "ID:4644",
+    "Score": 0.760943335689116,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Macular dystrophy",
+            "Score": 0.760943335689116,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007754",
+            "Hp": "0007754"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SH3BP2",
+    "Id": "ID:6452",
+    "Score": 0.0127197848894043,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.00812395020308665,
+            "Condition": "Macular scar",
+            "Hp": "0000608",
+            "Id": "HP:0200056",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "cherubism",
+            "Score": 0.0026809035670186,
+            "Id": "OMIM:118400",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:184",
+            "Hp": "0000608",
+            "Condition": "cherubism",
+            "Score": 0.001914931119299
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ABCC6",
+    "Id": "ID:368",
+    "Score": 0.0120974322756321,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.00229791734315881,
+            "Condition": "pseudoxanthoma elasticum",
+            "Hp": "0000608",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:758"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:264800",
+            "IdNote": "CLINVAR",
+            "Score": 0.000335112945877325,
+            "Condition": "pseudoxanthoma elasticum"
+          },
+          {
+            "Condition": "pseudoxanthoma elasticum",
+            "Score": 0.0013404517835093,
+            "Id": "OMIM:264800",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.00812395020308665,
+            "Condition": "Macular degeneration",
+            "Hp": "0000608",
+            "Id": "HP:0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SPG11",
+    "Id": "ID:80208",
+    "Score": 0.0109724102430439,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000608",
+            "Condition": "Macular degeneration",
+            "Score": 0.00812395020308665
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:604360",
+            "Score": 0.000167556472938662,
+            "Condition": "spastic paraplegia 11 autosomal recessive"
+          },
+          {
+            "Score": 0.0026809035670186,
+            "Condition": "spastic paraplegia 11 autosomal recessive",
+            "Hp": "0000608",
+            "Id": "OMIM:604360",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RLBP1",
+    "Id": "ID:6017",
+    "Score": 0.0108082732899611,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Macular degeneration",
+            "Score": 0.00812395020308665,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000608",
+            "Hp": "0000608"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.000167556472938662,
+            "Condition": "bothnia retinal dystrophy",
+            "Hp": "0000608",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:607475"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy",
+            "Hp": "0000608",
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36",
+            "Hp": "0000608",
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37"
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 0.00229791734315881,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:85128",
+            "Hp": "0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PAX2",
+    "Id": "ID:5076",
+    "Score": 0.00887106348069196,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:120330",
+            "Hp": "0000608",
+            "Condition": "papillorenal syndrome",
+            "Score": 0.000406197510154332
+          },
+          {
+            "Id": "OMIM:120330",
+            "IdNote": "CLINVAR",
+            "Hp": "0000608",
+            "Condition": "renal coloboma syndrome",
+            "Score": 5.07746887692917E-05
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000608",
+            "Hp": "0000608",
+            "Condition": "Macular degeneration",
+            "Score": 0.00812395020308665
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0000608",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:1475",
+            "Score": 0.000290141078681666,
+            "Condition": "renal coloboma syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PPT1",
+    "Id": "ID:5538",
+    "Score": 0.00873832393719509,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000608",
+            "Condition": "Macular degeneration",
+            "Score": 0.00812395020308665
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:256730",
+            "IdNote": "CLINVAR",
+            "Score": 0.000167556472938662,
+            "Condition": "ceroid lipofuscinosis neuronal 1"
+          },
+          {
+            "Score": 0.000223408630584883,
+            "Condition": "ceroid lipofuscinosis neuronal 1",
+            "Hp": "0000608",
+            "Id": "OMIM:256730",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:204200",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000223408630584883,
+            "Condition": "ceroid lipofuscinosis neuronal 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CLN3",
+    "Id": "ID:1201",
+    "Score": 0.00857076746425642,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Macular degeneration",
+            "Score": 0.00812395020308665,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000608",
+            "Hp": "0000608"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:256730",
+            "Hp": "0000608",
+            "Condition": "ceroid lipofuscinosis neuronal 1",
+            "Score": 0.000223408630584883
+          },
+          {
+            "Id": "OMIM:204200",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "ceroid lipofuscinosis neuronal 3",
+            "Score": 0.000223408630584883
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AIPL1",
+    "Id": "ID:23746",
+    "Score": 0.00851035594680234,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000608",
+            "Id": "HP:0007401",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.00812395020308665,
+            "Condition": "Macular atrophy"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "Id": "OMIM:604393",
+            "IdNote": "CLINVAR",
+            "Hp": "0000608",
+            "Condition": "leber congenital amaurosis 4",
+            "Score": 0.000167556472938662
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36"
+          },
+          {
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131",
+            "Hp": "0000608"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41",
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RPGR",
+    "Id": "ID:6103",
+    "Score": 0.00851035594680234,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.00812395020308665,
+            "Condition": "Macular scar",
+            "Hp": "0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0200056"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475"
+          },
+          {
+            "Score": 0.000167556472938662,
+            "Condition": "macular degeneration x linked atrophic",
+            "Hp": "0000608",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:300834"
+          },
+          {
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Hp": "0000608"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131"
+          },
+          {
+            "Condition": "retinitis pigmentosa 41",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NR2E3",
+    "Id": "ID:10002",
+    "Score": 0.00851035594680234,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0008028",
+            "Hp": "0000608",
+            "Condition": "Cystoid macular degeneration",
+            "Score": 0.00812395020308665
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy"
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36"
+          },
+          {
+            "Id": "OMIM:611131",
+            "IdNote": "CLINVAR",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 0.000167556472938662
+          },
+          {
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRCD",
+    "Id": "ID:768206",
+    "Score": 0.00851035594680234,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Hp": "0000608"
+          },
+          {
+            "Score": 0.000167556472938662,
+            "Condition": "retinitis pigmentosa 36",
+            "Hp": "0000608",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:610599"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41",
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Macular degeneration",
+            "Score": 0.00812395020308665,
+            "Id": "HP:0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SEMA4A",
+    "Id": "ID:64218",
+    "Score": 0.00851035594680234,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000608",
+            "Hp": "0000608",
+            "Condition": "Macular degeneration",
+            "Score": 0.00812395020308665
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy"
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:610283",
+            "Score": 0.000167556472938662,
+            "Condition": "cone rod dystrophy 10"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 41",
+            "Score": 5.47123176942569E-05
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ABCA4",
+    "Id": "ID:24",
+    "Score": 0.00851035594680234,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599"
+          },
+          {
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095"
+          },
+          {
+            "Condition": "stargardt disease 1",
+            "Score": 0.000167556472938662,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:248200",
+            "Hp": "0000608"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0000608",
+            "Id": "HP:0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.00812395020308665,
+            "Condition": "Macular degeneration"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "C8ORF37",
+    "Id": "ID:157657",
+    "Score": 0.00834279947386369,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000608",
+            "Id": "HP:0007401",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.00812395020308665,
+            "Condition": "Macular atrophy"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Hp": "0000608",
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Condition": "retinitis pigmentosa 41",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NRL",
+    "Id": "ID:4901",
+    "Score": 0.00834279947386369,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36",
+            "Hp": "0000608",
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37",
+            "Hp": "0000608",
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 41",
+            "Score": 5.47123176942569E-05
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0000608",
+            "Id": "HP:0007401",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.00812395020308665,
+            "Condition": "Macular atrophy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MERTK",
+    "Id": "ID:10461",
+    "Score": 0.00834279947386369,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007401",
+            "Hp": "0000608",
+            "Condition": "Macular atrophy",
+            "Score": 0.00812395020308665
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Hp": "0000608"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Condition": "retinitis pigmentosa 41",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095",
+            "Hp": "0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CNGB1",
+    "Id": "ID:1258",
+    "Score": 0.00834279947386369,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36",
+            "Hp": "0000608",
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37",
+            "Hp": "0000608",
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.00812395020308665,
+            "Condition": "Macular degeneration",
+            "Hp": "0000608",
+            "Id": "HP:0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TTC8",
+    "Id": "ID:123016",
+    "Score": 0.00834279947386369,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000608",
+            "Id": "HP:0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.00812395020308665,
+            "Condition": "Macular degeneration"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Hp": "0000608",
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36",
+            "Hp": "0000608",
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37",
+            "Hp": "0000608",
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRPF31",
+    "Id": "ID:26121",
+    "Score": 0.00834279947386369,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy",
+            "Hp": "0000608",
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Condition": "retinitis pigmentosa 41",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095",
+            "Hp": "0000608"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007401",
+            "Score": 0.00812395020308665,
+            "Condition": "Macular atrophy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RP9",
+    "Id": "ID:6100",
+    "Score": 0.00834279947386369,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Macular atrophy",
+            "Score": 0.00812395020308665,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007401",
+            "Hp": "0000608"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy"
+          },
+          {
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Hp": "0000608"
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37"
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAX2",
+    "Id": "ID:84839",
+    "Score": 0.00829150667602532,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:610381",
+            "Hp": "0000608",
+            "Condition": "cone rod dystrophy 11",
+            "Score": 0.000167556472938662
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0007401",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000608",
+            "Condition": "Macular atrophy",
+            "Score": 0.00812395020308665
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RPGRIP1",
+    "Id": "ID:57096",
+    "Score": 0.00829150667602532,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "cone rod dystrophy 13",
+            "Score": 0.000167556472938662,
+            "Id": "OMIM:608194",
+            "IdNote": "CLINVAR",
+            "Hp": "0000608"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0000608",
+            "Id": "HP:0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.00812395020308665,
+            "Condition": "Macular degeneration"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CNGB3",
+    "Id": "ID:54714",
+    "Score": 0.00829150667602532,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.00812395020308665,
+            "Condition": "Macular degeneration",
+            "Hp": "0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000608"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "stargardt disease 1",
+            "Score": 0.000167556472938662,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:248200",
+            "Hp": "0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PITPNM3",
+    "Id": "ID:83394",
+    "Score": 0.00829150667602532,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "cone rod dystrophy 5",
+            "Score": 0.000167556472938662,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:600977",
+            "Hp": "0000608"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0000608",
+            "Id": "HP:0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.00812395020308665,
+            "Condition": "Macular degeneration"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FBN2",
+    "Id": "ID:2201",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000608",
+            "Condition": "Macular degeneration",
+            "Score": 0.00812395020308665
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GUCY2D",
+    "Id": "ID:3000",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.00812395020308665,
+            "Condition": "Macular atrophy",
+            "Hp": "0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007401"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DRAM2",
+    "Id": "ID:128338",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.00812395020308665,
+            "Condition": "Macular atrophy",
+            "Hp": "0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007401"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRAF3IP1",
+    "Id": "ID:26146",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.00812395020308665,
+            "Condition": "Macular degeneration",
+            "Hp": "0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FBLN5",
+    "Id": "ID:10516",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.00812395020308665,
+            "Condition": "Macular degeneration",
+            "Hp": "0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IFT140",
+    "Id": "ID:9742",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.00812395020308665,
+            "Condition": "Macular atrophy",
+            "Hp": "0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007401"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TNFRSF11B",
+    "Id": "ID:4982",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.00812395020308665,
+            "Condition": "Macular scar",
+            "Hp": "0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0200056"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HK1",
+    "Id": "ID:3098",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.00812395020308665,
+            "Condition": "Macular atrophy",
+            "Hp": "0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007401"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATXN7",
+    "Id": "ID:6314",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Macular degeneration",
+            "Score": 0.00812395020308665,
+            "Id": "HP:0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALDH3A2",
+    "Id": "ID:224",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000608",
+            "Score": 0.00812395020308665,
+            "Condition": "Macular degeneration"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ARL2BP",
+    "Id": "ID:23568",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007401",
+            "Score": 0.00812395020308665,
+            "Condition": "Macular atrophy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WDR19",
+    "Id": "ID:57728",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Macular atrophy",
+            "Score": 0.00812395020308665,
+            "Id": "HP:0007401",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ANO10",
+    "Id": "ID:55129",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000608",
+            "Condition": "Macular degeneration",
+            "Score": 0.00812395020308665
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GBA",
+    "Id": "ID:2629",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007401",
+            "Score": 0.00812395020308665,
+            "Condition": "Macular atrophy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GUCA1A",
+    "Id": "ID:2978",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Macular atrophy",
+            "Score": 0.00812395020308665,
+            "Id": "HP:0007401",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-A",
+    "Id": "ID:3105",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0200056",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000608",
+            "Condition": "Macular scar",
+            "Score": 0.00812395020308665
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SIX6",
+    "Id": "ID:4990",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.00812395020308665,
+            "Condition": "Macular atrophy",
+            "Hp": "0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007401"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RS1",
+    "Id": "ID:6247",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.00812395020308665,
+            "Condition": "Macular atrophy",
+            "Hp": "0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007401"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL18A1",
+    "Id": "ID:80781",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Macular degeneration",
+            "Score": 0.00812395020308665,
+            "Id": "HP:0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATF6",
+    "Id": "ID:22926",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Macular atrophy",
+            "Score": 0.00812395020308665,
+            "Id": "HP:0007401",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAPKAPK3",
+    "Id": "ID:7867",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.00812395020308665,
+            "Condition": "Macular atrophy",
+            "Hp": "0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007401"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CEP78",
+    "Id": "ID:84131",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000608",
+            "Score": 0.00812395020308665,
+            "Condition": "Macular degeneration"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PLK4",
+    "Id": "ID:10733",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007401",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000608",
+            "Condition": "Macular atrophy",
+            "Score": 0.00812395020308665
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNV2",
+    "Id": "ID:169522",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Macular atrophy",
+            "Score": 0.00812395020308665,
+            "Id": "HP:0007401",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZFYVE26",
+    "Id": "ID:23503",
+    "Score": 0.00812395020308665,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000608",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000608",
+            "Condition": "Macular degeneration",
+            "Score": 0.00812395020308665
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CLN5",
+    "Id": "ID:1203",
+    "Score": 0.000446817261169766,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "ceroid lipofuscinosis neuronal 1",
+            "Score": 0.000223408630584883,
+            "Id": "OMIM:256730",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "Id": "OMIM:204200",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "ceroid lipofuscinosis neuronal 3",
+            "Score": 0.000223408630584883
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CLN6",
+    "Id": "ID:54982",
+    "Score": 0.000446817261169766,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:256730",
+            "Hp": "0000608",
+            "Condition": "ceroid lipofuscinosis neuronal 1",
+            "Score": 0.000223408630584883
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:204200",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000223408630584883,
+            "Condition": "ceroid lipofuscinosis neuronal 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TPP1",
+    "Id": "ID:1200",
+    "Score": 0.000446817261169766,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "ceroid lipofuscinosis neuronal 1",
+            "Score": 0.000223408630584883,
+            "Id": "OMIM:256730",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:204200",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000223408630584883,
+            "Condition": "ceroid lipofuscinosis neuronal 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CTSD",
+    "Id": "ID:1509",
+    "Score": 0.000446817261169766,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:256730",
+            "Hp": "0000608",
+            "Condition": "ceroid lipofuscinosis neuronal 1",
+            "Score": 0.000223408630584883
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:204200",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000223408630584883,
+            "Condition": "ceroid lipofuscinosis neuronal 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GRN",
+    "Id": "ID:2896",
+    "Score": 0.000446817261169766,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:256730",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000223408630584883,
+            "Condition": "ceroid lipofuscinosis neuronal 1"
+          },
+          {
+            "Score": 0.000223408630584883,
+            "Condition": "ceroid lipofuscinosis neuronal 3",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:204200"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DNAJC5",
+    "Id": "ID:80331",
+    "Score": 0.000446817261169766,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:256730",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000223408630584883,
+            "Condition": "ceroid lipofuscinosis neuronal 1"
+          },
+          {
+            "Condition": "ceroid lipofuscinosis neuronal 3",
+            "Score": 0.000223408630584883,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:204200",
+            "Hp": "0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATP13A2",
+    "Id": "ID:23400",
+    "Score": 0.000446817261169766,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:256730",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000223408630584883,
+            "Condition": "ceroid lipofuscinosis neuronal 1"
+          },
+          {
+            "Score": 0.000223408630584883,
+            "Condition": "ceroid lipofuscinosis neuronal 3",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:204200"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCTD7",
+    "Id": "ID:154881",
+    "Score": 0.000446817261169766,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:256730",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000223408630584883,
+            "Condition": "ceroid lipofuscinosis neuronal 1"
+          },
+          {
+            "Score": 0.000223408630584883,
+            "Condition": "ceroid lipofuscinosis neuronal 3",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:204200"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CLN8",
+    "Id": "ID:2055",
+    "Score": 0.000446817261169766,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:256730",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000223408630584883,
+            "Condition": "ceroid lipofuscinosis neuronal 1"
+          },
+          {
+            "Condition": "ceroid lipofuscinosis neuronal 3",
+            "Score": 0.000223408630584883,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:204200",
+            "Hp": "0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CTSF",
+    "Id": "ID:8722",
+    "Score": 0.000446817261169766,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:256730",
+            "Hp": "0000608",
+            "Condition": "ceroid lipofuscinosis neuronal 1",
+            "Score": 0.000223408630584883
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:204200",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000223408630584883,
+            "Condition": "ceroid lipofuscinosis neuronal 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "XYLT1",
+    "Id": "ID:64131",
+    "Score": 0.000335112945877325,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:264800",
+            "IdNote": "CLINVAR",
+            "Hp": "0000608",
+            "Condition": "pseudoxanthoma elasticum",
+            "Score": 0.000335112945877325
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "XYLT2",
+    "Id": "ID:64132",
+    "Score": 0.000335112945877325,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000335112945877325,
+            "Condition": "pseudoxanthoma elasticum",
+            "Hp": "0000608",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:264800"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RHO",
+    "Id": "ID:6010",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37",
+            "Hp": "0000608",
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RGR",
+    "Id": "ID:5995",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Hp": "0000608",
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36"
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37"
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SNRNP200",
+    "Id": "ID:23020",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 41",
+            "Score": 5.47123176942569E-05
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRPF6",
+    "Id": "ID:24148",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36"
+          },
+          {
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131",
+            "Hp": "0000608"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41",
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CRX",
+    "Id": "ID:1406",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Hp": "0000608"
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36"
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37"
+          },
+          {
+            "Condition": "retinitis pigmentosa 41",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DHDDS",
+    "Id": "ID:79947",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy",
+            "Hp": "0000608",
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131"
+          },
+          {
+            "Condition": "retinitis pigmentosa 41",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095",
+            "Hp": "0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CRB1",
+    "Id": "ID:23418",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475"
+          },
+          {
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 41",
+            "Score": 5.47123176942569E-05
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CA4",
+    "Id": "ID:762",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Hp": "0000608",
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36"
+          },
+          {
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131",
+            "Hp": "0000608"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41",
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDE6G",
+    "Id": "ID:5148",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36"
+          },
+          {
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41",
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SPATA7",
+    "Id": "ID:55812",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Hp": "0000608"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41",
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "C2ORF71",
+    "Id": "ID:388939",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Hp": "0000608"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37",
+            "Hp": "0000608",
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CERKL",
+    "Id": "ID:375298",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Hp": "0000608",
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36"
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37"
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "USH2A",
+    "Id": "ID:7399",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy"
+          },
+          {
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Hp": "0000608"
+          },
+          {
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDE6A",
+    "Id": "ID:5145",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131"
+          },
+          {
+            "Condition": "retinitis pigmentosa 41",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAK",
+    "Id": "ID:4117",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy"
+          },
+          {
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 41",
+            "Score": 5.47123176942569E-05
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SAG",
+    "Id": "ID:6295",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy"
+          },
+          {
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Hp": "0000608"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37",
+            "Hp": "0000608",
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CLRN1",
+    "Id": "ID:7401",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41",
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRPF8",
+    "Id": "ID:10594",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36"
+          },
+          {
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131",
+            "Hp": "0000608"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41",
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ARL6",
+    "Id": "ID:84100",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Hp": "0000608"
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36"
+          },
+          {
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41",
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RPE65",
+    "Id": "ID:6121",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599"
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37"
+          },
+          {
+            "Condition": "retinitis pigmentosa 41",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095",
+            "Hp": "0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RDH12",
+    "Id": "ID:145226",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599"
+          },
+          {
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ROM1",
+    "Id": "ID:6094",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36",
+            "Hp": "0000608",
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131",
+            "Hp": "0000608"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 41",
+            "Score": 5.47123176942569E-05
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZNF513",
+    "Id": "ID:130557",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Hp": "0000608",
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41",
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IMPDH1",
+    "Id": "ID:3614",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599"
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37"
+          },
+          {
+            "Condition": "retinitis pigmentosa 41",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095",
+            "Hp": "0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KLHL7",
+    "Id": "ID:55975",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475"
+          },
+          {
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 41",
+            "Score": 5.47123176942569E-05
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GUCA1B",
+    "Id": "ID:2979",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy"
+          },
+          {
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37",
+            "Hp": "0000608",
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FSCN2",
+    "Id": "ID:25794",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37",
+            "Hp": "0000608",
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TULP1",
+    "Id": "ID:7287",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36"
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37"
+          },
+          {
+            "Condition": "retinitis pigmentosa 41",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IDH3B",
+    "Id": "ID:3420",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Hp": "0000608",
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36"
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37"
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TOPORS",
+    "Id": "ID:10210",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy",
+            "Hp": "0000608",
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Hp": "0000608"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131"
+          },
+          {
+            "Condition": "retinitis pigmentosa 41",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095",
+            "Hp": "0000608"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDE6B",
+    "Id": "ID:5158",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36"
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37"
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RBP3",
+    "Id": "ID:5949",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36"
+          },
+          {
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 41",
+            "Score": 5.47123176942569E-05
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LRAT",
+    "Id": "ID:9227",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41",
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FAM161A",
+    "Id": "ID:84140",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599"
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37"
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CNGA1",
+    "Id": "ID:1259",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy",
+            "Hp": "0000608",
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41",
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EYS",
+    "Id": "ID:346007",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Score": 5.47123176942569E-05,
+            "Condition": "bothnia retinal dystrophy"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36",
+            "Hp": "0000608",
+            "Id": "OMIM:610599",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:612095",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 41",
+            "Score": 5.47123176942569E-05
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RP2",
+    "Id": "ID:6102",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608",
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Hp": "0000608",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 36"
+          },
+          {
+            "Condition": "retinitis pigmentosa 37",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611131",
+            "Hp": "0000608"
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41",
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRPF3",
+    "Id": "ID:9129",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05,
+            "Id": "OMIM:607475",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000608"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37",
+            "Hp": "0000608",
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RP1",
+    "Id": "ID:6101",
+    "Score": 0.000218849270777028,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "bothnia retinal dystrophy",
+            "Score": 5.47123176942569E-05,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:607475",
+            "Hp": "0000608"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610599",
+            "Hp": "0000608",
+            "Condition": "retinitis pigmentosa 36",
+            "Score": 5.47123176942569E-05
+          },
+          {
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 37",
+            "Hp": "0000608",
+            "Id": "OMIM:611131",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0000608",
+            "Id": "OMIM:612095",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 5.47123176942569E-05,
+            "Condition": "retinitis pigmentosa 41"
+          }
+        ]
+      }
+    ]
+  }
+]

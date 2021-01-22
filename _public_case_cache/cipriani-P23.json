@@ -1,0 +1,620 @@
+{
+  "query": {
+    "HP:0007642": {
+      "id": "HP:0007642",
+      "status": "ok",
+      "target": [
+        "HP:0007642"
+      ]
+    },
+    "HP:0007984": {
+      "id": "HP:0007984",
+      "status": "ok",
+      "target": [
+        "HP:0007984"
+      ]
+    }
+  },
+  "response": {
+    "CABP4": {
+      "rank": 1,
+      "id": 57010,
+      "score": 1.0,
+      "status": "SeedGene"
+    },
+    "GRK1": {
+      "rank": 2,
+      "id": 6011,
+      "score": 0.6481,
+      "status": "SeedGene"
+    },
+    "CACNA2D4": {
+      "rank": 3,
+      "id": 93589,
+      "score": 0.5834,
+      "status": "SeedGene"
+    },
+    "CACNA1F": {
+      "rank": 4,
+      "id": 778,
+      "score": 0.5771,
+      "status": "SeedGene"
+    },
+    "RHO": {
+      "rank": 5,
+      "id": 6010,
+      "score": 0.5631,
+      "status": "SeedGene"
+    },
+    "SAG": {
+      "rank": 6,
+      "id": 6295,
+      "score": 0.5468,
+      "status": "SeedGene"
+    },
+    "RLBP1": {
+      "rank": 7,
+      "id": 6017,
+      "score": 0.5384,
+      "status": "SeedGene"
+    },
+    "RDH5": {
+      "rank": 8,
+      "id": 5959,
+      "score": 0.5384,
+      "status": "SeedGene"
+    },
+    "GNAT1": {
+      "rank": 9,
+      "id": 2779,
+      "score": 0.5337,
+      "status": "SeedGene"
+    },
+    "SLC24A1": {
+      "rank": 10,
+      "id": 9187,
+      "score": 0.5318,
+      "status": "SeedGene"
+    },
+    "PDE6B": {
+      "rank": 11,
+      "id": 5158,
+      "score": 0.5308,
+      "status": "SeedGene"
+    },
+    "FGFR2": {
+      "rank": 12,
+      "id": 2263,
+      "score": 0.5299,
+      "status": "SeedGene"
+    },
+    "GRM6": {
+      "rank": 13,
+      "id": 2916,
+      "score": 0.5224,
+      "status": "SeedGene"
+    },
+    "TRAPPC9": {
+      "rank": 14,
+      "id": 83696,
+      "score": 0.5076,
+      "status": "SeedGene"
+    },
+    "MYO6": {
+      "rank": 15,
+      "id": 4646,
+      "score": 0.5059,
+      "status": "SeedGene"
+    },
+    "TRPM1": {
+      "rank": 16,
+      "id": 4308,
+      "score": 0.5044,
+      "status": "SeedGene"
+    },
+    "PRPH2": {
+      "rank": 17,
+      "id": 5961,
+      "score": 0.5034,
+      "status": "SeedGene"
+    },
+    "LRIT3": {
+      "rank": 18,
+      "id": 345193,
+      "score": 0.5034,
+      "status": "SeedGene"
+    },
+    "GPR179": {
+      "rank": 19,
+      "id": 440435,
+      "score": 0.5034,
+      "status": "SeedGene"
+    },
+    "NYX": {
+      "rank": 20,
+      "id": 60506,
+      "score": 0.5034,
+      "status": "SeedGene"
+    },
+    "RS1": {
+      "rank": 21,
+      "id": 6247,
+      "score": 0.4687,
+      "status": "SeedGene"
+    },
+    "CNGA1": {
+      "rank": 22,
+      "id": 1259,
+      "score": 0.0904,
+      "status": "Predicted"
+    },
+    "CALM1": {
+      "rank": 23,
+      "id": 801,
+      "score": 0.0698,
+      "status": "Predicted"
+    },
+    "CALM2": {
+      "rank": 24,
+      "id": 805,
+      "score": 0.0694,
+      "status": "Predicted"
+    },
+    "CALM3": {
+      "rank": 25,
+      "id": 808,
+      "score": 0.0684,
+      "status": "Predicted"
+    },
+    "RGR": {
+      "rank": 26,
+      "id": 5995,
+      "score": 0.0608,
+      "status": "Predicted"
+    },
+    "RCVRN": {
+      "rank": 27,
+      "id": 5957,
+      "score": 0.0578,
+      "status": "Predicted"
+    },
+    "CALML5": {
+      "rank": 28,
+      "id": 51806,
+      "score": 0.0546,
+      "status": "Predicted"
+    },
+    "CALML6": {
+      "rank": 29,
+      "id": 163688,
+      "score": 0.0546,
+      "status": "Predicted"
+    },
+    "CALML3": {
+      "rank": 30,
+      "id": 810,
+      "score": 0.0546,
+      "status": "Predicted"
+    },
+    "CALML4": {
+      "rank": 31,
+      "id": 91860,
+      "score": 0.0546,
+      "status": "Predicted"
+    },
+    "RASGRP2": {
+      "rank": 32,
+      "id": 10235,
+      "score": 0.0527,
+      "status": "Predicted"
+    },
+    "ROM1": {
+      "rank": 33,
+      "id": 6094,
+      "score": 0.0527,
+      "status": "Predicted"
+    },
+    "GUCA1A": {
+      "rank": 34,
+      "id": 2978,
+      "score": 0.0523,
+      "status": "Predicted"
+    },
+    "GUCA1B": {
+      "rank": 35,
+      "id": 2979,
+      "score": 0.0517,
+      "status": "Predicted"
+    },
+    "GUCA1C": {
+      "rank": 36,
+      "id": 9626,
+      "score": 0.0517,
+      "status": "Predicted"
+    },
+    "RASGRP1": {
+      "rank": 37,
+      "id": 10125,
+      "score": 0.0505,
+      "status": "Predicted"
+    },
+    "RGS9": {
+      "rank": 38,
+      "id": 8787,
+      "score": 0.0502,
+      "status": "Predicted"
+    },
+    "GNGT1": {
+      "rank": 39,
+      "id": 2792,
+      "score": 0.05,
+      "status": "Predicted"
+    },
+    "RASGRP3": {
+      "rank": 40,
+      "id": 25780,
+      "score": 0.0494,
+      "status": "Predicted"
+    },
+    "ACTN2": {
+      "rank": 41,
+      "id": 88,
+      "score": 0.0494,
+      "status": "Predicted"
+    },
+    "RASGRP4": {
+      "rank": 42,
+      "id": 115727,
+      "score": 0.0487,
+      "status": "Predicted"
+    },
+    "EPS15L1": {
+      "rank": 43,
+      "id": 58513,
+      "score": 0.0481,
+      "status": "Predicted"
+    },
+    "EPS15": {
+      "rank": 44,
+      "id": 2060,
+      "score": 0.0481,
+      "status": "Predicted"
+    },
+    "CACNA1D": {
+      "rank": 45,
+      "id": 776,
+      "score": 0.0471,
+      "status": "Predicted"
+    },
+    "SPTA1": {
+      "rank": 46,
+      "id": 6708,
+      "score": 0.0448,
+      "status": "Predicted"
+    },
+    "SPTAN1": {
+      "rank": 47,
+      "id": 6709,
+      "score": 0.0448,
+      "status": "Predicted"
+    },
+    "CHRM2": {
+      "rank": 48,
+      "id": 1129,
+      "score": 0.0446,
+      "status": "Predicted"
+    },
+    "GNAO1": {
+      "rank": 49,
+      "id": 2775,
+      "score": 0.044,
+      "status": "Predicted"
+    },
+    "GNB1": {
+      "rank": 50,
+      "id": 2782,
+      "score": 0.043,
+      "status": "Predicted"
+    },
+    "PDGFRA": {
+      "rank": 51,
+      "id": 5156,
+      "score": 0.0427,
+      "status": "Predicted"
+    },
+    "CNGB1": {
+      "rank": 52,
+      "id": 1258,
+      "score": 0.0426,
+      "status": "Predicted"
+    },
+    "PRKCA": {
+      "rank": 53,
+      "id": 5578,
+      "score": 0.0424,
+      "status": "Predicted"
+    },
+    "DGKB": {
+      "rank": 54,
+      "id": 1607,
+      "score": 0.0422,
+      "status": "Predicted"
+    },
+    "DGKG": {
+      "rank": 55,
+      "id": 1608,
+      "score": 0.0422,
+      "status": "Predicted"
+    },
+    "DGKA": {
+      "rank": 56,
+      "id": 1606,
+      "score": 0.0422,
+      "status": "Predicted"
+    },
+    "FGF10": {
+      "rank": 57,
+      "id": 2255,
+      "score": 0.042,
+      "status": "Predicted"
+    },
+    "PDE6G": {
+      "rank": 58,
+      "id": 5148,
+      "score": 0.0417,
+      "status": "Predicted"
+    },
+    "PDE6A": {
+      "rank": 59,
+      "id": 5145,
+      "score": 0.0417,
+      "status": "Predicted"
+    },
+    "ITGB1": {
+      "rank": 60,
+      "id": 3688,
+      "score": 0.0416,
+      "status": "Predicted"
+    },
+    "AKT1": {
+      "rank": 61,
+      "id": 207,
+      "score": 0.0415,
+      "status": "Predicted"
+    },
+    "LRP1": {
+      "rank": 62,
+      "id": 4035,
+      "score": 0.0414,
+      "status": "Predicted"
+    },
+    "RHOT1": {
+      "rank": 63,
+      "id": 55288,
+      "score": 0.0413,
+      "status": "Predicted"
+    },
+    "FGFR3": {
+      "rank": 64,
+      "id": 2261,
+      "score": 0.0409,
+      "status": "Predicted"
+    },
+    "FGFR4": {
+      "rank": 65,
+      "id": 2264,
+      "score": 0.0409,
+      "status": "Predicted"
+    },
+    "PDGFRB": {
+      "rank": 66,
+      "id": 5159,
+      "score": 0.0405,
+      "status": "Predicted"
+    },
+    "GNG12": {
+      "rank": 67,
+      "id": 55970,
+      "score": 0.0404,
+      "status": "Predicted"
+    },
+    "GRB2": {
+      "rank": 68,
+      "id": 2885,
+      "score": 0.0403,
+      "status": "Predicted"
+    },
+    "RAC1": {
+      "rank": 69,
+      "id": 5879,
+      "score": 0.0397,
+      "status": "Predicted"
+    },
+    "EGFR": {
+      "rank": 70,
+      "id": 1956,
+      "score": 0.0397,
+      "status": "Predicted"
+    },
+    "CACNA1A": {
+      "rank": 71,
+      "id": 773,
+      "score": 0.0396,
+      "status": "Predicted"
+    },
+    "GNB5": {
+      "rank": 72,
+      "id": 10681,
+      "score": 0.0394,
+      "status": "Predicted"
+    },
+    "ITGA3": {
+      "rank": 73,
+      "id": 3675,
+      "score": 0.0393,
+      "status": "Predicted"
+    },
+    "ITGB3": {
+      "rank": 74,
+      "id": 3690,
+      "score": 0.0393,
+      "status": "Predicted"
+    },
+    "ITGA2": {
+      "rank": 75,
+      "id": 3673,
+      "score": 0.0393,
+      "status": "Predicted"
+    },
+    "ITGAV": {
+      "rank": 76,
+      "id": 3685,
+      "score": 0.0393,
+      "status": "Predicted"
+    },
+    "ITGA2B": {
+      "rank": 77,
+      "id": 3674,
+      "score": 0.0393,
+      "status": "Predicted"
+    },
+    "FSTL1": {
+      "rank": 78,
+      "id": 11167,
+      "score": 0.0392,
+      "status": "Predicted"
+    },
+    "EFCAB7": {
+      "rank": 79,
+      "id": 84455,
+      "score": 0.0392,
+      "status": "Predicted"
+    },
+    "RHOT2": {
+      "rank": 80,
+      "id": 89941,
+      "score": 0.0392,
+      "status": "Predicted"
+    },
+    "AKT2": {
+      "rank": 81,
+      "id": 208,
+      "score": 0.0392,
+      "status": "Predicted"
+    },
+    "FGFR1": {
+      "rank": 82,
+      "id": 2260,
+      "score": 0.0387,
+      "status": "Predicted"
+    },
+    "NTRK2": {
+      "rank": 83,
+      "id": 4915,
+      "score": 0.0387,
+      "status": "Predicted"
+    },
+    "AKT3": {
+      "rank": 84,
+      "id": 10000,
+      "score": 0.0386,
+      "status": "Predicted"
+    },
+    "ADCY3": {
+      "rank": 85,
+      "id": 109,
+      "score": 0.0385,
+      "status": "Predicted"
+    },
+    "ADCY2": {
+      "rank": 86,
+      "id": 108,
+      "score": 0.0385,
+      "status": "Predicted"
+    },
+    "ADCY5": {
+      "rank": 87,
+      "id": 111,
+      "score": 0.0385,
+      "status": "Predicted"
+    },
+    "ADCY6": {
+      "rank": 88,
+      "id": 112,
+      "score": 0.0385,
+      "status": "Predicted"
+    },
+    "ADCY9": {
+      "rank": 89,
+      "id": 115,
+      "score": 0.0385,
+      "status": "Predicted"
+    },
+    "ADCY7": {
+      "rank": 90,
+      "id": 113,
+      "score": 0.0385,
+      "status": "Predicted"
+    },
+    "ADCY4": {
+      "rank": 91,
+      "id": 196883,
+      "score": 0.0385,
+      "status": "Predicted"
+    },
+    "ADCY8": {
+      "rank": 92,
+      "id": 114,
+      "score": 0.0385,
+      "status": "Predicted"
+    },
+    "ADCY1": {
+      "rank": 93,
+      "id": 107,
+      "score": 0.0385,
+      "status": "Predicted"
+    },
+    "MAPK1": {
+      "rank": 94,
+      "id": 5594,
+      "score": 0.0385,
+      "status": "Predicted"
+    },
+    "RHOA": {
+      "rank": 95,
+      "id": 387,
+      "score": 0.0381,
+      "status": "Predicted"
+    },
+    "GNAI2": {
+      "rank": 96,
+      "id": 2771,
+      "score": 0.0381,
+      "status": "Predicted"
+    },
+    "GNAI1": {
+      "rank": 97,
+      "id": 2770,
+      "score": 0.0381,
+      "status": "Predicted"
+    },
+    "GNAI3": {
+      "rank": 98,
+      "id": 2773,
+      "score": 0.0381,
+      "status": "Predicted"
+    },
+    "MYLK": {
+      "rank": 99,
+      "id": 4638,
+      "score": 0.0381,
+      "status": "Predicted"
+    },
+    "SRC": {
+      "rank": 100,
+      "id": 6714,
+      "score": 0.0378,
+      "status": "Predicted"
+    }
+  }
+}

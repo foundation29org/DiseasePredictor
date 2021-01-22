@@ -1,0 +1,3287 @@
+[
+  {
+    "Name": "SDHB",
+    "Id": "ID:6390",
+    "Score": 1,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "paragangliomas 1",
+            "Hp": "0002668",
+            "Score": 0.0287989144533355,
+            "Id": "OMIM:168000"
+          },
+          {
+            "Id": "OMIM:601650",
+            "Score": 0.0287989144533355,
+            "Hp": "0002668",
+            "Condition": "paragangliomas 2",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "paragangliomas 3",
+            "Hp": "0002668",
+            "Id": "OMIM:605373",
+            "Score": 0.0287989144533355
+          },
+          {
+            "Score": 0.0251990501466685,
+            "Id": "OMIM:115310",
+            "IdNote": "CLINVAR",
+            "Condition": "paragangliomas 4",
+            "Hp": "0002668"
+          },
+          {
+            "Condition": "paragangliomas 4",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002668",
+            "Score": 0.0287989144533355,
+            "Id": "OMIM:115310"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "paragangliomas 1",
+            "Hp": "0100568",
+            "Id": "OMIM:168000",
+            "Score": 0.00544369724422806
+          },
+          {
+            "Score": 0.00544369724422806,
+            "Id": "OMIM:601650",
+            "Hp": "0100568",
+            "Condition": "paragangliomas 2",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:605373",
+            "Score": 0.00544369724422806,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "paragangliomas 3",
+            "Hp": "0100568"
+          },
+          {
+            "Score": 0.00476323508869953,
+            "Id": "OMIM:115310",
+            "Condition": "paragangliomas 4",
+            "IdNote": "CLINVAR",
+            "Hp": "0100568"
+          },
+          {
+            "Id": "OMIM:115310",
+            "Score": 0.00544369724422806,
+            "Condition": "paragangliomas 4",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0100568"
+          },
+          {
+            "Id": "OMIM:171300",
+            "Score": 0.00476323508869953,
+            "Condition": "pheochromocytoma",
+            "IdNote": "CLINVAR",
+            "Hp": "0100568"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "pheochromocytoma",
+            "Hp": "0100568",
+            "Score": 0.00544369724422806,
+            "Id": "OMIM:171300"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Chemodectoma",
+            "Hp": "0002668",
+            "Id": "HP:0030074",
+            "Score": 0.610886064161661
+          },
+          {
+            "Hp": "0100568",
+            "Condition": "Neoplasm of the adrenal medulla",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.115472365786656,
+            "Id": "HP:0100642"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "carney stratakis syndrome",
+            "IdNote": "ORPHANET",
+            "Hp": "0100568",
+            "Score": 0.0890786821782771,
+            "Id": "ORPHANET:97286"
+          },
+          {
+            "Hp": "0100568",
+            "Condition": "cowden syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:201",
+            "Score": 0.00742322351485643
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SDHD",
+    "Id": "ID:6392",
+    "Score": 1,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0251990501466685,
+            "Id": "OMIM:168000",
+            "Hp": "0002668",
+            "IdNote": "CLINVAR",
+            "Condition": "paragangliomas 1"
+          },
+          {
+            "Id": "OMIM:168000",
+            "Score": 0.0287989144533355,
+            "Hp": "0002668",
+            "Condition": "paragangliomas 1",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:601650",
+            "Score": 0.0287989144533355,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "paragangliomas 2",
+            "Hp": "0002668"
+          },
+          {
+            "Condition": "paragangliomas 3",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002668",
+            "Score": 0.0287989144533355,
+            "Id": "OMIM:605373"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "paragangliomas 4",
+            "Hp": "0002668",
+            "Id": "OMIM:115310",
+            "Score": 0.0287989144533355
+          },
+          {
+            "Score": 0.00476323508869953,
+            "Id": "OMIM:168000",
+            "Hp": "0100568",
+            "Condition": "paragangliomas 1",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Id": "OMIM:168000",
+            "Score": 0.00544369724422806,
+            "Hp": "0100568",
+            "Condition": "paragangliomas 1",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:601650",
+            "Score": 0.00544369724422806,
+            "Condition": "paragangliomas 2",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0100568"
+          },
+          {
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "paragangliomas 3",
+            "Score": 0.00544369724422806,
+            "Id": "OMIM:605373"
+          },
+          {
+            "Hp": "0100568",
+            "Condition": "paragangliomas 4",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00544369724422806,
+            "Id": "OMIM:115310"
+          },
+          {
+            "Score": 0.00476323508869953,
+            "Id": "OMIM:171300",
+            "Hp": "0100568",
+            "IdNote": "CLINVAR",
+            "Condition": "pheochromocytoma"
+          },
+          {
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "pheochromocytoma",
+            "Id": "OMIM:171300",
+            "Score": 0.00544369724422806
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Chemodectoma",
+            "Hp": "0002668",
+            "Id": "HP:0030074",
+            "Score": 0.610886064161661
+          },
+          {
+            "Condition": "Neoplasm of the adrenal medulla",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568",
+            "Id": "HP:0100642",
+            "Score": 0.115472365786656
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0890786821782771,
+            "Id": "ORPHANET:97286",
+            "Hp": "0100568",
+            "Condition": "carney stratakis syndrome",
+            "IdNote": "ORPHANET"
+          },
+          {
+            "Condition": "cowden syndrome",
+            "IdNote": "ORPHANET",
+            "Hp": "0100568",
+            "Id": "ORPHANET:201",
+            "Score": 0.00742322351485643
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SDHC",
+    "Id": "ID:6391",
+    "Score": 0.9952367649113,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "paragangliomas 1",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002668",
+            "Id": "OMIM:168000",
+            "Score": 0.0287989144533355
+          },
+          {
+            "Hp": "0002668",
+            "Condition": "paragangliomas 2",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601650",
+            "Score": 0.0287989144533355
+          },
+          {
+            "Id": "OMIM:605373",
+            "Score": 0.0251990501466685,
+            "Condition": "paragangliomas 3",
+            "IdNote": "CLINVAR",
+            "Hp": "0002668"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "paragangliomas 3",
+            "Hp": "0002668",
+            "Score": 0.0287989144533355,
+            "Id": "OMIM:605373"
+          },
+          {
+            "Id": "OMIM:115310",
+            "Score": 0.0287989144533355,
+            "Hp": "0002668",
+            "Condition": "paragangliomas 4",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "paragangliomas 1",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0100568",
+            "Score": 0.00544369724422806,
+            "Id": "OMIM:168000"
+          },
+          {
+            "Score": 0.00544369724422806,
+            "Id": "OMIM:601650",
+            "Condition": "paragangliomas 2",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0100568"
+          },
+          {
+            "Hp": "0100568",
+            "Condition": "paragangliomas 3",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:605373",
+            "Score": 0.00476323508869953
+          },
+          {
+            "Score": 0.00544369724422806,
+            "Id": "OMIM:605373",
+            "Condition": "paragangliomas 3",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0100568"
+          },
+          {
+            "Score": 0.00544369724422806,
+            "Id": "OMIM:115310",
+            "Condition": "paragangliomas 4",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0100568"
+          },
+          {
+            "Score": 0.00544369724422806,
+            "Id": "OMIM:171300",
+            "Hp": "0100568",
+            "Condition": "pheochromocytoma",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.610886064161661,
+            "Id": "HP:0030074",
+            "Hp": "0002668",
+            "Condition": "Chemodectoma",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Id": "HP:0100642",
+            "Score": 0.115472365786656,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the adrenal medulla",
+            "Hp": "0100568"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0890786821782771,
+            "Id": "ORPHANET:97286",
+            "IdNote": "ORPHANET",
+            "Condition": "carney stratakis syndrome",
+            "Hp": "0100568"
+          },
+          {
+            "Hp": "0100568",
+            "IdNote": "ORPHANET",
+            "Condition": "cowden syndrome",
+            "Score": 0.00742322351485643,
+            "Id": "ORPHANET:201"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SDHAF2",
+    "Id": "ID:54949",
+    "Score": 0.883753716600485,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0287989144533355,
+            "Id": "OMIM:168000",
+            "Hp": "0002668",
+            "Condition": "paragangliomas 1",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:601650",
+            "Score": 0.0125995250733343,
+            "Hp": "0002668",
+            "IdNote": "CLINVAR",
+            "Condition": "paragangliomas 2"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "paragangliomas 2",
+            "Hp": "0002668",
+            "Id": "OMIM:601650",
+            "Score": 0.0287989144533355
+          },
+          {
+            "Hp": "0002668",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "paragangliomas 3",
+            "Score": 0.0287989144533355,
+            "Id": "OMIM:605373"
+          },
+          {
+            "Hp": "0002668",
+            "Condition": "paragangliomas 4",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0287989144533355,
+            "Id": "OMIM:115310"
+          },
+          {
+            "Hp": "0100568",
+            "Condition": "paragangliomas 1",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:168000",
+            "Score": 0.00544369724422806
+          },
+          {
+            "Condition": "paragangliomas 2",
+            "IdNote": "CLINVAR",
+            "Hp": "0100568",
+            "Score": 0.00238161754434977,
+            "Id": "OMIM:601650"
+          },
+          {
+            "Id": "OMIM:601650",
+            "Score": 0.00544369724422806,
+            "Condition": "paragangliomas 2",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0100568"
+          },
+          {
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "paragangliomas 3",
+            "Id": "OMIM:605373",
+            "Score": 0.00544369724422806
+          },
+          {
+            "Condition": "paragangliomas 4",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0100568",
+            "Score": 0.00544369724422806,
+            "Id": "OMIM:115310"
+          },
+          {
+            "Score": 0.00544369724422806,
+            "Id": "OMIM:171300",
+            "Hp": "0100568",
+            "Condition": "pheochromocytoma",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Chemodectoma",
+            "Hp": "0002668",
+            "Score": 0.610886064161661,
+            "Id": "HP:0030074"
+          },
+          {
+            "Id": "HP:0100642",
+            "Score": 0.115472365786656,
+            "Hp": "0100568",
+            "Condition": "Neoplasm of the adrenal medulla",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAX",
+    "Id": "ID:4149",
+    "Score": 0.873535809071499,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002864",
+            "Score": 0.610886064161661,
+            "Hp": "0002668",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Paraganglioma of head and neck"
+          },
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100642",
+            "Condition": "Neoplasm of the adrenal medulla",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.0287989144533355,
+            "Id": "OMIM:168000",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "paragangliomas 1",
+            "Hp": "0002668"
+          },
+          {
+            "Condition": "paragangliomas 2",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002668",
+            "Id": "OMIM:601650",
+            "Score": 0.0287989144533355
+          },
+          {
+            "Id": "OMIM:605373",
+            "Score": 0.0287989144533355,
+            "Hp": "0002668",
+            "Condition": "paragangliomas 3",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.0287989144533355,
+            "Id": "OMIM:115310",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "paragangliomas 4",
+            "Hp": "0002668"
+          },
+          {
+            "Hp": "0100568",
+            "Condition": "paragangliomas 1",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:168000",
+            "Score": 0.00544369724422806
+          },
+          {
+            "Id": "OMIM:601650",
+            "Score": 0.00544369724422806,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "paragangliomas 2",
+            "Hp": "0100568"
+          },
+          {
+            "Id": "OMIM:605373",
+            "Score": 0.00544369724422806,
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "paragangliomas 3"
+          },
+          {
+            "Id": "OMIM:115310",
+            "Score": 0.00544369724422806,
+            "Hp": "0100568",
+            "Condition": "paragangliomas 4",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.00476323508869953,
+            "Id": "OMIM:171300",
+            "Hp": "0100568",
+            "Condition": "pheochromocytoma",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "pheochromocytoma",
+            "Score": 0.00544369724422806,
+            "Id": "OMIM:171300"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SDHA",
+    "Id": "ID:6389",
+    "Score": 0.8687725739828,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:168000",
+            "Score": 0.0287989144533355,
+            "Hp": "0002668",
+            "Condition": "paragangliomas 1",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.0287989144533355,
+            "Id": "OMIM:601650",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "paragangliomas 2",
+            "Hp": "0002668"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "paragangliomas 3",
+            "Hp": "0002668",
+            "Score": 0.0287989144533355,
+            "Id": "OMIM:605373"
+          },
+          {
+            "Score": 0.0287989144533355,
+            "Id": "OMIM:115310",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "paragangliomas 4",
+            "Hp": "0002668"
+          },
+          {
+            "Id": "OMIM:168000",
+            "Score": 0.00544369724422806,
+            "Condition": "paragangliomas 1",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0100568"
+          },
+          {
+            "Id": "OMIM:601650",
+            "Score": 0.00544369724422806,
+            "Condition": "paragangliomas 2",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0100568"
+          },
+          {
+            "Hp": "0100568",
+            "Condition": "paragangliomas 3",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00544369724422806,
+            "Id": "OMIM:605373"
+          },
+          {
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "paragangliomas 4",
+            "Score": 0.00544369724422806,
+            "Id": "OMIM:115310"
+          },
+          {
+            "Id": "OMIM:171300",
+            "Score": 0.00544369724422806,
+            "Condition": "pheochromocytoma",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0100568"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0002668",
+            "Condition": "Paraganglioma of head and neck",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002864",
+            "Score": 0.610886064161661
+          },
+          {
+            "Condition": "Neoplasm of the adrenal medulla",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568",
+            "Id": "HP:0100642",
+            "Score": 0.115472365786656
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VHL",
+    "Id": "ID:7428",
+    "Score": 0.862529682916608,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0002668",
+            "Condition": "von hippel lindau syndrome",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:193300",
+            "Score": 0.0251990501466685
+          },
+          {
+            "Hp": "0002668",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "von hippel lindau syndrome",
+            "Score": 0.100796200586674,
+            "Id": "OMIM:193300"
+          },
+          {
+            "Id": "OMIM:171300",
+            "Score": 0.00476323508869953,
+            "Hp": "0100568",
+            "Condition": "pheochromocytoma",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Hp": "0100568",
+            "IdNote": "CLINVAR",
+            "Condition": "von hippel lindau syndrome",
+            "Id": "OMIM:193300",
+            "Score": 0.0010825534292499
+          },
+          {
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "von hippel lindau syndrome",
+            "Score": 0.00433021371699959,
+            "Id": "OMIM:193300"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Paraganglioma of head and neck",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002668",
+            "Id": "HP:0002864",
+            "Score": 0.610886064161661
+          },
+          {
+            "Hp": "0100568",
+            "Condition": "Neoplasm of the adrenal medulla",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.115472365786656,
+            "Id": "HP:0100642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RET",
+    "Id": "ID:5979",
+    "Score": 0.747205315985872,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:142623",
+            "Score": 0.00216510685849979,
+            "Hp": "0100568",
+            "Condition": "hirschsprung disease",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.00216510685849979,
+            "Id": "OMIM:600155",
+            "Hp": "0100568",
+            "Condition": "hirschsprung disease",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hirschsprung disease",
+            "Score": 0.00216510685849979,
+            "Id": "OMIM:600156"
+          },
+          {
+            "Id": "OMIM:613711",
+            "Score": 0.00216510685849979,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hirschsprung disease",
+            "Hp": "0100568"
+          },
+          {
+            "Hp": "0100568",
+            "IdNote": "CLINVAR",
+            "Condition": "pheochromocytoma",
+            "Score": 0.00476323508869953,
+            "Id": "OMIM:171300"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.610886064161661,
+            "Id": "HP:0002864",
+            "Hp": "0002668",
+            "Condition": "Paraganglioma of head and neck",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100733",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the parathyroid gland",
+            "Hp": "0100568"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00742322351485643,
+            "Id": "ORPHANET:388",
+            "Condition": "hirschsprung disease",
+            "IdNote": "ORPHANET",
+            "Hp": "0100568"
+          }
+        ],
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Condition": "hirschsprung disease",
+            "Hp": "0100568",
+            "Score": 4.33021371699959E-104,
+            "Id": "PUBMED:19196962 27702942 27702942 27702942 25310821 29379196 29379196 29379196 30031151"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM127",
+    "Id": "ID:55654",
+    "Score": 0.731121665037016,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00476323508869953,
+            "Id": "OMIM:171300",
+            "IdNote": "CLINVAR",
+            "Condition": "pheochromocytoma",
+            "Hp": "0100568"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Paraganglioma of head and neck",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002668",
+            "Score": 0.610886064161661,
+            "Id": "HP:0002864"
+          },
+          {
+            "Id": "HP:0100642",
+            "Score": 0.115472365786656,
+            "Hp": "0100568",
+            "Condition": "Neoplasm of the adrenal medulla",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KIF1B",
+    "Id": "ID:23095",
+    "Score": 0.731121665037016,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0100568",
+            "Condition": "pheochromocytoma",
+            "IdNote": "CLINVAR",
+            "Score": 0.00476323508869953,
+            "Id": "OMIM:171300"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.610886064161661,
+            "Id": "HP:0002864",
+            "Hp": "0002668",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Paraganglioma of head and neck"
+          },
+          {
+            "Hp": "0100568",
+            "Condition": "Neoplasm of the adrenal medulla",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0100642",
+            "Score": 0.115472365786656
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FH",
+    "Id": "ID:2271",
+    "Score": 0.726358429948317,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002668",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Paraganglioma of head and neck",
+            "Id": "HP:0002864",
+            "Score": 0.610886064161661
+          },
+          {
+            "Hp": "0100568",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the adrenal medulla",
+            "Id": "HP:0100642",
+            "Score": 0.115472365786656
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATRX",
+    "Id": "ID:546",
+    "Score": 0.726358429948317,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.610886064161661,
+            "Id": "HP:0002668",
+            "Condition": "Paraganglioma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002668"
+          },
+          {
+            "Condition": "Neuroendocrine neoplasm",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568",
+            "Id": "HP:0100634",
+            "Score": 0.115472365786656
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MDH2",
+    "Id": "ID:4191",
+    "Score": 0.726358429948317,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Paraganglioma of head and neck",
+            "Hp": "0002668",
+            "Score": 0.610886064161661,
+            "Id": "HP:0002864"
+          },
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100642",
+            "Condition": "Neoplasm of the adrenal medulla",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DAXX",
+    "Id": "ID:1616",
+    "Score": 0.726358429948317,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Paraganglioma",
+            "Hp": "0002668",
+            "Score": 0.610886064161661,
+            "Id": "HP:0002668"
+          },
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100634",
+            "Hp": "0100568",
+            "Condition": "Neuroendocrine neoplasm",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TP53",
+    "Id": "ID:7157",
+    "Score": 0.313239412261623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:202300",
+            "Score": 0.00238161754434977,
+            "Hp": "0100568",
+            "Condition": "adrenocortical carcinoma hereditary",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Id": "OMIM:151623",
+            "Score": 0.10392512920799,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "li fraumeni syndrome",
+            "Hp": "0100568"
+          },
+          {
+            "Hp": "0100568",
+            "Condition": "li fraumeni syndrome 1",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:151623",
+            "Score": 0.00238161754434977
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100641",
+            "Hp": "0100568",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the adrenal cortex"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "li fraumeni syndrome",
+            "IdNote": "ORPHANET",
+            "Hp": "0100568",
+            "Id": "ORPHANET:524",
+            "Score": 0.0890786821782771
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRKAR1A",
+    "Id": "ID:5573",
+    "Score": 0.234481072775528,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "carney complex type 1",
+            "IdNote": "CLINVAR",
+            "Hp": "0100568",
+            "Id": "OMIM:160980",
+            "Score": 0.00238161754434977
+          },
+          {
+            "Hp": "0100568",
+            "Condition": "carney complex type 1",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:160980",
+            "Score": 0.0127019602365321
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0100733",
+            "Score": 0.115472365786656,
+            "Condition": "Neoplasm of the parathyroid gland",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "carney complex",
+            "IdNote": "ORPHANET",
+            "Hp": "0100568",
+            "Score": 0.10392512920799,
+            "Id": "ORPHANET:1359"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHEK2",
+    "Id": "ID:11200",
+    "Score": 0.219397494994645,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0100568",
+            "IdNote": "ORPHANET",
+            "Condition": "li fraumeni syndrome",
+            "Score": 0.10392512920799,
+            "Id": "ORPHANET:524"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100641",
+            "Hp": "0100568",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the adrenal cortex"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDC73",
+    "Id": "ID:79577",
+    "Score": 0.164919282421727,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "parathyroid carcinoma",
+            "Hp": "0100568",
+            "Score": 0.0272184862211403,
+            "Id": "ORPHANET:143"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0100568",
+            "Condition": "Neoplasm of the parathyroid gland",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.115472365786656,
+            "Id": "HP:0100733"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0100568",
+            "IdNote": "CLINVAR",
+            "Condition": "hyperparathyroidism 2",
+            "Score": 0.00238161754434977,
+            "Id": "OMIM:145001"
+          },
+          {
+            "Score": 0.00714485263304932,
+            "Id": "OMIM:608266",
+            "IdNote": "CLINVAR",
+            "Condition": "parathyroid carcinoma",
+            "Hp": "0100568"
+          },
+          {
+            "Id": "OMIM:608266",
+            "Score": 0.0127019602365321,
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "parathyroid carcinoma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNQ1",
+    "Id": "ID:3784",
+    "Score": 0.163104716673651,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0100568",
+            "IdNote": "CLINVAR",
+            "Condition": "beckwith wiedemann syndrome",
+            "Id": "OMIM:130650",
+            "Score": 0.00952647017739909
+          },
+          {
+            "Hp": "0100568",
+            "Condition": "beckwith wiedemann syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:130650",
+            "Score": 0.0381058807095964
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100641",
+            "Condition": "Neoplasm of the adrenal cortex",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDKN1C",
+    "Id": "ID:1028",
+    "Score": 0.163104716673651,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:130650",
+            "Score": 0.00952647017739909,
+            "Hp": "0100568",
+            "IdNote": "CLINVAR",
+            "Condition": "beckwith wiedemann syndrome"
+          },
+          {
+            "Id": "OMIM:130650",
+            "Score": 0.0381058807095964,
+            "Hp": "0100568",
+            "Condition": "beckwith wiedemann syndrome",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0100641",
+            "Score": 0.115472365786656,
+            "Condition": "Neoplasm of the adrenal cortex",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "H19",
+    "Id": "ID:283120",
+    "Score": 0.163104716673651,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00952647017739909,
+            "Id": "OMIM:130650",
+            "Hp": "0100568",
+            "IdNote": "CLINVAR",
+            "Condition": "beckwith wiedemann syndrome"
+          },
+          {
+            "Score": 0.0381058807095964,
+            "Id": "OMIM:130650",
+            "Hp": "0100568",
+            "Condition": "beckwith wiedemann syndrome",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0100641",
+            "Score": 0.115472365786656,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the adrenal cortex",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNQ1OT1",
+    "Id": "ID:10984",
+    "Score": 0.163104716673651,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0100568",
+            "IdNote": "CLINVAR",
+            "Condition": "beckwith wiedemann syndrome",
+            "Id": "OMIM:130650",
+            "Score": 0.00952647017739909
+          },
+          {
+            "Score": 0.0381058807095964,
+            "Id": "OMIM:130650",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "beckwith wiedemann syndrome",
+            "Hp": "0100568"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0100641",
+            "Score": 0.115472365786656,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the adrenal cortex",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IGF2",
+    "Id": "ID:3481",
+    "Score": 0.163104716673651,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "beckwith wiedemann syndrome",
+            "Hp": "0100568",
+            "Id": "OMIM:130650",
+            "Score": 0.00952647017739909
+          },
+          {
+            "Id": "OMIM:130650",
+            "Score": 0.0381058807095964,
+            "Hp": "0100568",
+            "Condition": "beckwith wiedemann syndrome",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the adrenal cortex",
+            "Hp": "0100568",
+            "Score": 0.115472365786656,
+            "Id": "HP:0100641"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AIP",
+    "Id": "ID:9049",
+    "Score": 0.162816035759184,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0100568",
+            "Score": 0.115472365786656,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the endocrine system",
+            "Hp": "0100568"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:219090",
+            "Score": 0.0346417097359967,
+            "Condition": "pituitary adenoma acth secreting",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0100568"
+          },
+          {
+            "Score": 0.0127019602365321,
+            "Id": "OMIM:600634",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "pituitary adenoma prolactin secreting",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PTEN",
+    "Id": "ID:5728",
+    "Score": 0.140628845475891,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.00742322351485643,
+            "Id": "ORPHANET:109",
+            "Hp": "0100568",
+            "IdNote": "ORPHANET",
+            "Condition": "bannayan riley ruvalcaba syndrome"
+          },
+          {
+            "Hp": "0100568",
+            "Condition": "cowden syndrome",
+            "IdNote": "ORPHANET",
+            "Score": 0.00742322351485643,
+            "Id": "ORPHANET:201"
+          },
+          {
+            "Condition": "segmental outgrowth lipomatosis arteriovenous malformation epidermal nevus",
+            "IdNote": "ORPHANET",
+            "Hp": "0100568",
+            "Id": "ORPHANET:137608",
+            "Score": 0.00742322351485643
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Neoplasm of the adrenal cortex",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568",
+            "Score": 0.115472365786656,
+            "Id": "HP:0100641"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:153480",
+            "Score": 0.00288680914466639,
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "bannayan riley ruvalcaba syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GDNF",
+    "Id": "ID:2668",
+    "Score": 0.136319251824211,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "hirschsprung disease",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0100568",
+            "Score": 0.00216510685849979,
+            "Id": "OMIM:142623"
+          },
+          {
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hirschsprung disease",
+            "Id": "OMIM:600155",
+            "Score": 0.00216510685849979
+          },
+          {
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hirschsprung disease",
+            "Score": 0.00216510685849979,
+            "Id": "OMIM:600156"
+          },
+          {
+            "Id": "OMIM:613711",
+            "Score": 0.00216510685849979,
+            "Hp": "0100568",
+            "Condition": "hirschsprung disease",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "pheochromocytoma",
+            "Hp": "0100568",
+            "Id": "OMIM:171300",
+            "Score": 0.00476323508869953
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568",
+            "Id": "HP:0100568",
+            "Score": 0.115472365786656
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "hirschsprung disease",
+            "IdNote": "ORPHANET",
+            "Hp": "0100568",
+            "Id": "ORPHANET:388",
+            "Score": 0.00742322351485643
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EDNRB",
+    "Id": "ID:1910",
+    "Score": 0.132793220654654,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "hirschsprung disease",
+            "Hp": "0100568",
+            "Score": 0.00866042743399918,
+            "Id": "ORPHANET:388"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "hirschsprung disease",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0100568",
+            "Id": "OMIM:142623",
+            "Score": 0.00216510685849979
+          },
+          {
+            "Score": 0.00216510685849979,
+            "Id": "OMIM:600155",
+            "Hp": "0100568",
+            "Condition": "hirschsprung disease",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "hirschsprung disease",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0100568",
+            "Score": 0.00216510685849979,
+            "Id": "OMIM:600156"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hirschsprung disease",
+            "Hp": "0100568",
+            "Score": 0.00216510685849979,
+            "Id": "OMIM:613711"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568",
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WRN",
+    "Id": "ID:7486",
+    "Score": 0.131942642960243,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568",
+            "Hp": "0100568",
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00162383014387484,
+            "Id": "OMIM:277700",
+            "Hp": "0100568",
+            "Condition": "werner syndrome",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Hp": "0100568",
+            "Condition": "werner syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00866042743399918,
+            "Id": "OMIM:277700"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:902",
+            "Score": 0.00618601959571369,
+            "Hp": "0100568",
+            "IdNote": "ORPHANET",
+            "Condition": "werner syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EDN3",
+    "Id": "ID:1908",
+    "Score": 0.131556016735511,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.00742322351485643,
+            "Id": "ORPHANET:388",
+            "Condition": "hirschsprung disease",
+            "IdNote": "ORPHANET",
+            "Hp": "0100568"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:142623",
+            "Score": 0.00216510685849979,
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hirschsprung disease"
+          },
+          {
+            "Hp": "0100568",
+            "Condition": "hirschsprung disease",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00216510685849979,
+            "Id": "OMIM:600155"
+          },
+          {
+            "Id": "OMIM:600156",
+            "Score": 0.00216510685849979,
+            "Hp": "0100568",
+            "Condition": "hirschsprung disease",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.00216510685849979,
+            "Id": "OMIM:613711",
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hirschsprung disease"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the endocrine system",
+            "Hp": "0100568",
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NRTN",
+    "Id": "ID:4902",
+    "Score": 0.131556016735511,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hirschsprung disease",
+            "Hp": "0100568",
+            "Id": "OMIM:142623",
+            "Score": 0.00216510685849979
+          },
+          {
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hirschsprung disease",
+            "Score": 0.00216510685849979,
+            "Id": "OMIM:600155"
+          },
+          {
+            "Condition": "hirschsprung disease",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0100568",
+            "Id": "OMIM:600156",
+            "Score": 0.00216510685849979
+          },
+          {
+            "Id": "OMIM:613711",
+            "Score": 0.00216510685849979,
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hirschsprung disease"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0100568",
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00742322351485643,
+            "Id": "ORPHANET:388",
+            "Hp": "0100568",
+            "IdNote": "ORPHANET",
+            "Condition": "hirschsprung disease"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ECE1",
+    "Id": "ID:1889",
+    "Score": 0.131556016735511,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hirschsprung disease",
+            "Hp": "0100568",
+            "Score": 0.00216510685849979,
+            "Id": "OMIM:142623"
+          },
+          {
+            "Hp": "0100568",
+            "Condition": "hirschsprung disease",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:600155",
+            "Score": 0.00216510685849979
+          },
+          {
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hirschsprung disease",
+            "Score": 0.00216510685849979,
+            "Id": "OMIM:600156"
+          },
+          {
+            "Id": "OMIM:613711",
+            "Score": 0.00216510685849979,
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hirschsprung disease"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568",
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0100568",
+            "Condition": "hirschsprung disease",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:388",
+            "Score": 0.00742322351485643
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "JAG1",
+    "Id": "ID:182",
+    "Score": 0.130555943567537,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "alagille syndrome",
+            "Hp": "0100568",
+            "Score": 0.0127019602365321,
+            "Id": "OMIM:118450"
+          },
+          {
+            "Score": 0.00238161754434977,
+            "Id": "OMIM:118450",
+            "IdNote": "CLINVAR",
+            "Condition": "alagille syndrome 1",
+            "Hp": "0100568"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0100568",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the endocrine system",
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FLCN",
+    "Id": "ID:201163",
+    "Score": 0.130318812816369,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "birt hogg dube syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0100568",
+            "Id": "OMIM:135150",
+            "Score": 0.00866042743399918
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Neoplasm of the parathyroid gland",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568",
+            "Score": 0.115472365786656,
+            "Id": "HP:0100733"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00618601959571369,
+            "Id": "ORPHANET:122",
+            "Hp": "0100568",
+            "IdNote": "ORPHANET",
+            "Condition": "birt hogg dube syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNJ10",
+    "Id": "ID:3766",
+    "Score": 0.129545560366904,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.00866042743399918,
+            "Id": "ORPHANET:705",
+            "Condition": "pendred syndrome",
+            "IdNote": "ORPHANET",
+            "Hp": "0100568"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.0010825534292499,
+            "Id": "OMIM:274600",
+            "IdNote": "CLINVAR",
+            "Condition": "pendred syndrome",
+            "Hp": "0100568"
+          },
+          {
+            "Score": 0.00433021371699959,
+            "Id": "OMIM:274600",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "pendred syndrome",
+            "Hp": "0100568"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568",
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC26A4",
+    "Id": "ID:5172",
+    "Score": 0.128308356447761,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.00742322351485643,
+            "Id": "ORPHANET:705",
+            "Hp": "0100568",
+            "Condition": "pendred syndrome",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.0010825534292499,
+            "Id": "OMIM:274600",
+            "Condition": "pendred syndrome",
+            "IdNote": "CLINVAR",
+            "Hp": "0100568"
+          },
+          {
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "pendred syndrome",
+            "Score": 0.00433021371699959,
+            "Id": "OMIM:274600"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568",
+            "Hp": "0100568",
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FOXI1",
+    "Id": "ID:2299",
+    "Score": 0.127071152528619,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:705",
+            "Score": 0.00618601959571369,
+            "Hp": "0100568",
+            "Condition": "pendred syndrome",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0100568",
+            "Condition": "pendred syndrome",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:274600",
+            "Score": 0.0010825534292499
+          },
+          {
+            "Score": 0.00433021371699959,
+            "Id": "OMIM:274600",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "pendred syndrome",
+            "Hp": "0100568"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0100568",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the endocrine system",
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MLH1",
+    "Id": "ID:4292",
+    "Score": 0.125421547303095,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.00742322351485643,
+            "Id": "ORPHANET:252202",
+            "Condition": "constitutional mismatch repair deficiency syndrome",
+            "IdNote": "ORPHANET",
+            "Hp": "0100568"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the endocrine system",
+            "Hp": "0100568",
+            "Id": "HP:0100568",
+            "Score": 0.115472365786656
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "mismatch repair cancer syndrome",
+            "Score": 0.0014434045723332,
+            "Id": "OMIM:276300"
+          },
+          {
+            "Id": "OMIM:276300",
+            "Score": 0.0010825534292499,
+            "Hp": "0100568",
+            "Condition": "turcot syndrome",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NF1",
+    "Id": "ID:4763",
+    "Score": 0.125215346649905,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0100568",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the parathyroid gland",
+            "Id": "HP:0100733",
+            "Score": 0.115472365786656
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "neurofibromatosis type 1",
+            "Hp": "0100568",
+            "Score": 0.0010825534292499,
+            "Id": "OMIM:162200"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "neurofibromatosis type 1",
+            "Hp": "0100568",
+            "Id": "OMIM:162200",
+            "Score": 0.00866042743399918
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NSD1",
+    "Id": "ID:64324",
+    "Score": 0.124998835964055,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Neoplasm of the adrenal cortex",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568",
+            "Id": "HP:0100641",
+            "Score": 0.115472365786656
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "beckwith wiedemann syndrome",
+            "Hp": "0100568",
+            "Score": 0.00952647017739909,
+            "Id": "OMIM:130650"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PMS2",
+    "Id": "ID:5395",
+    "Score": 0.124184343383952,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "mismatch repair cancer syndrome",
+            "Score": 0.0014434045723332,
+            "Id": "OMIM:276300"
+          },
+          {
+            "Id": "OMIM:276300",
+            "Score": 0.0010825534292499,
+            "IdNote": "CLINVAR",
+            "Condition": "turcot syndrome",
+            "Hp": "0100568"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0100568",
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0100568",
+            "Score": 0.115472365786656
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:252202",
+            "Score": 0.00618601959571369,
+            "Hp": "0100568",
+            "IdNote": "ORPHANET",
+            "Condition": "constitutional mismatch repair deficiency syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MSH2",
+    "Id": "ID:4436",
+    "Score": 0.124184343383952,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "mismatch repair cancer syndrome",
+            "Score": 0.0014434045723332,
+            "Id": "OMIM:276300"
+          },
+          {
+            "Hp": "0100568",
+            "Condition": "turcot syndrome",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:276300",
+            "Score": 0.0010825534292499
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568",
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:252202",
+            "Score": 0.00618601959571369,
+            "IdNote": "ORPHANET",
+            "Condition": "constitutional mismatch repair deficiency syndrome",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MSH6",
+    "Id": "ID:2956",
+    "Score": 0.124184343383952,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:276300",
+            "Score": 0.0014434045723332,
+            "Condition": "mismatch repair cancer syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0100568"
+          },
+          {
+            "Condition": "turcot syndrome",
+            "IdNote": "CLINVAR",
+            "Hp": "0100568",
+            "Id": "OMIM:276300",
+            "Score": 0.0010825534292499
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0100568",
+            "Score": 0.115472365786656,
+            "Hp": "0100568",
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00618601959571369,
+            "Id": "ORPHANET:252202",
+            "Condition": "constitutional mismatch repair deficiency syndrome",
+            "IdNote": "ORPHANET",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AKT1",
+    "Id": "ID:207",
+    "Score": 0.124132793220655,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the endocrine system",
+            "Hp": "0100568",
+            "Id": "HP:0100568",
+            "Score": 0.115472365786656
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "cowden syndrome",
+            "IdNote": "ORPHANET",
+            "Hp": "0100568",
+            "Score": 0.00866042743399918,
+            "Id": "ORPHANET:201"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PIK3CA",
+    "Id": "ID:5290",
+    "Score": 0.124132793220655,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0100568",
+            "IdNote": "ORPHANET",
+            "Condition": "cowden syndrome",
+            "Score": 0.00866042743399918,
+            "Id": "ORPHANET:201"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the endocrine system",
+            "Hp": "0100568",
+            "Id": "HP:0100568",
+            "Score": 0.115472365786656
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "APC",
+    "Id": "ID:324",
+    "Score": 0.123833802273529,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:99818",
+            "Score": 0.00742322351485643,
+            "Hp": "0100568",
+            "IdNote": "ORPHANET",
+            "Condition": "turcot syndrome"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Neoplasm of the adrenal cortex",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568",
+            "Score": 0.115472365786656,
+            "Id": "HP:0100641"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0100568",
+            "Condition": "familial adenomatous polyposis 1",
+            "IdNote": "CLINVAR",
+            "Score": 0.000938212972016577,
+            "Id": "OMIM:175100"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GNAS",
+    "Id": "ID:2778",
+    "Score": 0.123282215526244,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:562",
+            "Score": 0.00618601959571369,
+            "IdNote": "ORPHANET",
+            "Condition": "mccune albright syndrome",
+            "Hp": "0100568"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568",
+            "Hp": "0100568",
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:219080",
+            "Score": 0.000541276714624947,
+            "IdNote": "CLINVAR",
+            "Condition": "cushing syndrome",
+            "Hp": "0100568"
+          },
+          {
+            "Hp": "0100568",
+            "Condition": "mccune albright syndrome",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:174800",
+            "Score": 0.0010825534292499
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IDH2",
+    "Id": "ID:3418",
+    "Score": 0.122895589301512,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0100568",
+            "IdNote": "ORPHANET",
+            "Condition": "maffucci syndrome",
+            "Score": 0.00742322351485643,
+            "Id": "ORPHANET:163634"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0100733",
+            "Score": 0.115472365786656,
+            "Hp": "0100568",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the parathyroid gland"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IDH1",
+    "Id": "ID:3417",
+    "Score": 0.122895589301512,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the parathyroid gland",
+            "Hp": "0100568",
+            "Id": "HP:0100733",
+            "Score": 0.115472365786656
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "maffucci syndrome",
+            "Hp": "0100568",
+            "Id": "ORPHANET:163634",
+            "Score": 0.00742322351485643
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KLLN",
+    "Id": "ID:100144748",
+    "Score": 0.120421181463226,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the endocrine system",
+            "Hp": "0100568",
+            "Id": "HP:0100568",
+            "Score": 0.115472365786656
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "cowden syndrome",
+            "Hp": "0100568",
+            "Id": "ORPHANET:201",
+            "Score": 0.00494881567657094
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DICER1",
+    "Id": "ID:23405",
+    "Score": 0.117853983331005,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0100568",
+            "Condition": "goiter multinodular 1",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:138800",
+            "Score": 0.00238161754434977
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the endocrine system",
+            "Hp": "0100568",
+            "Id": "HP:0100568",
+            "Score": 0.115472365786656
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAFA",
+    "Id": "ID:389692",
+    "Score": 0.117853983331005,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00238161754434977,
+            "Id": "OMIM:147630",
+            "Hp": "0100568",
+            "IdNote": "CLINVAR",
+            "Condition": "islet cell adenomatosis"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0100634",
+            "Score": 0.115472365786656,
+            "Hp": "0100568",
+            "Condition": "Neuroendocrine neoplasm",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MLH3",
+    "Id": "ID:27030",
+    "Score": 0.116915770358989,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:276300",
+            "Score": 0.0014434045723332,
+            "Condition": "mismatch repair cancer syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0100568"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the endocrine system",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EPCAM",
+    "Id": "ID:4072",
+    "Score": 0.116915770358989,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0014434045723332,
+            "Id": "OMIM:276300",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "mismatch repair cancer syndrome",
+            "Hp": "0100568"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568",
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PMS1",
+    "Id": "ID:5378",
+    "Score": 0.116915770358989,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the endocrine system",
+            "Hp": "0100568",
+            "Id": "HP:0100568",
+            "Score": 0.115472365786656
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0100568",
+            "Condition": "mismatch repair cancer syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:276300",
+            "Score": 0.0014434045723332
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TG",
+    "Id": "ID:7038",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568",
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNE3",
+    "Id": "ID:10008",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100641",
+            "Condition": "Neoplasm of the adrenal cortex",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDKN1B",
+    "Id": "ID:1027",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the parathyroid gland",
+            "Hp": "0100568",
+            "Id": "HP:0100733",
+            "Score": 0.115472365786656
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SEC23B",
+    "Id": "ID:10483",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0100568",
+            "Score": 0.115472365786656,
+            "Hp": "0100568",
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "USP8",
+    "Id": "ID:9101",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0100568",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the endocrine system",
+            "Id": "HP:0100568",
+            "Score": 0.115472365786656
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SCN4A",
+    "Id": "ID:6329",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100641",
+            "Condition": "Neoplasm of the adrenal cortex",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGFBR2",
+    "Id": "ID:7048",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0100568",
+            "Score": 0.115472365786656,
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KRAS",
+    "Id": "ID:3845",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the endocrine system",
+            "Hp": "0100568",
+            "Id": "HP:0100568",
+            "Score": 0.115472365786656
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDKN2A",
+    "Id": "ID:1029",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0100641",
+            "Score": 0.115472365786656,
+            "Condition": "Neoplasm of the adrenal cortex",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MEN1",
+    "Id": "ID:4221",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100733",
+            "Hp": "0100568",
+            "Condition": "Neoplasm of the parathyroid gland",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MDM2",
+    "Id": "ID:4193",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0100641",
+            "Score": 0.115472365786656,
+            "Condition": "Neoplasm of the adrenal cortex",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDKN1A",
+    "Id": "ID:1026",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0100733",
+            "Score": 0.115472365786656,
+            "Hp": "0100568",
+            "Condition": "Neoplasm of the parathyroid gland",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FAN1",
+    "Id": "ID:22909",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0100568",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the endocrine system",
+            "Id": "HP:0100568",
+            "Score": 0.115472365786656
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MINPP1",
+    "Id": "ID:9562",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568",
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HABP2",
+    "Id": "ID:3026",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the endocrine system",
+            "Hp": "0100568",
+            "Id": "HP:0100568",
+            "Score": 0.115472365786656
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NTRK1",
+    "Id": "ID:4914",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568",
+            "Hp": "0100568",
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KEAP1",
+    "Id": "ID:9817",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0100568",
+            "Score": 0.115472365786656,
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GPR101",
+    "Id": "ID:83550",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0100568",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the endocrine system",
+            "Id": "HP:0100568",
+            "Score": 0.115472365786656
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MSH3",
+    "Id": "ID:4437",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568",
+            "Hp": "0100568",
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LMNA",
+    "Id": "ID:4000",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neuroendocrine neoplasm",
+            "Hp": "0100568",
+            "Score": 0.115472365786656,
+            "Id": "HP:0100634"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NRAS",
+    "Id": "ID:4893",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0100568",
+            "Score": 0.115472365786656,
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDKN2B",
+    "Id": "ID:1030",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100733",
+            "Hp": "0100568",
+            "Condition": "Neoplasm of the parathyroid gland",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BRAF",
+    "Id": "ID:673",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568",
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GCGR",
+    "Id": "ID:2642",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0100568",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neuroendocrine neoplasm",
+            "Id": "HP:0100634",
+            "Score": 0.115472365786656
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDH23",
+    "Id": "ID:64072",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568",
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CTNNB1",
+    "Id": "ID:1499",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568",
+            "Hp": "0100568",
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYP11B1",
+    "Id": "ID:1584",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the adrenal cortex",
+            "Hp": "0100568",
+            "Score": 0.115472365786656,
+            "Id": "HP:0100641"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CACNA1S",
+    "Id": "ID:779",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0100568",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the adrenal cortex",
+            "Score": 0.115472365786656,
+            "Id": "HP:0100641"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FOXE1",
+    "Id": "ID:2304",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568",
+            "Hp": "0100568",
+            "Condition": "Neoplasm of the endocrine system",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SEMA3C",
+    "Id": "ID:10512",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the endocrine system",
+            "Hp": "0100568",
+            "Score": 0.115472365786656,
+            "Id": "HP:0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYP11B2",
+    "Id": "ID:1585",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0100641",
+            "Score": 0.115472365786656,
+            "Hp": "0100568",
+            "Condition": "Neoplasm of the adrenal cortex",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SEMA3D",
+    "Id": "ID:223117",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0100568",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the endocrine system",
+            "Id": "HP:0100568",
+            "Score": 0.115472365786656
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDKN2C",
+    "Id": "ID:1031",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Neoplasm of the parathyroid gland",
+            "Hp": "0100568",
+            "Score": 0.115472365786656,
+            "Id": "HP:0100733"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GCM2",
+    "Id": "ID:9247",
+    "Score": 0.115472365786656,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0100733",
+            "Score": 0.115472365786656,
+            "Condition": "Neoplasm of the parathyroid gland",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CCND1",
+    "Id": "ID:595",
+    "Score": 0.0262816035759184,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:193300",
+            "Score": 0.0251990501466685,
+            "Hp": "0002668",
+            "Condition": "von hippel lindau syndrome",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Id": "OMIM:193300",
+            "Score": 0.0010825534292499,
+            "Hp": "0100568",
+            "Condition": "von hippel lindau syndrome",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NOTCH2",
+    "Id": "ID:4853",
+    "Score": 0.0127019602365321,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0100568",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "alagille syndrome",
+            "Id": "OMIM:118450",
+            "Score": 0.0127019602365321
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "L1CAM",
+    "Id": "ID:3897",
+    "Score": 0.00742322351485643,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0100568",
+            "IdNote": "ORPHANET",
+            "Condition": "hirschsprung disease",
+            "Id": "ORPHANET:388",
+            "Score": 0.00742322351485643
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VRK2",
+    "Id": "ID:7444",
+    "Score": 6.49532057549938E-11,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Condition": "hirschsprung disease",
+            "Hp": "0100568",
+            "Id": "PUBMED:27702942",
+            "Score": 6.49532057549938E-11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FANCL",
+    "Id": "ID:55120",
+    "Score": 6.49532057549938E-11,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Score": 6.49532057549938E-11,
+            "Id": "PUBMED:27702942",
+            "Condition": "hirschsprung disease",
+            "IdNote": "GWAS",
+            "Hp": "0100568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NRG1",
+    "Id": "ID:3084",
+    "Score": 2.16510685849979E-14,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Id": "PUBMED:19196962 27702942",
+            "Score": 2.16510685849979E-14,
+            "Hp": "0100568",
+            "Condition": "hirschsprung disease",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CSGALNACT2",
+    "Id": "ID:55454",
+    "Score": 9.95949154909904E-21,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Score": 1.29906411509988E-21,
+            "Id": "PUBMED:25310821",
+            "Hp": "0100568",
+            "IdNote": "GWAS",
+            "Condition": "hirschsprung disease"
+          },
+          {
+            "Condition": "hirschsprung disease",
+            "IdNote": "GWAS",
+            "Hp": "0100568",
+            "Score": 8.66042743399918E-21,
+            "Id": "PUBMED:19196962"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RASGEF1A",
+    "Id": "ID:221002",
+    "Score": 1.29906411509988E-21,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Condition": "hirschsprung disease",
+            "Hp": "0100568",
+            "Score": 1.29906411509988E-21,
+            "Id": "PUBMED:19196962 25310821"
+          }
+        ]
+      }
+    ]
+  }
+]

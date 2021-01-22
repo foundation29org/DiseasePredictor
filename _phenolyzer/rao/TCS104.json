@@ -1,0 +1,416 @@
+[
+  {
+    "Name": "SOX9",
+    "Id": "ID:6662",
+    "Score": 1,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "campomelic dysplasia",
+            "Hp": "0012244",
+            "Id": "ORPHANET:140",
+            "Score": 0.190751445086705,
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.809248554913294,
+            "Id": "HP:0012245",
+            "Hp": "0012244",
+            "Condition": "Sex reversal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AKR1C2",
+    "Id": "ID:1646",
+    "Score": 0.825939306358381,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Sex reversal",
+            "Hp": "0012244",
+            "Id": "HP:0012245",
+            "Score": 0.809248554913294,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Score": 0.0166907514450867,
+            "Id": "OMIM:614279",
+            "Hp": "0012244",
+            "Condition": "46 xy sex reversal 8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAP3K1",
+    "Id": "ID:4214",
+    "Score": 0.809248554913294,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0012244",
+            "Condition": "Sex reversal",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.809248554913294,
+            "Id": "HP:0012245"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NR0B1",
+    "Id": "ID:190",
+    "Score": 0.809248554913294,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Sex reversal",
+            "Hp": "0012244",
+            "Id": "HP:0012245",
+            "Score": 0.809248554913294,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HSD3B2",
+    "Id": "ID:3284",
+    "Score": 0.809248554913294,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0012244",
+            "Condition": "Abnormal sex determination",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.809248554913294,
+            "Id": "HP:0012244"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WNT4",
+    "Id": "ID:54361",
+    "Score": 0.809248554913294,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012245",
+            "Score": 0.809248554913294,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Sex reversal",
+            "Hp": "0012244"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POR",
+    "Id": "ID:5447",
+    "Score": 0.809248554913294,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.809248554913294,
+            "Id": "HP:0012244",
+            "Hp": "0012244",
+            "Condition": "Abnormal sex determination"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZFPM2",
+    "Id": "ID:23414",
+    "Score": 0.809248554913294,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012245",
+            "Score": 0.809248554913294,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Sex reversal",
+            "Hp": "0012244"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WWOX",
+    "Id": "ID:51741",
+    "Score": 0.809248554913294,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0012244",
+            "Condition": "Abnormal sex determination",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.809248554913294,
+            "Id": "HP:0012244"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CBX2",
+    "Id": "ID:84733",
+    "Score": 0.809248554913294,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.809248554913294,
+            "Id": "HP:0012245",
+            "Hp": "0012244",
+            "Condition": "Sex reversal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VAMP7",
+    "Id": "ID:6845",
+    "Score": 0.809248554913294,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Abnormal sex determination",
+            "Hp": "0012244",
+            "Id": "HP:0012244",
+            "Score": 0.809248554913294,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYP17A1",
+    "Id": "ID:1586",
+    "Score": 0.809248554913294,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Abnormal sex determination",
+            "Hp": "0012244",
+            "Id": "HP:0012244",
+            "Score": 0.809248554913294,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DMRT3",
+    "Id": "ID:58524",
+    "Score": 0.809248554913294,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Abnormal sex determination",
+            "Hp": "0012244",
+            "Id": "HP:0012244",
+            "Score": 0.809248554913294,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYP11A1",
+    "Id": "ID:1583",
+    "Score": 0.809248554913294,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Sex reversal",
+            "Hp": "0012244",
+            "Id": "HP:0012245",
+            "Score": 0.809248554913294,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYB5A",
+    "Id": "ID:1528",
+    "Score": 0.809248554913294,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.809248554913294,
+            "Id": "HP:0012244",
+            "Hp": "0012244",
+            "Condition": "Abnormal sex determination"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GATA4",
+    "Id": "ID:2626",
+    "Score": 0.809248554913294,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012244",
+            "Score": 0.809248554913294,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Abnormal sex determination",
+            "Hp": "0012244"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WT1",
+    "Id": "ID:7490",
+    "Score": 0.809248554913294,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Abnormal sex determination",
+            "Hp": "0012244",
+            "Id": "HP:0012244",
+            "Score": 0.809248554913294,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NR5A1",
+    "Id": "ID:2516",
+    "Score": 0.809248554913294,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0012244",
+            "Condition": "Sex reversal",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.809248554913294,
+            "Id": "HP:0012245"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RSPO1",
+    "Id": "ID:284654",
+    "Score": 0.809248554913294,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012245",
+            "Score": 0.809248554913294,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Sex reversal",
+            "Hp": "0012244"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SRY",
+    "Id": "ID:6736",
+    "Score": 0.809248554913294,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.809248554913294,
+            "Id": "HP:0012245",
+            "Hp": "0012244",
+            "Condition": "Sex reversal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DHH",
+    "Id": "ID:50846",
+    "Score": 0.809248554913294,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012245",
+            "Score": 0.809248554913294,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Sex reversal",
+            "Hp": "0012244"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AKR1C4",
+    "Id": "ID:1109",
+    "Score": 0.0166907514450867,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0012244",
+            "Condition": "46 xy sex reversal 8",
+            "IdNote": "CLINVAR",
+            "Score": 0.0166907514450867,
+            "Id": "OMIM:614279"
+          }
+        ]
+      }
+    ]
+  }
+]

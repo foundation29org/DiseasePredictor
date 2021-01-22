@@ -1,0 +1,3094 @@
+[
+  {
+    "Name": "TYR",
+    "Id": "ID:7299",
+    "Score": 1,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001107",
+            "Score": 0.0180450832284798,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001107",
+            "Condition": "Ocular albinism"
+          },
+          {
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation",
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079
+          },
+          {
+            "Score": 0.80300620366735,
+            "Id": "HP:0007750",
+            "Condition": "Hypoplasia of the fovea",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007750"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.0081202874528159,
+            "Id": "OMIM:203100",
+            "Condition": "albinism oculocutaneous type ia",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107"
+          },
+          {
+            "Score": 0.0081202874528159,
+            "Id": "OMIM:606952",
+            "Condition": "albinism oculocutaneous type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Condition": "albinism oculocutaneous type ia",
+            "Id": "OMIM:203100",
+            "Score": 0.00715550082475858
+          },
+          {
+            "Condition": "albinism oculocutaneous type ib",
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00715550082475858,
+            "Id": "OMIM:606952"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007750",
+            "Condition": "albinism oculocutaneous type ia",
+            "Id": "OMIM:203100",
+            "Score": 0.132496023605113
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PAX6",
+    "Id": "ID:5080",
+    "Score": 0.892185540975069,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:106210",
+            "Score": 0.000451127080711994,
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "aniridia"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Condition": "aniridia",
+            "Id": "OMIM:106210",
+            "Score": 0.000397527823597699
+          },
+          {
+            "Id": "OMIM:106210",
+            "Score": 0.0883306824034086,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007750",
+            "Condition": "aniridia"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Hypoplasia of the fovea",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007750",
+            "Score": 0.80300620366735,
+            "Id": "HP:0007750"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HPS5",
+    "Id": "ID:11234",
+    "Score": 0.858489038643512,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.00644467258159991,
+            "Id": "ORPHANET:231512",
+            "Condition": "hermansky pudlak syndrome",
+            "IdNote": "ORPHANET",
+            "Hp": "0001107"
+          },
+          {
+            "IdNote": "ORPHANET",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome",
+            "Id": "ORPHANET:231512",
+            "Score": 0.00567896890853854
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0001107",
+            "Score": 0.0180450832284798,
+            "Hp": "0001107",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Ocular albinism"
+          },
+          {
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730",
+            "Condition": "Iris hypopigmentation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730"
+          },
+          {
+            "Id": "HP:0007750",
+            "Score": 0.80300620366735,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007750",
+            "Condition": "Hypoplasia of the fovea"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "hermansky pudlak syndrome 1",
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:203300"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 2",
+            "Id": "OMIM:608233",
+            "Score": 0.000661653051710924
+          },
+          {
+            "Id": "OMIM:614073",
+            "Score": 0.000661653051710924,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 4"
+          },
+          {
+            "Id": "OMIM:614074",
+            "Score": 0.000372179841587396,
+            "IdNote": "CLINVAR",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 5"
+          },
+          {
+            "Id": "OMIM:614074",
+            "Score": 0.000661653051710924,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 5"
+          },
+          {
+            "Id": "OMIM:614075",
+            "Score": 0.000661653051710924,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 6"
+          },
+          {
+            "Id": "OMIM:614076",
+            "Score": 0.000661653051710924,
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 7"
+          },
+          {
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 8",
+            "Id": "OMIM:614077",
+            "Score": 0.000661653051710924
+          },
+          {
+            "Id": "OMIM:203300",
+            "Score": 0.000583040807943289,
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 1"
+          },
+          {
+            "Condition": "hermansky pudlak syndrome 2",
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:608233"
+          },
+          {
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 4",
+            "Id": "OMIM:614073",
+            "Score": 0.000583040807943289
+          },
+          {
+            "Id": "OMIM:614074",
+            "Score": 0.000327960454468101,
+            "IdNote": "CLINVAR",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome 5"
+          },
+          {
+            "Id": "OMIM:614074",
+            "Score": 0.000583040807943289,
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 5"
+          },
+          {
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:614075",
+            "Condition": "hermansky pudlak syndrome 6",
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:614076",
+            "Score": 0.000583040807943289,
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 7"
+          },
+          {
+            "Id": "OMIM:614077",
+            "Score": 0.000583040807943289,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome 8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HPS4",
+    "Id": "ID:89781",
+    "Score": 0.858489038643512,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ocular albinism",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001107",
+            "Score": 0.0180450832284798,
+            "Id": "HP:0001107"
+          },
+          {
+            "Condition": "Iris hypopigmentation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730"
+          },
+          {
+            "Hp": "0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypoplasia of the fovea",
+            "Id": "HP:0007750",
+            "Score": 0.80300620366735
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:203300",
+            "Score": 0.000661653051710924,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 1"
+          },
+          {
+            "Id": "OMIM:608233",
+            "Score": 0.000661653051710924,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 2"
+          },
+          {
+            "Condition": "hermansky pudlak syndrome 4",
+            "IdNote": "CLINVAR",
+            "Hp": "0001107",
+            "Score": 0.000372179841587396,
+            "Id": "OMIM:614073"
+          },
+          {
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 4",
+            "Id": "OMIM:614073",
+            "Score": 0.000661653051710924
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 5",
+            "Id": "OMIM:614074",
+            "Score": 0.000661653051710924
+          },
+          {
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 6",
+            "Id": "OMIM:614075",
+            "Score": 0.000661653051710924
+          },
+          {
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:614076",
+            "Condition": "hermansky pudlak syndrome 7",
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:614077",
+            "Condition": "hermansky pudlak syndrome 8",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome 1",
+            "Id": "OMIM:203300",
+            "Score": 0.000583040807943289
+          },
+          {
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:608233",
+            "Condition": "hermansky pudlak syndrome 2",
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.000327960454468101,
+            "Id": "OMIM:614073",
+            "Condition": "hermansky pudlak syndrome 4",
+            "IdNote": "CLINVAR",
+            "Hp": "0007730"
+          },
+          {
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:614073",
+            "Condition": "hermansky pudlak syndrome 4",
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "hermansky pudlak syndrome 5",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:614074"
+          },
+          {
+            "Id": "OMIM:614075",
+            "Score": 0.000583040807943289,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome 6"
+          },
+          {
+            "Condition": "hermansky pudlak syndrome 7",
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:614076"
+          },
+          {
+            "Condition": "hermansky pudlak syndrome 8",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:614077"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0001107",
+            "IdNote": "ORPHANET",
+            "Condition": "hermansky pudlak syndrome",
+            "Id": "ORPHANET:231500",
+            "Score": 0.00644467258159991
+          },
+          {
+            "Condition": "hermansky pudlak syndrome",
+            "IdNote": "ORPHANET",
+            "Hp": "0007730",
+            "Score": 0.00567896890853854,
+            "Id": "ORPHANET:231500"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BLOC1S3",
+    "Id": "ID:388552",
+    "Score": 0.846365397153373,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:203300",
+            "Condition": "hermansky pudlak syndrome 1",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107"
+          },
+          {
+            "Condition": "hermansky pudlak syndrome 2",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:608233"
+          },
+          {
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:614073",
+            "Condition": "hermansky pudlak syndrome 4",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107"
+          },
+          {
+            "Id": "OMIM:614074",
+            "Score": 0.000661653051710924,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 5"
+          },
+          {
+            "Condition": "hermansky pudlak syndrome 6",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:614075"
+          },
+          {
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:614076",
+            "Condition": "hermansky pudlak syndrome 7",
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.000372179841587396,
+            "Id": "OMIM:614077",
+            "Condition": "hermansky pudlak syndrome 8",
+            "Hp": "0001107",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 8",
+            "Id": "OMIM:614077",
+            "Score": 0.000661653051710924
+          },
+          {
+            "Condition": "hermansky pudlak syndrome 1",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:203300"
+          },
+          {
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:608233",
+            "Condition": "hermansky pudlak syndrome 2",
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:614073",
+            "Condition": "hermansky pudlak syndrome 4",
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome 5",
+            "Id": "OMIM:614074",
+            "Score": 0.000583040807943289
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome 6",
+            "Id": "OMIM:614075",
+            "Score": 0.000583040807943289
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome 7",
+            "Id": "OMIM:614076",
+            "Score": 0.000583040807943289
+          },
+          {
+            "Id": "OMIM:614077",
+            "Score": 0.000327960454468101,
+            "Hp": "0007730",
+            "IdNote": "CLINVAR",
+            "Condition": "hermansky pudlak syndrome 8"
+          },
+          {
+            "Id": "OMIM:614077",
+            "Score": 0.000583040807943289,
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 8"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001107",
+            "Condition": "Ocular albinism",
+            "Id": "HP:0001107",
+            "Score": 0.0180450832284798
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Condition": "Iris hypopigmentation",
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079
+          },
+          {
+            "Id": "HP:0007750",
+            "Score": 0.80300620366735,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007750",
+            "Condition": "Hypoplasia of the fovea"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GPR143",
+    "Id": "ID:4935",
+    "Score": 0.836952399839738,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001107",
+            "Score": 0.0180450832284798,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001107",
+            "Condition": "Ocular albinism"
+          },
+          {
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730",
+            "Condition": "Iris hypopigmentation",
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Score": 0.80300620366735,
+            "Id": "HP:0007750",
+            "Condition": "Hypoplasia of the fovea",
+            "Hp": "0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MITF",
+    "Id": "ID:4286",
+    "Score": 0.836952399839738,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0180450832284798,
+            "Id": "HP:0001107",
+            "Condition": "Ocular albinism",
+            "Hp": "0001107",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Condition": "Iris hypopigmentation",
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079
+          },
+          {
+            "Condition": "Hypoplasia of the fovea",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007750",
+            "Score": 0.80300620366735,
+            "Id": "HP:0007750"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC45A2",
+    "Id": "ID:51151",
+    "Score": 0.835880414697452,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079,
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation"
+          },
+          {
+            "Score": 0.80300620366735,
+            "Id": "HP:0007750",
+            "Condition": "Hypoplasia of the fovea",
+            "Hp": "0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.0090225416142399,
+            "Id": "OMIM:606574",
+            "Condition": "albinism oculocutaneous type iv",
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.00795055647195396,
+            "Id": "OMIM:606574",
+            "Condition": "albinism oculocutaneous type iv",
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "OCA2",
+    "Id": "ID:4948",
+    "Score": 0.818907316611258,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079,
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation"
+          },
+          {
+            "Hp": "0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypoplasia of the fovea",
+            "Id": "HP:0007750",
+            "Score": 0.80300620366735
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "C8ORF37",
+    "Id": "ID:157657",
+    "Score": 0.80300620366735,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypoplasia of the fovea",
+            "Id": "HP:0007750",
+            "Score": 0.80300620366735
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WT1",
+    "Id": "ID:7490",
+    "Score": 0.80300620366735,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007750",
+            "Score": 0.80300620366735,
+            "Hp": "0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypoplasia of the fovea"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GDF3",
+    "Id": "ID:9573",
+    "Score": 0.80300620366735,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hypoplasia of the fovea",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007750",
+            "Score": 0.80300620366735,
+            "Id": "HP:0007750"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GDF6",
+    "Id": "ID:392255",
+    "Score": 0.80300620366735,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypoplasia of the fovea",
+            "Id": "HP:0007750",
+            "Score": 0.80300620366735
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC24A5",
+    "Id": "ID:283652",
+    "Score": 0.80300620366735,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007750",
+            "Score": 0.80300620366735,
+            "Hp": "0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypoplasia of the fovea"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATF6",
+    "Id": "ID:22926",
+    "Score": 0.80300620366735,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007750",
+            "Score": 0.80300620366735,
+            "Hp": "0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypoplasia of the fovea"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ELP4",
+    "Id": "ID:26610",
+    "Score": 0.80300620366735,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hypoplasia of the fovea",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007750",
+            "Score": 0.80300620366735,
+            "Id": "HP:0007750"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDE6C",
+    "Id": "ID:5146",
+    "Score": 0.80300620366735,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hypoplasia of the fovea",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007750",
+            "Score": 0.80300620366735,
+            "Id": "HP:0007750"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GNAT2",
+    "Id": "ID:2780",
+    "Score": 0.80300620366735,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hypoplasia of the fovea",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007750",
+            "Score": 0.80300620366735,
+            "Id": "HP:0007750"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CACNA1F",
+    "Id": "ID:778",
+    "Score": 0.80300620366735,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hypoplasia of the fovea",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007750",
+            "Score": 0.80300620366735,
+            "Id": "HP:0007750"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDE6H",
+    "Id": "ID:5149",
+    "Score": 0.80300620366735,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007750",
+            "Score": 0.80300620366735,
+            "Hp": "0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypoplasia of the fovea"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IKBKG",
+    "Id": "ID:8517",
+    "Score": 0.80300620366735,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypoplasia of the fovea",
+            "Id": "HP:0007750",
+            "Score": 0.80300620366735
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CNGB3",
+    "Id": "ID:54714",
+    "Score": 0.80300620366735,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypoplasia of the fovea",
+            "Id": "HP:0007750",
+            "Score": 0.80300620366735
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CNGA3",
+    "Id": "ID:1261",
+    "Score": 0.80300620366735,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007750",
+            "Score": 0.80300620366735,
+            "Hp": "0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypoplasia of the fovea"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC38A8",
+    "Id": "ID:146167",
+    "Score": 0.80300620366735,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hypoplasia of the fovea",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007750",
+            "Score": 0.80300620366735,
+            "Id": "HP:0007750"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RPGR",
+    "Id": "ID:6103",
+    "Score": 0.80300620366735,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypoplasia of the fovea",
+            "Id": "HP:0007750",
+            "Score": 0.80300620366735
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LYST",
+    "Id": "ID:1130",
+    "Score": 0.0772566930317584,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Hp": "0001107",
+            "Condition": "attenuated ch diak higashi syndrome",
+            "Id": "ORPHANET:352723",
+            "Score": 0.0116004106468799
+          },
+          {
+            "Condition": "attenuated ch diak higashi syndrome",
+            "Hp": "0007730",
+            "IdNote": "ORPHANET",
+            "Score": 0.0102221440353694,
+            "Id": "ORPHANET:352723"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "chediak higashi syndrome",
+            "Id": "OMIM:214500",
+            "Score": 0.0162405749056318
+          },
+          {
+            "Score": 0.00524736727148962,
+            "Id": "OMIM:214500",
+            "Condition": "chediak higashi syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0180450832284798,
+            "Id": "HP:0001107",
+            "Condition": "Ocular albinism",
+            "Hp": "0001107",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730",
+            "Condition": "Iris hypopigmentation",
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AP3B1",
+    "Id": "ID:8546",
+    "Score": 0.057907563274189,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0180450832284798,
+            "Id": "HP:0001107",
+            "Condition": "Ocular albinism",
+            "Hp": "0001107",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Condition": "Iris hypopigmentation"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:203300",
+            "Condition": "hermansky pudlak syndrome 1",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107"
+          },
+          {
+            "Condition": "hermansky pudlak syndrome 2",
+            "Hp": "0001107",
+            "IdNote": "CLINVAR",
+            "Score": 0.000372179841587396,
+            "Id": "OMIM:608233"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 2",
+            "Id": "OMIM:608233",
+            "Score": 0.000661653051710924
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 4",
+            "Id": "OMIM:614073",
+            "Score": 0.000661653051710924
+          },
+          {
+            "Id": "OMIM:614074",
+            "Score": 0.000661653051710924,
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 5"
+          },
+          {
+            "Condition": "hermansky pudlak syndrome 6",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:614075"
+          },
+          {
+            "Id": "OMIM:614076",
+            "Score": 0.000661653051710924,
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 7"
+          },
+          {
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:614077",
+            "Condition": "hermansky pudlak syndrome 8",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107"
+          },
+          {
+            "Id": "OMIM:203300",
+            "Score": 0.000583040807943289,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome 1"
+          },
+          {
+            "Score": 0.000327960454468101,
+            "Id": "OMIM:608233",
+            "Condition": "hermansky pudlak syndrome 2",
+            "Hp": "0007730",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome 2",
+            "Id": "OMIM:608233",
+            "Score": 0.000583040807943289
+          },
+          {
+            "Id": "OMIM:614073",
+            "Score": 0.000583040807943289,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome 4"
+          },
+          {
+            "Id": "OMIM:614074",
+            "Score": 0.000583040807943289,
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 5"
+          },
+          {
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:614075",
+            "Condition": "hermansky pudlak syndrome 6",
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:614076",
+            "Score": 0.000583040807943289,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome 7"
+          },
+          {
+            "Id": "OMIM:614077",
+            "Score": 0.000583040807943289,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome 8"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0077336070979199,
+            "Id": "ORPHANET:183678",
+            "Condition": "hermansky pudlak syndrome",
+            "Hp": "0001107",
+            "IdNote": "ORPHANET"
+          },
+          {
+            "Score": 0.00681476269024625,
+            "Id": "ORPHANET:183678",
+            "Condition": "hermansky pudlak syndrome",
+            "Hp": "0007730",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HPS1",
+    "Id": "ID:3257",
+    "Score": 0.0554828349761613,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001107",
+            "IdNote": "ORPHANET",
+            "Condition": "hermansky pudlak syndrome",
+            "Id": "ORPHANET:231500",
+            "Score": 0.00644467258159991
+          },
+          {
+            "Hp": "0007730",
+            "IdNote": "ORPHANET",
+            "Condition": "hermansky pudlak syndrome",
+            "Id": "ORPHANET:231500",
+            "Score": 0.00567896890853854
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.000372179841587396,
+            "Id": "OMIM:203300",
+            "Condition": "hermansky pudlak syndrome 1",
+            "Hp": "0001107",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Id": "OMIM:203300",
+            "Score": 0.000661653051710924,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 1"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 2",
+            "Id": "OMIM:608233",
+            "Score": 0.000661653051710924
+          },
+          {
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:614073",
+            "Condition": "hermansky pudlak syndrome 4",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107"
+          },
+          {
+            "Id": "OMIM:614074",
+            "Score": 0.000661653051710924,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 5"
+          },
+          {
+            "Id": "OMIM:614075",
+            "Score": 0.000661653051710924,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 6"
+          },
+          {
+            "Condition": "hermansky pudlak syndrome 7",
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:614076"
+          },
+          {
+            "Condition": "hermansky pudlak syndrome 8",
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:614077"
+          },
+          {
+            "Id": "OMIM:203300",
+            "Score": 0.000327960454468101,
+            "IdNote": "CLINVAR",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome 1"
+          },
+          {
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:203300",
+            "Condition": "hermansky pudlak syndrome 1",
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:608233",
+            "Condition": "hermansky pudlak syndrome 2",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730"
+          },
+          {
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 4",
+            "Id": "OMIM:614073",
+            "Score": 0.000583040807943289
+          },
+          {
+            "Condition": "hermansky pudlak syndrome 5",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:614074"
+          },
+          {
+            "Id": "OMIM:614075",
+            "Score": 0.000583040807943289,
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 6"
+          },
+          {
+            "Condition": "hermansky pudlak syndrome 7",
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:614076"
+          },
+          {
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 8",
+            "Id": "OMIM:614077",
+            "Score": 0.000583040807943289
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001107",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Ocular albinism",
+            "Id": "HP:0001107",
+            "Score": 0.0180450832284798
+          },
+          {
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079,
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HPS6",
+    "Id": "ID:79803",
+    "Score": 0.0554828349761613,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "hermansky pudlak syndrome",
+            "Hp": "0001107",
+            "IdNote": "ORPHANET",
+            "Score": 0.00644467258159991,
+            "Id": "ORPHANET:231512"
+          },
+          {
+            "IdNote": "ORPHANET",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome",
+            "Id": "ORPHANET:231512",
+            "Score": 0.00567896890853854
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 1",
+            "Id": "OMIM:203300",
+            "Score": 0.000661653051710924
+          },
+          {
+            "Condition": "hermansky pudlak syndrome 2",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:608233"
+          },
+          {
+            "Id": "OMIM:614073",
+            "Score": 0.000661653051710924,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 4"
+          },
+          {
+            "Id": "OMIM:614074",
+            "Score": 0.000661653051710924,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 5"
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 6",
+            "Id": "OMIM:614075",
+            "Score": 0.000372179841587396
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 6",
+            "Id": "OMIM:614075",
+            "Score": 0.000661653051710924
+          },
+          {
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:614076",
+            "Condition": "hermansky pudlak syndrome 7",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107"
+          },
+          {
+            "Condition": "hermansky pudlak syndrome 8",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:614077"
+          },
+          {
+            "Id": "OMIM:203300",
+            "Score": 0.000583040807943289,
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 1"
+          },
+          {
+            "Id": "OMIM:608233",
+            "Score": 0.000583040807943289,
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 2"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome 4",
+            "Id": "OMIM:614073",
+            "Score": 0.000583040807943289
+          },
+          {
+            "Id": "OMIM:614074",
+            "Score": 0.000583040807943289,
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 5"
+          },
+          {
+            "Score": 0.000327960454468101,
+            "Id": "OMIM:614075",
+            "Condition": "hermansky pudlak syndrome 6",
+            "Hp": "0007730",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Id": "OMIM:614075",
+            "Score": 0.000583040807943289,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome 6"
+          },
+          {
+            "Id": "OMIM:614076",
+            "Score": 0.000583040807943289,
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 7"
+          },
+          {
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:614077",
+            "Condition": "hermansky pudlak syndrome 8",
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0180450832284798,
+            "Id": "HP:0001107",
+            "Condition": "Ocular albinism",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001107"
+          },
+          {
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Condition": "Iris hypopigmentation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DTNBP1",
+    "Id": "ID:84062",
+    "Score": 0.0433591934860226,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:203300",
+            "Score": 0.000661653051710924,
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 1"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 2",
+            "Id": "OMIM:608233",
+            "Score": 0.000661653051710924
+          },
+          {
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 4",
+            "Id": "OMIM:614073",
+            "Score": 0.000661653051710924
+          },
+          {
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:614074",
+            "Condition": "hermansky pudlak syndrome 5",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107"
+          },
+          {
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 6",
+            "Id": "OMIM:614075",
+            "Score": 0.000661653051710924
+          },
+          {
+            "Score": 0.000372179841587396,
+            "Id": "OMIM:614076",
+            "Condition": "hermansky pudlak syndrome 7",
+            "IdNote": "CLINVAR",
+            "Hp": "0001107"
+          },
+          {
+            "Id": "OMIM:614076",
+            "Score": 0.000661653051710924,
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 7"
+          },
+          {
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 8",
+            "Id": "OMIM:614077",
+            "Score": 0.000661653051710924
+          },
+          {
+            "Id": "OMIM:203300",
+            "Score": 0.000583040807943289,
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 1"
+          },
+          {
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:608233",
+            "Condition": "hermansky pudlak syndrome 2",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome 4",
+            "Id": "OMIM:614073",
+            "Score": 0.000583040807943289
+          },
+          {
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:614074",
+            "Condition": "hermansky pudlak syndrome 5",
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome 6",
+            "Id": "OMIM:614075",
+            "Score": 0.000583040807943289
+          },
+          {
+            "Hp": "0007730",
+            "IdNote": "CLINVAR",
+            "Condition": "hermansky pudlak syndrome 7",
+            "Id": "OMIM:614076",
+            "Score": 0.000327960454468101
+          },
+          {
+            "Id": "OMIM:614076",
+            "Score": 0.000583040807943289,
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 7"
+          },
+          {
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:614077",
+            "Condition": "hermansky pudlak syndrome 8",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001107",
+            "Condition": "Ocular albinism",
+            "Id": "HP:0001107",
+            "Score": 0.0180450832284798
+          },
+          {
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730",
+            "Condition": "Iris hypopigmentation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EPG5",
+    "Id": "ID:57724",
+    "Score": 0.0433480801479901,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001107",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Ocular albinism",
+            "Id": "HP:0001107",
+            "Score": 0.0180450832284798
+          },
+          {
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730",
+            "Condition": "Iris hypopigmentation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "vici syndrome",
+            "Hp": "0001107",
+            "IdNote": "CLINVAR",
+            "Score": 0.000744359683174792,
+            "Id": "OMIM:242840"
+          },
+          {
+            "Condition": "vici syndrome",
+            "Hp": "0007730",
+            "IdNote": "CLINVAR",
+            "Score": 0.000655920908936201,
+            "Id": "OMIM:242840"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:1493",
+            "Score": 0.00425348390385596,
+            "IdNote": "ORPHANET",
+            "Hp": "0001107",
+            "Condition": "vici syndrome"
+          },
+          {
+            "Score": 0.00374811947963545,
+            "Id": "ORPHANET:1493",
+            "Condition": "vici syndrome",
+            "Hp": "0007730",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BLOC1S6",
+    "Id": "ID:26258",
+    "Score": 0.0426590531899671,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "hermansky pudlak syndrome 1",
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:203300"
+          },
+          {
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:608233",
+            "Condition": "hermansky pudlak syndrome 2",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107"
+          },
+          {
+            "Condition": "hermansky pudlak syndrome 4",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:614073"
+          },
+          {
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 5",
+            "Id": "OMIM:614074",
+            "Score": 0.000661653051710924
+          },
+          {
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 6",
+            "Id": "OMIM:614075",
+            "Score": 0.000661653051710924
+          },
+          {
+            "Id": "OMIM:614076",
+            "Score": 0.000661653051710924,
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 7"
+          },
+          {
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:614077",
+            "Condition": "hermansky pudlak syndrome 8",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107"
+          },
+          {
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:203300",
+            "Condition": "hermansky pudlak syndrome 1",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730"
+          },
+          {
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 2",
+            "Id": "OMIM:608233",
+            "Score": 0.000583040807943289
+          },
+          {
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 4",
+            "Id": "OMIM:614073",
+            "Score": 0.000583040807943289
+          },
+          {
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 5",
+            "Id": "OMIM:614074",
+            "Score": 0.000583040807943289
+          },
+          {
+            "Id": "OMIM:614075",
+            "Score": 0.000583040807943289,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome 6"
+          },
+          {
+            "Id": "OMIM:614076",
+            "Score": 0.000583040807943289,
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 7"
+          },
+          {
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:614077",
+            "Condition": "hermansky pudlak syndrome 8",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0001107",
+            "Score": 0.0180450832284798,
+            "Hp": "0001107",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Ocular albinism"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Condition": "Iris hypopigmentation",
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PMPCA",
+    "Id": "ID:23203",
+    "Score": 0.0358556697070845,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:213200",
+            "Score": 0.00101503593160199,
+            "Hp": "0001107",
+            "IdNote": "CLINVAR",
+            "Condition": "spinocerebellar ataxia autosomal recessive 2"
+          },
+          {
+            "Score": 0.000894437603094821,
+            "Id": "OMIM:213200",
+            "Condition": "spinocerebellar ataxia autosomal recessive 2",
+            "Hp": "0007730",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0180450832284798,
+            "Id": "HP:0001107",
+            "Condition": "Ocular albinism",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001107"
+          },
+          {
+            "Condition": "Iris hypopigmentation",
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SOX10",
+    "Id": "ID:6663",
+    "Score": 0.0340522780354264,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:611584",
+            "Score": 5.63908850889993E-05,
+            "IdNote": "CLINVAR",
+            "Hp": "0001107",
+            "Condition": "waardenburg syndrome type 2e"
+          },
+          {
+            "Condition": "waardenburg syndrome type 2e",
+            "IdNote": "CLINVAR",
+            "Hp": "0007730",
+            "Score": 4.96909779497122E-05,
+            "Id": "OMIM:611584"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Ocular albinism",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001107",
+            "Score": 0.0180450832284798,
+            "Id": "HP:0001107"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Condition": "Iris hypopigmentation",
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GABRD",
+    "Id": "ID:2563",
+    "Score": 0.0339461961723877,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ocular albinism",
+            "Hp": "0001107",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0180450832284798,
+            "Id": "HP:0001107"
+          },
+          {
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730",
+            "Condition": "Iris hypopigmentation",
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SKI",
+    "Id": "ID:6497",
+    "Score": 0.0339461961723877,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001107",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Ocular albinism",
+            "Id": "HP:0001107",
+            "Score": 0.0180450832284798
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Condition": "Iris hypopigmentation",
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AP3D1",
+    "Id": "ID:8943",
+    "Score": 0.0339461961723877,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001107",
+            "Score": 0.0180450832284798,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001107",
+            "Condition": "Ocular albinism"
+          },
+          {
+            "Condition": "Iris hypopigmentation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRDM16",
+    "Id": "ID:63976",
+    "Score": 0.0339461961723877,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001107",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Ocular albinism",
+            "Id": "HP:0001107",
+            "Score": 0.0180450832284798
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Condition": "Iris hypopigmentation",
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RERE",
+    "Id": "ID:473",
+    "Score": 0.0339461961723877,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001107",
+            "Score": 0.0180450832284798,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001107",
+            "Condition": "Ocular albinism"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Condition": "Iris hypopigmentation",
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNAB2",
+    "Id": "ID:8514",
+    "Score": 0.0339461961723877,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001107",
+            "Score": 0.0180450832284798,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001107",
+            "Condition": "Ocular albinism"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Condition": "Iris hypopigmentation",
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HPS3",
+    "Id": "ID:84343",
+    "Score": 0.020836498507718,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:203300",
+            "Condition": "hermansky pudlak syndrome 1",
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:608233",
+            "Condition": "hermansky pudlak syndrome 2",
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107",
+            "Condition": "hermansky pudlak syndrome 4",
+            "Id": "OMIM:614073",
+            "Score": 0.000661653051710924
+          },
+          {
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:614074",
+            "Condition": "hermansky pudlak syndrome 5",
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:614075",
+            "Condition": "hermansky pudlak syndrome 6",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001107"
+          },
+          {
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 7",
+            "Id": "OMIM:614076",
+            "Score": 0.000661653051710924
+          },
+          {
+            "Score": 0.000661653051710924,
+            "Id": "OMIM:614077",
+            "Condition": "hermansky pudlak syndrome 8",
+            "Hp": "0001107",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "hermansky pudlak syndrome 1",
+            "Id": "OMIM:203300",
+            "Score": 0.000583040807943289
+          },
+          {
+            "Condition": "hermansky pudlak syndrome 2",
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:608233"
+          },
+          {
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:614073",
+            "Condition": "hermansky pudlak syndrome 4",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730"
+          },
+          {
+            "Condition": "hermansky pudlak syndrome 5",
+            "Hp": "0007730",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:614074"
+          },
+          {
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:614075",
+            "Condition": "hermansky pudlak syndrome 6",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730"
+          },
+          {
+            "Condition": "hermansky pudlak syndrome 7",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Score": 0.000583040807943289,
+            "Id": "OMIM:614076"
+          },
+          {
+            "Id": "OMIM:614077",
+            "Score": 0.000583040807943289,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome 8"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:231512",
+            "Score": 0.00644467258159991,
+            "Hp": "0001107",
+            "IdNote": "ORPHANET",
+            "Condition": "hermansky pudlak syndrome"
+          },
+          {
+            "Id": "ORPHANET:231512",
+            "Score": 0.00567896890853854,
+            "IdNote": "ORPHANET",
+            "Hp": "0007730",
+            "Condition": "hermansky pudlak syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYO5A",
+    "Id": "ID:4644",
+    "Score": 0.0178105864786047,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079,
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00101503593160199,
+            "Id": "OMIM:214450",
+            "Condition": "griscelli syndrome type 1",
+            "IdNote": "CLINVAR",
+            "Hp": "0001107"
+          },
+          {
+            "Score": 0.000894437603094821,
+            "Id": "OMIM:214450",
+            "Condition": "griscelli syndrome type 1",
+            "IdNote": "CLINVAR",
+            "Hp": "0007730"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SNRPN",
+    "Id": "ID:6638",
+    "Score": 0.0165570338528442,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0007730",
+            "IdNote": "CLINVAR",
+            "Condition": "prader willi syndrome",
+            "Id": "OMIM:176270",
+            "Score": 0.000655920908936201
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Condition": "Iris hypopigmentation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PWAR1",
+    "Id": "ID:145624",
+    "Score": 0.0165570338528442,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "prader willi syndrome",
+            "Hp": "0007730",
+            "IdNote": "CLINVAR",
+            "Score": 0.000655920908936201,
+            "Id": "OMIM:176270"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730",
+            "Condition": "Iris hypopigmentation",
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IPW",
+    "Id": "ID:3653",
+    "Score": 0.0165570338528442,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730",
+            "Condition": "Iris hypopigmentation",
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.000655920908936201,
+            "Id": "OMIM:176270",
+            "Condition": "prader willi syndrome",
+            "Hp": "0007730",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SNORD115-1",
+    "Id": "ID:338433",
+    "Score": 0.0165570338528442,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Iris hypopigmentation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "prader willi syndrome",
+            "Hp": "0007730",
+            "IdNote": "CLINVAR",
+            "Score": 0.000655920908936201,
+            "Id": "OMIM:176270"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PWRN1",
+    "Id": "ID:791114",
+    "Score": 0.0165570338528442,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Condition": "Iris hypopigmentation"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "prader willi syndrome",
+            "Hp": "0007730",
+            "IdNote": "CLINVAR",
+            "Score": 0.000655920908936201,
+            "Id": "OMIM:176270"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NPAP1",
+    "Id": "ID:23742",
+    "Score": 0.0165570338528442,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000655920908936201,
+            "Id": "OMIM:176270",
+            "Condition": "prader willi syndrome",
+            "Hp": "0007730",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Condition": "Iris hypopigmentation",
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MKRN3",
+    "Id": "ID:7681",
+    "Score": 0.0165570338528442,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0007730",
+            "IdNote": "CLINVAR",
+            "Condition": "prader willi syndrome",
+            "Id": "OMIM:176270",
+            "Score": 0.000655920908936201
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079,
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HERC2",
+    "Id": "ID:8924",
+    "Score": 0.0165570338528442,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Iris hypopigmentation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "prader willi syndrome",
+            "IdNote": "CLINVAR",
+            "Hp": "0007730",
+            "Score": 0.000655920908936201,
+            "Id": "OMIM:176270"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SNORD116-1",
+    "Id": "ID:100033413",
+    "Score": 0.0165570338528442,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730",
+            "Condition": "Iris hypopigmentation",
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0007730",
+            "IdNote": "CLINVAR",
+            "Condition": "prader willi syndrome",
+            "Id": "OMIM:176270",
+            "Score": 0.000655920908936201
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MKRN3-AS1",
+    "Id": "ID:10108",
+    "Score": 0.0165570338528442,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Iris hypopigmentation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "prader willi syndrome",
+            "Hp": "0007730",
+            "IdNote": "CLINVAR",
+            "Score": 0.000655920908936201,
+            "Id": "OMIM:176270"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAGEL2",
+    "Id": "ID:54551",
+    "Score": 0.0165570338528442,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Condition": "Iris hypopigmentation"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "prader willi syndrome",
+            "Hp": "0007730",
+            "IdNote": "CLINVAR",
+            "Score": 0.000655920908936201,
+            "Id": "OMIM:176270"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDN",
+    "Id": "ID:4692",
+    "Score": 0.0165570338528442,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079,
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.000655920908936201,
+            "Id": "OMIM:176270",
+            "Condition": "prader willi syndrome",
+            "IdNote": "CLINVAR",
+            "Hp": "0007730"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAB27A",
+    "Id": "ID:5873",
+    "Score": 0.016060235738466,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Condition": "Iris hypopigmentation"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "griscelli syndrome type 2",
+            "Hp": "0001107",
+            "IdNote": "CLINVAR",
+            "Score": 8.4586327633499E-05,
+            "Id": "OMIM:607624"
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0007730",
+            "Condition": "griscelli syndrome type 2",
+            "Id": "OMIM:607624",
+            "Score": 7.45364669245684E-05
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MLPH",
+    "Id": "ID:79083",
+    "Score": 0.016060235738466,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0001107",
+            "Condition": "griscelli syndrome type 3",
+            "Id": "OMIM:609227",
+            "Score": 8.4586327633499E-05
+          },
+          {
+            "Id": "OMIM:609227",
+            "Score": 7.45364669245684E-05,
+            "Hp": "0007730",
+            "IdNote": "CLINVAR",
+            "Condition": "griscelli syndrome type 3"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079,
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "USH1C",
+    "Id": "ID:10083",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation",
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNS2",
+    "Id": "ID:4575",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation",
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BTD",
+    "Id": "ID:686",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation",
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PCDH15",
+    "Id": "ID:65217",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730",
+            "Condition": "Iris hypopigmentation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDH23",
+    "Id": "ID:64072",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079,
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "USH1G",
+    "Id": "ID:124590",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730",
+            "Condition": "Iris hypopigmentation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PITX2",
+    "Id": "ID:5308",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079,
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AMACR",
+    "Id": "ID:23600",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Iris hypopigmentation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC52A3",
+    "Id": "ID:113278",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Iris hypopigmentation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC52A2",
+    "Id": "ID:79581",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Iris hypopigmentation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CEP78",
+    "Id": "ID:84131",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079,
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CLRN1",
+    "Id": "ID:7401",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079,
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRPH2",
+    "Id": "ID:5961",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730",
+            "Condition": "Iris hypopigmentation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ASPA",
+    "Id": "ID:443",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation",
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IMPG1",
+    "Id": "ID:3617",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation",
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HARS",
+    "Id": "ID:3035",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730",
+            "Condition": "Iris hypopigmentation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BEST1",
+    "Id": "ID:7439",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730",
+            "Condition": "Iris hypopigmentation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "USH2A",
+    "Id": "ID:7399",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730",
+            "Condition": "Iris hypopigmentation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYO7A",
+    "Id": "ID:4647",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Iris hypopigmentation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730",
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TYRP1",
+    "Id": "ID:7306",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation",
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "XYLT2",
+    "Id": "ID:64132",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730",
+            "Condition": "Iris hypopigmentation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MC1R",
+    "Id": "ID:4157",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079,
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IMPG2",
+    "Id": "ID:50939",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079,
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PCYT1A",
+    "Id": "ID:5130",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0159011129439079,
+            "Id": "HP:0007730",
+            "Condition": "Iris hypopigmentation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007730"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDZD7",
+    "Id": "ID:79955",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079,
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CIB2",
+    "Id": "ID:10518",
+    "Score": 0.0159011129439079,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007730",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Iris hypopigmentation",
+            "Id": "HP:0007730",
+            "Score": 0.0159011129439079
+          }
+        ]
+      }
+    ]
+  }
+]

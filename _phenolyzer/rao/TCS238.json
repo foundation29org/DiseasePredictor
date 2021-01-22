@@ -1,0 +1,232 @@
+[
+  {
+    "Name": "SPRED1",
+    "Id": "ID:161742",
+    "Score": 1,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001067",
+            "IdNote": "CLINVAR",
+            "Score": 0.0256695188354262,
+            "Id": "OMIM:611431",
+            "Condition": "legius syndrome"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.20535615068341,
+            "Condition": "legius syndrome",
+            "Id": "OMIM:611431",
+            "Hp": "0001067"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "legius syndrome",
+            "Id": "ORPHANET:137605",
+            "IdNote": "ORPHANET",
+            "Score": 0.146682964773865,
+            "Hp": "0001067"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001067",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.622291365707302,
+            "Id": "HP:0001067",
+            "Condition": "Neurofibromas"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KIT",
+    "Id": "ID:3815",
+    "Score": 0.827647516390713,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001067",
+            "Condition": "gastrointestinal stromal tumor",
+            "Id": "ORPHANET:44890",
+            "Score": 0.20535615068341,
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001067",
+            "Condition": "Neurofibromas",
+            "Id": "HP:0001067",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.622291365707302
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDGFRA",
+    "Id": "ID:5156",
+    "Score": 0.827647516390713,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:44890",
+            "Condition": "gastrointestinal stromal tumor",
+            "IdNote": "ORPHANET",
+            "Score": 0.20535615068341,
+            "Hp": "0001067"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001067",
+            "Score": 0.622291365707302,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001067",
+            "Condition": "Neurofibromas"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SDHC",
+    "Id": "ID:6391",
+    "Score": 0.798310923435942,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.622291365707302,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001067",
+            "Condition": "Neurofibromas",
+            "Hp": "0001067"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "gastrointestinal stromal tumor",
+            "Id": "ORPHANET:44890",
+            "Score": 0.176019557728637,
+            "IdNote": "ORPHANET",
+            "Hp": "0001067"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SDHB",
+    "Id": "ID:6390",
+    "Score": 0.798310923435942,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001067",
+            "Condition": "Neurofibromas",
+            "Id": "HP:0001067",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.622291365707302
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.176019557728637,
+            "IdNote": "ORPHANET",
+            "Condition": "gastrointestinal stromal tumor",
+            "Id": "ORPHANET:44890",
+            "Hp": "0001067"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NF1",
+    "Id": "ID:4763",
+    "Score": 0.79464384931659,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001067",
+            "Score": 0.622291365707302,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Spinal neurofibromas",
+            "Id": "HP:0009735"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0001067",
+            "IdNote": "ORPHANET",
+            "Score": 0.146682964773865,
+            "Id": "ORPHANET:3444",
+            "Condition": "watson syndrome"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001067",
+            "IdNote": "CLINVAR",
+            "Score": 0.0128347594177131,
+            "Id": "OMIM:162210",
+            "Condition": "neurofibromatosis familial spinal"
+          },
+          {
+            "Hp": "0001067",
+            "Score": 0.0128347594177131,
+            "IdNote": "CLINVAR",
+            "Condition": "neurofibromatosis noonan syndrome",
+            "Id": "OMIM:601321"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NF2",
+    "Id": "ID:4771",
+    "Score": 0.622291365707302,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.622291365707302,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0009595",
+            "Condition": "Occasional neurofibromas",
+            "Hp": "0001067"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SDHA",
+    "Id": "ID:6389",
+    "Score": 0.176019557728637,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001067",
+            "Score": 0.176019557728637,
+            "IdNote": "ORPHANET",
+            "Condition": "gastrointestinal stromal tumor",
+            "Id": "ORPHANET:44890"
+          }
+        ]
+      }
+    ]
+  }
+]

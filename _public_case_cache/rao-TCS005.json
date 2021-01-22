@@ -1,0 +1,613 @@
+{
+  "query": {
+    "HP:0007105": {
+      "id": "HP:0007105",
+      "status": "ok",
+      "target": [
+        "HP:0007105"
+      ]
+    }
+  },
+  "response": {
+    "GCDH": {
+      "rank": 1,
+      "id": 2639,
+      "score": 1.0,
+      "status": "SeedGene"
+    },
+    "TK2": {
+      "rank": 2,
+      "id": 7084,
+      "score": 0.2673,
+      "status": "SeedGene"
+    },
+    "D2HGDH": {
+      "rank": 3,
+      "id": 728294,
+      "score": 0.2654,
+      "status": "SeedGene"
+    },
+    "STXBP1": {
+      "rank": 4,
+      "id": 6812,
+      "score": 0.2654,
+      "status": "SeedGene"
+    },
+    "SLC19A3": {
+      "rank": 5,
+      "id": 80704,
+      "score": 0.2654,
+      "status": "SeedGene"
+    },
+    "ZNHIT3": {
+      "rank": 6,
+      "id": 9326,
+      "score": 0.2603,
+      "status": "SeedGene"
+    },
+    "TSEN54": {
+      "rank": 7,
+      "id": 283989,
+      "score": 0.2603,
+      "status": "SeedGene"
+    },
+    "CCDC88A": {
+      "rank": 8,
+      "id": 55704,
+      "score": 0.2603,
+      "status": "SeedGene"
+    },
+    "SLC25A21": {
+      "rank": 9,
+      "id": 89874,
+      "score": 0.0145,
+      "status": "Predicted"
+    },
+    "SLC3A2": {
+      "rank": 10,
+      "id": 6520,
+      "score": 0.0133,
+      "status": "Predicted"
+    },
+    "SLC6A12": {
+      "rank": 11,
+      "id": 6539,
+      "score": 0.0129,
+      "status": "Predicted"
+    },
+    "SLC6A11": {
+      "rank": 12,
+      "id": 6538,
+      "score": 0.0129,
+      "status": "Predicted"
+    },
+    "SLC19A2": {
+      "rank": 13,
+      "id": 10560,
+      "score": 0.0125,
+      "status": "Predicted"
+    },
+    "SLC46A1": {
+      "rank": 14,
+      "id": 113235,
+      "score": 0.0125,
+      "status": "Predicted"
+    },
+    "SLC19A1": {
+      "rank": 15,
+      "id": 6573,
+      "score": 0.0125,
+      "status": "Predicted"
+    },
+    "SLC5A6": {
+      "rank": 16,
+      "id": 8884,
+      "score": 0.0125,
+      "status": "Predicted"
+    },
+    "SLC23A1": {
+      "rank": 17,
+      "id": 9963,
+      "score": 0.0125,
+      "status": "Predicted"
+    },
+    "SLC52A3": {
+      "rank": 18,
+      "id": 113278,
+      "score": 0.0125,
+      "status": "Predicted"
+    },
+    "SLC45A2": {
+      "rank": 19,
+      "id": 51151,
+      "score": 0.0124,
+      "status": "Predicted"
+    },
+    "SLC25A15": {
+      "rank": 20,
+      "id": 10166,
+      "score": 0.0124,
+      "status": "Predicted"
+    },
+    "SLC25A10": {
+      "rank": 21,
+      "id": 1468,
+      "score": 0.0124,
+      "status": "Predicted"
+    },
+    "SLC5A5": {
+      "rank": 22,
+      "id": 6528,
+      "score": 0.0124,
+      "status": "Predicted"
+    },
+    "SLC6A8": {
+      "rank": 23,
+      "id": 6535,
+      "score": 0.0124,
+      "status": "Predicted"
+    },
+    "SLC6A7": {
+      "rank": 24,
+      "id": 6534,
+      "score": 0.0124,
+      "status": "Predicted"
+    },
+    "SLC25A2": {
+      "rank": 25,
+      "id": 83884,
+      "score": 0.0124,
+      "status": "Predicted"
+    },
+    "SLC22A1": {
+      "rank": 26,
+      "id": 6580,
+      "score": 0.0122,
+      "status": "Predicted"
+    },
+    "SLC25A19": {
+      "rank": 27,
+      "id": 60386,
+      "score": 0.0122,
+      "status": "Predicted"
+    },
+    "SLC22A2": {
+      "rank": 28,
+      "id": 6582,
+      "score": 0.0122,
+      "status": "Predicted"
+    },
+    "SLC2A1": {
+      "rank": 29,
+      "id": 6513,
+      "score": 0.0122,
+      "status": "Predicted"
+    },
+    "SLC25A20": {
+      "rank": 30,
+      "id": 788,
+      "score": 0.0121,
+      "status": "Predicted"
+    },
+    "SLC25A4": {
+      "rank": 31,
+      "id": 291,
+      "score": 0.0119,
+      "status": "Predicted"
+    },
+    "SLC2A4": {
+      "rank": 32,
+      "id": 6517,
+      "score": 0.0119,
+      "status": "Predicted"
+    },
+    "SLC2A2": {
+      "rank": 33,
+      "id": 6514,
+      "score": 0.0119,
+      "status": "Predicted"
+    },
+    "SLC25A5": {
+      "rank": 34,
+      "id": 292,
+      "score": 0.0119,
+      "status": "Predicted"
+    },
+    "SLC16A8": {
+      "rank": 35,
+      "id": 23539,
+      "score": 0.0117,
+      "status": "Predicted"
+    },
+    "SLC23A2": {
+      "rank": 36,
+      "id": 9962,
+      "score": 0.0117,
+      "status": "Predicted"
+    },
+    "SLC2A3": {
+      "rank": 37,
+      "id": 6515,
+      "score": 0.0117,
+      "status": "Predicted"
+    },
+    "SLC25A16": {
+      "rank": 38,
+      "id": 8034,
+      "score": 0.0117,
+      "status": "Predicted"
+    },
+    "SLC16A1": {
+      "rank": 39,
+      "id": 6566,
+      "score": 0.0117,
+      "status": "Predicted"
+    },
+    "SLC52A1": {
+      "rank": 40,
+      "id": 55065,
+      "score": 0.0117,
+      "status": "Predicted"
+    },
+    "SLC5A8": {
+      "rank": 41,
+      "id": 160728,
+      "score": 0.0117,
+      "status": "Predicted"
+    },
+    "SLC22A13": {
+      "rank": 42,
+      "id": 9390,
+      "score": 0.0117,
+      "status": "Predicted"
+    },
+    "SLC25A32": {
+      "rank": 43,
+      "id": 81034,
+      "score": 0.0117,
+      "status": "Predicted"
+    },
+    "SLC16A3": {
+      "rank": 44,
+      "id": 9123,
+      "score": 0.0117,
+      "status": "Predicted"
+    },
+    "SLC52A2": {
+      "rank": 45,
+      "id": 79581,
+      "score": 0.0117,
+      "status": "Predicted"
+    },
+    "SLC22A3": {
+      "rank": 46,
+      "id": 6581,
+      "score": 0.0116,
+      "status": "Predicted"
+    },
+    "SLC33A1": {
+      "rank": 47,
+      "id": 9197,
+      "score": 0.0116,
+      "status": "Predicted"
+    },
+    "SLC9A1": {
+      "rank": 48,
+      "id": 6548,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC37A4": {
+      "rank": 49,
+      "id": 2542,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC35D1": {
+      "rank": 50,
+      "id": 23169,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC5A4": {
+      "rank": 51,
+      "id": 6527,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "UCP3": {
+      "rank": 52,
+      "id": 7352,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "UCP1": {
+      "rank": 53,
+      "id": 7350,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC25A27": {
+      "rank": 54,
+      "id": 9481,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC26A2": {
+      "rank": 55,
+      "id": 1836,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC5A1": {
+      "rank": 56,
+      "id": 6523,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLCO1A2": {
+      "rank": 57,
+      "id": 6579,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC25A17": {
+      "rank": 58,
+      "id": 10478,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC25A28": {
+      "rank": 59,
+      "id": 81894,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC35B3": {
+      "rank": 60,
+      "id": 51000,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC44A2": {
+      "rank": 61,
+      "id": 57153,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC44A3": {
+      "rank": 62,
+      "id": 126969,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC25A11": {
+      "rank": 63,
+      "id": 8402,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLCO1B1": {
+      "rank": 64,
+      "id": 10599,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "UCP2": {
+      "rank": 65,
+      "id": 7351,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC35D2": {
+      "rank": 66,
+      "id": 11046,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC45A3": {
+      "rank": 67,
+      "id": 85414,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC25A13": {
+      "rank": 68,
+      "id": 10165,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC5A10": {
+      "rank": 69,
+      "id": 125206,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC44A5": {
+      "rank": 70,
+      "id": 204962,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC25A1": {
+      "rank": 71,
+      "id": 6576,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC10A1": {
+      "rank": 72,
+      "id": 6554,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC25A12": {
+      "rank": 73,
+      "id": 8604,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC5A3": {
+      "rank": 74,
+      "id": 6526,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC10A2": {
+      "rank": 75,
+      "id": 6555,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC2A14": {
+      "rank": 76,
+      "id": 144195,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC25A37": {
+      "rank": 77,
+      "id": 51312,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC5A9": {
+      "rank": 78,
+      "id": 200010,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC35B2": {
+      "rank": 79,
+      "id": 347734,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC50A1": {
+      "rank": 80,
+      "id": 55974,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC44A4": {
+      "rank": 81,
+      "id": 80736,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLCO1B3": {
+      "rank": 82,
+      "id": 28234,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC2A5": {
+      "rank": 83,
+      "id": 6518,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC5A2": {
+      "rank": 84,
+      "id": 6524,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC26A1": {
+      "rank": 85,
+      "id": 10861,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "SLC25A14": {
+      "rank": 86,
+      "id": 9016,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "AKT1": {
+      "rank": 87,
+      "id": 207,
+      "score": 0.0114,
+      "status": "Predicted"
+    },
+    "PLD1": {
+      "rank": 88,
+      "id": 5337,
+      "score": 0.0106,
+      "status": "Predicted"
+    },
+    "PLD2": {
+      "rank": 89,
+      "id": 5338,
+      "score": 0.0104,
+      "status": "Predicted"
+    },
+    "MAOA": {
+      "rank": 90,
+      "id": 4128,
+      "score": 0.0103,
+      "status": "Predicted"
+    },
+    "ACACA": {
+      "rank": 91,
+      "id": 31,
+      "score": 0.0103,
+      "status": "Predicted"
+    },
+    "GLS": {
+      "rank": 92,
+      "id": 2744,
+      "score": 0.0098,
+      "status": "Predicted"
+    },
+    "GLS2": {
+      "rank": 93,
+      "id": 27165,
+      "score": 0.0098,
+      "status": "Predicted"
+    },
+    "HPRT1": {
+      "rank": 94,
+      "id": 3251,
+      "score": 0.0098,
+      "status": "Predicted"
+    },
+    "DLST": {
+      "rank": 95,
+      "id": 1743,
+      "score": 0.0097,
+      "status": "Predicted"
+    },
+    "AOX1": {
+      "rank": 96,
+      "id": 316,
+      "score": 0.0097,
+      "status": "Predicted"
+    },
+    "OGDH": {
+      "rank": 97,
+      "id": 4967,
+      "score": 0.0097,
+      "status": "Predicted"
+    },
+    "DLD": {
+      "rank": 98,
+      "id": 1738,
+      "score": 0.0097,
+      "status": "Predicted"
+    },
+    "ALDH2": {
+      "rank": 99,
+      "id": 217,
+      "score": 0.0097,
+      "status": "Predicted"
+    },
+    "PLCH1": {
+      "rank": 100,
+      "id": 23007,
+      "score": 0.0095,
+      "status": "Predicted"
+    }
+  }
+}

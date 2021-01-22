@@ -1,0 +1,2408 @@
+[
+  {
+    "Name": "VAPB",
+    "Id": "ID:9217",
+    "Score": 1,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Hp": "0007269",
+            "Score": 0.714285714285715,
+            "Id": "HP:0007269",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Spinal muscular atrophy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHCHD10",
+    "Id": "ID:400916",
+    "Score": 1,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          },
+          {
+            "Condition": "Spinal muscular atrophy",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.714285714285715,
+            "Id": "HP:0007269",
+            "Hp": "0007269"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VRK1",
+    "Id": "ID:7443",
+    "Score": 0.95,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "pontocerebellar hypoplasia type 1",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:2254",
+            "Score": 0.235714285714285,
+            "Hp": "0007269"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0007269",
+            "Id": "HP:0007269",
+            "Score": 0.714285714285715,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Spinal muscular atrophy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATP7A",
+    "Id": "ID:538",
+    "Score": 0.792857142857142,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "spinal muscular atrophy distal x linked 3",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0785714285714283,
+            "Id": "OMIM:300489",
+            "Hp": "0007269"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Spinal muscular atrophy",
+            "Hp": "0007269",
+            "Id": "HP:0007269",
+            "Score": 0.714285714285715
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IGHMBP2",
+    "Id": "ID:3508",
+    "Score": 0.729017857142857,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "spinal muscular atrophy distal autosomal recessive 1",
+            "Hp": "0007269",
+            "Score": 0.0147321428571428,
+            "Id": "OMIM:604320"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0007269",
+            "Score": 0.714285714285715,
+            "Hp": "0007269",
+            "Condition": "Spinal muscular atrophy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TBCE",
+    "Id": "ID:6905",
+    "Score": 0.714285714285715,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007269",
+            "Score": 0.714285714285715,
+            "Hp": "0007269",
+            "Condition": "Spinal muscular atrophy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ASAH1",
+    "Id": "ID:427",
+    "Score": 0.714285714285715,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Spinal muscular atrophy",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.714285714285715,
+            "Id": "HP:0007269",
+            "Hp": "0007269"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SIGMAR1",
+    "Id": "ID:10280",
+    "Score": 0.714285714285715,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007269",
+            "Score": 0.714285714285715,
+            "Hp": "0007269",
+            "Condition": "Spinal muscular atrophy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FBXO38",
+    "Id": "ID:81545",
+    "Score": 0.714285714285715,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007269",
+            "Id": "HP:0007269",
+            "Score": 0.714285714285715,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Spinal muscular atrophy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "UBA1",
+    "Id": "ID:7317",
+    "Score": 0.714285714285715,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Spinal muscular atrophy",
+            "Hp": "0007269",
+            "Score": 0.714285714285715,
+            "Id": "HP:0007269"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRIP4",
+    "Id": "ID:9325",
+    "Score": 0.714285714285715,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Spinal muscular atrophy",
+            "Hp": "0007269",
+            "Score": 0.714285714285715,
+            "Id": "HP:0007269"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DYNC1H1",
+    "Id": "ID:1778",
+    "Score": 0.714285714285715,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007269",
+            "Score": 0.714285714285715,
+            "Hp": "0007269",
+            "Condition": "Spinal muscular atrophy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRPV4",
+    "Id": "ID:59341",
+    "Score": 0.714285714285715,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007269",
+            "Id": "HP:0007269",
+            "Score": 0.714285714285715,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Spinal muscular atrophy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAX2",
+    "Id": "ID:84839",
+    "Score": 0.714285714285715,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007269",
+            "Id": "HP:0007269",
+            "Score": 0.714285714285715,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Spinal muscular atrophy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ASCC1",
+    "Id": "ID:51008",
+    "Score": 0.714285714285715,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007269",
+            "Id": "HP:0007269",
+            "Score": 0.714285714285715,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Spinal muscular atrophy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SMN1",
+    "Id": "ID:6606",
+    "Score": 0.714285714285715,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Spinal muscular atrophy",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.714285714285715,
+            "Id": "HP:0007269",
+            "Hp": "0007269"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PLEKHG5",
+    "Id": "ID:57449",
+    "Score": 0.714285714285715,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Spinal muscular atrophy",
+            "Hp": "0007269",
+            "Score": 0.714285714285715,
+            "Id": "HP:0007269"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BICD2",
+    "Id": "ID:23299",
+    "Score": 0.714285714285715,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007269",
+            "Score": 0.714285714285715,
+            "Hp": "0007269",
+            "Condition": "Spinal muscular atrophy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EXOSC8",
+    "Id": "ID:11340",
+    "Score": 0.714285714285715,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Spinal muscular atrophy",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.714285714285715,
+            "Id": "HP:0007269",
+            "Hp": "0007269"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DNAJB2",
+    "Id": "ID:3300",
+    "Score": 0.714285714285715,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007269",
+            "Score": 0.714285714285715,
+            "Hp": "0007269",
+            "Condition": "Spinal muscular atrophy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC12A3",
+    "Id": "ID:6559",
+    "Score": 0.38,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "gitelman syndrome",
+            "Hp": "0003324",
+            "Id": "ORPHANET:358",
+            "Score": 0.0942857142857141
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MTM1",
+    "Id": "ID:4534",
+    "Score": 0.38,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "myotubular myopathy x linked",
+            "Hp": "0003324",
+            "Score": 0.0942857142857141,
+            "Id": "OMIM:310400"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CLCNKB",
+    "Id": "ID:1188",
+    "Score": 0.378316326530612,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "bartter syndrome type 3",
+            "Hp": "0003324",
+            "Score": 0.0117857142857143,
+            "Id": "OMIM:607364"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:358",
+            "Score": 0.0808163265306123,
+            "Hp": "0003324",
+            "Condition": "gitelman syndrome",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RYR1",
+    "Id": "ID:6261",
+    "Score": 0.323035714285714,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "minicore myopathy",
+            "Hp": "0003324",
+            "Score": 0.00589285714285713,
+            "Id": "OMIM:255320"
+          },
+          {
+            "Id": "OMIM:255320",
+            "Score": 0.0314285714285714,
+            "Hp": "0003324",
+            "Condition": "minicore myopathy",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POLG",
+    "Id": "ID:5428",
+    "Score": 0.291607142857143,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "mitochondrial dna depletion syndrome 4b mngie type",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:613662",
+            "Score": 0.00589285714285713,
+            "Hp": "0003324"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COLQ",
+    "Id": "ID:8292",
+    "Score": 0.291607142857143,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00589285714285713,
+            "Id": "OMIM:603034",
+            "Hp": "0003324",
+            "Condition": "endplate acetylcholinesterase deficiency",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NEB",
+    "Id": "ID:4703",
+    "Score": 0.291607142857143,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "nemaline myopathy 2",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:256030",
+            "Score": 0.00589285714285713,
+            "Hp": "0003324"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TPM3",
+    "Id": "ID:7170",
+    "Score": 0.291607142857143,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "nemaline myopathy 1",
+            "Hp": "0003324",
+            "Score": 0.00589285714285713,
+            "Id": "OMIM:609284"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DSE",
+    "Id": "ID:29940",
+    "Score": 0.291607142857143,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "ehlers danlos syndrome musculocontractural type 2",
+            "IdNote": "CLINVAR",
+            "Score": 0.00589285714285713,
+            "Id": "OMIM:615539",
+            "Hp": "0003324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AARS2",
+    "Id": "ID:57505",
+    "Score": 0.291607142857143,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0003324",
+            "Score": 0.00589285714285713,
+            "Id": "OMIM:614096",
+            "IdNote": "CLINVAR",
+            "Condition": "combined oxidative phosphorylation deficiency 8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACTA1",
+    "Id": "ID:58",
+    "Score": 0.291607142857143,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:161800",
+            "Score": 0.00589285714285713,
+            "Hp": "0003324",
+            "Condition": "nemaline myopathy 3",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PON1",
+    "Id": "ID:5444",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KLHL41",
+    "Id": "ID:10324",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PON2",
+    "Id": "ID:5445",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SQSTM1",
+    "Id": "ID:8878",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ORAI1",
+    "Id": "ID:84876",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACADL",
+    "Id": "ID:33",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SNAP25",
+    "Id": "ID:6616",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PPARGC1A",
+    "Id": "ID:10891",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HADHB",
+    "Id": "ID:3032",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LAMB2",
+    "Id": "ID:3913",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "C9ORF72",
+    "Id": "ID:203228",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACAD9",
+    "Id": "ID:28976",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LMOD3",
+    "Id": "ID:56203",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL13A1",
+    "Id": "ID:1305",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DNAJB6",
+    "Id": "ID:10049",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC25A1",
+    "Id": "ID:6576",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DAO",
+    "Id": "ID:1610",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYH7",
+    "Id": "ID:4625",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EGF",
+    "Id": "ID:1950",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYL2",
+    "Id": "ID:4633",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FKRP",
+    "Id": "ID:79147",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TAF15",
+    "Id": "ID:8148",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC25A4",
+    "Id": "ID:291",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CAPN3",
+    "Id": "ID:825",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PON3",
+    "Id": "ID:5446",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FXYD2",
+    "Id": "ID:486",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VAMP1",
+    "Id": "ID:6843",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POMT2",
+    "Id": "ID:29954",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC18A3",
+    "Id": "ID:6572",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CCNF",
+    "Id": "ID:899",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AIFM1",
+    "Id": "ID:9131",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRPH",
+    "Id": "ID:5630",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PLEC",
+    "Id": "ID:5339",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HADHA",
+    "Id": "ID:3030",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PLA2G6",
+    "Id": "ID:8398",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PNKD",
+    "Id": "ID:25953",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL6A3",
+    "Id": "ID:1293",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HNRNPA1",
+    "Id": "ID:3178",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NEFH",
+    "Id": "ID:4744",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FUS",
+    "Id": "ID:2521",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATXN2",
+    "Id": "ID:6311",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MATR3",
+    "Id": "ID:9782",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SOD1",
+    "Id": "ID:6647",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VCP",
+    "Id": "ID:7415",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POMGNT1",
+    "Id": "ID:55624",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC5A7",
+    "Id": "ID:60482",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHRND",
+    "Id": "ID:1144",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FKTN",
+    "Id": "ID:2218",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHAT",
+    "Id": "ID:1103",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TPM2",
+    "Id": "ID:7169",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FIG4",
+    "Id": "ID:9896",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MEN1",
+    "Id": "ID:4221",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYO9A",
+    "Id": "ID:4649",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNJ1",
+    "Id": "ID:3758",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHMP2B",
+    "Id": "ID:25978",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AGRN",
+    "Id": "ID:375790",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATP13A2",
+    "Id": "ID:23400",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYH2",
+    "Id": "ID:4620",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL6A1",
+    "Id": "ID:1291",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACY1",
+    "Id": "ID:95",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ABCB6",
+    "Id": "ID:10058",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "OPTN",
+    "Id": "ID:10133",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHRNA1",
+    "Id": "ID:1134",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FGF23",
+    "Id": "ID:8074",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CNNM2",
+    "Id": "ID:54805",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NEK1",
+    "Id": "ID:4750",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GLE1",
+    "Id": "ID:2733",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRRT2",
+    "Id": "ID:112476",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TREM2",
+    "Id": "ID:54209",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SYT2",
+    "Id": "ID:127833",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ISPD",
+    "Id": "ID:729920",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC12A1",
+    "Id": "ID:6557",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DCTN1",
+    "Id": "ID:1639",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ANXA11",
+    "Id": "ID:311",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TTN",
+    "Id": "ID:7273",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL12A1",
+    "Id": "ID:1303",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ANG",
+    "Id": "ID:283",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TBK1",
+    "Id": "ID:29110",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "UBQLN2",
+    "Id": "ID:29978",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285,
+            "Hp": "0003324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POMT1",
+    "Id": "ID:10585",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "UNC13A",
+    "Id": "ID:23025",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EPHA4",
+    "Id": "ID:2043",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TARDBP",
+    "Id": "ID:23435",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "APOPT1",
+    "Id": "ID:84334",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "Hp": "0003324",
+            "Condition": "Generalized muscle weakness",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CCND1",
+    "Id": "ID:595",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL6A2",
+    "Id": "ID:1292",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PFN1",
+    "Id": "ID:5216",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ERBB4",
+    "Id": "ID:2066",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0003324",
+            "Score": 0.285714285714285,
+            "Id": "HP:0003324",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ITGA7",
+    "Id": "ID:3679",
+    "Score": 0.285714285714285,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Generalized muscle weakness",
+            "Hp": "0003324",
+            "Id": "HP:0003324",
+            "Score": 0.285714285714285
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RARS2",
+    "Id": "ID:57038",
+    "Score": 0.20204081632653,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0007269",
+            "Score": 0.202040816326531,
+            "Id": "ORPHANET:2254",
+            "IdNote": "ORPHANET",
+            "Condition": "pontocerebellar hypoplasia type 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EXOSC3",
+    "Id": "ID:51010",
+    "Score": 0.20204081632653,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.202040816326531,
+            "Id": "ORPHANET:2254",
+            "Hp": "0007269",
+            "Condition": "pontocerebellar hypoplasia type 1",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TSEN54",
+    "Id": "ID:283989",
+    "Score": 0.168367346938775,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0007269",
+            "Score": 0.168367346938775,
+            "Id": "ORPHANET:2254",
+            "IdNote": "ORPHANET",
+            "Condition": "pontocerebellar hypoplasia type 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SEPN1",
+    "Id": "ID:57190",
+    "Score": 0.0314285714285714,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0314285714285714,
+            "Id": "OMIM:255320",
+            "Hp": "0003324",
+            "Condition": "minicore myopathy",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PTRF",
+    "Id": "ID:284119",
+    "Score": 0.00589285714285713,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "lipodystrophy congenital generalized type 4",
+            "Hp": "0003324",
+            "Id": "OMIM:613327",
+            "Score": 0.00589285714285713
+          }
+        ]
+      }
+    ]
+  }
+]

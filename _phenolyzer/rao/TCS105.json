@@ -1,0 +1,3037 @@
+[
+  {
+    "Name": "APC",
+    "Id": "ID:324",
+    "Score": 1,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Adenomatous colonic polyposis",
+            "Score": 0.92131023476959,
+            "Id": "HP:0005227",
+            "Hp": "0005227"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Odontoma",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0011068",
+            "Hp": "0010566"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0005227",
+            "Id": "OMIM:175100",
+            "Score": 0.0518237007057895,
+            "IdNote": "CLINVAR",
+            "Condition": "familial adenomatous polyposis 1"
+          },
+          {
+            "Condition": "familial adenomatous polyposis 1",
+            "IdNote": "CLINVAR",
+            "Score": 0.000542914959774937,
+            "Id": "OMIM:175100",
+            "Hp": "0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BMPR1A",
+    "Id": "ID:657",
+    "Score": 0.947633384334436,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Adenomatous colonic polyposis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.92131023476959,
+            "Id": "HP:0005227",
+            "Hp": "0005227"
+          },
+          {
+            "Score": 0.0263231495648455,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Juvenile colonic polyposis",
+            "Hp": "0010566",
+            "Id": "HP:0012198"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AXIN2",
+    "Id": "ID:8313",
+    "Score": 0.940312258361713,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Adenomatous colonic polyposis",
+            "Score": 0.92131023476959,
+            "Id": "HP:0005227",
+            "Hp": "0005227"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:608615",
+            "Hp": "0005227",
+            "Condition": "oligodontia colorectal cancer syndrome",
+            "IdNote": "CLINVAR",
+            "Score": 0.0190020235921228
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MUTYH",
+    "Id": "ID:4595",
+    "Score": 0.92131023476959,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Adenomatous colonic polyposis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.92131023476959,
+            "Id": "HP:0005227",
+            "Hp": "0005227"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FLCN",
+    "Id": "ID:201163",
+    "Score": 0.0956228698478058,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "birt hogg dube syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0338440494405155,
+            "Id": "OMIM:135150",
+            "Hp": "0002097"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0002097",
+            "Hp": "0002097",
+            "Condition": "Emphysema",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0376044993783506
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0241743210289397,
+            "IdNote": "ORPHANET",
+            "Condition": "birt hogg dube syndrome",
+            "Hp": "0002097",
+            "Id": "ORPHANET:122"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TSC1",
+    "Id": "ID:7248",
+    "Score": 0.0950752543256086,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "tuberous sclerosis 1",
+            "Score": 0.000542914959774937,
+            "Id": "OMIM:191100",
+            "Hp": "0010566"
+          },
+          {
+            "Id": "OMIM:191100",
+            "Hp": "0010566",
+            "Condition": "tuberous sclerosis 1",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0043433196781995
+          },
+          {
+            "Hp": "0010566",
+            "Id": "OMIM:613254",
+            "Score": 0.0043433196781995,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "tuberous sclerosis 2"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "lymphangioleiomyomatosis",
+            "IdNote": "ORPHANET",
+            "Score": 0.0161162140192931,
+            "Id": "ORPHANET:538",
+            "Hp": "0002097"
+          },
+          {
+            "Score": 0.00241743210289397,
+            "IdNote": "ORPHANET",
+            "Condition": "tuberous sclerosis",
+            "Hp": "0002097",
+            "Id": "ORPHANET:805"
+          },
+          {
+            "Hp": "0010566",
+            "Id": "ORPHANET:538",
+            "Score": 0.00169220247202578,
+            "IdNote": "ORPHANET",
+            "Condition": "lymphangioleiomyomatosis"
+          },
+          {
+            "Hp": "0010566",
+            "Id": "ORPHANET:805",
+            "Score": 0.00169220247202578,
+            "IdNote": "ORPHANET",
+            "Condition": "tuberous sclerosis"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0376044993783506,
+            "Condition": "Emphysema",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002097",
+            "Id": "HP:0002097"
+          },
+          {
+            "Hp": "0010566",
+            "Id": "HP:0010568",
+            "Score": 0.0263231495648455,
+            "Condition": "Hamartoma of the eye",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TSC2",
+    "Id": "ID:7249",
+    "Score": 0.0950752543256086,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0010566",
+            "Id": "OMIM:191100",
+            "Score": 0.0043433196781995,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "tuberous sclerosis 1"
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "tuberous sclerosis 2",
+            "Score": 0.000542914959774937,
+            "Id": "OMIM:613254",
+            "Hp": "0010566"
+          },
+          {
+            "Hp": "0010566",
+            "Id": "OMIM:613254",
+            "Score": 0.0043433196781995,
+            "Condition": "tuberous sclerosis 2",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0161162140192931,
+            "Condition": "lymphangioleiomyomatosis",
+            "IdNote": "ORPHANET",
+            "Hp": "0002097",
+            "Id": "ORPHANET:538"
+          },
+          {
+            "Hp": "0002097",
+            "Id": "ORPHANET:805",
+            "Score": 0.00241743210289397,
+            "Condition": "tuberous sclerosis",
+            "IdNote": "ORPHANET"
+          },
+          {
+            "Hp": "0010566",
+            "Id": "ORPHANET:538",
+            "Score": 0.00169220247202578,
+            "IdNote": "ORPHANET",
+            "Condition": "lymphangioleiomyomatosis"
+          },
+          {
+            "Hp": "0010566",
+            "Id": "ORPHANET:805",
+            "Score": 0.00169220247202578,
+            "Condition": "tuberous sclerosis",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0002097",
+            "Id": "HP:0002097",
+            "Score": 0.0376044993783506,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Emphysema"
+          },
+          {
+            "Condition": "Hamartoma of the eye",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0010568",
+            "Hp": "0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EFEMP2",
+    "Id": "ID:30008",
+    "Score": 0.079023169407934,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002097",
+            "Hp": "0002097",
+            "Condition": "Emphysema",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0376044993783506
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0290091852347275,
+            "Condition": "autosomal recessive cutis laxa type 1",
+            "IdNote": "ORPHANET",
+            "Hp": "0002097",
+            "Id": "ORPHANET:90349"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "cutis laxa autosomal recessive type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0124094847948557,
+            "Id": "OMIM:614437",
+            "Hp": "0002097"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PTEN",
+    "Id": "ID:5728",
+    "Score": 0.0789694486945364,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:109",
+            "Hp": "0010566",
+            "IdNote": "ORPHANET",
+            "Condition": "bannayan riley ruvalcaba syndrome",
+            "Score": 0.00744569087691342
+          },
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "cowden syndrome",
+            "Score": 0.0203064296643093,
+            "Id": "ORPHANET:201",
+            "Hp": "0010566"
+          },
+          {
+            "Id": "ORPHANET:744",
+            "Hp": "0010566",
+            "Condition": "proteus syndrome",
+            "IdNote": "ORPHANET",
+            "Score": 0.00169220247202578
+          },
+          {
+            "Hp": "0010566",
+            "Id": "ORPHANET:137608",
+            "Score": 0.0203064296643093,
+            "IdNote": "ORPHANET",
+            "Condition": "segmental outgrowth lipomatosis arteriovenous malformation epidermal nevus"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Conjunctival hamartoma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0100780",
+            "Hp": "0010566"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.002895546452133,
+            "Condition": "bannayan riley ruvalcaba syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0010566",
+            "Id": "OMIM:153480"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GLA",
+    "Id": "ID:2717",
+    "Score": 0.074873244297966,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "fabry disease",
+            "IdNote": "CLINVAR",
+            "Score": 0.00235028121114691,
+            "Id": "OMIM:301500",
+            "Hp": "0002097"
+          },
+          {
+            "Score": 0.0188022496891754,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "fabry disease",
+            "Hp": "0002097",
+            "Id": "OMIM:301500"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0002097",
+            "Hp": "0002097",
+            "Condition": "Emphysema",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0376044993783506
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0161162140192931,
+            "Condition": "fabry disease",
+            "IdNote": "ORPHANET",
+            "Hp": "0002097",
+            "Id": "ORPHANET:324"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FBLN5",
+    "Id": "ID:10516",
+    "Score": 0.0690311167159723,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:90348",
+            "Hp": "0002097",
+            "Condition": "autosomal dominant cutis laxa",
+            "IdNote": "ORPHANET",
+            "Score": 0.00241743210289397
+          },
+          {
+            "Id": "ORPHANET:90349",
+            "Hp": "0002097",
+            "IdNote": "ORPHANET",
+            "Condition": "autosomal recessive cutis laxa type 1",
+            "Score": 0.0290091852347275
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0002097",
+            "Hp": "0002097",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Emphysema",
+            "Score": 0.0376044993783506
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SERPINA1",
+    "Id": "ID:5265",
+    "Score": 0.0687289377031104,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:60",
+            "Hp": "0002097",
+            "IdNote": "ORPHANET",
+            "Condition": "alpha 1 antitrypsin deficiency",
+            "Score": 0.0290091852347275
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0002097",
+            "Hp": "0002097",
+            "Condition": "Emphysema",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0376044993783506
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:613490",
+            "Hp": "0002097",
+            "IdNote": "CLINVAR",
+            "Condition": "alpha 1 antitrypsin deficiency",
+            "Score": 0.00211525309003222
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DYNC2LI1",
+    "Id": "ID:51626",
+    "Score": 0.0639276489431961,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002097",
+            "Id": "HP:0002097",
+            "Score": 0.0376044993783506,
+            "Condition": "Emphysema",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Hp": "0010566",
+            "Id": "HP:0010566",
+            "Score": 0.0263231495648455,
+            "Condition": "Hamartoma",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NF1",
+    "Id": "ID:4763",
+    "Score": 0.0602659108162291,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000542914959774937,
+            "IdNote": "CLINVAR",
+            "Condition": "neurofibromatosis familial spinal",
+            "Hp": "0010566",
+            "Id": "OMIM:162210"
+          },
+          {
+            "Condition": "neurofibromatosis noonan syndrome",
+            "IdNote": "CLINVAR",
+            "Score": 0.000542914959774937,
+            "Id": "OMIM:601321",
+            "Hp": "0010566"
+          },
+          {
+            "Score": 0.00296135432604512,
+            "Condition": "neurofibromatosis type 1",
+            "IdNote": "CLINVAR",
+            "Hp": "0010566",
+            "Id": "OMIM:162200"
+          },
+          {
+            "Score": 0.023690834608361,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "neurofibromatosis type 1",
+            "Hp": "0010566",
+            "Id": "OMIM:162200"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hamartoma of the eye",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0010568",
+            "Hp": "0010566"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "watson syndrome",
+            "IdNote": "ORPHANET",
+            "Score": 0.00620474239742785,
+            "Id": "ORPHANET:3444",
+            "Hp": "0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SPINK5",
+    "Id": "ID:11005",
+    "Score": 0.0533849589389085,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Emphysema",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0376044993783506,
+            "Id": "HP:0002097",
+            "Hp": "0002097"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0134301783494109,
+            "IdNote": "ORPHANET",
+            "Condition": "netherton syndrome",
+            "Hp": "0002097",
+            "Id": "ORPHANET:634"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "netherton syndrome",
+            "IdNote": "CLINVAR",
+            "Score": 0.00235028121114691,
+            "Id": "OMIM:256500",
+            "Hp": "0002097"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AKT1",
+    "Id": "ID:207",
+    "Score": 0.0523583896813254,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0010566",
+            "Id": "HP:0100780",
+            "Score": 0.0263231495648455,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Conjunctival hamartoma"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.023690834608361,
+            "IdNote": "ORPHANET",
+            "Condition": "cowden syndrome",
+            "Hp": "0010566",
+            "Id": "ORPHANET:201"
+          },
+          {
+            "Condition": "proteus syndrome",
+            "IdNote": "ORPHANET",
+            "Score": 0.0019742362173634,
+            "Id": "ORPHANET:744",
+            "Hp": "0010566"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.000370169290755639,
+            "IdNote": "CLINVAR",
+            "Condition": "proteus syndrome",
+            "Hp": "0010566",
+            "Id": "OMIM:176920"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PIK3CA",
+    "Id": "ID:5290",
+    "Score": 0.0500139841732063,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0010566",
+            "Id": "HP:0100780",
+            "Score": 0.0263231495648455,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Conjunctival hamartoma"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:201",
+            "Hp": "0010566",
+            "IdNote": "ORPHANET",
+            "Condition": "cowden syndrome",
+            "Score": 0.023690834608361
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FBN1",
+    "Id": "ID:2200",
+    "Score": 0.0469116129744924,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00310237119871394,
+            "Condition": "marfan syndrome",
+            "IdNote": "CLINVAR",
+            "Hp": "0002097",
+            "Id": "OMIM:154700"
+          },
+          {
+            "Score": 0.00620474239742785,
+            "Condition": "marfan syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002097",
+            "Id": "OMIM:154700"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Emphysema",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0376044993783506,
+            "Id": "HP:0002097",
+            "Hp": "0002097"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SDHC",
+    "Id": "ID:6391",
+    "Score": 0.0466295792291548,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:201",
+            "Hp": "0010566",
+            "IdNote": "ORPHANET",
+            "Condition": "cowden syndrome",
+            "Score": 0.0203064296643093
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Conjunctival hamartoma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0100780",
+            "Hp": "0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SDHB",
+    "Id": "ID:6390",
+    "Score": 0.0466295792291548,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0010566",
+            "Id": "ORPHANET:201",
+            "Score": 0.0203064296643093,
+            "Condition": "cowden syndrome",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0010566",
+            "Id": "HP:0100780",
+            "Score": 0.0263231495648455,
+            "Condition": "Conjunctival hamartoma",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SDHD",
+    "Id": "ID:6392",
+    "Score": 0.0466295792291548,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Conjunctival hamartoma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0100780",
+            "Hp": "0010566"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0010566",
+            "Id": "ORPHANET:201",
+            "Score": 0.0203064296643093,
+            "Condition": "cowden syndrome",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GLI3",
+    "Id": "ID:2737",
+    "Score": 0.0428432761979971,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "pallister hall syndrome",
+            "Score": 0.00162874487932481,
+            "Id": "OMIM:146510",
+            "Hp": "0010566"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "pallister hall syndrome",
+            "Score": 0.00868663935639899,
+            "Id": "OMIM:146510",
+            "Hp": "0010566"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0010566",
+            "Hp": "0010566",
+            "Condition": "Hamartoma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0263231495648455
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:672",
+            "Hp": "0010566",
+            "Condition": "pallister hall syndrome",
+            "IdNote": "ORPHANET",
+            "Score": 0.00620474239742785
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ELN",
+    "Id": "ID:2006",
+    "Score": 0.040797524280923,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:123700",
+            "Hp": "0002097",
+            "Condition": "cutis laxa autosomal dominant 1",
+            "IdNote": "CLINVAR",
+            "Score": 0.000775592799678482
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0002097",
+            "Id": "ORPHANET:90348",
+            "Score": 0.00241743210289397,
+            "IdNote": "ORPHANET",
+            "Condition": "autosomal dominant cutis laxa"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Emphysema",
+            "Score": 0.0376044993783506,
+            "Id": "HP:0002097",
+            "Hp": "0002097"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "STK11",
+    "Id": "ID:6794",
+    "Score": 0.0404389385189939,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:2869",
+            "Hp": "0010566",
+            "IdNote": "ORPHANET",
+            "Condition": "peutz jeghers syndrome",
+            "Score": 0.00868663935639899
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0010566",
+            "Hp": "0010566",
+            "Condition": "Hamartoma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0263231495648455
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0010566",
+            "Id": "OMIM:175200",
+            "Score": 0.00108582991954987,
+            "Condition": "peutz jeghers syndrome",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Condition": "peutz jeghers syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0043433196781995,
+            "Id": "OMIM:175200",
+            "Hp": "0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRKCD",
+    "Id": "ID:5580",
+    "Score": 0.0404248368317269,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0376044993783506,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Emphysema",
+            "Hp": "0002097",
+            "Id": "HP:0002097"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0028203374533763,
+            "IdNote": "ORPHANET",
+            "Condition": "common variable immunodeficiency",
+            "Hp": "0002097",
+            "Id": "ORPHANET:1572"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LTBP4",
+    "Id": "ID:8425",
+    "Score": 0.0401982025720806,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "cutis laxa",
+            "Score": 0.00241743210289397,
+            "Id": "ORPHANET:221145",
+            "Hp": "0002097"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0002097",
+            "Id": "HP:0002097",
+            "Score": 0.0376044993783506,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Emphysema"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "cutis laxa",
+            "IdNote": "CLINVAR",
+            "Score": 0.000176271090836018,
+            "Id": "OMIM:613177",
+            "Hp": "0002097"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CD81",
+    "Id": "ID:975",
+    "Score": 0.0400219314812446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002097",
+            "Id": "HP:0002097",
+            "Score": 0.0376044993783506,
+            "Condition": "Emphysema",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "common variable immunodeficiency",
+            "Score": 0.00241743210289397,
+            "Id": "ORPHANET:1572",
+            "Hp": "0002097"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CD19",
+    "Id": "ID:930",
+    "Score": 0.0400219314812446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002097",
+            "Id": "HP:0002097",
+            "Score": 0.0376044993783506,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Emphysema"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00241743210289397,
+            "IdNote": "ORPHANET",
+            "Condition": "common variable immunodeficiency",
+            "Hp": "0002097",
+            "Id": "ORPHANET:1572"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NFKB2",
+    "Id": "ID:4791",
+    "Score": 0.0400219314812446,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.00241743210289397,
+            "Condition": "common variable immunodeficiency",
+            "IdNote": "ORPHANET",
+            "Hp": "0002097",
+            "Id": "ORPHANET:1572"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Emphysema",
+            "Score": 0.0376044993783506,
+            "Id": "HP:0002097",
+            "Hp": "0002097"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ICOS",
+    "Id": "ID:29851",
+    "Score": 0.0400219314812446,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0002097",
+            "Id": "ORPHANET:1572",
+            "Score": 0.00241743210289397,
+            "IdNote": "ORPHANET",
+            "Condition": "common variable immunodeficiency"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Emphysema",
+            "Score": 0.0376044993783506,
+            "Id": "HP:0002097",
+            "Hp": "0002097"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MS4A1",
+    "Id": "ID:931",
+    "Score": 0.0400219314812446,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:1572",
+            "Hp": "0002097",
+            "Condition": "common variable immunodeficiency",
+            "IdNote": "ORPHANET",
+            "Score": 0.00241743210289397
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0002097",
+            "Hp": "0002097",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Emphysema",
+            "Score": 0.0376044993783506
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KLLN",
+    "Id": "ID:100144748",
+    "Score": 0.0398607693410517,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:201",
+            "Hp": "0010566",
+            "Condition": "cowden syndrome",
+            "IdNote": "ORPHANET",
+            "Score": 0.0135376197762062
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0263231495648455,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Conjunctival hamartoma",
+            "Hp": "0010566",
+            "Id": "HP:0100780"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EVC",
+    "Id": "ID:2121",
+    "Score": 0.0396190261307622,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002097",
+            "Id": "HP:0002097",
+            "Score": 0.0376044993783506,
+            "Condition": "Emphysema",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "ellis van creveld syndrome",
+            "Score": 0.00201452675241164,
+            "Id": "ORPHANET:289",
+            "Hp": "0002097"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CR2",
+    "Id": "ID:1380",
+    "Score": 0.0396190261307622,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Emphysema",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0376044993783506,
+            "Id": "HP:0002097",
+            "Hp": "0002097"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:1572",
+            "Hp": "0002097",
+            "IdNote": "ORPHANET",
+            "Condition": "common variable immunodeficiency",
+            "Score": 0.00201452675241164
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TNFRSF13B",
+    "Id": "ID:23495",
+    "Score": 0.0396190261307622,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Emphysema",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0376044993783506,
+            "Id": "HP:0002097",
+            "Hp": "0002097"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:1572",
+            "Hp": "0002097",
+            "IdNote": "ORPHANET",
+            "Condition": "common variable immunodeficiency",
+            "Score": 0.00201452675241164
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TNFSF12",
+    "Id": "ID:8742",
+    "Score": 0.0396190261307622,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.00201452675241164,
+            "IdNote": "ORPHANET",
+            "Condition": "common variable immunodeficiency",
+            "Hp": "0002097",
+            "Id": "ORPHANET:1572"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0376044993783506,
+            "Condition": "Emphysema",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002097",
+            "Id": "HP:0002097"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EVC2",
+    "Id": "ID:132884",
+    "Score": 0.0396190261307622,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0376044993783506,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Emphysema",
+            "Hp": "0002097",
+            "Id": "HP:0002097"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "ellis van creveld syndrome",
+            "IdNote": "ORPHANET",
+            "Score": 0.00201452675241164,
+            "Id": "ORPHANET:289",
+            "Hp": "0002097"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TNFRSF13C",
+    "Id": "ID:115650",
+    "Score": 0.0396190261307622,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0002097",
+            "Id": "ORPHANET:1572",
+            "Score": 0.00201452675241164,
+            "IdNote": "ORPHANET",
+            "Condition": "common variable immunodeficiency"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Emphysema",
+            "Score": 0.0376044993783506,
+            "Id": "HP:0002097",
+            "Hp": "0002097"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DNASE1L3",
+    "Id": "ID:1776",
+    "Score": 0.0396190261307622,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002097",
+            "Hp": "0002097",
+            "Condition": "Emphysema",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0376044993783506
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00201452675241164,
+            "IdNote": "ORPHANET",
+            "Condition": "hypocomplementemic urticarial vasculitis",
+            "Hp": "0002097",
+            "Id": "ORPHANET:36412"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDT1",
+    "Id": "ID:81620",
+    "Score": 0.0383800921780292,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:613804",
+            "Hp": "0002097",
+            "Condition": "meier gorlin syndrome 4",
+            "IdNote": "CLINVAR",
+            "Score": 0.000775592799678482
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0002097",
+            "Hp": "0002097",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Emphysema",
+            "Score": 0.0376044993783506
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGFB2",
+    "Id": "ID:7042",
+    "Score": 0.0380745556205799,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Emphysema",
+            "Score": 0.0376044993783506,
+            "Id": "HP:0002097",
+            "Hp": "0002097"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0002097",
+            "Id": "OMIM:614816",
+            "Score": 0.000470056242229384,
+            "Condition": "loeys dietz syndrome type 4",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GLI1",
+    "Id": "ID:2735",
+    "Score": 0.0376044993783506,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0376044993783506,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Emphysema",
+            "Hp": "0002097",
+            "Id": "HP:0002097"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MGP",
+    "Id": "ID:4256",
+    "Score": 0.0376044993783506,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002097",
+            "Hp": "0002097",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Emphysema",
+            "Score": 0.0376044993783506
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-DRB1",
+    "Id": "ID:3123",
+    "Score": 0.0376044993783506,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002097",
+            "Id": "HP:0002097",
+            "Score": 0.0376044993783506,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Emphysema"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TAP1",
+    "Id": "ID:6890",
+    "Score": 0.0376044993783506,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002097",
+            "Hp": "0002097",
+            "Condition": "Emphysema",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0376044993783506
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BTNL2",
+    "Id": "ID:56244",
+    "Score": 0.0376044993783506,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0376044993783506,
+            "Condition": "Emphysema",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002097",
+            "Id": "HP:0002097"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NFKB1",
+    "Id": "ID:4790",
+    "Score": 0.0376044993783506,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Emphysema",
+            "Score": 0.0376044993783506,
+            "Id": "HP:0002097",
+            "Hp": "0002097"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TAPBP",
+    "Id": "ID:6892",
+    "Score": 0.0376044993783506,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002097",
+            "Hp": "0002097",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Emphysema",
+            "Score": 0.0376044993783506
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GMNN",
+    "Id": "ID:51053",
+    "Score": 0.0376044993783506,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002097",
+            "Id": "HP:0002097",
+            "Score": 0.0376044993783506,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Emphysema"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LAMB1",
+    "Id": "ID:3912",
+    "Score": 0.0376044993783506,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002097",
+            "Id": "HP:0002097",
+            "Score": 0.0376044993783506,
+            "Condition": "Emphysema",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALDH18A1",
+    "Id": "ID:5832",
+    "Score": 0.0376044993783506,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0376044993783506,
+            "Condition": "Emphysema",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002097",
+            "Id": "HP:0002097"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LMNA",
+    "Id": "ID:4000",
+    "Score": 0.0376044993783506,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Emphysema",
+            "Score": 0.0376044993783506,
+            "Id": "HP:0002097",
+            "Hp": "0002097"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TAP2",
+    "Id": "ID:6891",
+    "Score": 0.0376044993783506,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002097",
+            "Id": "HP:0002097",
+            "Score": 0.0376044993783506,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Emphysema"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL5A2",
+    "Id": "ID:1290",
+    "Score": 0.0359593025305478,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:130000",
+            "Hp": "0002097",
+            "Condition": "ehlers danlos syndrome classic type",
+            "IdNote": "CLINVAR",
+            "Score": 0.00211525309003222
+          },
+          {
+            "Score": 0.0338440494405155,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "ehlers danlos syndrome classic type",
+            "Hp": "0002097",
+            "Id": "OMIM:130000"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL5A1",
+    "Id": "ID:1289",
+    "Score": 0.0359593025305478,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0002097",
+            "Id": "OMIM:130000",
+            "Score": 0.00211525309003222,
+            "IdNote": "CLINVAR",
+            "Condition": "ehlers danlos syndrome classic type"
+          },
+          {
+            "Condition": "ehlers danlos syndrome classic type",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0338440494405155,
+            "Id": "OMIM:130000",
+            "Hp": "0002097"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TFAP2A",
+    "Id": "ID:7020",
+    "Score": 0.0355527038810194,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000542914959774937,
+            "IdNote": "CLINVAR",
+            "Condition": "branchiooculofacial syndrome",
+            "Hp": "0010566",
+            "Id": "OMIM:113620"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "branchiooculofacial syndrome",
+            "Score": 0.00868663935639899,
+            "Id": "OMIM:113620",
+            "Hp": "0010566"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Hamartoma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0010566",
+            "Hp": "0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "OFD1",
+    "Id": "ID:8481",
+    "Score": 0.0350097889212444,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "orofaciodigital syndrome i",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00868663935639899,
+            "Id": "OMIM:311200",
+            "Hp": "0010566"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0263231495648455,
+            "Condition": "Hamartoma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0010566",
+            "Id": "HP:0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PTCH1",
+    "Id": "ID:5727",
+    "Score": 0.0350097889212444,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0010566",
+            "Hp": "0010566",
+            "Condition": "Hamartoma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0263231495648455
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00868663935639899,
+            "Condition": "basal cell nevus syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0010566",
+            "Id": "OMIM:109400"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GAA",
+    "Id": "ID:2548",
+    "Score": 0.0338440494405155,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0002097",
+            "Id": "OMIM:232300",
+            "Score": 0.0338440494405155,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "glycogen storage disease ii"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SMAD4",
+    "Id": "ID:4089",
+    "Score": 0.0332329763256174,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hamartoma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0010566",
+            "Hp": "0010566"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00164519684780284,
+            "Condition": "juvenile polyposis hereditary hemorrhagic telangiectasia syndrome",
+            "IdNote": "CLINVAR",
+            "Hp": "0010566",
+            "Id": "OMIM:175050"
+          },
+          {
+            "Id": "OMIM:175050",
+            "Hp": "0010566",
+            "Condition": "juvenile polyposis hereditary hemorrhagic telangiectasia syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00526462991296909
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DIS3L2",
+    "Id": "ID:129563",
+    "Score": 0.0330708069220483,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0010566",
+            "Id": "OMIM:267000",
+            "Score": 0.000542914959774937,
+            "Condition": "renal hamartomas nephroblastomatosis and fetal gigantism",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hamartoma",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0010566",
+            "Hp": "0010566"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00620474239742785,
+            "Condition": "perlman syndrome",
+            "IdNote": "ORPHANET",
+            "Hp": "0010566",
+            "Id": "ORPHANET:2849"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VHL",
+    "Id": "ID:7428",
+    "Score": 0.0317522991625949,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0010566",
+            "Id": "OMIM:193300",
+            "Score": 0.00108582991954987,
+            "IdNote": "CLINVAR",
+            "Condition": "von hippel lindau syndrome"
+          },
+          {
+            "Score": 0.0043433196781995,
+            "Condition": "von hippel lindau syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0010566",
+            "Id": "OMIM:193300"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0010566",
+            "Id": "HP:0010568",
+            "Score": 0.0263231495648455,
+            "Condition": "Hamartoma of the eye",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SOX2",
+    "Id": "ID:6657",
+    "Score": 0.0312093842028199,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0010566",
+            "Hp": "0010566",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hamartoma",
+            "Score": 0.0263231495648455
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0010566",
+            "Id": "OMIM:206900",
+            "Score": 0.000542914959774937,
+            "Condition": "microphthalmia syndromic 3",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Hp": "0010566",
+            "Id": "OMIM:206900",
+            "Score": 0.0043433196781995,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "microphthalmia syndromic 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SIX6",
+    "Id": "ID:4990",
+    "Score": 0.0312093842028199,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:206900",
+            "Hp": "0010566",
+            "IdNote": "CLINVAR",
+            "Condition": "microphthalmia syndromic 3",
+            "Score": 0.000542914959774937
+          },
+          {
+            "Id": "OMIM:206900",
+            "Hp": "0010566",
+            "Condition": "microphthalmia syndromic 3",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0043433196781995
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0263231495648455,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hamartoma",
+            "Hp": "0010566",
+            "Id": "HP:0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CCBE1",
+    "Id": "ID:147372",
+    "Score": 0.027803826727868,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:235510",
+            "Hp": "0010566",
+            "Condition": "hennekam lymphangiectasia lymphedema syndrome",
+            "IdNote": "CLINVAR",
+            "Score": 0.00148067716302256
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lymphangioma",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0100764",
+            "Hp": "0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KRT1",
+    "Id": "ID:3848",
+    "Score": 0.0277333182915337,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0010566",
+            "Id": "ORPHANET:312",
+            "Score": 0.00141016872668815,
+            "IdNote": "ORPHANET",
+            "Condition": "epidermolytic ichthyosis"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Conjunctival hamartoma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0100780",
+            "Hp": "0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KRT10",
+    "Id": "ID:3858",
+    "Score": 0.0277333182915337,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:312",
+            "Hp": "0010566",
+            "IdNote": "ORPHANET",
+            "Condition": "epidermolytic ichthyosis",
+            "Score": 0.00141016872668815
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0010566",
+            "Id": "HP:0100780",
+            "Score": 0.0263231495648455,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Conjunctival hamartoma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDC73",
+    "Id": "ID:79577",
+    "Score": 0.0268660645246203,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0010566",
+            "Id": "OMIM:145001",
+            "Score": 0.000542914959774937,
+            "Condition": "hyperparathyroidism 2",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0010566",
+            "Id": "HP:0010566",
+            "Score": 0.0263231495648455,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hamartoma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BRAF",
+    "Id": "ID:673",
+    "Score": 0.0268660645246203,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hamartoma",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0010566",
+            "Hp": "0010566"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:613707",
+            "Hp": "0010566",
+            "Condition": "leopard syndrome 3",
+            "IdNote": "CLINVAR",
+            "Score": 0.000542914959774937
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NF2",
+    "Id": "ID:4771",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0010566",
+            "Id": "HP:0010568",
+            "Score": 0.0263231495648455,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hamartoma of the eye"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SDHAF2",
+    "Id": "ID:54949",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0263231495648455,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hamartoma of the eye",
+            "Hp": "0010566",
+            "Id": "HP:0010568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SUFU",
+    "Id": "ID:51684",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0010566",
+            "Hp": "0010566",
+            "Condition": "Hamartoma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0263231495648455
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDE6D",
+    "Id": "ID:5147",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0010566",
+            "Id": "HP:0010566",
+            "Score": 0.0263231495648455,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hamartoma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAX",
+    "Id": "ID:4149",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0010568",
+            "Hp": "0010566",
+            "Condition": "Hamartoma of the eye",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0263231495648455
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL18A1",
+    "Id": "ID:80781",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Lymphangioma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0100764",
+            "Hp": "0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FH",
+    "Id": "ID:2271",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hamartoma of the eye",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0010568",
+            "Hp": "0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KIF7",
+    "Id": "ID:374654",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0263231495648455,
+            "Condition": "Hamartoma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0010566",
+            "Id": "HP:0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACTB",
+    "Id": "ID:60",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hamartoma",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0010566",
+            "Hp": "0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FGFR3",
+    "Id": "ID:2261",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0010566",
+            "Hp": "0010566",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hamartoma",
+            "Score": 0.0263231495648455
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MDH2",
+    "Id": "ID:4191",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0010568",
+            "Hp": "0010566",
+            "Condition": "Hamartoma of the eye",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0263231495648455
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IDH2",
+    "Id": "ID:3418",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lymphangioma",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0100764",
+            "Hp": "0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM216",
+    "Id": "ID:51259",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0263231495648455,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hamartoma",
+            "Hp": "0010566",
+            "Id": "HP:0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACVR1",
+    "Id": "ID:90",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0010566",
+            "Hp": "0010566",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hamartoma",
+            "Score": 0.0263231495648455
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KIAA0753",
+    "Id": "ID:9851",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0263231495648455,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hamartoma",
+            "Hp": "0010566",
+            "Id": "HP:0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FGF3",
+    "Id": "ID:2248",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0011068",
+            "Hp": "0010566",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Odontoma",
+            "Score": 0.0263231495648455
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDKN1B",
+    "Id": "ID:1027",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0010566",
+            "Hp": "0010566",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hamartoma",
+            "Score": 0.0263231495648455
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IDH1",
+    "Id": "ID:3417",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0263231495648455,
+            "Condition": "Lymphangioma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0010566",
+            "Id": "HP:0100764"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NRAS",
+    "Id": "ID:4893",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hamartoma",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0010566",
+            "Hp": "0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TCTN3",
+    "Id": "ID:26123",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0263231495648455,
+            "Condition": "Hamartoma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0010566",
+            "Id": "HP:0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PTCH2",
+    "Id": "ID:8643",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0010566",
+            "Id": "HP:0010566",
+            "Score": 0.0263231495648455,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hamartoma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KIF1B",
+    "Id": "ID:23095",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0263231495648455,
+            "Condition": "Hamartoma of the eye",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0010566",
+            "Id": "HP:0010568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM127",
+    "Id": "ID:55654",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hamartoma of the eye",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0010568",
+            "Hp": "0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PTH1R",
+    "Id": "ID:5745",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lymphangioma",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0100764",
+            "Hp": "0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SEC23B",
+    "Id": "ID:10483",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0100780",
+            "Hp": "0010566",
+            "Condition": "Conjunctival hamartoma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0263231495648455
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NEK9",
+    "Id": "ID:91754",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hamartoma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0010566",
+            "Hp": "0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SDHA",
+    "Id": "ID:6389",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0010566",
+            "Id": "HP:0010568",
+            "Score": 0.0263231495648455,
+            "Condition": "Hamartoma of the eye",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FAT4",
+    "Id": "ID:79633",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Lymphangioma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0100764",
+            "Hp": "0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RET",
+    "Id": "ID:5979",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hamartoma of the eye",
+            "Score": 0.0263231495648455,
+            "Id": "HP:0010568",
+            "Hp": "0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COMP",
+    "Id": "ID:1311",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0010566",
+            "Hp": "0010566",
+            "Condition": "Hamartoma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0263231495648455
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ADAMTS3",
+    "Id": "ID:9508",
+    "Score": 0.0263231495648455,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0010566",
+            "Id": "HP:0100764",
+            "Score": 0.0263231495648455,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Lymphangioma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TCF4",
+    "Id": "ID:6925",
+    "Score": 0.00744569087691342,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:672",
+            "Hp": "0010566",
+            "IdNote": "ORPHANET",
+            "Condition": "pallister hall syndrome",
+            "Score": 0.00744569087691342
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACVRL1",
+    "Id": "ID:94",
+    "Score": 0.00526462991296909,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00526462991296909,
+            "Condition": "juvenile polyposis hereditary hemorrhagic telangiectasia syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0010566",
+            "Id": "OMIM:175050"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ENG",
+    "Id": "ID:2022",
+    "Score": 0.00526462991296909,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0010566",
+            "Id": "OMIM:175050",
+            "Score": 0.00526462991296909,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "juvenile polyposis hereditary hemorrhagic telangiectasia syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BMP4",
+    "Id": "ID:652",
+    "Score": 0.0043433196781995,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:206900",
+            "Hp": "0010566",
+            "Condition": "microphthalmia syndromic 3",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0043433196781995
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PAX2",
+    "Id": "ID:5076",
+    "Score": 0.0043433196781995,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0010566",
+            "Id": "OMIM:206900",
+            "Score": 0.0043433196781995,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "microphthalmia syndromic 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAX",
+    "Id": "ID:30062",
+    "Score": 0.0043433196781995,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:206900",
+            "Hp": "0010566",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "microphthalmia syndromic 3",
+            "Score": 0.0043433196781995
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "OTX2",
+    "Id": "ID:5015",
+    "Score": 0.0043433196781995,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0043433196781995,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "microphthalmia syndromic 3",
+            "Hp": "0010566",
+            "Id": "OMIM:206900"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PITX2",
+    "Id": "ID:5308",
+    "Score": 0.0043433196781995,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:206900",
+            "Hp": "0010566",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "microphthalmia syndromic 3",
+            "Score": 0.0043433196781995
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PITX3",
+    "Id": "ID:5309",
+    "Score": 0.0043433196781995,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0043433196781995,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "microphthalmia syndromic 3",
+            "Hp": "0010566",
+            "Id": "OMIM:206900"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SIX3",
+    "Id": "ID:6496",
+    "Score": 0.0043433196781995,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0043433196781995,
+            "Condition": "microphthalmia syndromic 3",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0010566",
+            "Id": "OMIM:206900"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VSX2",
+    "Id": "ID:338917",
+    "Score": 0.0043433196781995,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0010566",
+            "Id": "OMIM:206900",
+            "Score": 0.0043433196781995,
+            "Condition": "microphthalmia syndromic 3",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VAX1",
+    "Id": "ID:11023",
+    "Score": 0.0043433196781995,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0010566",
+            "Id": "OMIM:206900",
+            "Score": 0.0043433196781995,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "microphthalmia syndromic 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL1A1",
+    "Id": "ID:1277",
+    "Score": 0.00211525309003222,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:130000",
+            "Hp": "0002097",
+            "IdNote": "CLINVAR",
+            "Condition": "ehlers danlos syndrome classic type",
+            "Score": 0.00211525309003222
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LRBA",
+    "Id": "ID:987",
+    "Score": 0.00201452675241164,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.00201452675241164,
+            "IdNote": "ORPHANET",
+            "Condition": "common variable immunodeficiency",
+            "Hp": "0002097",
+            "Id": "ORPHANET:1572"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SOX18",
+    "Id": "ID:54345",
+    "Score": 0.00148067716302256,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:607823",
+            "Hp": "0010566",
+            "IdNote": "CLINVAR",
+            "Condition": "hypotrichosis lymphedema telangiectasia syndrome",
+            "Score": 0.00148067716302256
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CCND1",
+    "Id": "ID:595",
+    "Score": 0.00108582991954987,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:193300",
+            "Hp": "0010566",
+            "Condition": "von hippel lindau syndrome",
+            "IdNote": "CLINVAR",
+            "Score": 0.00108582991954987
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IFNG",
+    "Id": "ID:3458",
+    "Score": 0.000542914959774937,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "tuberous sclerosis 2",
+            "IdNote": "CLINVAR",
+            "Score": 0.000542914959774937,
+            "Id": "OMIM:613254",
+            "Hp": "0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POT1",
+    "Id": "ID:25913",
+    "Score": 0.000542914959774937,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "melanoma cutaneous malignant",
+            "Score": 0.000542914959774937,
+            "Id": "OMIM:615848",
+            "Hp": "0010566"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SMAD3",
+    "Id": "ID:4088",
+    "Score": 0.000470056242229384,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000470056242229384,
+            "Condition": "loeys dietz syndrome type 4",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002097",
+            "Id": "OMIM:614816"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGFBR2",
+    "Id": "ID:7048",
+    "Score": 0.000470056242229384,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "loeys dietz syndrome type 4",
+            "Score": 0.000470056242229384,
+            "Id": "OMIM:614816",
+            "Hp": "0002097"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGFBR1",
+    "Id": "ID:7046",
+    "Score": 0.000470056242229384,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000470056242229384,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "loeys dietz syndrome type 4",
+            "Hp": "0002097",
+            "Id": "OMIM:614816"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATP6V0A2",
+    "Id": "ID:23545",
+    "Score": 0.000176271090836018,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000176271090836018,
+            "Condition": "cutis laxa",
+            "IdNote": "CLINVAR",
+            "Hp": "0002097",
+            "Id": "OMIM:219200"
+          }
+        ]
+      }
+    ]
+  }
+]

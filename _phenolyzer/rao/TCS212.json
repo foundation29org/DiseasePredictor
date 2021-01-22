@@ -1,0 +1,6980 @@
+[
+  {
+    "Name": "ATP7B",
+    "Id": "ID:540",
+    "Score": 1,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:277900",
+            "IdNote": "CLINVAR",
+            "Condition": "wilson disease",
+            "Score": 0.00374665758586277,
+            "Hp": "0001399"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.0199821737912682,
+            "Condition": "wilson disease",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:277900"
+          },
+          {
+            "Score": 0.0331995491636174,
+            "Hp": "0012115",
+            "Id": "OMIM:277900",
+            "IdNote": "CLINVAR",
+            "Condition": "wilson disease"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "wilson disease",
+            "Id": "OMIM:277900",
+            "Hp": "0012115",
+            "Score": 0.17706426220596
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0171275775353727,
+            "Hp": "0001399",
+            "Id": "ORPHANET:905",
+            "Condition": "wilson disease",
+            "IdNote": "ORPHANET"
+          },
+          {
+            "Score": 0.151769367605108,
+            "Hp": "0012115",
+            "Id": "ORPHANET:905",
+            "Condition": "wilson disease",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0006554",
+            "Condition": "Acute hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Atypical or prolonged hepatitis",
+            "Id": "HP:0200122",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALMS1",
+    "Id": "ID:7840",
+    "Score": 0.801416785620693,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Chronic hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0100626",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          },
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Chronic hepatitis",
+            "Id": "HP:0200123"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.000567675391797391,
+            "Hp": "0001399",
+            "Id": "OMIM:203800",
+            "Condition": "alstrom syndrome",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Score": 0.00454140313437914,
+            "Hp": "0001399",
+            "Id": "OMIM:203800",
+            "Condition": "alstrom syndrome",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0012115",
+            "Score": 0.0221330327757449,
+            "IdNote": "CLINVAR",
+            "Condition": "alstrom syndrome",
+            "Id": "OMIM:203800"
+          },
+          {
+            "Hp": "0012115",
+            "Score": 0.17706426220596,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "alstrom syndrome",
+            "Id": "OMIM:203800"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SH2D1A",
+    "Id": "ID:4068",
+    "Score": 0.784165761214404,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00999108689563408,
+            "Hp": "0001399",
+            "Id": "OMIM:308240",
+            "Condition": "lymphoproliferative syndrome x linked 1",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0012115",
+            "Score": 0.0885321311029797,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "lymphoproliferative syndrome x linked 1",
+            "Id": "OMIM:308240"
+          },
+          {
+            "Hp": "0012115",
+            "Score": 0.0885321311029797,
+            "Condition": "lymphoproliferative syndrome x linked 2",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:300635"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Acute hepatic failure",
+            "Id": "HP:0006554"
+          },
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "XIAP",
+    "Id": "ID:331",
+    "Score": 0.784165761214404,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0006554",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Acute hepatic failure",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00999108689563408,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "lymphoproliferative syndrome x linked 1",
+            "Id": "OMIM:308240"
+          },
+          {
+            "Score": 0.0885321311029797,
+            "Hp": "0012115",
+            "Id": "OMIM:308240",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "lymphoproliferative syndrome x linked 1"
+          },
+          {
+            "Id": "OMIM:300635",
+            "Condition": "lymphoproliferative syndrome x linked 2",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0885321311029797,
+            "Hp": "0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SERPINA1",
+    "Id": "ID:5265",
+    "Score": 0.647228039560067,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0467115750964709,
+            "Condition": "alpha 1 antitrypsin deficiency",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:60"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:613490",
+            "Condition": "alpha 1 antitrypsin deficiency",
+            "IdNote": "CLINVAR",
+            "Score": 0.00340605235078435,
+            "Hp": "0001399"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          },
+          {
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012115",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYP7B1",
+    "Id": "ID:9420",
+    "Score": 0.611582980851467,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00340605235078435,
+            "Hp": "0001399",
+            "Id": "OMIM:613812",
+            "Condition": "bile acid synthesis defect congenital 3",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "bile acid synthesis defect congenital 3",
+            "Id": "OMIM:613812",
+            "Hp": "0012115",
+            "Score": 0.0110665163878725
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure"
+          },
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IL21R",
+    "Id": "ID:50615",
+    "Score": 0.609425814362637,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:615207",
+            "IdNote": "CLINVAR",
+            "Condition": "il21r immunodeficiency",
+            "Score": 0.00124888586195426,
+            "Hp": "0001399"
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "il21r immunodeficiency",
+            "Id": "OMIM:615207",
+            "Hp": "0012115",
+            "Score": 0.0110665163878725
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399"
+          },
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "Condition": "Chronic hepatitis due to cryptosporidium infection",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0200124"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HSD3B7",
+    "Id": "ID:80270",
+    "Score": 0.609425814362637,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Id": "HP:0200084",
+            "Condition": "Giant cell hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.53655837032109,
+            "Hp": "0012115"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:607765",
+            "IdNote": "CLINVAR",
+            "Condition": "bile acid synthesis defect congenital 1",
+            "Score": 0.00124888586195426,
+            "Hp": "0001399"
+          },
+          {
+            "Score": 0.0110665163878725,
+            "Hp": "0012115",
+            "Id": "OMIM:607765",
+            "Condition": "bile acid synthesis defect congenital 1",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AMACR",
+    "Id": "ID:23600",
+    "Score": 0.609425814362637,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          },
+          {
+            "Condition": "Giant cell hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0200084",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "bile acid synthesis defect congenital 4",
+            "Id": "OMIM:214950",
+            "Hp": "0001399",
+            "Score": 0.00124888586195426
+          },
+          {
+            "Hp": "0012115",
+            "Score": 0.0110665163878725,
+            "Condition": "bile acid synthesis defect congenital 4",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:214950"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MMEL1",
+    "Id": "ID:79258",
+    "Score": 0.597110412112812,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          },
+          {
+            "Id": "HP:0012115",
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.53655837032109,
+            "Hp": "0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IRF5",
+    "Id": "ID:3663",
+    "Score": 0.597110412112812,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TNFSF15",
+    "Id": "ID:9966",
+    "Score": 0.597110412112812,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IL12RB1",
+    "Id": "ID:3594",
+    "Score": 0.597110412112812,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure"
+          },
+          {
+            "Id": "HP:0012115",
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.53655837032109,
+            "Hp": "0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TCF4",
+    "Id": "ID:6925",
+    "Score": 0.597110412112812,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Chronic hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0100626",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          },
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IL12A",
+    "Id": "ID:3592",
+    "Score": 0.597110412112812,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          },
+          {
+            "Id": "HP:0012115",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Score": 0.53655837032109,
+            "Hp": "0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MST1",
+    "Id": "ID:4485",
+    "Score": 0.597110412112812,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "Condition": "Chronic hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0100626"
+          },
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SPIB",
+    "Id": "ID:6689",
+    "Score": 0.597110412112812,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          },
+          {
+            "Score": 0.53655837032109,
+            "Hp": "0012115",
+            "Id": "HP:0012115",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GPR35",
+    "Id": "ID:2859",
+    "Score": 0.597110412112812,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0100626",
+            "Condition": "Chronic hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POU2AF1",
+    "Id": "ID:5450",
+    "Score": 0.597110412112812,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TNPO3",
+    "Id": "ID:23534",
+    "Score": 0.597110412112812,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          },
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC25A15",
+    "Id": "ID:10166",
+    "Score": 0.558691403096834,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.53655837032109,
+            "Hp": "0012115",
+            "Id": "HP:0200119",
+            "Condition": "Acute hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:238970",
+            "IdNote": "CLINVAR",
+            "Condition": "hyperornithinemia hyperammonemia homocitrullinuria syndrome",
+            "Score": 0.0221330327757449,
+            "Hp": "0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IGF2R",
+    "Id": "ID:3482",
+    "Score": 0.558691403096834,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "hepatocellular carcinoma",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:114550",
+            "Hp": "0012115",
+            "Score": 0.0221330327757449
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.53655837032109,
+            "Hp": "0012115",
+            "Id": "HP:0012115",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PIK3CA",
+    "Id": "ID:5290",
+    "Score": 0.558691403096834,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:114550",
+            "Condition": "hepatocellular carcinoma",
+            "IdNote": "CLINVAR",
+            "Score": 0.0221330327757449,
+            "Hp": "0012115"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0012115",
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.53655837032109,
+            "Hp": "0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TP53",
+    "Id": "ID:7157",
+    "Score": 0.558691403096834,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:114550",
+            "Condition": "hepatocellular carcinoma",
+            "IdNote": "CLINVAR",
+            "Score": 0.0221330327757449,
+            "Hp": "0012115"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012115",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "APC",
+    "Id": "ID:324",
+    "Score": 0.558691403096834,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012115",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Score": 0.53655837032109,
+            "Hp": "0012115"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "hepatocellular carcinoma",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:114550",
+            "Hp": "0012115",
+            "Score": 0.0221330327757449
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDGFRL",
+    "Id": "ID:5157",
+    "Score": 0.558691403096834,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012115",
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.53655837032109,
+            "Hp": "0012115"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:114550",
+            "IdNote": "CLINVAR",
+            "Condition": "hepatocellular carcinoma",
+            "Score": 0.0221330327757449,
+            "Hp": "0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AXIN1",
+    "Id": "ID:8312",
+    "Score": 0.558691403096834,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.53655837032109,
+            "Hp": "0012115",
+            "Id": "HP:0012115",
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:114550",
+            "Condition": "hepatocellular carcinoma",
+            "IdNote": "CLINVAR",
+            "Score": 0.0221330327757449,
+            "Hp": "0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CTNNB1",
+    "Id": "ID:1499",
+    "Score": 0.558691403096834,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "hepatocellular carcinoma",
+            "Id": "OMIM:114550",
+            "Hp": "0012115",
+            "Score": 0.0221330327757449
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CASP8",
+    "Id": "ID:841",
+    "Score": 0.558691403096834,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0012115",
+            "Score": 0.0221330327757449,
+            "Condition": "hepatocellular carcinoma",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:114550"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MET",
+    "Id": "ID:4233",
+    "Score": 0.558691403096834,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:114550",
+            "IdNote": "CLINVAR",
+            "Condition": "hepatocellular carcinoma",
+            "Score": 0.0221330327757449,
+            "Hp": "0012115"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012115",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PIEZO1",
+    "Id": "ID:9780",
+    "Score": 0.555721169261129,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.53655837032109,
+            "Hp": "0012115",
+            "Id": "HP:0012115",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0191627989400389,
+            "Hp": "0012115",
+            "Id": "ORPHANET:3202",
+            "IdNote": "ORPHANET",
+            "Condition": "dehydrated hereditary stomatocytosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "C1S",
+    "Id": "ID:716",
+    "Score": 0.547624886708961,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0012115",
+            "Score": 0.0110665163878725,
+            "Condition": "complement component c1s deficiency",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:613783"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VIPAS39",
+    "Id": "ID:63894",
+    "Score": 0.547624886708961,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Giant cell hepatitis",
+            "Id": "HP:0200084",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "arthrogryposis renal dysfunction and cholestasis 2",
+            "Id": "OMIM:613404",
+            "Hp": "0012115",
+            "Score": 0.0110665163878725
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SKIV2L",
+    "Id": "ID:6499",
+    "Score": 0.547624886708961,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:614602",
+            "IdNote": "CLINVAR",
+            "Condition": "trichohepatoenteric syndrome 2",
+            "Score": 0.0110665163878725,
+            "Hp": "0012115"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PGM1",
+    "Id": "ID:5236",
+    "Score": 0.542509174428207,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012115"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Id": "OMIM:602579",
+            "Hp": "0001399",
+            "Score": 0.00187920129698447
+          },
+          {
+            "Score": 0.00104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:603147",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:606056",
+            "Condition": "congenital disorder of glycosylation type iib",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00187920129698447,
+            "Hp": "0001399"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.000104400072054693,
+            "Condition": "congenital disorder of glycosylation type iij",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:613489"
+          },
+          {
+            "Score": 0.00104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:608540",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TTC7A",
+    "Id": "ID:57217",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012115",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Score": 0.53655837032109,
+            "Hp": "0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "STAT1",
+    "Id": "ID:6772",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYP7A1",
+    "Id": "ID:1581",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012115",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Score": 0.53655837032109,
+            "Hp": "0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IL17F",
+    "Id": "ID:112744",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TPP2",
+    "Id": "ID:7174",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012115",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Score": 0.53655837032109,
+            "Hp": "0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CD79B",
+    "Id": "ID:974",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012115",
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.53655837032109,
+            "Hp": "0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IGLL1",
+    "Id": "ID:3543",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IL17RA",
+    "Id": "ID:23765",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012115",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TBX19",
+    "Id": "ID:9095",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.53655837032109,
+            "Hp": "0012115",
+            "Id": "HP:0012115",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KRT18",
+    "Id": "ID:3875",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0200123",
+            "Condition": "Chronic hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.53655837032109,
+            "Hp": "0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SHPK",
+    "Id": "ID:23729",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRAF3IP2",
+    "Id": "ID:10758",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012115",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Score": 0.53655837032109,
+            "Hp": "0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LRRC8A",
+    "Id": "ID:56262",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RFX5",
+    "Id": "ID:5993",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012115",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GLIS3",
+    "Id": "ID:169792",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CLEC7A",
+    "Id": "ID:64581",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RFXAP",
+    "Id": "ID:5994",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CD79A",
+    "Id": "ID:973",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KRT8",
+    "Id": "ID:3856",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0200123",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Chronic hepatitis",
+            "Score": 0.53655837032109,
+            "Hp": "0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BTK",
+    "Id": "ID:695",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012115",
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.53655837032109,
+            "Hp": "0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CD40LG",
+    "Id": "ID:959",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Chronic hepatitis",
+            "Id": "HP:0200123"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TCF3",
+    "Id": "ID:6929",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VPS33B",
+    "Id": "ID:26276",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Giant cell hepatitis",
+            "Id": "HP:0200084",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IL17RC",
+    "Id": "ID:84818",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PIK3R1",
+    "Id": "ID:5295",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012115",
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.53655837032109,
+            "Hp": "0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GUSB",
+    "Id": "ID:2990",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AIRE",
+    "Id": "ID:326",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Chronic hepatitis",
+            "Id": "HP:0200123"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BLNK",
+    "Id": "ID:29760",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RFXANK",
+    "Id": "ID:8625",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012115",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATP7A",
+    "Id": "ID:538",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "Condition": "Hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IGHM",
+    "Id": "ID:3507",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "C4B",
+    "Id": "ID:721",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Chronic hepatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0200123",
+            "Hp": "0012115",
+            "Score": 0.53655837032109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CIITA",
+    "Id": "ID:4261",
+    "Score": 0.53655837032109,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0012115",
+            "Score": 0.53655837032109,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatitis",
+            "Id": "HP:0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GALT",
+    "Id": "ID:2592",
+    "Score": 0.115048879404271,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0544968376125495,
+            "Hp": "0001399",
+            "Id": "OMIM:230400",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "galactosemia"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG9",
+    "Id": "ID:79796",
+    "Score": 0.11321442099531,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "alg9 cdg",
+            "Id": "ORPHANET:79328",
+            "Hp": "0001399",
+            "Score": 0.0467115750964709
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579",
+            "Hp": "0001399",
+            "Score": 0.00187920129698447
+          },
+          {
+            "Score": 0.00104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:603147",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00187920129698447,
+            "Condition": "congenital disorder of glycosylation type iib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:606056"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.000104400072054693,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iij",
+            "Id": "OMIM:613489"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00104400072054693,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ik",
+            "Id": "OMIM:608540"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG8",
+    "Id": "ID:79053",
+    "Score": 0.11321442099531,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:79325",
+            "IdNote": "ORPHANET",
+            "Condition": "alg8 cdg",
+            "Score": 0.0467115750964709,
+            "Hp": "0001399"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00187920129698447,
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579"
+          },
+          {
+            "Score": 0.00104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:603147",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ic"
+          },
+          {
+            "Id": "OMIM:606056",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iib",
+            "Score": 0.00187920129698447,
+            "Hp": "0001399"
+          },
+          {
+            "Score": 0.000104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:613489",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iij"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:608540",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PEX19",
+    "Id": "ID:5824",
+    "Score": 0.107263616888193,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0467115750964709,
+            "Hp": "0001399",
+            "Id": "ORPHANET:912",
+            "IdNote": "ORPHANET",
+            "Condition": "zellweger syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PEX3",
+    "Id": "ID:8504",
+    "Score": 0.107263616888193,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0467115750964709,
+            "Hp": "0001399",
+            "Id": "ORPHANET:912",
+            "Condition": "zellweger syndrome",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PEX1",
+    "Id": "ID:5189",
+    "Score": 0.106290459073683,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0389263125803926,
+            "Hp": "0001399",
+            "Id": "ORPHANET:912",
+            "Condition": "zellweger syndrome",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:214100",
+            "Condition": "zellweger syndrome",
+            "IdNote": "CLINVAR",
+            "Score": 0.00681210470156869,
+            "Hp": "0001399"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NHLRC1",
+    "Id": "ID:378884",
+    "Score": 0.100159564842271,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:254780",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "epilepsy progressive myoclonic 2a",
+            "Score": 0.0199821737912682,
+            "Hp": "0001399"
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "lafora disease",
+            "Id": "OMIM:254780",
+            "Hp": "0001399",
+            "Score": 0.00249777172390852
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:501",
+            "IdNote": "ORPHANET",
+            "Condition": "lafora disease",
+            "Score": 0.0171275775353727,
+            "Hp": "0001399"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FH",
+    "Id": "ID:2271",
+    "Score": 0.100159564842271,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:24",
+            "IdNote": "ORPHANET",
+            "Condition": "fumaric aciduria",
+            "Score": 0.0171275775353727,
+            "Hp": "0001399"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "fumarase deficiency",
+            "Id": "OMIM:606812",
+            "Hp": "0001399",
+            "Score": 0.00249777172390852
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.0199821737912682,
+            "Condition": "fumarase deficiency",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:606812"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PEX10",
+    "Id": "ID:5192",
+    "Score": 0.0994783543721142,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0389263125803926,
+            "IdNote": "ORPHANET",
+            "Condition": "zellweger syndrome",
+            "Id": "ORPHANET:912"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PEX12",
+    "Id": "ID:5193",
+    "Score": 0.0994783543721142,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0389263125803926,
+            "Hp": "0001399",
+            "Id": "ORPHANET:912",
+            "IdNote": "ORPHANET",
+            "Condition": "zellweger syndrome"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PEX5",
+    "Id": "ID:5830",
+    "Score": 0.0994783543721142,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:912",
+            "Condition": "zellweger syndrome",
+            "IdNote": "ORPHANET",
+            "Score": 0.0389263125803926,
+            "Hp": "0001399"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PEX11B",
+    "Id": "ID:8799",
+    "Score": 0.0994783543721142,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:912",
+            "Condition": "zellweger syndrome",
+            "IdNote": "ORPHANET",
+            "Score": 0.0389263125803926,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PEX2",
+    "Id": "ID:5828",
+    "Score": 0.0994783543721142,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:912",
+            "IdNote": "ORPHANET",
+            "Condition": "zellweger syndrome",
+            "Score": 0.0389263125803926,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PEX6",
+    "Id": "ID:5190",
+    "Score": 0.0994783543721142,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "zellweger syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:912",
+            "Hp": "0001399",
+            "Score": 0.0389263125803926
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PEX13",
+    "Id": "ID:5194",
+    "Score": 0.0994783543721142,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "zellweger syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:912",
+            "Hp": "0001399",
+            "Score": 0.0389263125803926
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PEX14",
+    "Id": "ID:5195",
+    "Score": 0.0994783543721142,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0389263125803926,
+            "Hp": "0001399",
+            "Id": "ORPHANET:912",
+            "IdNote": "ORPHANET",
+            "Condition": "zellweger syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PEX26",
+    "Id": "ID:55670",
+    "Score": 0.0994783543721142,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0389263125803926,
+            "Condition": "zellweger syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:912"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PEX16",
+    "Id": "ID:9409",
+    "Score": 0.0994783543721142,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "zellweger syndrome",
+            "Id": "ORPHANET:912",
+            "Hp": "0001399",
+            "Score": 0.0389263125803926
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EPM2A",
+    "Id": "ID:7957",
+    "Score": 0.0973049685863755,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:254780",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "epilepsy progressive myoclonic 2a",
+            "Score": 0.0199821737912682,
+            "Hp": "0001399"
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "lafora disease",
+            "Id": "OMIM:254780",
+            "Hp": "0001399",
+            "Score": 0.00249777172390852
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:501",
+            "IdNote": "ORPHANET",
+            "Condition": "lafora disease",
+            "Score": 0.0142729812794773,
+            "Hp": "0001399"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EIF2AK3",
+    "Id": "ID:9451",
+    "Score": 0.0908280626875825,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0302760208958609,
+            "Hp": "0001399",
+            "Id": "ORPHANET:1667",
+            "IdNote": "ORPHANET",
+            "Condition": "wolcott rallison syndrome"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0100626",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Chronic hepatic failure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SC5D",
+    "Id": "ID:6309",
+    "Score": 0.0902874194572994,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0037845026119826,
+            "Hp": "0001399",
+            "Id": "OMIM:607330",
+            "Condition": "lathosterolosis",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:46059",
+            "IdNote": "ORPHANET",
+            "Condition": "lathosterolosis",
+            "Score": 0.025950875053595,
+            "Hp": "0001399"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AGPAT2",
+    "Id": "ID:10555",
+    "Score": 0.0865029168453168,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001399",
+            "Score": 0.025950875053595,
+            "Condition": "berardinelli seip congenital lipodystrophy",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:528"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FOS",
+    "Id": "ID:2353",
+    "Score": 0.0865029168453168,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "berardinelli seip congenital lipodystrophy",
+            "Id": "ORPHANET:528",
+            "Hp": "0001399",
+            "Score": 0.025950875053595
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CAV1",
+    "Id": "ID:857",
+    "Score": 0.0865029168453168,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0001399",
+            "Score": 0.025950875053595,
+            "IdNote": "ORPHANET",
+            "Condition": "berardinelli seip congenital lipodystrophy",
+            "Id": "ORPHANET:528"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FAH",
+    "Id": "ID:2184",
+    "Score": 0.0830319873068984,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00249777172390852,
+            "Hp": "0001399",
+            "Id": "OMIM:276700",
+            "Condition": "tyrosinemia type i",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Id": "OMIM:276700",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "tyrosinemia type i",
+            "Score": 0.0199821737912682,
+            "Hp": "0001399"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0006554",
+            "Condition": "Acute hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BSCL2",
+    "Id": "ID:26580",
+    "Score": 0.0821777710030509,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0216257292113292,
+            "Condition": "berardinelli seip congenital lipodystrophy",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:528"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GBE1",
+    "Id": "ID:2632",
+    "Score": 0.0805342155829898,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.0199821737912682,
+            "Hp": "0001399",
+            "Id": "OMIM:232500",
+            "Condition": "glycogen storage disease iv",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MPV17",
+    "Id": "ID:4358",
+    "Score": 0.0760739089331532,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0006554",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Acute hepatic failure",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "navajo neurohepatopathy",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:256810",
+            "Hp": "0001399",
+            "Score": 0.00124888586195426
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0142729812794773,
+            "Hp": "0001399",
+            "Id": "ORPHANET:255229",
+            "Condition": "navajo neurohepatopathy",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IFT122",
+    "Id": "ID:55764",
+    "Score": 0.074825023071199,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0142729812794773,
+            "Condition": "cranioectodermal dysplasia",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:1515"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POLG",
+    "Id": "ID:5428",
+    "Score": 0.074825023071199,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0142729812794773,
+            "Hp": "0001399",
+            "Id": "ORPHANET:726",
+            "Condition": "alpers syndrome",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NPC1",
+    "Id": "ID:4864",
+    "Score": 0.0730409004112644,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00249777172390852,
+            "Condition": "niemann pick disease type c1",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:257220"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00999108689563408,
+            "Condition": "niemann pick disease type c1",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:257220"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0006583",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Fatal liver failure in infancy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PORCN",
+    "Id": "ID:64840",
+    "Score": 0.0692699138800387,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00389263125803926,
+            "IdNote": "ORPHANET",
+            "Condition": "focal dermal hypoplasia",
+            "Id": "ORPHANET:2092"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001399",
+            "Score": 0.000283837695898696,
+            "Condition": "focal dermal hypoplasia",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:305600"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00454140313437914,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "focal dermal hypoplasia",
+            "Id": "OMIM:305600"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Acute hepatic failure",
+            "Id": "HP:0006554"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VPS13A",
+    "Id": "ID:23230",
+    "Score": 0.0686211420036988,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "choreoacanthocytosis",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:200150",
+            "Hp": "0001399",
+            "Score": 0.000283837695898696
+          },
+          {
+            "Score": 0.00454140313437914,
+            "Hp": "0001399",
+            "Id": "OMIM:200150",
+            "Condition": "choreoacanthocytosis",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "choreoacanthocytosis",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:2388",
+            "Hp": "0001399",
+            "Score": 0.00324385938169938
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0006554",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Acute hepatic failure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "OTC",
+    "Id": "ID:5009",
+    "Score": 0.0673641464932904,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:311250",
+            "Condition": "ornithine carbamoyltransferase deficiency",
+            "IdNote": "CLINVAR",
+            "Score": 0.00681210470156869,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GBA",
+    "Id": "ID:2629",
+    "Score": 0.066796471101493,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:608013",
+            "IdNote": "CLINVAR",
+            "Condition": "gaucher disease perinatal lethal",
+            "Score": 0.00124888586195426,
+            "Hp": "0001399"
+          },
+          {
+            "Score": 0.00499554344781703,
+            "Hp": "0001399",
+            "Id": "OMIM:608013",
+            "Condition": "gaucher disease perinatal lethal",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MPI",
+    "Id": "ID:4351",
+    "Score": 0.0665028458988391,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00187920129698447,
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type ic",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:603147",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00187920129698447,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iib",
+            "Id": "OMIM:606056"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.000104400072054693,
+            "Condition": "congenital disorder of glycosylation type iij",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:613489"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:608540",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COG4",
+    "Id": "ID:25839",
+    "Score": 0.0665028458988391,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00187920129698447,
+            "Hp": "0001399",
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type ic",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:603147",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type iib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:606056",
+            "Hp": "0001399",
+            "Score": 0.00187920129698447
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.000104400072054693,
+            "Condition": "congenital disorder of glycosylation type iij",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:613489"
+          },
+          {
+            "Score": 0.00104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:608540",
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Fatal liver failure in infancy",
+            "Id": "HP:0006583"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG6",
+    "Id": "ID:29929",
+    "Score": 0.0665028458988391,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Id": "OMIM:602579",
+            "Hp": "0001399",
+            "Score": 0.00187920129698447
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type ic",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:603147",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iib",
+            "Id": "OMIM:606056",
+            "Hp": "0001399",
+            "Score": 0.00187920129698447
+          },
+          {
+            "Id": "OMIM:613489",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iij",
+            "Score": 0.000104400072054693,
+            "Hp": "0001399"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ik",
+            "Id": "OMIM:608540",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MOGS",
+    "Id": "ID:7841",
+    "Score": 0.0665028458988391,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00187920129698447,
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00104400072054693,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "Id": "OMIM:603147"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00187920129698447,
+            "Condition": "congenital disorder of glycosylation type iib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:606056"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.000104400072054693,
+            "Condition": "congenital disorder of glycosylation type iij",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:613489"
+          },
+          {
+            "Score": 0.00104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:608540",
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG1",
+    "Id": "ID:56052",
+    "Score": 0.0665028458988391,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00187920129698447,
+            "Hp": "0001399",
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib"
+          },
+          {
+            "Id": "OMIM:603147",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00104400072054693,
+            "Hp": "0001399"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type iib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:606056",
+            "Hp": "0001399",
+            "Score": 0.00187920129698447
+          },
+          {
+            "Score": 0.000104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:613489",
+            "Condition": "congenital disorder of glycosylation type iij",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ik",
+            "Id": "OMIM:608540",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MEFV",
+    "Id": "ID:4210",
+    "Score": 0.0652961861374571,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0006554",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Acute hepatic failure",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "familial mediterranean fever",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:342",
+            "Hp": "0001399",
+            "Score": 0.00389263125803926
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001399",
+            "Score": 0.000851513087696087,
+            "Condition": "familial mediterranean fever",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:249100"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RTEL1",
+    "Id": "ID:51750",
+    "Score": 0.0644446730497609,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00389263125803926,
+            "Hp": "0001399",
+            "Id": "ORPHANET:1775",
+            "IdNote": "ORPHANET",
+            "Condition": "dyskeratosis congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NHP2",
+    "Id": "ID:55651",
+    "Score": 0.0644446730497609,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:1775",
+            "Condition": "dyskeratosis congenita",
+            "IdNote": "ORPHANET",
+            "Score": 0.00389263125803926,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DKC1",
+    "Id": "ID:1736",
+    "Score": 0.0644446730497609,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "dyskeratosis congenita",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:1775",
+            "Hp": "0001399",
+            "Score": 0.00389263125803926
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-B",
+    "Id": "ID:3106",
+    "Score": 0.0644446730497609,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:36426",
+            "IdNote": "ORPHANET",
+            "Condition": "stevens johnson syndrome",
+            "Score": 0.00389263125803926,
+            "Hp": "0001399"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Acute hepatic failure",
+            "Id": "HP:0006554",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TERT",
+    "Id": "ID:7015",
+    "Score": 0.0644446730497609,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.00389263125803926,
+            "Hp": "0001399",
+            "Id": "ORPHANET:1775",
+            "IdNote": "ORPHANET",
+            "Condition": "dyskeratosis congenita"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TINF2",
+    "Id": "ID:26277",
+    "Score": 0.0644446730497609,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "dyskeratosis congenita",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:1775",
+            "Hp": "0001399",
+            "Score": 0.00389263125803926
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACVRL1",
+    "Id": "ID:94",
+    "Score": 0.0644446730497609,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00389263125803926,
+            "Hp": "0001399",
+            "Id": "ORPHANET:774",
+            "IdNote": "ORPHANET",
+            "Condition": "hereditary hemorrhagic telangiectasia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SMAD4",
+    "Id": "ID:4089",
+    "Score": 0.0644446730497609,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00389263125803926,
+            "IdNote": "ORPHANET",
+            "Condition": "hereditary hemorrhagic telangiectasia",
+            "Id": "ORPHANET:774"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CPT1A",
+    "Id": "ID:1374",
+    "Score": 0.0639580941425061,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00340605235078435,
+            "Hp": "0001399",
+            "Id": "OMIM:255120",
+            "Condition": "carnitine palmitoyltransferase i deficiency",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ENG",
+    "Id": "ID:2022",
+    "Score": 0.063795901173421,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00324385938169938,
+            "Condition": "hereditary hemorrhagic telangiectasia",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:774"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GDF2",
+    "Id": "ID:2658",
+    "Score": 0.063795901173421,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:774",
+            "Condition": "hereditary hemorrhagic telangiectasia",
+            "IdNote": "ORPHANET",
+            "Score": 0.00324385938169938,
+            "Hp": "0001399"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "USB1",
+    "Id": "ID:79650",
+    "Score": 0.063795901173421,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00324385938169938,
+            "Hp": "0001399",
+            "Id": "ORPHANET:1775",
+            "Condition": "dyskeratosis congenita",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WRAP53",
+    "Id": "ID:55135",
+    "Score": 0.063795901173421,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:1775",
+            "IdNote": "ORPHANET",
+            "Condition": "dyskeratosis congenita",
+            "Score": 0.00324385938169938,
+            "Hp": "0001399"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NOP10",
+    "Id": "ID:55505",
+    "Score": 0.063795901173421,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.00324385938169938,
+            "Hp": "0001399",
+            "Id": "ORPHANET:1775",
+            "IdNote": "ORPHANET",
+            "Condition": "dyskeratosis congenita"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CTC1",
+    "Id": "ID:80169",
+    "Score": 0.063795901173421,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "dyskeratosis congenita",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:1775",
+            "Hp": "0001399",
+            "Score": 0.00324385938169938
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "UBR1",
+    "Id": "ID:197131",
+    "Score": 0.0633363544276804,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00018922513059913,
+            "Condition": "johanson blizzard syndrome",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:243800"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0025950875053595,
+            "Hp": "0001399",
+            "Id": "ORPHANET:2315",
+            "Condition": "johanson blizzard syndrome",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TERC",
+    "Id": "ID:7012",
+    "Score": 0.0631471292970811,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "dyskeratosis congenita",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:1775",
+            "Hp": "0001399",
+            "Score": 0.0025950875053595
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AKR1D1",
+    "Id": "ID:6718",
+    "Score": 0.0624442930977131,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0100626",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Chronic hepatic failure",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "bile acid synthesis defect congenital 2",
+            "Id": "OMIM:235555",
+            "Hp": "0001399",
+            "Score": 0.0018922513059913
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LIPA",
+    "Id": "ID:3988",
+    "Score": 0.0624442930977131,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0018922513059913,
+            "IdNote": "CLINVAR",
+            "Condition": "lysosomal acid lipase deficiency",
+            "Id": "OMIM:278000"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFAF5",
+    "Id": "ID:79133",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "mitochondrial complex i deficiency",
+            "Id": "OMIM:252010",
+            "Hp": "0001399",
+            "Score": 0.00124888586195426
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFA11",
+    "Id": "ID:126328",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "mitochondrial complex i deficiency",
+            "Id": "OMIM:252010",
+            "Hp": "0001399",
+            "Score": 0.00124888586195426
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFS3",
+    "Id": "ID:4722",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00124888586195426,
+            "Hp": "0001399",
+            "Id": "OMIM:252010",
+            "Condition": "mitochondrial complex i deficiency",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GFM1",
+    "Id": "ID:85476",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Acute hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0006554",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00124888586195426,
+            "Hp": "0001399",
+            "Id": "OMIM:609060",
+            "IdNote": "CLINVAR",
+            "Condition": "combined oxidative phosphorylation deficiency 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACAD9",
+    "Id": "ID:28976",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00124888586195426,
+            "Hp": "0001399",
+            "Id": "OMIM:611126",
+            "IdNote": "CLINVAR",
+            "Condition": "acyl coa dehydrogenase family member 9 deficiency of"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0006554",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Acute hepatic failure",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFS4",
+    "Id": "ID:4724",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:252010",
+            "Condition": "mitochondrial complex i deficiency",
+            "IdNote": "CLINVAR",
+            "Score": 0.00124888586195426,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFS1",
+    "Id": "ID:4719",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00124888586195426,
+            "IdNote": "CLINVAR",
+            "Condition": "mitochondrial complex i deficiency",
+            "Id": "OMIM:252010"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFA1",
+    "Id": "ID:4694",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00124888586195426,
+            "Condition": "mitochondrial complex i deficiency",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:252010"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFS2",
+    "Id": "ID:4720",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00124888586195426,
+            "Hp": "0001399",
+            "Id": "OMIM:252010",
+            "Condition": "mitochondrial complex i deficiency",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NUBPL",
+    "Id": "ID:80224",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00124888586195426,
+            "Condition": "mitochondrial complex i deficiency",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:252010"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM126B",
+    "Id": "ID:55863",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00124888586195426,
+            "Hp": "0001399",
+            "Id": "OMIM:252010",
+            "Condition": "mitochondrial complex i deficiency",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FOXRED1",
+    "Id": "ID:55572",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:252010",
+            "IdNote": "CLINVAR",
+            "Condition": "mitochondrial complex i deficiency",
+            "Score": 0.00124888586195426,
+            "Hp": "0001399"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFS6",
+    "Id": "ID:4726",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00124888586195426,
+            "Hp": "0001399",
+            "Id": "OMIM:252010",
+            "Condition": "mitochondrial complex i deficiency",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TTC37",
+    "Id": "ID:9652",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:222470",
+            "IdNote": "CLINVAR",
+            "Condition": "trichohepatoenteric syndrome 1",
+            "Score": 0.00124888586195426,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFV2",
+    "Id": "ID:4729",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:252010",
+            "IdNote": "CLINVAR",
+            "Condition": "mitochondrial complex i deficiency",
+            "Score": 0.00124888586195426,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFAF4",
+    "Id": "ID:29078",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00124888586195426,
+            "Hp": "0001399",
+            "Id": "OMIM:252010",
+            "IdNote": "CLINVAR",
+            "Condition": "mitochondrial complex i deficiency"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PCK1",
+    "Id": "ID:5105",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:261680",
+            "IdNote": "CLINVAR",
+            "Condition": "phosphoenolpyruvate carboxykinase deficiency cytosolic",
+            "Score": 0.00124888586195426,
+            "Hp": "0001399"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFB11",
+    "Id": "ID:54539",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "mitochondrial complex i deficiency",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:252010",
+            "Hp": "0001399",
+            "Score": 0.00124888586195426
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFAF2",
+    "Id": "ID:91942",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "mitochondrial complex i deficiency",
+            "Id": "OMIM:252010",
+            "Hp": "0001399",
+            "Score": 0.00124888586195426
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TIMMDC1",
+    "Id": "ID:51300",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00124888586195426,
+            "Condition": "mitochondrial complex i deficiency",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:252010"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFAF3",
+    "Id": "ID:25915",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:252010",
+            "Condition": "mitochondrial complex i deficiency",
+            "IdNote": "CLINVAR",
+            "Score": 0.00124888586195426,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COQ2",
+    "Id": "ID:27235",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:607426",
+            "Condition": "coenzyme q10 deficiency primary 1",
+            "IdNote": "CLINVAR",
+            "Score": 0.00124888586195426,
+            "Hp": "0001399"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFV1",
+    "Id": "ID:4723",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00124888586195426,
+            "IdNote": "CLINVAR",
+            "Condition": "mitochondrial complex i deficiency",
+            "Id": "OMIM:252010"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFAF1",
+    "Id": "ID:51103",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:252010",
+            "IdNote": "CLINVAR",
+            "Condition": "mitochondrial complex i deficiency",
+            "Score": 0.00124888586195426,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYC1",
+    "Id": "ID:1537",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00124888586195426,
+            "Condition": "mitochondrial complex iii deficiency nuclear type 6",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:615453"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Acute hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0006554",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFB9",
+    "Id": "ID:4715",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "mitochondrial complex i deficiency",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:252010",
+            "Hp": "0001399",
+            "Score": 0.00124888586195426
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFA13",
+    "Id": "ID:51079",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:252010",
+            "IdNote": "CLINVAR",
+            "Condition": "mitochondrial complex i deficiency",
+            "Score": 0.00124888586195426,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFB3",
+    "Id": "ID:4709",
+    "Score": 0.061800927653676,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "mitochondrial complex i deficiency",
+            "Id": "OMIM:252010",
+            "Hp": "0001399",
+            "Score": 0.00124888586195426
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CPT2",
+    "Id": "ID:1376",
+    "Score": 0.0608358794876205,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:600649",
+            "Condition": "carnitine palmitoyltransferase ii deficiency infantile",
+            "IdNote": "CLINVAR",
+            "Score": 0.000283837695898696,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM67",
+    "Id": "ID:91147",
+    "Score": 0.0608358794876205,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Chronic hepatic failure",
+            "Id": "HP:0100626"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001399",
+            "Score": 0.000283837695898696,
+            "IdNote": "CLINVAR",
+            "Condition": "coach syndrome",
+            "Id": "OMIM:216360"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CC2D2A",
+    "Id": "ID:57545",
+    "Score": 0.0608358794876205,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000283837695898696,
+            "Hp": "0001399",
+            "Id": "OMIM:216360",
+            "IdNote": "CLINVAR",
+            "Condition": "coach syndrome"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0100626",
+            "Condition": "Chronic hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RPGRIP1L",
+    "Id": "ID:23322",
+    "Score": 0.0608358794876205,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Chronic hepatic failure",
+            "Id": "HP:0100626",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001399",
+            "Score": 0.000283837695898696,
+            "Condition": "coach syndrome",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:216360"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CEP164",
+    "Id": "ID:22897",
+    "Score": 0.0607412669223209,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "nephronophthisis 15",
+            "Id": "OMIM:614845",
+            "Hp": "0001399",
+            "Score": 0.00018922513059913
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TJP2",
+    "Id": "ID:9414",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HADH",
+    "Id": "ID:3033",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0006554",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Acute hepatic failure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-DRB1",
+    "Id": "ID:3123",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure"
+          }
+        ],
+        "PUBMED": [
+          {
+            "Score": 2.21330327757449E-23,
+            "Hp": "0012115",
+            "Id": "PUBMED:22807686",
+            "IdNote": "GWAS",
+            "Condition": "hepatocellular carcinoma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ABCD3",
+    "Id": "ID:5825",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LARS",
+    "Id": "ID:51520",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0006554",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Acute hepatic failure",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FECH",
+    "Id": "ID:2235",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PPARG",
+    "Id": "ID:5468",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRMU",
+    "Id": "ID:55687",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0006554",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Acute hepatic failure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DLD",
+    "Id": "ID:1738",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PCK2",
+    "Id": "ID:5106",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SCYL1",
+    "Id": "ID:57410",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Acute hepatic failure",
+            "Id": "HP:0006554",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC25A20",
+    "Id": "ID:788",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NBAS",
+    "Id": "ID:51594",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Acute hepatic failure",
+            "Id": "HP:0006554",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BTNL2",
+    "Id": "ID:56244",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TFAM",
+    "Id": "ID:7019",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DAXX",
+    "Id": "ID:1616",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATRX",
+    "Id": "ID:546",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CACNA1S",
+    "Id": "ID:779",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Acute hepatic failure",
+            "Id": "HP:0006554",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MRPS7",
+    "Id": "ID:51081",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RYR1",
+    "Id": "ID:6261",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Acute hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0006554",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CCDC115",
+    "Id": "ID:84317",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DGUOK",
+    "Id": "ID:1716",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure",
+            "Id": "HP:0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IFT172",
+    "Id": "ID:26160",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0605520417917216,
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IKZF1",
+    "Id": "ID:10320",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0006554",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Acute hepatic failure",
+            "Score": 0.0605520417917216,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PTPN22",
+    "Id": "ID:26191",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "INPP5E",
+    "Id": "ID:56623",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0100626",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Chronic hepatic failure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PARN",
+    "Id": "ID:5073",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hepatic failure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "F5",
+    "Id": "ID:2153",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0006554",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Acute hepatic failure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NR1H4",
+    "Id": "ID:9971",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0605520417917216,
+            "Hp": "0001399",
+            "Id": "HP:0001399",
+            "Condition": "Hepatic failure",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "JAK2",
+    "Id": "ID:3717",
+    "Score": 0.0605520417917216,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Acute hepatic failure",
+            "Id": "HP:0006554",
+            "Hp": "0001399",
+            "Score": 0.0605520417917216
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WDR35",
+    "Id": "ID:57539",
+    "Score": 0.0142729812794772,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0142729812794773,
+            "Hp": "0001399",
+            "Id": "ORPHANET:1515",
+            "Condition": "cranioectodermal dysplasia",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IFT43",
+    "Id": "ID:112752",
+    "Score": 0.0142729812794772,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "cranioectodermal dysplasia",
+            "Id": "ORPHANET:1515",
+            "Hp": "0001399",
+            "Score": 0.0142729812794773
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WDR19",
+    "Id": "ID:57728",
+    "Score": 0.0142729812794772,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001399",
+            "Score": 0.0142729812794773,
+            "Condition": "cranioectodermal dysplasia",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:1515"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NPC2",
+    "Id": "ID:10577",
+    "Score": 0.00999108689563408,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:257220",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "niemann pick disease type c1",
+            "Score": 0.00999108689563408,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PMM2",
+    "Id": "ID:5373",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:602579",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00187920129698447,
+            "Hp": "0001399"
+          },
+          {
+            "Score": 0.00104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:603147",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:606056",
+            "Condition": "congenital disorder of glycosylation type iib",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00187920129698447,
+            "Hp": "0001399"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.000104400072054693,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iij",
+            "Id": "OMIM:613489"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:608540",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SRD5A3",
+    "Id": "ID:79644",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579",
+            "Hp": "0001399",
+            "Score": 0.00187920129698447
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "Id": "OMIM:603147",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          },
+          {
+            "Score": 0.00187920129698447,
+            "Hp": "0001399",
+            "Id": "OMIM:606056",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iib"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.000104400072054693,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iij",
+            "Id": "OMIM:613489"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00104400072054693,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ik",
+            "Id": "OMIM:608540"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COG7",
+    "Id": "ID:91949",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Score": 0.00187920129698447,
+            "Hp": "0001399"
+          },
+          {
+            "Id": "OMIM:603147",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "Score": 0.00104400072054693,
+            "Hp": "0001399"
+          },
+          {
+            "Id": "OMIM:606056",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iib",
+            "Score": 0.00187920129698447,
+            "Hp": "0001399"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.000104400072054693,
+            "Condition": "congenital disorder of glycosylation type iij",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:613489"
+          },
+          {
+            "Score": 0.00104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:608540",
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COG1",
+    "Id": "ID:9382",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00187920129698447,
+            "Hp": "0001399",
+            "Id": "OMIM:602579",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00104400072054693,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "Id": "OMIM:603147"
+          },
+          {
+            "Score": 0.00187920129698447,
+            "Hp": "0001399",
+            "Id": "OMIM:606056",
+            "Condition": "congenital disorder of glycosylation type iib",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.000104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:613489",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iij"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:608540",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COG6",
+    "Id": "ID:57511",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00187920129698447,
+            "Hp": "0001399",
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib"
+          },
+          {
+            "Id": "OMIM:603147",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00104400072054693,
+            "Hp": "0001399"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00187920129698447,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iib",
+            "Id": "OMIM:606056"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iij",
+            "Id": "OMIM:613489",
+            "Hp": "0001399",
+            "Score": 0.000104400072054693
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00104400072054693,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ik",
+            "Id": "OMIM:608540"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MPDU1",
+    "Id": "ID:9526",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:602579",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00187920129698447,
+            "Hp": "0001399"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00104400072054693,
+            "Condition": "congenital disorder of glycosylation type ic",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:603147"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iib",
+            "Id": "OMIM:606056",
+            "Hp": "0001399",
+            "Score": 0.00187920129698447
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iij",
+            "Id": "OMIM:613489",
+            "Hp": "0001399",
+            "Score": 0.000104400072054693
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00104400072054693,
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:608540"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC35A1",
+    "Id": "ID:10559",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579",
+            "Hp": "0001399",
+            "Score": 0.00187920129698447
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "Id": "OMIM:603147",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          },
+          {
+            "Score": 0.00187920129698447,
+            "Hp": "0001399",
+            "Id": "OMIM:606056",
+            "Condition": "congenital disorder of glycosylation type iib",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.000104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:613489",
+            "Condition": "congenital disorder of glycosylation type iij",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:608540",
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00104400072054693,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG12",
+    "Id": "ID:79087",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579",
+            "Hp": "0001399",
+            "Score": 0.00187920129698447
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "Id": "OMIM:603147",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          },
+          {
+            "Score": 0.00187920129698447,
+            "Hp": "0001399",
+            "Id": "OMIM:606056",
+            "Condition": "congenital disorder of glycosylation type iib",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.000104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:613489",
+            "Condition": "congenital disorder of glycosylation type iij",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:608540",
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00104400072054693,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DDOST",
+    "Id": "ID:1650",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00187920129698447,
+            "Hp": "0001399",
+            "Id": "OMIM:602579",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00104400072054693,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "Id": "OMIM:603147"
+          },
+          {
+            "Score": 0.00187920129698447,
+            "Hp": "0001399",
+            "Id": "OMIM:606056",
+            "Condition": "congenital disorder of glycosylation type iib",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.000104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:613489",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iij"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:608540",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DPM2",
+    "Id": "ID:8818",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00187920129698447,
+            "Hp": "0001399",
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib"
+          },
+          {
+            "Id": "OMIM:603147",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "Score": 0.00104400072054693,
+            "Hp": "0001399"
+          },
+          {
+            "Id": "OMIM:606056",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iib",
+            "Score": 0.00187920129698447,
+            "Hp": "0001399"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.000104400072054693,
+            "Condition": "congenital disorder of glycosylation type iij",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:613489"
+          },
+          {
+            "Score": 0.00104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:608540",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAGT1",
+    "Id": "ID:84061",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00187920129698447,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Id": "OMIM:602579"
+          },
+          {
+            "Score": 0.00104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:603147",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00187920129698447,
+            "Condition": "congenital disorder of glycosylation type iib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:606056"
+          },
+          {
+            "Id": "OMIM:613489",
+            "Condition": "congenital disorder of glycosylation type iij",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000104400072054693,
+            "Hp": "0001399"
+          },
+          {
+            "Id": "OMIM:608540",
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00104400072054693,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TUSC3",
+    "Id": "ID:7991",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Id": "OMIM:602579",
+            "Hp": "0001399",
+            "Score": 0.00187920129698447
+          },
+          {
+            "Score": 0.00104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:603147",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ic"
+          },
+          {
+            "Id": "OMIM:606056",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iib",
+            "Score": 0.00187920129698447,
+            "Hp": "0001399"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.000104400072054693,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iij",
+            "Id": "OMIM:613489"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00104400072054693,
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:608540"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG13",
+    "Id": "ID:79868",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Id": "OMIM:602579",
+            "Hp": "0001399",
+            "Score": 0.00187920129698447
+          },
+          {
+            "Score": 0.00104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:603147",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ic"
+          },
+          {
+            "Id": "OMIM:606056",
+            "Condition": "congenital disorder of glycosylation type iib",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00187920129698447,
+            "Hp": "0001399"
+          },
+          {
+            "Score": 0.000104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:613489",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iij"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:608540",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COG8",
+    "Id": "ID:84342",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00187920129698447,
+            "Hp": "0001399",
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib"
+          },
+          {
+            "Id": "OMIM:603147",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "Score": 0.00104400072054693,
+            "Hp": "0001399"
+          },
+          {
+            "Id": "OMIM:606056",
+            "Condition": "congenital disorder of glycosylation type iib",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00187920129698447,
+            "Hp": "0001399"
+          },
+          {
+            "Score": 0.000104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:613489",
+            "Condition": "congenital disorder of glycosylation type iij",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:608540",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ik",
+            "Score": 0.00104400072054693,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC35C1",
+    "Id": "ID:55343",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00187920129698447,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Id": "OMIM:602579"
+          },
+          {
+            "Score": 0.00104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:603147",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00187920129698447,
+            "Condition": "congenital disorder of glycosylation type iib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:606056"
+          },
+          {
+            "Id": "OMIM:613489",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iij",
+            "Score": 0.000104400072054693,
+            "Hp": "0001399"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:608540",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RFT1",
+    "Id": "ID:91869",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579",
+            "Hp": "0001399",
+            "Score": 0.00187920129698447
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "Id": "OMIM:603147",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          },
+          {
+            "Score": 0.00187920129698447,
+            "Hp": "0001399",
+            "Id": "OMIM:606056",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iib"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.000104400072054693,
+            "Condition": "congenital disorder of glycosylation type iij",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:613489"
+          },
+          {
+            "Score": 0.00104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:608540",
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG3",
+    "Id": "ID:10195",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Id": "OMIM:602579",
+            "Hp": "0001399",
+            "Score": 0.00187920129698447
+          },
+          {
+            "Score": 0.00104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:603147",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ic"
+          },
+          {
+            "Id": "OMIM:606056",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iib",
+            "Score": 0.00187920129698447,
+            "Hp": "0001399"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.000104400072054693,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iij",
+            "Id": "OMIM:613489"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00104400072054693,
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:608540"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DPM1",
+    "Id": "ID:8813",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00187920129698447,
+            "Hp": "0001399",
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib"
+          },
+          {
+            "Id": "OMIM:603147",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00104400072054693,
+            "Hp": "0001399"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00187920129698447,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iib",
+            "Id": "OMIM:606056"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type iij",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:613489",
+            "Hp": "0001399",
+            "Score": 0.000104400072054693
+          },
+          {
+            "Score": 0.00104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:608540",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MGAT2",
+    "Id": "ID:4247",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Score": 0.00187920129698447,
+            "Hp": "0001399"
+          },
+          {
+            "Id": "OMIM:603147",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "Score": 0.00104400072054693,
+            "Hp": "0001399"
+          },
+          {
+            "Id": "OMIM:606056",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iib",
+            "Score": 0.00187920129698447,
+            "Hp": "0001399"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.000104400072054693,
+            "Condition": "congenital disorder of glycosylation type iij",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:613489"
+          },
+          {
+            "Score": 0.00104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:608540",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DPAGT1",
+    "Id": "ID:1798",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Score": 0.00187920129698447,
+            "Hp": "0001399"
+          },
+          {
+            "Id": "OMIM:603147",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00104400072054693,
+            "Hp": "0001399"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00187920129698447,
+            "Condition": "congenital disorder of glycosylation type iib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:606056"
+          },
+          {
+            "Id": "OMIM:613489",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iij",
+            "Score": 0.000104400072054693,
+            "Hp": "0001399"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:608540",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG2",
+    "Id": "ID:85365",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Id": "OMIM:602579",
+            "Hp": "0001399",
+            "Score": 0.00187920129698447
+          },
+          {
+            "Score": 0.00104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:603147",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ic"
+          },
+          {
+            "Id": "OMIM:606056",
+            "Condition": "congenital disorder of glycosylation type iib",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00187920129698447,
+            "Hp": "0001399"
+          },
+          {
+            "Score": 0.000104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:613489",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iij"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ik",
+            "Id": "OMIM:608540",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM165",
+    "Id": "ID:55858",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Score": 0.00187920129698447,
+            "Hp": "0001399"
+          },
+          {
+            "Id": "OMIM:603147",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00104400072054693,
+            "Hp": "0001399"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00187920129698447,
+            "Condition": "congenital disorder of glycosylation type iib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:606056"
+          },
+          {
+            "Id": "OMIM:613489",
+            "Condition": "congenital disorder of glycosylation type iij",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000104400072054693,
+            "Hp": "0001399"
+          },
+          {
+            "Id": "OMIM:608540",
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00104400072054693,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COG5",
+    "Id": "ID:10466",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579",
+            "Hp": "0001399",
+            "Score": 0.00187920129698447
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type ic",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:603147",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type iib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:606056",
+            "Hp": "0001399",
+            "Score": 0.00187920129698447
+          },
+          {
+            "Id": "OMIM:613489",
+            "Condition": "congenital disorder of glycosylation type iij",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000104400072054693,
+            "Hp": "0001399"
+          },
+          {
+            "Id": "OMIM:608540",
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00104400072054693,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DOLK",
+    "Id": "ID:22845",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579",
+            "Hp": "0001399",
+            "Score": 0.00187920129698447
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type ic",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:603147",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type iib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:606056",
+            "Hp": "0001399",
+            "Score": 0.00187920129698447
+          },
+          {
+            "Id": "OMIM:613489",
+            "Condition": "congenital disorder of glycosylation type iij",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000104400072054693,
+            "Hp": "0001399"
+          },
+          {
+            "Id": "OMIM:608540",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ik",
+            "Score": 0.00104400072054693,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DPM3",
+    "Id": "ID:54344",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00187920129698447,
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type ic",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:603147",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type iib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:606056",
+            "Hp": "0001399",
+            "Score": 0.00187920129698447
+          },
+          {
+            "Id": "OMIM:613489",
+            "Condition": "congenital disorder of glycosylation type iij",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.000104400072054693,
+            "Hp": "0001399"
+          },
+          {
+            "Id": "OMIM:608540",
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00104400072054693,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG11",
+    "Id": "ID:440138",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579",
+            "Hp": "0001399",
+            "Score": 0.00187920129698447
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ic",
+            "Id": "OMIM:603147",
+            "Hp": "0001399",
+            "Score": 0.00104400072054693
+          },
+          {
+            "Score": 0.00187920129698447,
+            "Hp": "0001399",
+            "Id": "OMIM:606056",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iib"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.000104400072054693,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iij",
+            "Id": "OMIM:613489"
+          },
+          {
+            "Hp": "0001399",
+            "Score": 0.00104400072054693,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ik",
+            "Id": "OMIM:608540"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "B4GALT1",
+    "Id": "ID:2683",
+    "Score": 0.00595080410711748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00187920129698447,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Id": "OMIM:602579"
+          },
+          {
+            "Score": 0.00104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:603147",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ic"
+          },
+          {
+            "Id": "OMIM:606056",
+            "Condition": "congenital disorder of glycosylation type iib",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00187920129698447,
+            "Hp": "0001399"
+          },
+          {
+            "Score": 0.000104400072054693,
+            "Hp": "0001399",
+            "Id": "OMIM:613489",
+            "Condition": "congenital disorder of glycosylation type iij",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:608540",
+            "Condition": "congenital disorder of glycosylation type ik",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00104400072054693,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYP19A1",
+    "Id": "ID:1588",
+    "Score": 0.00482524083027783,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "aromatase deficiency",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:613546",
+            "Hp": "0001399",
+            "Score": 0.000283837695898696
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00454140313437914,
+            "Condition": "aromatase deficiency",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:91"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BRAF",
+    "Id": "ID:673",
+    "Score": 0.00454140313437914,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:99872",
+            "Condition": "hashimoto pritzker syndrome",
+            "IdNote": "ORPHANET",
+            "Score": 0.00454140313437914,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRIM32",
+    "Id": "ID:22954",
+    "Score": 0.00389263125803926,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:110",
+            "IdNote": "ORPHANET",
+            "Condition": "bardet biedl syndrome",
+            "Score": 0.00389263125803926,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SDCCAG8",
+    "Id": "ID:10806",
+    "Score": 0.00389263125803926,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.00389263125803926,
+            "Hp": "0001399",
+            "Id": "ORPHANET:110",
+            "IdNote": "ORPHANET",
+            "Condition": "bardet biedl syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CEP290",
+    "Id": "ID:80184",
+    "Score": 0.00389263125803926,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "bardet biedl syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:110",
+            "Hp": "0001399",
+            "Score": 0.00389263125803926
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LZTFL1",
+    "Id": "ID:54585",
+    "Score": 0.00324385938169938,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00324385938169938,
+            "IdNote": "ORPHANET",
+            "Condition": "bardet biedl syndrome",
+            "Id": "ORPHANET:110"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MKS1",
+    "Id": "ID:54903",
+    "Score": 0.00324385938169938,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.00324385938169938,
+            "Hp": "0001399",
+            "Id": "ORPHANET:110",
+            "Condition": "bardet biedl syndrome",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BBS2",
+    "Id": "ID:583",
+    "Score": 0.00324385938169938,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00324385938169938,
+            "Condition": "bardet biedl syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:110"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ARL6",
+    "Id": "ID:84100",
+    "Score": 0.00324385938169938,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00324385938169938,
+            "IdNote": "ORPHANET",
+            "Condition": "bardet biedl syndrome",
+            "Id": "ORPHANET:110"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BBS4",
+    "Id": "ID:585",
+    "Score": 0.00324385938169938,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.00324385938169938,
+            "Hp": "0001399",
+            "Id": "ORPHANET:110",
+            "Condition": "bardet biedl syndrome",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BBS5",
+    "Id": "ID:129880",
+    "Score": 0.00324385938169938,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:110",
+            "Condition": "bardet biedl syndrome",
+            "IdNote": "ORPHANET",
+            "Score": 0.00324385938169938,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BBS12",
+    "Id": "ID:166379",
+    "Score": 0.00324385938169938,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:110",
+            "Condition": "bardet biedl syndrome",
+            "IdNote": "ORPHANET",
+            "Score": 0.00324385938169938,
+            "Hp": "0001399"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BBS1",
+    "Id": "ID:582",
+    "Score": 0.00324385938169938,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001399",
+            "Score": 0.00324385938169938,
+            "IdNote": "ORPHANET",
+            "Condition": "bardet biedl syndrome",
+            "Id": "ORPHANET:110"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BBS7",
+    "Id": "ID:55212",
+    "Score": 0.00324385938169938,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "bardet biedl syndrome",
+            "Id": "ORPHANET:110",
+            "Hp": "0001399",
+            "Score": 0.00324385938169938
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BBS9",
+    "Id": "ID:27241",
+    "Score": 0.00324385938169938,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.00324385938169938,
+            "Hp": "0001399",
+            "Id": "ORPHANET:110",
+            "IdNote": "ORPHANET",
+            "Condition": "bardet biedl syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MKKS",
+    "Id": "ID:8195",
+    "Score": 0.00324385938169938,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "bardet biedl syndrome",
+            "Id": "ORPHANET:110",
+            "Hp": "0001399",
+            "Score": 0.00324385938169938
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BBS10",
+    "Id": "ID:79738",
+    "Score": 0.00324385938169938,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "bardet biedl syndrome",
+            "Id": "ORPHANET:110",
+            "Hp": "0001399",
+            "Score": 0.00324385938169938
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WDPCP",
+    "Id": "ID:51057",
+    "Score": 0.00324385938169938,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.00324385938169938,
+            "Hp": "0001399",
+            "Id": "ORPHANET:110",
+            "IdNote": "ORPHANET",
+            "Condition": "bardet biedl syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TTC8",
+    "Id": "ID:123016",
+    "Score": 0.00324385938169938,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "bardet biedl syndrome",
+            "Id": "ORPHANET:110",
+            "Hp": "0001399",
+            "Score": 0.00324385938169938
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BBIP1",
+    "Id": "ID:92482",
+    "Score": 0.0025950875053595,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0025950875053595,
+            "Hp": "0001399",
+            "Id": "ORPHANET:110",
+            "Condition": "bardet biedl syndrome",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RHAG",
+    "Id": "ID:6005",
+    "Score": 0.00167674490725341,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:185000",
+            "Condition": "stomatocytosis i",
+            "IdNote": "CLINVAR",
+            "Score": 0.00167674490725341,
+            "Hp": "0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "STOM",
+    "Id": "ID:2040",
+    "Score": 0.00167674490725341,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:185000",
+            "Condition": "stomatocytosis i",
+            "IdNote": "CLINVAR",
+            "Score": 0.00167674490725341,
+            "Hp": "0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GRIK1",
+    "Id": "ID:2897",
+    "Score": 2.21330327757449E-11,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Hp": "0012115",
+            "Score": 2.21330327757449E-11,
+            "IdNote": "GWAS",
+            "Condition": "hepatocellular carcinoma",
+            "Id": "PUBMED:22807686"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MICA",
+    "Id": "ID:100507436",
+    "Score": 1.7706426220596E-14,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Score": 1.7706426220596E-14,
+            "Hp": "0012115",
+            "Id": "PUBMED:21499248",
+            "Condition": "hepatocellular carcinoma",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "UBE4B",
+    "Id": "ID:10277",
+    "Score": 8.85321311029797E-20,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Hp": "0012115",
+            "Score": 8.85321311029797E-20,
+            "Condition": "hepatocellular carcinoma",
+            "IdNote": "GWAS",
+            "Id": "PUBMED:20676096"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PGD",
+    "Id": "ID:5226",
+    "Score": 8.85321311029797E-20,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Hp": "0012115",
+            "Score": 8.85321311029797E-20,
+            "Condition": "hepatocellular carcinoma",
+            "IdNote": "GWAS",
+            "Id": "PUBMED:20676096"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KIF1B",
+    "Id": "ID:23095",
+    "Score": 8.85321311029797E-20,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Id": "PUBMED:20676096",
+            "Condition": "hepatocellular carcinoma",
+            "IdNote": "GWAS",
+            "Score": 8.85321311029797E-20,
+            "Hp": "0012115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-DQA1",
+    "Id": "ID:3117",
+    "Score": 2.21330327757449E-23,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Id": "PUBMED:22807686",
+            "Condition": "hepatocellular carcinoma",
+            "IdNote": "GWAS",
+            "Score": 2.21330327757449E-23,
+            "Hp": "0012115"
+          }
+        ]
+      }
+    ]
+  }
+]

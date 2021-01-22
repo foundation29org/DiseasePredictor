@@ -1,0 +1,6626 @@
+[
+  {
+    "Name": "SRY",
+    "Id": "ID:6736",
+    "Score": 1,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ovotestis",
+            "Id": "HP:0012861",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933
+          },
+          {
+            "Condition": "Dyscalculia",
+            "Hp": "0001328",
+            "Score": 0.214172674520837,
+            "Id": "HP:0002442",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.172498681202743,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:393",
+            "Hp": "0000062",
+            "Condition": "46 xx testicular disorder of sex development"
+          },
+          {
+            "Condition": "46 xy partial gonadal dysgenesis",
+            "Hp": "0000062",
+            "Score": 0.172498681202743,
+            "Id": "ORPHANET:251510",
+            "IdNote": "ORPHANET"
+          },
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:983",
+            "Score": 0.172498681202743,
+            "Hp": "0000062",
+            "Condition": "testicular regression syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WT1",
+    "Id": "ID:7490",
+    "Score": 0.71711535080007,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:251510",
+            "Score": 0.172498681202743,
+            "Condition": "46 xy partial gonadal dysgenesis",
+            "Hp": "0000062"
+          },
+          {
+            "Id": "ORPHANET:220",
+            "IdNote": "ORPHANET",
+            "Score": 0.0632495164410058,
+            "Condition": "denys drash syndrome",
+            "Hp": "0000062"
+          },
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:3097",
+            "Score": 0.172498681202743,
+            "Hp": "0000062",
+            "Condition": "meacham syndrome"
+          },
+          {
+            "Condition": "wagr syndrome",
+            "Hp": "0000062",
+            "Score": 0.0143748901002286,
+            "Id": "ORPHANET:893",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "Id": "HP:0010459",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000062",
+            "Condition": "True hermaphroditism"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:194080",
+            "IdNote": "CLINVAR",
+            "Score": 0.011068665377176,
+            "Hp": "0000062",
+            "Condition": "drash syndrome"
+          },
+          {
+            "Hp": "0000062",
+            "Condition": "meacham syndrome",
+            "Score": 0.01509363460524,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:608978"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SC5D",
+    "Id": "ID:6309",
+    "Score": 0.569472041498154,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "lathosterolosis",
+            "Hp": "0000062",
+            "Score": 0.075899419729207,
+            "Id": "ORPHANET:46059",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062"
+          },
+          {
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.214172674520837,
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "lathosterolosis",
+            "Hp": "0000062",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:607330",
+            "Score": 0.011068665377176
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SOX9",
+    "Id": "ID:6662",
+    "Score": 0.536662563741866,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:393",
+            "Score": 0.172498681202743,
+            "Condition": "46 xx testicular disorder of sex development",
+            "Hp": "0000062"
+          },
+          {
+            "Hp": "0000062",
+            "Condition": "campomelic dysplasia",
+            "Id": "ORPHANET:140",
+            "IdNote": "ORPHANET",
+            "Score": 0.0958326006681905
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0010459",
+            "Score": 0.268331281870933,
+            "Condition": "True hermaphroditism",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DHCR7",
+    "Id": "ID:1717",
+    "Score": 0.534266748725163,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:270400",
+            "IdNote": "CLINVAR",
+            "Score": 0.0167707051169333,
+            "Condition": "smith lemli opitz syndrome",
+            "Hp": "0000062"
+          },
+          {
+            "Hp": "0000062",
+            "Condition": "smith lemli opitz syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:270400",
+            "Score": 0.134165640935467
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "smith lemli opitz syndrome",
+            "Hp": "0000062",
+            "Score": 0.114999120801829,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:818"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NR0B1",
+    "Id": "ID:190",
+    "Score": 0.509829435554773,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Score": 0.268331281870933
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0000062",
+            "Condition": "46 xy partial gonadal dysgenesis",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:251510",
+            "Score": 0.24149815368384
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NR5A1",
+    "Id": "ID:2516",
+    "Score": 0.509829435554773,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.24149815368384,
+            "Id": "ORPHANET:251510",
+            "IdNote": "ORPHANET",
+            "Hp": "0000062",
+            "Condition": "46 xy partial gonadal dysgenesis"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0010459",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933,
+            "Hp": "0000062",
+            "Condition": "True hermaphroditism"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAP3K1",
+    "Id": "ID:4214",
+    "Score": 0.509829435554773,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:251510",
+            "IdNote": "ORPHANET",
+            "Score": 0.24149815368384,
+            "Hp": "0000062",
+            "Condition": "46 xy partial gonadal dysgenesis"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Score": 0.268331281870933,
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IRF6",
+    "Id": "ID:3664",
+    "Score": 0.485019562159311,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000062",
+            "Condition": "popliteal pterygium syndrome",
+            "Score": 0.00251560576754,
+            "Id": "OMIM:119500",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Score": 0.268331281870933,
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia"
+          },
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CKAP2L",
+    "Id": "ID:150468",
+    "Score": 0.48250395639177,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia",
+            "Score": 0.268331281870933,
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FZD2",
+    "Id": "ID:2535",
+    "Score": 0.48250395639177,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933,
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062"
+          },
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HCCS",
+    "Id": "ID:3052",
+    "Score": 0.48250395639177,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ovotestis",
+            "Hp": "0000062",
+            "Score": 0.268331281870933,
+            "Id": "HP:0012861",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.214172674520837,
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COX7B",
+    "Id": "ID:1349",
+    "Score": 0.48250395639177,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ovotestis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012861",
+            "Score": 0.268331281870933
+          },
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "Score": 0.214172674520837,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFB11",
+    "Id": "ID:54539",
+    "Score": 0.48250395639177,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ovotestis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012861",
+            "Score": 0.268331281870933
+          },
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "Score": 0.214172674520837,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SHH",
+    "Id": "ID:6469",
+    "Score": 0.48250395639177,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Score": 0.268331281870933
+          },
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "Score": 0.214172674520837,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ARX",
+    "Id": "ID:170302",
+    "Score": 0.48250395639177,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia"
+          },
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GATA4",
+    "Id": "ID:2626",
+    "Score": 0.475329699314224,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "46 xy partial gonadal dysgenesis",
+            "Hp": "0000062",
+            "Score": 0.206998417443291,
+            "Id": "ORPHANET:251510",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933,
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WWOX",
+    "Id": "ID:51741",
+    "Score": 0.475329699314224,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "46 xy partial gonadal dysgenesis",
+            "Hp": "0000062",
+            "Score": 0.206998417443291,
+            "Id": "ORPHANET:251510",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia",
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SOX3",
+    "Id": "ID:6658",
+    "Score": 0.440829963073677,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.172498681202743,
+            "Id": "ORPHANET:393",
+            "IdNote": "ORPHANET",
+            "Hp": "0000062",
+            "Condition": "46 xx testicular disorder of sex development"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ELN",
+    "Id": "ID:2006",
+    "Score": 0.433125989097942,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0010794",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Impaired visuospatial constructive cognition"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.107086337260418,
+            "Id": "OMIM:194050",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "williams beuren syndrome",
+            "Hp": "0001328"
+          },
+          {
+            "Hp": "0001328",
+            "Condition": "williams syndrome",
+            "Id": "OMIM:194050",
+            "IdNote": "CLINVAR",
+            "Score": 0.0200786882363285
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "williams syndrome",
+            "Hp": "0001328",
+            "Score": 0.0917882890803585,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:904"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GRIP1",
+    "Id": "ID:23426",
+    "Score": 0.383330402672763,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:2052",
+            "IdNote": "ORPHANET",
+            "Score": 0.114999120801829,
+            "Condition": "fraser syndrome",
+            "Hp": "0000062"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia",
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DYNC2H1",
+    "Id": "ID:79659",
+    "Score": 0.383330402672763,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "short rib polydactyly syndrome verma naumoff type",
+            "Hp": "0000062",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:93271",
+            "Score": 0.114999120801829
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FREM2",
+    "Id": "ID:341640",
+    "Score": 0.364163882539125,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia",
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "fraser syndrome",
+            "Hp": "0000062",
+            "Score": 0.0958326006681905,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:2052"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WDR34",
+    "Id": "ID:89891",
+    "Score": 0.364163882539125,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Score": 0.268331281870933
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0958326006681905,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:93271",
+            "Hp": "0000062",
+            "Condition": "short rib polydactyly syndrome verma naumoff type"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FRAS1",
+    "Id": "ID:80144",
+    "Score": 0.364163882539125,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "fraser syndrome",
+            "Hp": "0000062",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:2052",
+            "Score": 0.0958326006681905
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IFT80",
+    "Id": "ID:57560",
+    "Score": 0.364163882539125,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0000062",
+            "Condition": "short rib polydactyly syndrome verma naumoff type",
+            "Id": "ORPHANET:93271",
+            "IdNote": "ORPHANET",
+            "Score": 0.0958326006681905
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WDR60",
+    "Id": "ID:55112",
+    "Score": 0.364163882539125,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:93271",
+            "IdNote": "ORPHANET",
+            "Score": 0.0958326006681905,
+            "Hp": "0000062",
+            "Condition": "short rib polydactyly syndrome verma naumoff type"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia",
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WDR35",
+    "Id": "ID:57539",
+    "Score": 0.364163882539125,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Score": 0.268331281870933
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:93271",
+            "Score": 0.0958326006681905,
+            "Hp": "0000062",
+            "Condition": "short rib polydactyly syndrome verma naumoff type"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BLM",
+    "Id": "ID:641",
+    "Score": 0.358681862141727,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "bloom syndrome",
+            "Hp": "0001328",
+            "Score": 0.0605802707930367,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:125"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:210900",
+            "IdNote": "CLINVAR",
+            "Score": 0.0132519342359768,
+            "Hp": "0001328",
+            "Condition": "bloom syndrome"
+          },
+          {
+            "Id": "OMIM:210900",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0706769825918763,
+            "Condition": "bloom syndrome",
+            "Hp": "0001328"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RIPK4",
+    "Id": "ID:54101",
+    "Score": 0.34976503428873,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0000062",
+            "Condition": "popliteal pterygium syndrome lethal type",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:263650",
+            "Score": 0.005534332688588
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:1234",
+            "Score": 0.075899419729207,
+            "Hp": "0000062",
+            "Condition": "bartsocas papas syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CEP290",
+    "Id": "ID:80184",
+    "Score": 0.346906785456108,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0000062",
+            "Condition": "meckel syndrome",
+            "Id": "ORPHANET:564",
+            "IdNote": "ORPHANET",
+            "Score": 0.0172498681202743
+          },
+          {
+            "Condition": "bardet biedl syndrome",
+            "Hp": "0001328",
+            "Score": 0.0605802707930367,
+            "Id": "ORPHANET:110",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0010459",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933,
+            "Condition": "True hermaphroditism",
+            "Hp": "0000062"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "joubert syndrome 15",
+            "Hp": "0000062",
+            "Score": 0.000745364671863705,
+            "Id": "OMIM:614464",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SPRED1",
+    "Id": "ID:161742",
+    "Score": 0.344167838930896,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001328",
+            "Condition": "legius syndrome",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:611431",
+            "Score": 0.00883462282398452
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611431",
+            "Score": 0.0706769825918763,
+            "Condition": "legius syndrome",
+            "Hp": "0001328"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.214172674520837
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0504835589941973,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:137605",
+            "Condition": "legius syndrome",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MKS1",
+    "Id": "ID:54903",
+    "Score": 0.338724063653948,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "meckel syndrome",
+            "Hp": "0000062",
+            "Score": 0.0143748901002286,
+            "Id": "ORPHANET:564",
+            "IdNote": "ORPHANET"
+          },
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:110",
+            "Score": 0.0504835589941973,
+            "Condition": "bardet biedl syndrome",
+            "Hp": "0001328"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:249000",
+            "IdNote": "CLINVAR",
+            "Score": 0.005534332688588,
+            "Hp": "0000062",
+            "Condition": "meckel syndrome type 1"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "True hermaphroditism",
+            "Hp": "0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0010459",
+            "Score": 0.268331281870933
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TBX15",
+    "Id": "ID:6913",
+    "Score": 0.337115131000528,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "Score": 0.268331281870933,
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0000062",
+            "Condition": "cousin syndrome",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:260660",
+            "Score": 0.005534332688588
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0000062",
+            "Condition": "pelviscapular dysplasia",
+            "Score": 0.0632495164410058,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:93333"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WDPCP",
+    "Id": "ID:51057",
+    "Score": 0.333189730965358,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0010459",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933,
+            "Hp": "0000062",
+            "Condition": "True hermaphroditism"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0143748901002286,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:564",
+            "Condition": "meckel syndrome",
+            "Hp": "0000062"
+          },
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:110",
+            "Score": 0.0504835589941973,
+            "Hp": "0001328",
+            "Condition": "bardet biedl syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MLXIPL",
+    "Id": "ID:51085",
+    "Score": 0.326039651837524,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Impaired visuospatial constructive cognition",
+            "Hp": "0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0010794",
+            "Score": 0.214172674520837
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001328",
+            "Condition": "williams syndrome",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:194050",
+            "Score": 0.0200786882363285
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "williams syndrome",
+            "Hp": "0001328",
+            "Score": 0.0917882890803585,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:904"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SIX3",
+    "Id": "ID:6496",
+    "Score": 0.303669773166871,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933,
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "microphthalmia syndromic 3",
+            "Hp": "0001328",
+            "Score": 0.0353384912959381,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:206900"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATRX",
+    "Id": "ID:546",
+    "Score": 0.298518551081414,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:301040",
+            "Score": 0.03018726921048,
+            "Condition": "atr x syndrome",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BUB1B",
+    "Id": "ID:701",
+    "Score": 0.293990460699842,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.005534332688588,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:257300",
+            "Condition": "mosaic variegated aneuploidy syndrome 1",
+            "Hp": "0000062"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Score": 0.268331281870933,
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0000062",
+            "Condition": "mosaic variegated aneuploidy syndrome",
+            "Score": 0.02012484614032,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:1052"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNJ2",
+    "Id": "ID:3759",
+    "Score": 0.293684279936698,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.214172674520837,
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:170390",
+            "Score": 0.0706769825918763,
+            "Condition": "andersen syndrome",
+            "Hp": "0001328"
+          },
+          {
+            "Condition": "andersen tawil syndrome",
+            "Hp": "0001328",
+            "Score": 0.00883462282398452,
+            "Id": "OMIM:170390",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TSC1",
+    "Id": "ID:7248",
+    "Score": 0.289266968524706,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001328",
+            "Condition": "tuberous sclerosis 1",
+            "Score": 0.00441731141199227,
+            "Id": "OMIM:191100",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Condition": "tuberous sclerosis 1",
+            "Hp": "0001328",
+            "Id": "OMIM:191100",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0353384912959381
+          },
+          {
+            "Score": 0.0353384912959381,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:613254",
+            "Hp": "0001328",
+            "Condition": "tuberous sclerosis 2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TSC2",
+    "Id": "ID:7249",
+    "Score": 0.289266968524706,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.214172674520837,
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.0353384912959381,
+            "Id": "OMIM:191100",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "tuberous sclerosis 1",
+            "Hp": "0001328"
+          },
+          {
+            "Score": 0.00441731141199227,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:613254",
+            "Hp": "0001328",
+            "Condition": "tuberous sclerosis 2"
+          },
+          {
+            "Score": 0.0353384912959381,
+            "Id": "OMIM:613254",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001328",
+            "Condition": "tuberous sclerosis 2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SPG11",
+    "Id": "ID:80208",
+    "Score": 0.289266968524706,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:604360",
+            "IdNote": "CLINVAR",
+            "Score": 0.00441731141199227,
+            "Condition": "spastic paraplegia 11 autosomal recessive",
+            "Hp": "0001328"
+          },
+          {
+            "Hp": "0001328",
+            "Condition": "spastic paraplegia 11 autosomal recessive",
+            "Id": "OMIM:604360",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0706769825918763
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BUB1",
+    "Id": "ID:699",
+    "Score": 0.288456128011255,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.02012484614032,
+            "Id": "ORPHANET:1052",
+            "IdNote": "ORPHANET",
+            "Condition": "mosaic variegated aneuploidy syndrome",
+            "Hp": "0000062"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Score": 0.268331281870933
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DHCR24",
+    "Id": "ID:1718",
+    "Score": 0.288096755758748,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:35107",
+            "IdNote": "ORPHANET",
+            "Score": 0.0172498681202743,
+            "Condition": "desmosterolosis",
+            "Hp": "0000062"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0000062",
+            "Condition": "desmosterolosis",
+            "Id": "OMIM:602398",
+            "IdNote": "CLINVAR",
+            "Score": 0.00251560576754
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia",
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "B9D2",
+    "Id": "ID:80776",
+    "Score": 0.285581149991209,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "True hermaphroditism",
+            "Score": 0.268331281870933,
+            "Id": "HP:0010459",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0172498681202743,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:564",
+            "Hp": "0000062",
+            "Condition": "meckel syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CEP57",
+    "Id": "ID:9702",
+    "Score": 0.285581149991209,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "Score": 0.268331281870933,
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:1052",
+            "Score": 0.0172498681202743,
+            "Condition": "mosaic variegated aneuploidy syndrome",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BUB3",
+    "Id": "ID:9184",
+    "Score": 0.285581149991209,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "mosaic variegated aneuploidy syndrome",
+            "Hp": "0000062",
+            "Id": "ORPHANET:1052",
+            "IdNote": "ORPHANET",
+            "Score": 0.0172498681202743
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Score": 0.268331281870933
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PAX6",
+    "Id": "ID:5080",
+    "Score": 0.285581149991209,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia",
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "wagr syndrome",
+            "Hp": "0000062",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:893",
+            "Score": 0.0172498681202743
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TBX1",
+    "Id": "ID:6899",
+    "Score": 0.284849657112713,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.214172674520837,
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001328",
+            "Condition": "digeorge syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:188400",
+            "Score": 0.0353384912959381
+          },
+          {
+            "Score": 0.0353384912959381,
+            "Id": "OMIM:192430",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001328",
+            "Condition": "velocardiofacial syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GNPTAB",
+    "Id": "ID:79158",
+    "Score": 0.284849657112713,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.214172674520837,
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001328",
+            "Condition": "mucolipidosis iii alpha beta",
+            "Id": "OMIM:252600",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0706769825918763
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYCN",
+    "Id": "ID:4613",
+    "Score": 0.284849657112713,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.214172674520837,
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "feingold syndrome",
+            "Hp": "0001328",
+            "Id": "OMIM:164280",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0706769825918763
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM67",
+    "Id": "ID:91147",
+    "Score": 0.283451536643026,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000062",
+            "Condition": "joubert syndrome 15",
+            "Score": 0.000745364671863705,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:614464"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0010459",
+            "Score": 0.268331281870933,
+            "Hp": "0000062",
+            "Condition": "True hermaphroditism"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0143748901002286,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:564",
+            "Hp": "0000062",
+            "Condition": "meckel syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TCTN2",
+    "Id": "ID:79867",
+    "Score": 0.283451536643026,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:564",
+            "IdNote": "ORPHANET",
+            "Score": 0.0143748901002286,
+            "Hp": "0000062",
+            "Condition": "meckel syndrome"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "True hermaphroditism",
+            "Hp": "0000062",
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0010459"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "joubert syndrome 15",
+            "Hp": "0000062",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:614464",
+            "Score": 0.000745364671863705
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RPGRIP1L",
+    "Id": "ID:23322",
+    "Score": 0.283451536643026,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:564",
+            "IdNote": "ORPHANET",
+            "Score": 0.0143748901002286,
+            "Hp": "0000062",
+            "Condition": "meckel syndrome"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "Id": "HP:0010459",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "True hermaphroditism",
+            "Hp": "0000062"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0000062",
+            "Condition": "joubert syndrome 15",
+            "Score": 0.000745364671863705,
+            "Id": "OMIM:614464",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM216",
+    "Id": "ID:51259",
+    "Score": 0.283451536643026,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "meckel syndrome",
+            "Hp": "0000062",
+            "Id": "ORPHANET:564",
+            "IdNote": "ORPHANET",
+            "Score": 0.0143748901002286
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "Id": "HP:0010459",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000062",
+            "Condition": "True hermaphroditism"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.000745364671863705,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:614464",
+            "Condition": "joubert syndrome 15",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CC2D2A",
+    "Id": "ID:57545",
+    "Score": 0.283451536643026,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "meckel syndrome",
+            "Hp": "0000062",
+            "Id": "ORPHANET:564",
+            "IdNote": "ORPHANET",
+            "Score": 0.0143748901002286
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0000062",
+            "Condition": "joubert syndrome 15",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:614464",
+            "Score": 0.000745364671863705
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0010459",
+            "Condition": "True hermaphroditism",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RPGRIP1",
+    "Id": "ID:57096",
+    "Score": 0.282706171971161,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "meckel syndrome",
+            "Hp": "0000062",
+            "Id": "ORPHANET:564",
+            "IdNote": "ORPHANET",
+            "Score": 0.0143748901002286
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "True hermaphroditism",
+            "Id": "HP:0010459",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "B9D1",
+    "Id": "ID:27077",
+    "Score": 0.282706171971161,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0143748901002286,
+            "Id": "ORPHANET:564",
+            "IdNote": "ORPHANET",
+            "Hp": "0000062",
+            "Condition": "meckel syndrome"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "True hermaphroditism",
+            "Hp": "0000062",
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0010459"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BDNF",
+    "Id": "ID:627",
+    "Score": 0.282706171971161,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:893",
+            "IdNote": "ORPHANET",
+            "Score": 0.0143748901002286,
+            "Condition": "wagr syndrome",
+            "Hp": "0000062"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "Score": 0.268331281870933,
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM231",
+    "Id": "ID:79583",
+    "Score": 0.28057655862298,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000062",
+            "Condition": "joubert syndrome 15",
+            "Score": 0.000745364671863705,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:614464"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "True hermaphroditism",
+            "Score": 0.268331281870933,
+            "Id": "HP:0010459",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0114999120801829,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:564",
+            "Hp": "0000062",
+            "Condition": "meckel syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TWIST2",
+    "Id": "ID:117581",
+    "Score": 0.276716634429401,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00838535255846668,
+            "Id": "OMIM:200110",
+            "IdNote": "CLINVAR",
+            "Condition": "ablepharon macrostomia syndrome",
+            "Hp": "0000062"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SDCCAG8",
+    "Id": "ID:10806",
+    "Score": 0.274752945313873,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001328",
+            "Condition": "bardet biedl syndrome",
+            "Score": 0.0605802707930367,
+            "Id": "ORPHANET:110",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AKR1C2",
+    "Id": "ID:1646",
+    "Score": 0.273865614559523,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.005534332688588,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:614279",
+            "Condition": "46 xy sex reversal 8",
+            "Hp": "0000062"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ICK",
+    "Id": "ID:22858",
+    "Score": 0.273865614559523,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Score": 0.268331281870933
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:612651",
+            "Score": 0.005534332688588,
+            "Hp": "0000062",
+            "Condition": "endocrine cerebroosteodysplasia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POR",
+    "Id": "ID:5447",
+    "Score": 0.273865614559523,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "disordered steroidogenesis due to cytochrome p450 oxidoreductase deficiency",
+            "Hp": "0000062",
+            "Score": 0.005534332688588,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:613571"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TOE1",
+    "Id": "ID:114034",
+    "Score": 0.273865614559523,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:614969",
+            "IdNote": "CLINVAR",
+            "Score": 0.005534332688588,
+            "Condition": "pontocerebellar hypoplasia type 7",
+            "Hp": "0000062"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Score": 0.268331281870933,
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TNXB",
+    "Id": "ID:7148",
+    "Score": 0.273865614559523,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "ehlers danlos like syndrome due to tenascin x deficiency",
+            "Hp": "0000062",
+            "Score": 0.005534332688588,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:606408"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia",
+            "Score": 0.268331281870933,
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CEP41",
+    "Id": "ID:95681",
+    "Score": 0.269915181798643,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.000838535255846668,
+            "Id": "OMIM:614464",
+            "IdNote": "CLINVAR",
+            "Hp": "0000062",
+            "Condition": "joubert syndrome 15"
+          },
+          {
+            "Score": 0.000745364671863705,
+            "Id": "OMIM:614464",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000062",
+            "Condition": "joubert syndrome 15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VAMP7",
+    "Id": "ID:6845",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PTCH1",
+    "Id": "ID:5727",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYP11B1",
+    "Id": "ID:1584",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933,
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FUZ",
+    "Id": "ID:80199",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933,
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HSD3B2",
+    "Id": "ID:3284",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IGF2",
+    "Id": "ID:3481",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia",
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DLL1",
+    "Id": "ID:28514",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DISP1",
+    "Id": "ID:84976",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933,
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRAIP",
+    "Id": "ID:10293",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia",
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NODAL",
+    "Id": "ID:4838",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933,
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DMRT3",
+    "Id": "ID:58524",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933,
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TDGF1",
+    "Id": "ID:6997",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CSPP1",
+    "Id": "ID:79848",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0010459",
+            "Hp": "0000062",
+            "Condition": "True hermaphroditism"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GAS1",
+    "Id": "ID:2619",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RSPO1",
+    "Id": "ID:284654",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ovotestis",
+            "Hp": "0000062",
+            "Id": "HP:0012861",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SRD5A2",
+    "Id": "ID:6716",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GLI2",
+    "Id": "ID:2736",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYP19A1",
+    "Id": "ID:1588",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZIC2",
+    "Id": "ID:7546",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933,
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PHGDH",
+    "Id": "ID:26227",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FGF8",
+    "Id": "ID:2253",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933,
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WNT4",
+    "Id": "ID:54361",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ovotestis",
+            "Hp": "0000062",
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012861"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM107",
+    "Id": "ID:84314",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0010459",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933,
+            "Hp": "0000062",
+            "Condition": "True hermaphroditism"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PSAT1",
+    "Id": "ID:29968",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NEK1",
+    "Id": "ID:4750",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933,
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDON",
+    "Id": "ID:50937",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYB5A",
+    "Id": "ID:1528",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia",
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SUFU",
+    "Id": "ID:51684",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYP11A1",
+    "Id": "ID:1583",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGIF1",
+    "Id": "ID:7050",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia",
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CEP120",
+    "Id": "ID:153241",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CEP55",
+    "Id": "ID:55165",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "True hermaphroditism",
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0010459"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHD4",
+    "Id": "ID:1108",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia",
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VANGL1",
+    "Id": "ID:81839",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933,
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NR3C1",
+    "Id": "ID:2908",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933,
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PBX1",
+    "Id": "ID:5087",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia",
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HSD17B3",
+    "Id": "ID:3293",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TSPYL1",
+    "Id": "ID:7259",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZFPM2",
+    "Id": "ID:23414",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FOXH1",
+    "Id": "ID:8928",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GLI3",
+    "Id": "ID:2737",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FGFR1",
+    "Id": "ID:2260",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HOXD13",
+    "Id": "ID:3239",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000062",
+            "Condition": "Ambiguous genitalia",
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRIP13",
+    "Id": "ID:9319",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.268331281870933,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000062",
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYP17A1",
+    "Id": "ID:1586",
+    "Score": 0.268331281870933,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ambiguous genitalia",
+            "Hp": "0000062",
+            "Id": "HP:0000062",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.268331281870933
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BBS4",
+    "Id": "ID:585",
+    "Score": 0.264656233515035,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001328",
+            "Condition": "bardet biedl syndrome",
+            "Score": 0.0504835589941973,
+            "Id": "ORPHANET:110",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MKKS",
+    "Id": "ID:8195",
+    "Score": 0.264656233515035,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "bardet biedl syndrome",
+            "Hp": "0001328",
+            "Score": 0.0504835589941973,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:110"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SBDS",
+    "Id": "ID:51119",
+    "Score": 0.264656233515035,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001328",
+            "Condition": "shwachman diamond syndrome",
+            "Id": "ORPHANET:811",
+            "IdNote": "ORPHANET",
+            "Score": 0.0504835589941973
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BBS1",
+    "Id": "ID:582",
+    "Score": 0.264656233515035,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "bardet biedl syndrome",
+            "Hp": "0001328",
+            "Score": 0.0504835589941973,
+            "Id": "ORPHANET:110",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC2A1",
+    "Id": "ID:6513",
+    "Score": 0.253928477228768,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00441731141199227,
+            "Id": "OMIM:606777",
+            "IdNote": "CLINVAR",
+            "Hp": "0001328",
+            "Condition": "glut1 deficiency syndrome 1"
+          },
+          {
+            "Score": 0.0353384912959381,
+            "Id": "OMIM:606777",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001328",
+            "Condition": "glut1 deficiency syndrome 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SOX2",
+    "Id": "ID:6657",
+    "Score": 0.253928477228768,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001328",
+            "Condition": "microphthalmia syndromic 3",
+            "Score": 0.00441731141199227,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:206900"
+          },
+          {
+            "Score": 0.0353384912959381,
+            "Id": "OMIM:206900",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001328",
+            "Condition": "microphthalmia syndromic 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SIX6",
+    "Id": "ID:4990",
+    "Score": 0.253928477228768,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00441731141199227,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:206900",
+            "Condition": "microphthalmia syndromic 3",
+            "Hp": "0001328"
+          },
+          {
+            "Id": "OMIM:206900",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0353384912959381,
+            "Condition": "microphthalmia syndromic 3",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "JAG1",
+    "Id": "ID:182",
+    "Score": 0.24214898013012,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001328",
+            "Condition": "alagille syndrome",
+            "Score": 0.0235589941972922,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:118450"
+          },
+          {
+            "Score": 0.00441731141199227,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:118450",
+            "Condition": "alagille syndrome 1",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MKRN3",
+    "Id": "ID:7681",
+    "Score": 0.23826710040443,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001328",
+            "Condition": "prader willi syndrome",
+            "Score": 0.0240944258835942,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:176270"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDN",
+    "Id": "ID:4692",
+    "Score": 0.23826710040443,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.0240944258835942,
+            "Id": "OMIM:176270",
+            "IdNote": "CLINVAR",
+            "Hp": "0001328",
+            "Condition": "prader willi syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PWAR1",
+    "Id": "ID:145624",
+    "Score": 0.23826710040443,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:176270",
+            "Score": 0.0240944258835942,
+            "Hp": "0001328",
+            "Condition": "prader willi syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PWRN1",
+    "Id": "ID:791114",
+    "Score": 0.23826710040443,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "prader willi syndrome",
+            "Hp": "0001328",
+            "Score": 0.0240944258835942,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:176270"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HERC2",
+    "Id": "ID:8924",
+    "Score": 0.23826710040443,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001328",
+            "Condition": "prader willi syndrome",
+            "Score": 0.0240944258835942,
+            "Id": "OMIM:176270",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NPAP1",
+    "Id": "ID:23742",
+    "Score": 0.23826710040443,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:176270",
+            "Score": 0.0240944258835942,
+            "Hp": "0001328",
+            "Condition": "prader willi syndrome"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SNORD115-1",
+    "Id": "ID:338433",
+    "Score": 0.23826710040443,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:176270",
+            "Score": 0.0240944258835942,
+            "Condition": "prader willi syndrome",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SNORD116-1",
+    "Id": "ID:100033413",
+    "Score": 0.23826710040443,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001328",
+            "Condition": "prader willi syndrome",
+            "Score": 0.0240944258835942,
+            "Id": "OMIM:176270",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SNRPN",
+    "Id": "ID:6638",
+    "Score": 0.23826710040443,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0240944258835942,
+            "Id": "OMIM:176270",
+            "IdNote": "CLINVAR",
+            "Condition": "prader willi syndrome",
+            "Hp": "0001328"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAGEL2",
+    "Id": "ID:54551",
+    "Score": 0.23826710040443,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:176270",
+            "IdNote": "CLINVAR",
+            "Score": 0.0240944258835942,
+            "Condition": "prader willi syndrome",
+            "Hp": "0001328"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MKRN3-AS1",
+    "Id": "ID:10108",
+    "Score": 0.23826710040443,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.0240944258835942,
+            "Id": "OMIM:176270",
+            "IdNote": "CLINVAR",
+            "Condition": "prader willi syndrome",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IPW",
+    "Id": "ID:3653",
+    "Score": 0.23826710040443,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0240944258835942,
+            "Id": "OMIM:176270",
+            "IdNote": "CLINVAR",
+            "Hp": "0001328",
+            "Condition": "prader willi syndrome"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CACNA1A",
+    "Id": "ID:773",
+    "Score": 0.237731668718129,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Dyscalculia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002442",
+            "Score": 0.214172674520837
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001328",
+            "Condition": "migraine familial hemiplegic 1",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:141500",
+            "Score": 0.0235589941972922
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TERC",
+    "Id": "ID:7012",
+    "Score": 0.228308071039212,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "dyskeratosis congenita autosomal dominant 1",
+            "Hp": "0001328",
+            "Score": 0.0141353965183752,
+            "Id": "OMIM:127550",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TINF2",
+    "Id": "ID:26277",
+    "Score": 0.228308071039212,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001328",
+            "Condition": "dyskeratosis congenita autosomal dominant 1",
+            "Score": 0.0141353965183752,
+            "Id": "OMIM:127550",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TERT",
+    "Id": "ID:7015",
+    "Score": 0.228308071039212,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "dyskeratosis congenita autosomal dominant 1",
+            "Hp": "0001328",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:127550",
+            "Score": 0.0141353965183752
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "Score": 0.214172674520837,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC25A15",
+    "Id": "ID:10166",
+    "Score": 0.223007297344821,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:238970",
+            "IdNote": "CLINVAR",
+            "Score": 0.00883462282398452,
+            "Condition": "hyperornithinemia hyperammonemia homocitrullinuria syndrome",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "STIM1",
+    "Id": "ID:6786",
+    "Score": 0.223007297344821,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Dyslexia",
+            "Hp": "0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0010522",
+            "Score": 0.214172674520837
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00883462282398452,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:185070",
+            "Condition": "stormorken syndrome",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RBMX",
+    "Id": "ID:27316",
+    "Score": 0.218589985932829,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:300238",
+            "IdNote": "CLINVAR",
+            "Score": 0.00441731141199227,
+            "Hp": "0001328",
+            "Condition": "mental retardation x linked syndromic 11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHMP2B",
+    "Id": "ID:25978",
+    "Score": 0.218589985932829,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Dyslexia",
+            "Hp": "0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0010522",
+            "Score": 0.214172674520837
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00441731141199227,
+            "Id": "OMIM:600795",
+            "IdNote": "CLINVAR",
+            "Hp": "0001328",
+            "Condition": "frontotemporal dementia chromosome 3 linked"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "C9ORF72",
+    "Id": "ID:203228",
+    "Score": 0.218589985932829,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0010522",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.214172674520837,
+            "Condition": "Dyslexia",
+            "Hp": "0001328"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "amyotrophic lateral sclerosis and or frontotemporal dementia 1",
+            "Hp": "0001328",
+            "Score": 0.00441731141199227,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:105550"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TUBB4A",
+    "Id": "ID:10382",
+    "Score": 0.218589985932829,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00441731141199227,
+            "Id": "OMIM:612438",
+            "IdNote": "CLINVAR",
+            "Condition": "leukodystrophy hypomyelinating 6",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NF1",
+    "Id": "ID:4763",
+    "Score": 0.218589985932829,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "neurofibromatosis noonan syndrome",
+            "Hp": "0001328",
+            "Score": 0.00441731141199227,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:601321"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COQ2",
+    "Id": "ID:27235",
+    "Score": 0.218589985932829,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "coenzyme q10 deficiency primary 1",
+            "Hp": "0001328",
+            "Score": 0.00441731141199227,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:607426"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TCTN3",
+    "Id": "ID:26123",
+    "Score": 0.214918039192701,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:614464",
+            "Score": 0.000745364671863705,
+            "Condition": "joubert syndrome 15",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EHMT1",
+    "Id": "ID:79813",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POMT2",
+    "Id": "ID:29954",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FKTN",
+    "Id": "ID:2218",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POMGNT1",
+    "Id": "ID:55624",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYO5A",
+    "Id": "ID:4644",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DVL3",
+    "Id": "ID:1857",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ORC1",
+    "Id": "ID:4998",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SMARCA2",
+    "Id": "ID:6595",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HMGA2",
+    "Id": "ID:8091",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DGCR6",
+    "Id": "ID:8214",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GP1BB",
+    "Id": "ID:2812",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALDH18A1",
+    "Id": "ID:5832",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "B3GALNT2",
+    "Id": "ID:148789",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC2A10",
+    "Id": "ID:81031",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FKRP",
+    "Id": "ID:79147",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TUBB3",
+    "Id": "ID:10381",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DMD",
+    "Id": "ID:1756",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LTBP4",
+    "Id": "ID:8425",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATP7A",
+    "Id": "ID:538",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LEMD3",
+    "Id": "ID:23592",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MICU1",
+    "Id": "ID:10367",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "YY1AP1",
+    "Id": "ID:55249",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "UBE3B",
+    "Id": "ID:89910",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NTN1",
+    "Id": "ID:9423",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HIRA",
+    "Id": "ID:7290",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WIPF1",
+    "Id": "ID:7456",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACTG1",
+    "Id": "ID:71",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SPG7",
+    "Id": "ID:6687",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DGCR8",
+    "Id": "ID:54487",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRKAR1A",
+    "Id": "ID:5573",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WNT5A",
+    "Id": "ID:7474",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WAS",
+    "Id": "ID:7454",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZFYVE26",
+    "Id": "ID:23503",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KLF13",
+    "Id": "ID:51621",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "OPA3",
+    "Id": "ID:80207",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0010522",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Dyslexia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PSEN1",
+    "Id": "ID:5663",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0010522",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Dyslexia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SQSTM1",
+    "Id": "ID:8878",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Dyslexia",
+            "Score": 0.214172674520837,
+            "Id": "HP:0010522",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHRNA7",
+    "Id": "ID:1139",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRNP",
+    "Id": "ID:5621",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SIL1",
+    "Id": "ID:64374",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDC45",
+    "Id": "ID:8318",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAD51",
+    "Id": "ID:5888",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RNF168",
+    "Id": "ID:165918",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SMAD4",
+    "Id": "ID:4089",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KAT6B",
+    "Id": "ID:23522",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TREM2",
+    "Id": "ID:54209",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0010522",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Dyslexia",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DVL1",
+    "Id": "ID:1855",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNC3",
+    "Id": "ID:3748",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0010794",
+            "Score": 0.214172674520837,
+            "Hp": "0001328",
+            "Condition": "Impaired visuospatial constructive cognition"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM106B",
+    "Id": "ID:54664",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Dyslexia",
+            "Score": 0.214172674520837,
+            "Id": "HP:0010522",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNA1",
+    "Id": "ID:3736",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COMT",
+    "Id": "ID:1312",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACTB",
+    "Id": "ID:60",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HNRNPA2B1",
+    "Id": "ID:3181",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Dyscalculia",
+            "Hp": "0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002442",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL4A1",
+    "Id": "ID:1282",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDT1",
+    "Id": "ID:81620",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POMT1",
+    "Id": "ID:10585",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0010794",
+            "Score": 0.214172674520837,
+            "Condition": "Impaired visuospatial constructive cognition",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POMGNT2",
+    "Id": "ID:84892",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PIEZO2",
+    "Id": "ID:63895",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "INPP5K",
+    "Id": "ID:51763",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HDAC8",
+    "Id": "ID:55869",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POMK",
+    "Id": "ID:84197",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PTDSS1",
+    "Id": "ID:9791",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRRT2",
+    "Id": "ID:112476",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAPT",
+    "Id": "ID:4137",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0010522",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Dyslexia",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DNAL4",
+    "Id": "ID:10126",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SYN1",
+    "Id": "ID:6853",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KIF11",
+    "Id": "ID:3832",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DCC",
+    "Id": "ID:1630",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SEC24C",
+    "Id": "ID:9632",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MBTPS2",
+    "Id": "ID:51360",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TUBB2B",
+    "Id": "ID:347733",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "JMJD1C",
+    "Id": "ID:221037",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TCF4",
+    "Id": "ID:6925",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PLA2G6",
+    "Id": "ID:8398",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0010522",
+            "Score": 0.214172674520837,
+            "Hp": "0001328",
+            "Condition": "Dyslexia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ORC6",
+    "Id": "ID:23594",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RREB1",
+    "Id": "ID:6239",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ISPD",
+    "Id": "ID:729920",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AMER1",
+    "Id": "ID:139285",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAP2K2",
+    "Id": "ID:5605",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDC6",
+    "Id": "ID:990",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LAS1L",
+    "Id": "ID:81887",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRKAR1B",
+    "Id": "ID:5575",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0010794",
+            "Score": 0.214172674520837,
+            "Condition": "Impaired visuospatial constructive cognition",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DIS3L2",
+    "Id": "ID:129563",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDE4D",
+    "Id": "ID:5144",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837,
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ARVCF",
+    "Id": "ID:421",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001328",
+            "Condition": "Specific learning disability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RNU4ATAC",
+    "Id": "ID:100151683",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DAG1",
+    "Id": "ID:1605",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Specific learning disability",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HNRNPA1",
+    "Id": "ID:3178",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0002442",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Dyscalculia",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GMNN",
+    "Id": "ID:51053",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NSD1",
+    "Id": "ID:64324",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GRN",
+    "Id": "ID:2896",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0010522",
+            "Score": 0.214172674520837,
+            "Condition": "Dyslexia",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VCP",
+    "Id": "ID:7415",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.214172674520837,
+            "Id": "HP:0010522",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Dyslexia",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ORC4",
+    "Id": "ID:5000",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001328",
+            "Condition": "Specific learning disability",
+            "Score": 0.214172674520837,
+            "Id": "HP:0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DGCR2",
+    "Id": "ID:9993",
+    "Score": 0.214172674520837,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Specific learning disability",
+            "Hp": "0001328",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001328",
+            "Score": 0.214172674520837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LIMK1",
+    "Id": "ID:3984",
+    "Score": 0.107086337260418,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:904",
+            "Score": 0.107086337260418,
+            "Hp": "0001328",
+            "Condition": "williams syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RFC2",
+    "Id": "ID:5982",
+    "Score": 0.0917882890803588,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "williams syndrome",
+            "Hp": "0001328",
+            "Score": 0.0917882890803585,
+            "Id": "ORPHANET:904",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FKBP6",
+    "Id": "ID:8468",
+    "Score": 0.0917882890803588,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001328",
+            "Condition": "williams syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:904",
+            "Score": 0.0917882890803585
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EIF4H",
+    "Id": "ID:7458",
+    "Score": 0.0917882890803588,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001328",
+            "Condition": "williams syndrome",
+            "Score": 0.0917882890803585,
+            "Id": "ORPHANET:904",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LAT2",
+    "Id": "ID:7462",
+    "Score": 0.0917882890803588,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "williams syndrome",
+            "Hp": "0001328",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:904",
+            "Score": 0.0917882890803585
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CLIP2",
+    "Id": "ID:7461",
+    "Score": 0.0764902409002989,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0764902409002989,
+            "Id": "ORPHANET:904",
+            "IdNote": "ORPHANET",
+            "Condition": "williams syndrome",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GTF2I",
+    "Id": "ID:2969",
+    "Score": 0.0764902409002989,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "williams syndrome",
+            "Hp": "0001328",
+            "Score": 0.0764902409002989,
+            "Id": "ORPHANET:904",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GTF2IRD1",
+    "Id": "ID:9569",
+    "Score": 0.0764902409002989,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "williams syndrome",
+            "Hp": "0001328",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:904",
+            "Score": 0.0764902409002989
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WBSCR27",
+    "Id": "ID:155368",
+    "Score": 0.0764902409002989,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0764902409002989,
+            "Id": "ORPHANET:904",
+            "IdNote": "ORPHANET",
+            "Hp": "0001328",
+            "Condition": "williams syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BCL7B",
+    "Id": "ID:9275",
+    "Score": 0.0764902409002989,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001328",
+            "Condition": "williams syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:904",
+            "Score": 0.0764902409002989
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TBL2",
+    "Id": "ID:26608",
+    "Score": 0.0764902409002989,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:904",
+            "Score": 0.0764902409002989,
+            "Condition": "williams syndrome",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BAZ1B",
+    "Id": "ID:9031",
+    "Score": 0.0764902409002989,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001328",
+            "Condition": "williams syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:904",
+            "Score": 0.0764902409002989
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DNAJC30",
+    "Id": "ID:84277",
+    "Score": 0.061192192720239,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:904",
+            "Score": 0.061192192720239,
+            "Condition": "williams syndrome",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WBSCR16",
+    "Id": "ID:81554",
+    "Score": 0.061192192720239,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "williams syndrome",
+            "Hp": "0001328",
+            "Score": 0.061192192720239,
+            "Id": "ORPHANET:904",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WBSCR22",
+    "Id": "ID:114049",
+    "Score": 0.061192192720239,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001328",
+            "Condition": "williams syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:904",
+            "Score": 0.061192192720239
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRIM32",
+    "Id": "ID:22954",
+    "Score": 0.0605802707930367,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:110",
+            "Score": 0.0605802707930367,
+            "Condition": "bardet biedl syndrome",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ABCC9",
+    "Id": "ID:10060",
+    "Score": 0.0605802707930367,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:965",
+            "Score": 0.0605802707930367,
+            "Condition": "acromegaloid facial appearance syndrome",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LZTFL1",
+    "Id": "ID:54585",
+    "Score": 0.0504835589941973,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001328",
+            "Condition": "bardet biedl syndrome",
+            "Score": 0.0504835589941973,
+            "Id": "ORPHANET:110",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BBS10",
+    "Id": "ID:79738",
+    "Score": 0.0504835589941973,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "bardet biedl syndrome",
+            "Hp": "0001328",
+            "Score": 0.0504835589941973,
+            "Id": "ORPHANET:110",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BBS9",
+    "Id": "ID:27241",
+    "Score": 0.0504835589941973,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001328",
+            "Condition": "bardet biedl syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:110",
+            "Score": 0.0504835589941973
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BBS5",
+    "Id": "ID:129880",
+    "Score": 0.0504835589941973,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0504835589941973,
+            "Id": "ORPHANET:110",
+            "IdNote": "ORPHANET",
+            "Hp": "0001328",
+            "Condition": "bardet biedl syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BBS7",
+    "Id": "ID:55212",
+    "Score": 0.0504835589941973,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:110",
+            "Score": 0.0504835589941973,
+            "Hp": "0001328",
+            "Condition": "bardet biedl syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TTC8",
+    "Id": "ID:123016",
+    "Score": 0.0504835589941973,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001328",
+            "Condition": "bardet biedl syndrome",
+            "Score": 0.0504835589941973,
+            "Id": "ORPHANET:110",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ARL6",
+    "Id": "ID:84100",
+    "Score": 0.0504835589941973,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "bardet biedl syndrome",
+            "Hp": "0001328",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:110",
+            "Score": 0.0504835589941973
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BBS12",
+    "Id": "ID:166379",
+    "Score": 0.0504835589941973,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0504835589941973,
+            "Id": "ORPHANET:110",
+            "IdNote": "ORPHANET",
+            "Condition": "bardet biedl syndrome",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BBS2",
+    "Id": "ID:583",
+    "Score": 0.0504835589941973,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0504835589941973,
+            "Id": "ORPHANET:110",
+            "IdNote": "ORPHANET",
+            "Hp": "0001328",
+            "Condition": "bardet biedl syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BBIP1",
+    "Id": "ID:92482",
+    "Score": 0.0403868471953577,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0001328",
+            "Condition": "bardet biedl syndrome",
+            "Score": 0.0403868471953577,
+            "Id": "ORPHANET:110",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PITX2",
+    "Id": "ID:5308",
+    "Score": 0.0353384912959381,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "microphthalmia syndromic 3",
+            "Hp": "0001328",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:206900",
+            "Score": 0.0353384912959381
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PITX3",
+    "Id": "ID:5309",
+    "Score": 0.0353384912959381,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:206900",
+            "Score": 0.0353384912959381,
+            "Condition": "microphthalmia syndromic 3",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VSX2",
+    "Id": "ID:338917",
+    "Score": 0.0353384912959381,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001328",
+            "Condition": "microphthalmia syndromic 3",
+            "Score": 0.0353384912959381,
+            "Id": "OMIM:206900",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BMP4",
+    "Id": "ID:652",
+    "Score": 0.0353384912959381,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001328",
+            "Condition": "microphthalmia syndromic 3",
+            "Score": 0.0353384912959381,
+            "Id": "OMIM:206900",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAX",
+    "Id": "ID:30062",
+    "Score": 0.0353384912959381,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "microphthalmia syndromic 3",
+            "Hp": "0001328",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:206900",
+            "Score": 0.0353384912959381
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PAX2",
+    "Id": "ID:5076",
+    "Score": 0.0353384912959381,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:206900",
+            "Score": 0.0353384912959381,
+            "Hp": "0001328",
+            "Condition": "microphthalmia syndromic 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "OTX2",
+    "Id": "ID:5015",
+    "Score": 0.0353384912959381,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "microphthalmia syndromic 3",
+            "Hp": "0001328",
+            "Score": 0.0353384912959381,
+            "Id": "OMIM:206900",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VAX1",
+    "Id": "ID:11023",
+    "Score": 0.0353384912959381,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:206900",
+            "Score": 0.0353384912959381,
+            "Condition": "microphthalmia syndromic 3",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NOTCH2",
+    "Id": "ID:4853",
+    "Score": 0.0235589941972919,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0235589941972922,
+            "Id": "OMIM:118450",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "alagille syndrome",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SCN1A",
+    "Id": "ID:6323",
+    "Score": 0.0235589941972919,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "migraine familial hemiplegic 1",
+            "Hp": "0001328",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:141500",
+            "Score": 0.0235589941972922
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATP1A2",
+    "Id": "ID:477",
+    "Score": 0.0235589941972919,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001328",
+            "Condition": "migraine familial hemiplegic 1",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:141500",
+            "Score": 0.0235589941972922
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IFT88",
+    "Id": "ID:8100",
+    "Score": 0.0143748901002286,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:564",
+            "Score": 0.0143748901002286,
+            "Condition": "meckel syndrome",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WRAP53",
+    "Id": "ID:55135",
+    "Score": 0.0141353965183752,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:127550",
+            "Score": 0.0141353965183752,
+            "Hp": "0001328",
+            "Condition": "dyskeratosis congenita autosomal dominant 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DKC1",
+    "Id": "ID:1736",
+    "Score": 0.0141353965183752,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0141353965183752,
+            "Id": "OMIM:127550",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "dyskeratosis congenita autosomal dominant 1",
+            "Hp": "0001328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NHP2",
+    "Id": "ID:55651",
+    "Score": 0.0141353965183752,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:127550",
+            "Score": 0.0141353965183752,
+            "Hp": "0001328",
+            "Condition": "dyskeratosis congenita autosomal dominant 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NOP10",
+    "Id": "ID:55505",
+    "Score": 0.0141353965183752,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "dyskeratosis congenita autosomal dominant 1",
+            "Hp": "0001328",
+            "Score": 0.0141353965183752,
+            "Id": "OMIM:127550",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AKR1C4",
+    "Id": "ID:1109",
+    "Score": 0.005534332688588,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.005534332688588,
+            "Id": "OMIM:614279",
+            "IdNote": "CLINVAR",
+            "Condition": "46 xy sex reversal 8",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IFNG",
+    "Id": "ID:3458",
+    "Score": 0.00441731141199227,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001328",
+            "Condition": "tuberous sclerosis 2",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:613254",
+            "Score": 0.00441731141199227
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "C5ORF42",
+    "Id": "ID:65250",
+    "Score": 0.000745364671863705,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:614464",
+            "Score": 0.000745364671863705,
+            "Hp": "0000062",
+            "Condition": "joubert syndrome 15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "INPP5E",
+    "Id": "ID:56623",
+    "Score": 0.000745364671863705,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "joubert syndrome 15",
+            "Hp": "0000062",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:614464",
+            "Score": 0.000745364671863705
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TTC21B",
+    "Id": "ID:79809",
+    "Score": 0.000745364671863705,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:614464",
+            "Score": 0.000745364671863705,
+            "Condition": "joubert syndrome 15",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KIF7",
+    "Id": "ID:374654",
+    "Score": 0.000745364671863705,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "joubert syndrome 15",
+            "Hp": "0000062",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:614464",
+            "Score": 0.000745364671863705
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM138",
+    "Id": "ID:51524",
+    "Score": 0.000745364671863705,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000745364671863705,
+            "Id": "OMIM:614464",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "joubert syndrome 15",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NPHP1",
+    "Id": "ID:4867",
+    "Score": 0.000745364671863705,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000745364671863705,
+            "Id": "OMIM:614464",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000062",
+            "Condition": "joubert syndrome 15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM237",
+    "Id": "ID:65062",
+    "Score": 0.000745364671863705,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:614464",
+            "Score": 0.000745364671863705,
+            "Condition": "joubert syndrome 15",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AHI1",
+    "Id": "ID:54806",
+    "Score": 0.000745364671863705,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:614464",
+            "Score": 0.000745364671863705,
+            "Condition": "joubert syndrome 15",
+            "Hp": "0000062"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "OFD1",
+    "Id": "ID:8481",
+    "Score": 0.000745364671863705,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "joubert syndrome 15",
+            "Hp": "0000062",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:614464",
+            "Score": 0.000745364671863705
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ARL13B",
+    "Id": "ID:200894",
+    "Score": 0.000745364671863705,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000745364671863705,
+            "Id": "OMIM:614464",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000062",
+            "Condition": "joubert syndrome 15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TCTN1",
+    "Id": "ID:79600",
+    "Score": 0.000745364671863705,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000062",
+            "Condition": "joubert syndrome 15",
+            "Score": 0.000745364671863705,
+            "Id": "OMIM:614464",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "Name": "BEST1",
+    "Id": "ID:7439",
+    "Score": 1,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "bestrophinopathy autosomal recessive",
+            "Score": 0.0198079231692677,
+            "IdNote": "CLINVAR",
+            "Hp": "0012045",
+            "Id": "OMIM:611809"
+          },
+          {
+            "Condition": "retinitis pigmentosa 50",
+            "Score": 0.0198079231692677,
+            "IdNote": "CLINVAR",
+            "Hp": "0012045",
+            "Id": "OMIM:613194"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0012045",
+            "Hp": "0012045",
+            "Score": 0.960384153661465,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Retinal flecks"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RIMS1",
+    "Id": "ID:22999",
+    "Score": 0.980192076830732,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.960384153661465,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Retinal flecks",
+            "Id": "HP:0012045",
+            "Hp": "0012045"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:603649",
+            "Hp": "0012045",
+            "IdNote": "CLINVAR",
+            "Score": 0.0198079231692677,
+            "Condition": "cone rod dystrophy 7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PROM1",
+    "Id": "ID:8842",
+    "Score": 0.980192076830732,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:603786",
+            "Hp": "0012045",
+            "IdNote": "CLINVAR",
+            "Score": 0.0198079231692677,
+            "Condition": "stargardt disease 4"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0012045",
+            "Hp": "0012045",
+            "Score": 0.960384153661465,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Retinal flecks"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RHO",
+    "Id": "ID:6010",
+    "Score": 0.960384153661465,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.960384153661465,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Fundus albipunctatus",
+            "Id": "HP:0030642",
+            "Hp": "0012045"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZFYVE26",
+    "Id": "ID:23503",
+    "Score": 0.960384153661465,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Retinal flecks",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.960384153661465,
+            "Hp": "0012045",
+            "Id": "HP:0012045"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRPH2",
+    "Id": "ID:5961",
+    "Score": 0.960384153661465,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Fundus albipunctatus",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.960384153661465,
+            "Hp": "0012045",
+            "Id": "HP:0030642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RDH5",
+    "Id": "ID:5959",
+    "Score": 0.960384153661465,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.960384153661465,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Fundus albipunctatus",
+            "Id": "HP:0030642",
+            "Hp": "0012045"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RLBP1",
+    "Id": "ID:6017",
+    "Score": 0.960384153661465,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Fundus albipunctatus",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.960384153661465,
+            "Hp": "0012045",
+            "Id": "HP:0030642"
+          }
+        ]
+      }
+    ]
+  }
+]

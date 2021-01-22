@@ -1,0 +1,763 @@
+[
+  {
+    "Name": "MLH1",
+    "Id": "ID:4292",
+    "Score": 1,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0002888",
+            "IdNote": "ORPHANET",
+            "Condition": "constitutional mismatch repair deficiency syndrome",
+            "Score": 0.205101644438689,
+            "Id": "ORPHANET:252202"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002888",
+            "Id": "OMIM:276300",
+            "Condition": "mismatch repair cancer syndrome",
+            "Score": 0.039880875307523
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0002888",
+            "Id": "OMIM:276300",
+            "Score": 0.0299106564806422,
+            "Condition": "turcot syndrome"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0002888",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Ependymoma",
+            "Score": 0.725106823773146,
+            "Id": "HP:0002888"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TSC2",
+    "Id": "ID:7249",
+    "Score": 0.979347403858604,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ependymoma",
+            "Score": 0.725106823773146,
+            "Id": "HP:0002888",
+            "Hp": "0002888",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.119642625922569,
+            "Condition": "tuberous sclerosis 1",
+            "Id": "OMIM:191100",
+            "Hp": "0002888",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0002888",
+            "Id": "OMIM:613254",
+            "Condition": "tuberous sclerosis 2",
+            "Score": 0.0149553282403211
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002888",
+            "Id": "OMIM:613254",
+            "Condition": "tuberous sclerosis 2",
+            "Score": 0.119642625922569
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TSC1",
+    "Id": "ID:7248",
+    "Score": 0.979347403858604,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:191100",
+            "Score": 0.0149553282403211,
+            "Condition": "tuberous sclerosis 1",
+            "IdNote": "CLINVAR",
+            "Hp": "0002888"
+          },
+          {
+            "Id": "OMIM:191100",
+            "Score": 0.119642625922569,
+            "Condition": "tuberous sclerosis 1",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002888"
+          },
+          {
+            "Id": "OMIM:613254",
+            "Condition": "tuberous sclerosis 2",
+            "Score": 0.119642625922569,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002888"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002888",
+            "Id": "HP:0002888",
+            "Score": 0.725106823773146,
+            "Condition": "Ependymoma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MSH6",
+    "Id": "ID:2956",
+    "Score": 0.965816392593549,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0002888",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "mismatch repair cancer syndrome",
+            "Score": 0.039880875307523,
+            "Id": "OMIM:276300"
+          },
+          {
+            "Condition": "turcot syndrome",
+            "Score": 0.0299106564806422,
+            "Id": "OMIM:276300",
+            "Hp": "0002888",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:252202",
+            "Condition": "constitutional mismatch repair deficiency syndrome",
+            "Score": 0.170918037032241,
+            "IdNote": "ORPHANET",
+            "Hp": "0002888"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002888",
+            "Id": "HP:0002888",
+            "Score": 0.725106823773146,
+            "Condition": "Ependymoma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MSH2",
+    "Id": "ID:4436",
+    "Score": 0.965816392593549,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:276300",
+            "Condition": "mismatch repair cancer syndrome",
+            "Score": 0.039880875307523,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002888"
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0002888",
+            "Id": "OMIM:276300",
+            "Condition": "turcot syndrome",
+            "Score": 0.0299106564806422
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0002888",
+            "IdNote": "ORPHANET",
+            "Score": 0.170918037032241,
+            "Condition": "constitutional mismatch repair deficiency syndrome",
+            "Id": "ORPHANET:252202"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002888",
+            "Id": "HP:0002888",
+            "Condition": "Ependymoma",
+            "Score": 0.725106823773146
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PMS2",
+    "Id": "ID:5395",
+    "Score": 0.965816392593549,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0002888",
+            "IdNote": "ORPHANET",
+            "Score": 0.170918037032241,
+            "Condition": "constitutional mismatch repair deficiency syndrome",
+            "Id": "ORPHANET:252202"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002888",
+            "Id": "OMIM:276300",
+            "Condition": "mismatch repair cancer syndrome",
+            "Score": 0.039880875307523
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0002888",
+            "Id": "OMIM:276300",
+            "Score": 0.0299106564806422,
+            "Condition": "turcot syndrome"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002888",
+            "Id": "HP:0002888",
+            "Score": 0.725106823773146,
+            "Condition": "Ependymoma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ERBB2",
+    "Id": "ID:2064",
+    "Score": 0.740062152013465,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0002888",
+            "Id": "OMIM:137800",
+            "Condition": "glioma",
+            "Score": 0.0149553282403211
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002888",
+            "Id": "HP:0002888",
+            "Condition": "Ependymoma",
+            "Score": 0.725106823773146
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NF2",
+    "Id": "ID:4771",
+    "Score": 0.725106823773146,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002888",
+            "Score": 0.725106823773146,
+            "Condition": "Ependymoma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002888"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "APC",
+    "Id": "ID:324",
+    "Score": 0.205101644438689,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0002888",
+            "IdNote": "ORPHANET",
+            "Condition": "turcot syndrome",
+            "Score": 0.205101644438689,
+            "Id": "ORPHANET:99818"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EPCAM",
+    "Id": "ID:4072",
+    "Score": 0.039880875307523,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "mismatch repair cancer syndrome",
+            "Score": 0.039880875307523,
+            "Id": "OMIM:276300",
+            "Hp": "0002888",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PMS1",
+    "Id": "ID:5378",
+    "Score": 0.039880875307523,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:276300",
+            "Score": 0.039880875307523,
+            "Condition": "mismatch repair cancer syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002888"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MLH3",
+    "Id": "ID:27030",
+    "Score": 0.039880875307523,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002888",
+            "Id": "OMIM:276300",
+            "Score": 0.039880875307523,
+            "Condition": "mismatch repair cancer syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IDH1",
+    "Id": "ID:3417",
+    "Score": 0.0149553282403211,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0002888",
+            "Id": "OMIM:137800",
+            "Score": 0.0149553282403211,
+            "Condition": "glioma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POT1",
+    "Id": "ID:25913",
+    "Score": 0.0149553282403211,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0002888",
+            "IdNote": "CLINVAR",
+            "Condition": "glioma",
+            "Score": 0.0149553282403211,
+            "Id": "OMIM:616568"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TP53",
+    "Id": "ID:7157",
+    "Score": 0.0149553282403211,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0002888",
+            "Id": "OMIM:137800",
+            "Score": 0.0149553282403211,
+            "Condition": "glioma"
+          }
+        ],
+        "PUBMED": [
+          {
+            "Hp": "0002888",
+            "IdNote": "GWAS",
+            "Score": 5.38391816651558E-39,
+            "Condition": "glioma",
+            "Id": "PUBMED:28346443 29743610 29743610"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BRCA2",
+    "Id": "ID:675",
+    "Score": 0.0149553282403211,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0002888",
+            "IdNote": "CLINVAR",
+            "Score": 0.0149553282403211,
+            "Condition": "glioma",
+            "Id": "OMIM:613029"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IFNG",
+    "Id": "ID:3458",
+    "Score": 0.0149553282403211,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0002888",
+            "IdNote": "CLINVAR",
+            "Score": 0.0149553282403211,
+            "Condition": "tuberous sclerosis 2",
+            "Id": "OMIM:613254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PTEN",
+    "Id": "ID:5728",
+    "Score": 0.0149553282403211,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0002888",
+            "Id": "OMIM:613028",
+            "Condition": "glioma",
+            "Score": 0.0149553282403211
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDKN2B-AS1",
+    "Id": "ID:100048912",
+    "Score": 5.98213129612963E-10,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Id": "PUBMED:29743610 29743610",
+            "Condition": "glioma",
+            "Score": 1.19642625922569E-22,
+            "IdNote": "GWAS",
+            "Hp": "0002888"
+          },
+          {
+            "IdNote": "GWAS",
+            "Hp": "0002888",
+            "Id": "PUBMED:22886559",
+            "Score": 5.98213129612844E-10,
+            "Condition": "glioma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TERC",
+    "Id": "ID:7012",
+    "Score": 4.78570503690276E-10,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Hp": "0002888",
+            "Id": "PUBMED:24908248",
+            "Condition": "glioma",
+            "Score": 4.78570503690276E-10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAVER2",
+    "Id": "ID:55225",
+    "Score": 2.39285251845138E-10,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Id": "PUBMED:28346443",
+            "Score": 2.39285251845138E-10,
+            "Condition": "glioma",
+            "IdNote": "GWAS",
+            "Hp": "0002888"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LMF1",
+    "Id": "ID:64788",
+    "Score": 5.38391816651558E-11,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Hp": "0002888",
+            "IdNote": "GWAS",
+            "Score": 5.38391816651558E-11,
+            "Condition": "glioma",
+            "Id": "PUBMED:28346443"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TNFRSF6B",
+    "Id": "ID:8771",
+    "Score": 5.98213129612844E-12,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Hp": "0002888",
+            "IdNote": "GWAS",
+            "Condition": "glioma",
+            "Score": 5.98213129612844E-12,
+            "Id": "PUBMED:22886559"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HEATR3",
+    "Id": "ID:55027",
+    "Score": 2.39285251845137E-12,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Score": 2.39285251845137E-12,
+            "Condition": "glioma",
+            "Id": "PUBMED:28346443",
+            "Hp": "0002888",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PHLDB1",
+    "Id": "ID:23187",
+    "Score": 5.98213129612844E-17,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Hp": "0002888",
+            "IdNote": "GWAS",
+            "Condition": "glioma",
+            "Score": 5.98213129612844E-17,
+            "Id": "PUBMED:19578367 21531791 28346443"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TERT",
+    "Id": "ID:7015",
+    "Score": 5.98213129612844E-17,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Id": "PUBMED:21827660 19578367 19578367 21531791 22886559 28346443 29743610 29743610",
+            "Score": 1.79463938883853E-67,
+            "Condition": "glioma",
+            "IdNote": "GWAS",
+            "Hp": "0002888"
+          },
+          {
+            "Hp": "0002888",
+            "IdNote": "GWAS",
+            "Score": 5.98213129612844E-17,
+            "Condition": "glioma",
+            "Id": "PUBMED:24908248"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RTEL1",
+    "Id": "ID:51750",
+    "Score": 2.99106564806422E-20,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Hp": "0002888",
+            "Id": "PUBMED:19578366 19578366 24908248",
+            "Score": 2.99106564806422E-20,
+            "Condition": "glioma"
+          },
+          {
+            "Hp": "0002888",
+            "IdNote": "GWAS",
+            "Score": 1.19642625922569E-43,
+            "Condition": "glioma",
+            "Id": "PUBMED:19578367 21531791 22886559 28346443 29743610 29743610"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EGFR",
+    "Id": "ID:1956",
+    "Score": 2.39285251845137E-28,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Hp": "0002888",
+            "IdNote": "GWAS",
+            "Condition": "glioma",
+            "Score": 2.39285251845137E-28,
+            "Id": "PUBMED:28346443 29743610 29743610 29743610"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYC",
+    "Id": "ID:4609",
+    "Score": 5.98213129612844E-41,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Condition": "glioma",
+            "Score": 5.98213129612844E-41,
+            "Id": "PUBMED:29743610 29743610",
+            "Hp": "0002888",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDKN2A",
+    "Id": "ID:1029",
+    "Score": 5.98213129612844E-47,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Condition": "glioma",
+            "Score": 5.98213129612844E-47,
+            "Id": "PUBMED:19578367 21531791 28346443",
+            "Hp": "0002888",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDKN2B",
+    "Id": "ID:1030",
+    "Score": 5.98213129612844E-47,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Score": 5.98213129612844E-47,
+            "Condition": "glioma",
+            "Id": "PUBMED:19578367 21531791 28346443",
+            "Hp": "0002888",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CCDC26",
+    "Id": "ID:137196",
+    "Score": 5.98213129612844E-80,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Hp": "0002888",
+            "Id": "PUBMED:19578367 19578367 21531791 28346443",
+            "Condition": "glioma",
+            "Score": 5.98213129612844E-80
+          }
+        ]
+      }
+    ]
+  }
+]

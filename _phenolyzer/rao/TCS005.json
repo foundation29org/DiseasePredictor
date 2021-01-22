@@ -1,0 +1,119 @@
+[
+  {
+    "Name": "GCDH",
+    "Id": "ID:2639",
+    "Score": 1,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.220489977728286,
+            "IdNote": "ORPHANET",
+            "Hp": "0007105",
+            "Condition": "glutaryl coa dehydrogenase deficiency",
+            "Id": "ORPHANET:25"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0007105",
+            "Hp": "0007105",
+            "Condition": "Infantile encephalopathy",
+            "Score": 0.779510022271717,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "D2HGDH",
+    "Id": "ID:728294",
+    "Score": 0.779510022271717,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007105",
+            "Condition": "Infantile encephalopathy",
+            "Id": "HP:0007105",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.779510022271717
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "STXBP1",
+    "Id": "ID:6812",
+    "Score": 0.779510022271717,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.779510022271717,
+            "Hp": "0007105",
+            "Condition": "Infantile encephalopathy",
+            "Id": "HP:0007105"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CCDC88A",
+    "Id": "ID:55704",
+    "Score": 0.779510022271717,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007105",
+            "Condition": "Infantile encephalopathy",
+            "Id": "HP:0007105",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.779510022271717
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TSEN54",
+    "Id": "ID:283989",
+    "Score": 0.779510022271717,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.779510022271717,
+            "Id": "HP:0007105",
+            "Condition": "Infantile encephalopathy",
+            "Hp": "0007105"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZNHIT3",
+    "Id": "ID:9326",
+    "Score": 0.779510022271717,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.779510022271717,
+            "Hp": "0007105",
+            "Condition": "Infantile encephalopathy",
+            "Id": "HP:0007105"
+          }
+        ]
+      }
+    ]
+  }
+]

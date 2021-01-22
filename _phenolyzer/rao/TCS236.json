@@ -1,0 +1,4116 @@
+[
+  {
+    "Name": "GRIP1",
+    "Id": "ID:23426",
+    "Score": 1,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Cellular immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005374"
+          },
+          {
+            "Hp": "0005352",
+            "Condition": "Severe T-cell immunodeficiency",
+            "Id": "HP:0005352",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.747030438010392
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0002721",
+            "Condition": "fraser syndrome",
+            "Id": "ORPHANET:2052",
+            "IdNote": "ORPHANET",
+            "Score": 0.00918708240534521
+          },
+          {
+            "Score": 0.21130289532294,
+            "Hp": "0005352",
+            "Condition": "fraser syndrome",
+            "Id": "ORPHANET:2052",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FREM2",
+    "Id": "ID:341640",
+    "Score": 0.963251670378619,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "fraser syndrome",
+            "Hp": "0002721",
+            "Id": "ORPHANET:2052",
+            "IdNote": "ORPHANET",
+            "Score": 0.00765590200445436
+          },
+          {
+            "Score": 0.17608574610245,
+            "Id": "ORPHANET:2052",
+            "IdNote": "ORPHANET",
+            "Condition": "fraser syndrome",
+            "Hp": "0005352"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Cellular immunodeficiency",
+            "Id": "HP:0005374",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          },
+          {
+            "Hp": "0005352",
+            "Condition": "Severe T-cell immunodeficiency",
+            "Id": "HP:0005352",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.747030438010392
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FRAS1",
+    "Id": "ID:80144",
+    "Score": 0.963251670378619,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Cellular immunodeficiency",
+            "Hp": "0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005374",
+            "Score": 0.0324795842613214
+          },
+          {
+            "Score": 0.747030438010392,
+            "Id": "HP:0005352",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0005352",
+            "Condition": "Severe T-cell immunodeficiency"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0002721",
+            "Condition": "fraser syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:2052",
+            "Score": 0.00765590200445436
+          },
+          {
+            "Score": 0.17608574610245,
+            "Id": "ORPHANET:2052",
+            "IdNote": "ORPHANET",
+            "Hp": "0005352",
+            "Condition": "fraser syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FOXN1",
+    "Id": "ID:8456",
+    "Score": 0.779510022271713,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005374",
+            "Hp": "0002721",
+            "Condition": "Cellular immunodeficiency"
+          },
+          {
+            "Id": "HP:0005352",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Severe T-cell immunodeficiency",
+            "Hp": "0005352",
+            "Score": 0.747030438010392
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATM",
+    "Id": "ID:472",
+    "Score": 0.0763270230141055,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "ataxia telangiectasia",
+            "Hp": "0002721",
+            "Id": "ORPHANET:100",
+            "IdNote": "ORPHANET",
+            "Score": 0.0292316258351894
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0005374",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002721",
+            "Condition": "Cellular immunodeficiency"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:208900",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "ataxia telangiectasia",
+            "Hp": "0002721",
+            "Score": 0.0146158129175946
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAG1",
+    "Id": "ID:5896",
+    "Score": 0.0742390497401632,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "combined immunodeficiency t b due to partial rag1 deficiency",
+            "Hp": "0002721",
+            "Id": "ORPHANET:231154",
+            "IdNote": "ORPHANET",
+            "Score": 0.0208797327394209
+          },
+          {
+            "Score": 0.0208797327394209,
+            "Id": "ORPHANET:39041",
+            "IdNote": "ORPHANET",
+            "Condition": "omenn syndrome",
+            "Hp": "0002721"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0005387",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002721",
+            "Condition": "Combined immunodeficiency"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IL2RG",
+    "Id": "ID:3561",
+    "Score": 0.0689234177802523,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Combined immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005387",
+            "Score": 0.0324795842613214
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0002721",
+            "Condition": "omenn syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:39041",
+            "Score": 0.0250556792873051
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.000669891425389755,
+            "Condition": "combined immunodeficiency x linked",
+            "Hp": "0002721",
+            "Id": "OMIM:312863",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Score": 0.0107182628062361,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:300400",
+            "Hp": "0002721",
+            "Condition": "severe combined immunodeficiency x linked"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ADA",
+    "Id": "ID:100",
+    "Score": 0.0617112100965108,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0292316258351894,
+            "Condition": "omenn syndrome",
+            "Hp": "0002721",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:39041"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005387",
+            "Condition": "Combined immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LIG4",
+    "Id": "ID:3981",
+    "Score": 0.0597754848737935,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000152248051224944,
+            "Hp": "0002721",
+            "Condition": "lig4 syndrome",
+            "Id": "OMIM:606593",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00208797327394209,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:99812",
+            "Hp": "0002721",
+            "Condition": "lig4 syndrome"
+          },
+          {
+            "Score": 0.0250556792873051,
+            "Condition": "omenn syndrome",
+            "Hp": "0002721",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:39041"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Combined immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005387"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RMRP",
+    "Id": "ID:6023",
+    "Score": 0.0588808463251669,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00357275426874535,
+            "Hp": "0002721",
+            "Condition": "cartilage hair hypoplasia",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:250250"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005387",
+            "Hp": "0002721",
+            "Condition": "Combined immunodeficiency"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00612472160356346,
+            "Hp": "0002721",
+            "Condition": "cartilage hair hypoplasia",
+            "Id": "ORPHANET:175",
+            "IdNote": "ORPHANET"
+          },
+          {
+            "Score": 0.0167037861915367,
+            "Hp": "0002721",
+            "Condition": "omenn syndrome",
+            "Id": "ORPHANET:39041",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IL7R",
+    "Id": "ID:3575",
+    "Score": 0.0575352635486266,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:39041",
+            "IdNote": "ORPHANET",
+            "Condition": "omenn syndrome",
+            "Hp": "0002721",
+            "Score": 0.0250556792873051
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Combined immunodeficiency",
+            "Id": "HP:0005387",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EPG5",
+    "Id": "ID:57724",
+    "Score": 0.057013270230141,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0002721",
+            "Condition": "vici syndrome",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:242840",
+            "Score": 0.00365395322939867
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005374",
+            "Hp": "0002721",
+            "Condition": "Cellular immunodeficiency"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0208797327394209,
+            "Hp": "0002721",
+            "Condition": "vici syndrome",
+            "Id": "ORPHANET:1493",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DCLRE1C",
+    "Id": "ID:64421",
+    "Score": 0.0551862936154418,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Condition": "Combined immunodeficiency",
+            "Hp": "0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005387"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:39041",
+            "IdNote": "ORPHANET",
+            "Condition": "omenn syndrome",
+            "Hp": "0002721",
+            "Score": 0.0208797327394209
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:602450",
+            "Hp": "0002721",
+            "Condition": "severe combined immunodeficiency",
+            "Score": 0.00182697661469933
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NHEJ1",
+    "Id": "ID:79840",
+    "Score": 0.0551862936154418,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0208797327394209,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:169079",
+            "Hp": "0002721",
+            "Condition": "cernunnos xlf deficiency"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00182697661469933,
+            "Condition": "severe combined immunodeficiency",
+            "Hp": "0002721",
+            "Id": "OMIM:611291",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHD7",
+    "Id": "ID:55636",
+    "Score": 0.0533593170007423,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "omenn syndrome",
+            "Hp": "0002721",
+            "Id": "ORPHANET:39041",
+            "IdNote": "ORPHANET",
+            "Score": 0.0208797327394209
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005387",
+            "Condition": "Combined immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAG2",
+    "Id": "ID:5897",
+    "Score": 0.0533593170007423,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Combined immunodeficiency",
+            "Hp": "0002721",
+            "Id": "HP:0005387",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:39041",
+            "Hp": "0002721",
+            "Condition": "omenn syndrome",
+            "Score": 0.0208797327394209
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DKC1",
+    "Id": "ID:1736",
+    "Score": 0.049212950074239,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000669891425389755,
+            "Hp": "0002721",
+            "Condition": "dyskeratosis congenita x linked",
+            "Id": "OMIM:305000",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:305000",
+            "Condition": "dyskeratosis congenita x linked",
+            "Hp": "0002721",
+            "Score": 0.00214365256124721
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:1775",
+            "IdNote": "ORPHANET",
+            "Condition": "dyskeratosis congenita",
+            "Hp": "0002721",
+            "Score": 0.0139198218262806
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Cellular immunodeficiency",
+            "Hp": "0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005374",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NHP2",
+    "Id": "ID:55651",
+    "Score": 0.0485430586488492,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:305000",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002721",
+            "Condition": "dyskeratosis congenita x linked",
+            "Score": 0.00214365256124721
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Condition": "Cellular immunodeficiency",
+            "Hp": "0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005374"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0139198218262806,
+            "Condition": "dyskeratosis congenita",
+            "Hp": "0002721",
+            "Id": "ORPHANET:1775",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TERT",
+    "Id": "ID:7015",
+    "Score": 0.0485430586488492,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00214365256124721,
+            "Condition": "dyskeratosis congenita x linked",
+            "Hp": "0002721",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:305000"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0139198218262806,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:1775",
+            "Condition": "dyskeratosis congenita",
+            "Hp": "0002721"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Cellular immunodeficiency",
+            "Id": "HP:0005374",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TINF2",
+    "Id": "ID:26277",
+    "Score": 0.0485430586488492,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Cellular immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005374"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0139198218262806,
+            "Condition": "dyskeratosis congenita",
+            "Hp": "0002721",
+            "Id": "ORPHANET:1775",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0002721",
+            "Condition": "dyskeratosis congenita x linked",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:305000",
+            "Score": 0.00214365256124721
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LETM1",
+    "Id": "ID:3954",
+    "Score": 0.048487379361544,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "wolf hirschhorn syndrome",
+            "Hp": "0002721",
+            "Id": "ORPHANET:280",
+            "IdNote": "ORPHANET",
+            "Score": 0.0160077951002227
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RTEL1",
+    "Id": "ID:51750",
+    "Score": 0.046399406087602,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005374",
+            "Hp": "0002721",
+            "Condition": "Cellular immunodeficiency"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0139198218262806,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:1775",
+            "Hp": "0002721",
+            "Condition": "dyskeratosis congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WRAP53",
+    "Id": "ID:55135",
+    "Score": 0.0462230883444691,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Condition": "Cellular immunodeficiency",
+            "Hp": "0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005374"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:1775",
+            "IdNote": "ORPHANET",
+            "Hp": "0002721",
+            "Condition": "dyskeratosis congenita",
+            "Score": 0.0115998515219005
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:305000",
+            "Hp": "0002721",
+            "Condition": "dyskeratosis congenita x linked",
+            "Score": 0.00214365256124721
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NOP10",
+    "Id": "ID:55505",
+    "Score": 0.0462230883444691,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00214365256124721,
+            "Hp": "0002721",
+            "Condition": "dyskeratosis congenita x linked",
+            "Id": "OMIM:305000",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005374",
+            "Condition": "Cellular immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0115998515219005,
+            "Hp": "0002721",
+            "Condition": "dyskeratosis congenita",
+            "Id": "ORPHANET:1775",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRPS1",
+    "Id": "ID:5631",
+    "Score": 0.044537629918337,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00133978285077951,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:301835",
+            "Hp": "0002721",
+            "Condition": "arts syndrome"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:301835",
+            "Condition": "arts syndrome",
+            "Hp": "0002721",
+            "Score": 0.0107182628062361
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "USB1",
+    "Id": "ID:79650",
+    "Score": 0.0440794357832219,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0005374",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002721",
+            "Condition": "Cellular immunodeficiency"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0002721",
+            "Condition": "dyskeratosis congenita",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:1775",
+            "Score": 0.0115998515219005
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CTC1",
+    "Id": "ID:80169",
+    "Score": 0.0440794357832219,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005374",
+            "Hp": "0002721",
+            "Condition": "Cellular immunodeficiency",
+            "Score": 0.0324795842613214
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0002721",
+            "Condition": "dyskeratosis congenita",
+            "Id": "ORPHANET:1775",
+            "IdNote": "ORPHANET",
+            "Score": 0.0115998515219005
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZBTB24",
+    "Id": "ID:9841",
+    "Score": 0.0440794357832219,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005374",
+            "Hp": "0002721",
+            "Condition": "Cellular immunodeficiency",
+            "Score": 0.0324795842613214
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0115998515219005,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:2268",
+            "Hp": "0002721",
+            "Condition": "icf syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DNMT3B",
+    "Id": "ID:1789",
+    "Score": 0.0440794357832219,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0115998515219005,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:2268",
+            "Condition": "icf syndrome",
+            "Hp": "0002721"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0005374",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002721",
+            "Condition": "Cellular immunodeficiency"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TERC",
+    "Id": "ID:7012",
+    "Score": 0.043903118040089,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "dyskeratosis congenita x linked",
+            "Hp": "0002721",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:305000",
+            "Score": 0.00214365256124721
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "dyskeratosis congenita",
+            "Hp": "0002721",
+            "Id": "ORPHANET:1775",
+            "IdNote": "ORPHANET",
+            "Score": 0.00927988121752038
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Cellular immunodeficiency",
+            "Id": "HP:0005374",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SH2D1A",
+    "Id": "ID:4068",
+    "Score": 0.0378387156644395,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Cellular immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005374"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00535913140311804,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:308240",
+            "Hp": "0002721",
+            "Condition": "lymphoproliferative syndrome x linked 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "XIAP",
+    "Id": "ID:331",
+    "Score": 0.0378387156644395,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Cellular immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005374"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00535913140311804,
+            "Id": "OMIM:308240",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "lymphoproliferative syndrome x linked 1",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PIK3CA",
+    "Id": "ID:5290",
+    "Score": 0.0349155530809205,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:201",
+            "Condition": "cowden syndrome",
+            "Hp": "0002721",
+            "Score": 0.00243596881959911
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0005374",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Cellular immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AKT1",
+    "Id": "ID:207",
+    "Score": 0.0349155530809205,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005374",
+            "Hp": "0002721",
+            "Condition": "Cellular immunodeficiency",
+            "Score": 0.0324795842613214
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00243596881959911,
+            "Hp": "0002721",
+            "Condition": "cowden syndrome",
+            "Id": "ORPHANET:201",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TBCE",
+    "Id": "ID:6905",
+    "Score": 0.0347198055864884,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000152248051224944,
+            "Id": "OMIM:241410",
+            "IdNote": "CLINVAR",
+            "Condition": "hypoparathyroidism retardation dysmorphism syndrome",
+            "Hp": "0002721"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "sanjad sakati syndrome",
+            "Hp": "0002721",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:2323",
+            "Score": 0.00208797327394209
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005374",
+            "Hp": "0002721",
+            "Condition": "Cellular immunodeficiency"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SDHC",
+    "Id": "ID:6391",
+    "Score": 0.0345675575352634,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:201",
+            "Condition": "cowden syndrome",
+            "Hp": "0002721",
+            "Score": 0.00208797327394209
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Cellular immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005374"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SDHD",
+    "Id": "ID:6392",
+    "Score": 0.0345675575352634,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.00208797327394209,
+            "Id": "ORPHANET:201",
+            "IdNote": "ORPHANET",
+            "Condition": "cowden syndrome",
+            "Hp": "0002721"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Condition": "Cellular immunodeficiency",
+            "Hp": "0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005374"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SDHB",
+    "Id": "ID:6390",
+    "Score": 0.0345675575352634,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "cowden syndrome",
+            "Hp": "0002721",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:201",
+            "Score": 0.00208797327394209
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005374",
+            "Condition": "Cellular immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PTEN",
+    "Id": "ID:5728",
+    "Score": 0.0345675575352634,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "cowden syndrome",
+            "Hp": "0002721",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:201",
+            "Score": 0.00208797327394209
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005374",
+            "Hp": "0002721",
+            "Condition": "Cellular immunodeficiency",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LAMTOR2",
+    "Id": "ID:28956",
+    "Score": 0.0343065608760209,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "immunodeficiency due to defect in mapbp interacting protein",
+            "Hp": "0002721",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:610798",
+            "Score": 0.00182697661469933
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KLLN",
+    "Id": "ID:100144748",
+    "Score": 0.0338715664439496,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:201",
+            "IdNote": "ORPHANET",
+            "Condition": "cowden syndrome",
+            "Hp": "0002721",
+            "Score": 0.00139198218262806
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Cellular immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005374",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POLE",
+    "Id": "ID:5426",
+    "Score": 0.0331494756867113,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:615139",
+            "Hp": "0002721",
+            "Condition": "facial dysmorphism immunodeficiency livedo and short stature",
+            "Score": 0.000669891425389755
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CARD9",
+    "Id": "ID:64170",
+    "Score": 0.0331494756867113,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000669891425389755,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:212050",
+            "Condition": "candidiasis familial 2",
+            "Hp": "0002721"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BUB1B",
+    "Id": "ID:701",
+    "Score": 0.0331494756867113,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Combined immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005387"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.000669891425389755,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:257300",
+            "Hp": "0002721",
+            "Condition": "mosaic variegated aneuploidy syndrome 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SKIV2L",
+    "Id": "ID:6499",
+    "Score": 0.0331494756867113,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0002721",
+            "Condition": "trichohepatoenteric syndrome 2",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:614602",
+            "Score": 0.000669891425389755
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CD247",
+    "Id": "ID:919",
+    "Score": 0.0331494756867113,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Score": 0.0324795842613214
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.000669891425389755,
+            "Hp": "0002721",
+            "Condition": "immunodeficiency due to defect in cd3 zeta",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:610163"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RNF168",
+    "Id": "ID:165918",
+    "Score": 0.0331494756867113,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "riddle syndrome",
+            "Hp": "0002721",
+            "Id": "OMIM:611943",
+            "IdNote": "CLINVAR",
+            "Score": 0.000669891425389755
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RREB1",
+    "Id": "ID:6239",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TNFRSF13B",
+    "Id": "ID:23495",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LAT",
+    "Id": "ID:27040",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYBB",
+    "Id": "ID:1536",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HELLS",
+    "Id": "ID:3070",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0005374",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Cellular immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LRRC8A",
+    "Id": "ID:56262",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NFE2L2",
+    "Id": "ID:4780",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IL12RB1",
+    "Id": "ID:3594",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CLCA4",
+    "Id": "ID:22802",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IRF2BP2",
+    "Id": "ID:359948",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYBA",
+    "Id": "ID:1535",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AGL",
+    "Id": "ID:178",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SMARCAL1",
+    "Id": "ID:50485",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0005374",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Cellular immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PKP1",
+    "Id": "ID:5317",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TNFRSF1B",
+    "Id": "ID:7133",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TYK2",
+    "Id": "ID:7297",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BTK",
+    "Id": "ID:695",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CD3G",
+    "Id": "ID:917",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CD40LG",
+    "Id": "ID:959",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CD79B",
+    "Id": "ID:974",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IL21",
+    "Id": "ID:59067",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PIK3CD",
+    "Id": "ID:5293",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MTHFD1",
+    "Id": "ID:4522",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Combined immunodeficiency",
+            "Id": "HP:0005387",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BCL11B",
+    "Id": "ID:64919",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Combined immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005387"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MEIS2",
+    "Id": "ID:4212",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHD1",
+    "Id": "ID:1105",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DOCK2",
+    "Id": "ID:1794",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SHANK3",
+    "Id": "ID:85358",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NFKB2",
+    "Id": "ID:4791",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SEC23B",
+    "Id": "ID:10483",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0005374",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Cellular immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "STK4",
+    "Id": "ID:6789",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IGLL1",
+    "Id": "ID:3543",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACP5",
+    "Id": "ID:54",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Combined immunodeficiency",
+            "Id": "HP:0005387",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SEC24C",
+    "Id": "ID:9632",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "UNC119",
+    "Id": "ID:9094",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PTPRC",
+    "Id": "ID:5788",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0005387",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Combined immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DCTN4",
+    "Id": "ID:51164",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CD40",
+    "Id": "ID:958",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SPATA5",
+    "Id": "ID:166378",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TBX1",
+    "Id": "ID:6899",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CORO1A",
+    "Id": "ID:11151",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SIN3A",
+    "Id": "ID:25942",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CD19",
+    "Id": "ID:930",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "STIM1",
+    "Id": "ID:6786",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FCN3",
+    "Id": "ID:8547",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PIK3R1",
+    "Id": "ID:5295",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IGHM",
+    "Id": "ID:3507",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IL21R",
+    "Id": "ID:50615",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MALT1",
+    "Id": "ID:10892",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACD",
+    "Id": "ID:65057",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HIRA",
+    "Id": "ID:7290",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ISG15",
+    "Id": "ID:9636",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NFKB1",
+    "Id": "ID:4790",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "USP8",
+    "Id": "ID:9101",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COMT",
+    "Id": "ID:1312",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LRBA",
+    "Id": "ID:987",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CD79A",
+    "Id": "ID:973",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CTLA4",
+    "Id": "ID:1493",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAC2",
+    "Id": "ID:5880",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC46A1",
+    "Id": "ID:113235",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYC",
+    "Id": "ID:4609",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGFB1",
+    "Id": "ID:7040",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IRF8",
+    "Id": "ID:3394",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ARVCF",
+    "Id": "ID:421",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CD3D",
+    "Id": "ID:915",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CFTR",
+    "Id": "ID:1080",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TNFRSF13C",
+    "Id": "ID:115650",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MBTPS2",
+    "Id": "ID:51360",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CD28",
+    "Id": "ID:940",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CR2",
+    "Id": "ID:1380",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CRKL",
+    "Id": "ID:1399",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IL12B",
+    "Id": "ID:3593",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "STX1A",
+    "Id": "ID:6804",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RBCK1",
+    "Id": "ID:10616",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IRAK4",
+    "Id": "ID:51135",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYD88",
+    "Id": "ID:4615",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATRX",
+    "Id": "ID:546",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "STAT1",
+    "Id": "ID:6772",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IKBKB",
+    "Id": "ID:3551",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AP3D1",
+    "Id": "ID:8943",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAPK1",
+    "Id": "ID:5594",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRKCD",
+    "Id": "ID:5580",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FGFRL1",
+    "Id": "ID:53834",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IL2RA",
+    "Id": "ID:3559",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PARN",
+    "Id": "ID:5073",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0005374",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Cellular immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BLNK",
+    "Id": "ID:29760",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PPARG",
+    "Id": "ID:5468",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CD3E",
+    "Id": "ID:916",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CPLX1",
+    "Id": "ID:10815",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BCL10",
+    "Id": "ID:8915",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ANTXR2",
+    "Id": "ID:118429",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LCK",
+    "Id": "ID:3932",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WAS",
+    "Id": "ID:7454",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HBB",
+    "Id": "ID:3043",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GP1BB",
+    "Id": "ID:2812",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRKDC",
+    "Id": "ID:5591",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0005387",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Combined immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDC42",
+    "Id": "ID:998",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAGT1",
+    "Id": "ID:84061",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TCF3",
+    "Id": "ID:6929",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PGM3",
+    "Id": "ID:5238",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GATA1",
+    "Id": "ID:2623",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IKZF1",
+    "Id": "ID:10320",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SP110",
+    "Id": "ID:3431",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NCF1",
+    "Id": "ID:653361",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAB27A",
+    "Id": "ID:5873",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COG6",
+    "Id": "ID:57511",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AICDA",
+    "Id": "ID:57379",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IFNGR1",
+    "Id": "ID:3459",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MS4A1",
+    "Id": "ID:931",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CUL4B",
+    "Id": "ID:8450",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "JMJD1C",
+    "Id": "ID:221037",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TNFSF12",
+    "Id": "ID:8742",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BSCL2",
+    "Id": "ID:26580",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TNFRSF4",
+    "Id": "ID:7293",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDCA7",
+    "Id": "ID:83879",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Cellular immunodeficiency",
+            "Id": "HP:0005374",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "UNG",
+    "Id": "ID:7374",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CD81",
+    "Id": "ID:975",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GATA2",
+    "Id": "ID:2624",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "UROS",
+    "Id": "ID:7390",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CTPS1",
+    "Id": "ID:1503",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NCF2",
+    "Id": "ID:4688",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MUT",
+    "Id": "ID:4594",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AGPAT2",
+    "Id": "ID:10555",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BCR",
+    "Id": "ID:613",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WIPF1",
+    "Id": "ID:7456",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FOS",
+    "Id": "ID:2353",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IKBKG",
+    "Id": "ID:8517",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ORAI1",
+    "Id": "ID:84876",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AK2",
+    "Id": "ID:204",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005387",
+            "Condition": "Combined immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FCGR3A",
+    "Id": "ID:2214",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ICOS",
+    "Id": "ID:29851",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDH23",
+    "Id": "ID:64072",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CTBP1",
+    "Id": "ID:1487",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LMNB2",
+    "Id": "ID:84823",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IRF7",
+    "Id": "ID:3665",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CAV1",
+    "Id": "ID:857",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CARD11",
+    "Id": "ID:84433",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LYST",
+    "Id": "ID:1130",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACTB",
+    "Id": "ID:60",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Immunodeficiency",
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "JAK3",
+    "Id": "ID:3718",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Combined immunodeficiency",
+            "Id": "HP:0005387",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "XRCC4",
+    "Id": "ID:7518",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002721",
+            "Condition": "Combined immunodeficiency",
+            "Id": "HP:0005387",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TFRC",
+    "Id": "ID:7037",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0324795842613214,
+            "Id": "HP:0002721",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TTC7A",
+    "Id": "ID:57217",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005387",
+            "Condition": "Combined immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IFNGR2",
+    "Id": "ID:3460",
+    "Score": 0.0324795842613214,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002721",
+            "Condition": "Immunodeficiency",
+            "Hp": "0002721",
+            "Score": 0.0324795842613214
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NELFA",
+    "Id": "ID:7469",
+    "Score": 0.0192093541202672,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0192093541202672,
+            "Hp": "0002721",
+            "Condition": "wolf hirschhorn syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:280"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WHSC1",
+    "Id": "ID:7468",
+    "Score": 0.0160077951002227,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0160077951002227,
+            "Hp": "0002721",
+            "Condition": "wolf hirschhorn syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:280"
+          }
+        ]
+      }
+    ]
+  }
+]

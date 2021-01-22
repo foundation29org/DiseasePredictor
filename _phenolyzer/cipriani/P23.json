@@ -1,0 +1,405 @@
+[
+  {
+    "Name": "CABP4",
+    "Id": "ID:57010",
+    "Score": 1,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007642",
+            "Id": "HP:0007642",
+            "Condition": "Congenital stationary night blindness",
+            "Score": 0.5,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Condition": "Electronegative electroretinogram",
+            "Id": "HP:0007984",
+            "Hp": "0007984",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CACNA2D4",
+    "Id": "ID:93589",
+    "Score": 0.5103125,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Score": 0.0103125,
+            "Condition": "retinal cone dystrophy 4",
+            "Hp": "0007984",
+            "Id": "OMIM:610478"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.5,
+            "Hp": "0007984",
+            "Id": "HP:0007984",
+            "Condition": "Electronegative electroretinogram"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GRK1",
+    "Id": "ID:6011",
+    "Score": 0.5103125,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Score": 0.0103125,
+            "Hp": "0007642",
+            "Id": "OMIM:613411",
+            "Condition": "oguchi disease 2"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.5,
+            "Condition": "Congenital stationary night blindness",
+            "Hp": "0007642",
+            "Id": "HP:0007642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRPH2",
+    "Id": "ID:5961",
+    "Score": 0.5,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.5,
+            "Condition": "Fundus albipunctatus",
+            "Hp": "0007642",
+            "Id": "HP:0030642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SAG",
+    "Id": "ID:6295",
+    "Score": 0.5,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.5,
+            "Condition": "Congenital stationary night blindness",
+            "Hp": "0007642",
+            "Id": "HP:0007642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRAPPC9",
+    "Id": "ID:83696",
+    "Score": 0.5,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007642",
+            "Id": "HP:0007642",
+            "Condition": "Congenital stationary night blindness",
+            "Score": 0.5,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NYX",
+    "Id": "ID:60506",
+    "Score": 0.5,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.5,
+            "Condition": "Congenital stationary night blindness",
+            "Id": "HP:0007642",
+            "Hp": "0007642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYO6",
+    "Id": "ID:4646",
+    "Score": 0.5,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007642",
+            "Id": "HP:0007642",
+            "Condition": "Congenital stationary night blindness",
+            "Score": 0.5,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RDH5",
+    "Id": "ID:5959",
+    "Score": 0.5,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Fundus albipunctatus",
+            "Hp": "0007642",
+            "Id": "HP:0030642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RS1",
+    "Id": "ID:6247",
+    "Score": 0.5,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.5,
+            "Condition": "Electronegative electroretinogram",
+            "Hp": "0007984",
+            "Id": "HP:0007984"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GRM6",
+    "Id": "ID:2916",
+    "Score": 0.5,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007642",
+            "Id": "HP:0007642",
+            "Condition": "Congenital stationary night blindness",
+            "Score": 0.5,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GPR179",
+    "Id": "ID:440435",
+    "Score": 0.5,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007642",
+            "Hp": "0007642",
+            "Condition": "Congenital stationary night blindness",
+            "Score": 0.5,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LRIT3",
+    "Id": "ID:345193",
+    "Score": 0.5,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Congenital stationary night blindness",
+            "Id": "HP:0007642",
+            "Hp": "0007642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FGFR2",
+    "Id": "ID:2263",
+    "Score": 0.5,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007642",
+            "Id": "HP:0007642",
+            "Condition": "Congenital stationary night blindness",
+            "Score": 0.5,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RHO",
+    "Id": "ID:6010",
+    "Score": 0.5,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.5,
+            "Condition": "Fundus albipunctatus",
+            "Hp": "0007642",
+            "Id": "HP:0030642"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRPM1",
+    "Id": "ID:4308",
+    "Score": 0.5,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007642",
+            "Id": "HP:0007642",
+            "Condition": "Congenital stationary night blindness",
+            "Score": 0.5,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GNAT1",
+    "Id": "ID:2779",
+    "Score": 0.5,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.5,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007642",
+            "Id": "HP:0007642",
+            "Condition": "Congenital stationary night blindness"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDE6B",
+    "Id": "ID:5158",
+    "Score": 0.5,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007642",
+            "Hp": "0007642",
+            "Condition": "Congenital stationary night blindness",
+            "Score": 0.5,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CACNA1F",
+    "Id": "ID:778",
+    "Score": 0.5,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Congenital stationary night blindness",
+            "Hp": "0007642",
+            "Id": "HP:0007642",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RLBP1",
+    "Id": "ID:6017",
+    "Score": 0.5,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.5,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0007642",
+            "Id": "HP:0030642",
+            "Condition": "Fundus albipunctatus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC24A1",
+    "Id": "ID:9187",
+    "Score": 0.5,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.5,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007642",
+            "Hp": "0007642",
+            "Condition": "Congenital stationary night blindness"
+          }
+        ]
+      }
+    ]
+  }
+]

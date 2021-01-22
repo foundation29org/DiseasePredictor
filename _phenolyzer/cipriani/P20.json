@@ -1,0 +1,2009 @@
+[
+  {
+    "Name": "SLC19A2",
+    "Id": "ID:10560",
+    "Score": 1,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:49827",
+            "Condition": "thiamine responsive megaloblastic anemia syndrome",
+            "Hp": "0000548",
+            "Score": 0.175376439326838,
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.620017714791853,
+            "Hp": "0000548",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000548",
+            "Condition": "Cone/cone-rod dystrophy"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "thiamine responsive megaloblastic anemia syndrome",
+            "Id": "OMIM:249270",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.204605845881311
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALMS1",
+    "Id": "ID:7840",
+    "Score": 0.850199291408329,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0255757307351639,
+            "Hp": "0000548",
+            "IdNote": "CLINVAR",
+            "Condition": "alstrom syndrome",
+            "Id": "OMIM:203800"
+          },
+          {
+            "Id": "OMIM:203800",
+            "Condition": "alstrom syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.204605845881311
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0000548",
+            "Condition": "Cone/cone-rod dystrophy",
+            "Hp": "0000548",
+            "Score": 0.620017714791853,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CNNM4",
+    "Id": "ID:26504",
+    "Score": 0.766164747564218,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Score": 0.146147032772365,
+            "Hp": "0000548",
+            "Condition": "jalili syndrome",
+            "Id": "ORPHANET:1873"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0000548",
+            "Condition": "Cone/cone-rod dystrophy",
+            "Hp": "0000548",
+            "Score": 0.620017714791853,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PROM1",
+    "Id": "ID:8842",
+    "Score": 0.641156839174998,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:612657",
+            "Condition": "cone rod dystrophy 12",
+            "IdNote": "CLINVAR",
+            "Score": 0.012787865367582,
+            "Hp": "0000548"
+          },
+          {
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.620017714791853,
+            "Hp": "0000548",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Cone/cone-rod dystrophy",
+            "Id": "HP:0000548"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CRX",
+    "Id": "ID:1406",
+    "Score": 0.641156839174998,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0000548",
+            "Score": 0.012787865367582,
+            "Id": "OMIM:120970",
+            "Condition": "cone rod dystrophy 2"
+          },
+          {
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548"
+          },
+          {
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000548",
+            "Score": 0.620017714791853,
+            "Id": "HP:0000548",
+            "Condition": "Cone/cone-rod dystrophy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ABCA4",
+    "Id": "ID:24",
+    "Score": 0.641156839174998,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Score": 0.012787865367582,
+            "Hp": "0000548",
+            "Condition": "cone rod dystrophy 3",
+            "Id": "OMIM:604116"
+          },
+          {
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548"
+          },
+          {
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.620017714791853,
+            "Hp": "0000548",
+            "Condition": "Cone/cone-rod dystrophy",
+            "Id": "HP:0000548"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SEMA4A",
+    "Id": "ID:64218",
+    "Score": 0.641156839174998,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000548",
+            "Condition": "Cone/cone-rod dystrophy",
+            "Score": 0.620017714791853,
+            "Hp": "0000548",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186
+          },
+          {
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282",
+            "Score": 0.012787865367582,
+            "Hp": "0000548",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RPGR",
+    "Id": "ID:6103",
+    "Score": 0.641156839174998,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Score": 0.012787865367582,
+            "Hp": "0000548",
+            "Condition": "retinitis pigmentosa 15",
+            "Id": "OMIM:300029"
+          },
+          {
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Cone/cone-rod dystrophy",
+            "Id": "HP:0000548",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.620017714791853,
+            "Hp": "0000548"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAX2",
+    "Id": "ID:84839",
+    "Score": 0.632805580159434,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:610381",
+            "Condition": "cone rod dystrophy 11",
+            "IdNote": "CLINVAR",
+            "Hp": "0000548",
+            "Score": 0.012787865367582
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.620017714791853,
+            "Hp": "0000548",
+            "Condition": "Cone/cone-rod dystrophy",
+            "Id": "HP:0000548"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GUCY2D",
+    "Id": "ID:3000",
+    "Score": 0.632805580159434,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000548",
+            "Score": 0.012787865367582,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:601777",
+            "Condition": "cone rod dystrophy 6"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.620017714791853,
+            "Hp": "0000548",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000548",
+            "Condition": "Cone/cone-rod dystrophy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ADAM9",
+    "Id": "ID:8754",
+    "Score": 0.632805580159434,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "cone rod dystrophy 9",
+            "Id": "OMIM:612775",
+            "IdNote": "CLINVAR",
+            "Hp": "0000548",
+            "Score": 0.012787865367582
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.620017714791853,
+            "Hp": "0000548",
+            "Id": "HP:0000548",
+            "Condition": "Cone/cone-rod dystrophy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AIPL1",
+    "Id": "ID:23746",
+    "Score": 0.628368973807416,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.620017714791853,
+            "Hp": "0000548",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Cone/cone-rod dystrophy",
+            "Id": "HP:0000548"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3"
+          },
+          {
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "C8ORF37",
+    "Id": "ID:157657",
+    "Score": 0.628368973807416,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000548",
+            "Score": 0.620017714791853,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Cone/cone-rod dystrophy",
+            "Id": "HP:0000548"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3"
+          },
+          {
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAB28",
+    "Id": "ID:9364",
+    "Score": 0.620017714791853,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000548",
+            "Condition": "Cone/cone-rod dystrophy",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.620017714791853,
+            "Hp": "0000548"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CACNA1F",
+    "Id": "ID:778",
+    "Score": 0.620017714791853,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000548",
+            "Condition": "Cone/cone-rod dystrophy",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.620017714791853,
+            "Hp": "0000548"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LZTFL1",
+    "Id": "ID:54585",
+    "Score": 0.620017714791853,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000548",
+            "Score": 0.620017714791853,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000548",
+            "Condition": "Cone/cone-rod dystrophy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RPGRIP1",
+    "Id": "ID:57096",
+    "Score": 0.620017714791853,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000548",
+            "Condition": "Cone/cone-rod dystrophy",
+            "Score": 0.620017714791853,
+            "Hp": "0000548",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDH3",
+    "Id": "ID:1001",
+    "Score": 0.620017714791853,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000548",
+            "Score": 0.620017714791853,
+            "Condition": "Cone/cone-rod dystrophy",
+            "Id": "HP:0000548"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POC1B",
+    "Id": "ID:282809",
+    "Score": 0.620017714791853,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000548",
+            "Score": 0.620017714791853,
+            "Condition": "Cone/cone-rod dystrophy",
+            "Id": "HP:0000548"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDE6H",
+    "Id": "ID:5149",
+    "Score": 0.620017714791853,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000548",
+            "Score": 0.620017714791853,
+            "Condition": "Cone/cone-rod dystrophy",
+            "Id": "HP:0000548"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNV2",
+    "Id": "ID:169522",
+    "Score": 0.620017714791853,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000548",
+            "Condition": "Cone/cone-rod dystrophy",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.620017714791853,
+            "Hp": "0000548"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATXN7",
+    "Id": "ID:6314",
+    "Score": 0.620017714791853,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Cone/cone-rod dystrophy",
+            "Id": "HP:0000548",
+            "Score": 0.620017714791853,
+            "Hp": "0000548",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RIMS1",
+    "Id": "ID:22999",
+    "Score": 0.620017714791853,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Cone/cone-rod dystrophy",
+            "Id": "HP:0000548",
+            "Score": 0.620017714791853,
+            "Hp": "0000548",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PITPNM3",
+    "Id": "ID:83394",
+    "Score": 0.620017714791853,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000548",
+            "Score": 0.620017714791853,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000548",
+            "Condition": "Cone/cone-rod dystrophy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDE6C",
+    "Id": "ID:5146",
+    "Score": 0.620017714791853,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000548",
+            "Score": 0.620017714791853,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Cone/cone-rod dystrophy",
+            "Id": "HP:0000548"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PCYT1A",
+    "Id": "ID:5130",
+    "Score": 0.620017714791853,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000548",
+            "Condition": "Cone/cone-rod dystrophy",
+            "Score": 0.620017714791853,
+            "Hp": "0000548",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TTLL5",
+    "Id": "ID:23093",
+    "Score": 0.620017714791853,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000548",
+            "Condition": "Cone/cone-rod dystrophy",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.620017714791853,
+            "Hp": "0000548"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDHR1",
+    "Id": "ID:92211",
+    "Score": 0.620017714791853,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000548",
+            "Condition": "Cone/cone-rod dystrophy",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.620017714791853,
+            "Hp": "0000548"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GUCA1A",
+    "Id": "ID:2978",
+    "Score": 0.620017714791853,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Cone/cone-rod dystrophy",
+            "Id": "HP:0000548",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.620017714791853,
+            "Hp": "0000548"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CACNA2D4",
+    "Id": "ID:93589",
+    "Score": 0.620017714791853,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000548",
+            "Score": 0.620017714791853,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000548",
+            "Condition": "Cone/cone-rod dystrophy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SNRNP200",
+    "Id": "ID:23020",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRCD",
+    "Id": "ID:768206",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FAM161A",
+    "Id": "ID:84140",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RHO",
+    "Id": "ID:6010",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3"
+          },
+          {
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NR2E3",
+    "Id": "ID:10002",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186
+          },
+          {
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CLRN1",
+    "Id": "ID:7401",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRPF3",
+    "Id": "ID:9129",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "USH2A",
+    "Id": "ID:7399",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SPATA7",
+    "Id": "ID:55812",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IDH3B",
+    "Id": "ID:3420",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CNGB1",
+    "Id": "ID:1258",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029"
+          },
+          {
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RDH12",
+    "Id": "ID:145226",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TULP1",
+    "Id": "ID:7287",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BEST1",
+    "Id": "ID:7439",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TOPORS",
+    "Id": "ID:10210",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029"
+          },
+          {
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IMPDH1",
+    "Id": "ID:3614",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186
+          },
+          {
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CNGA1",
+    "Id": "ID:1259",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3"
+          },
+          {
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAK",
+    "Id": "ID:4117",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ROM1",
+    "Id": "ID:6094",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029"
+          },
+          {
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDE6G",
+    "Id": "ID:5148",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029"
+          },
+          {
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRPF6",
+    "Id": "ID:24148",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029"
+          },
+          {
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GUCA1B",
+    "Id": "ID:2979",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186
+          },
+          {
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDE6A",
+    "Id": "ID:5145",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029"
+          },
+          {
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DHDDS",
+    "Id": "ID:79947",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3"
+          },
+          {
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RBP3",
+    "Id": "ID:5949",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRPF31",
+    "Id": "ID:26121",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDE6B",
+    "Id": "ID:5158",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029"
+          },
+          {
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RP2",
+    "Id": "ID:6102",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029"
+          },
+          {
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRPH2",
+    "Id": "ID:5961",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CRB1",
+    "Id": "ID:23418",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MERTK",
+    "Id": "ID:10461",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029"
+          },
+          {
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IMPG2",
+    "Id": "ID:50939",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029"
+          },
+          {
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CERKL",
+    "Id": "ID:375298",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SAG",
+    "Id": "ID:6295",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029"
+          },
+          {
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KLHL7",
+    "Id": "ID:55975",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186
+          },
+          {
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRPF8",
+    "Id": "ID:10594",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186
+          },
+          {
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FSCN2",
+    "Id": "ID:25794",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RLBP1",
+    "Id": "ID:6017",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RP1",
+    "Id": "ID:6101",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3"
+          },
+          {
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RGR",
+    "Id": "ID:5995",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RPE65",
+    "Id": "ID:6121",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029"
+          },
+          {
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ARL6",
+    "Id": "ID:84100",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LRAT",
+    "Id": "ID:9227",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548"
+          },
+          {
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZNF513",
+    "Id": "ID:130557",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3"
+          },
+          {
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "C2ORF71",
+    "Id": "ID:388939",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548"
+          },
+          {
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CA4",
+    "Id": "ID:762",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029"
+          },
+          {
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TTC8",
+    "Id": "ID:123016",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NRL",
+    "Id": "ID:4901",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "retinitis pigmentosa 3",
+            "Id": "OMIM:300029",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282",
+            "Score": 0.00417562950778186,
+            "Hp": "0000548",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RP9",
+    "Id": "ID:6100",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3"
+          },
+          {
+            "Condition": "retinitis pigmentosa 35",
+            "Id": "OMIM:610282",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EYS",
+    "Id": "ID:346007",
+    "Score": 0.00835125901556372,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:300029",
+            "Condition": "retinitis pigmentosa 3"
+          },
+          {
+            "Id": "OMIM:610282",
+            "Condition": "retinitis pigmentosa 35",
+            "Hp": "0000548",
+            "Score": 0.00417562950778186,
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  }
+]

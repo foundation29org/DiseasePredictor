@@ -1,0 +1,5470 @@
+[
+  {
+    "Name": "PSMB8",
+    "Id": "ID:5696",
+    "Score": 1,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:324999",
+            "Hp": "0002803",
+            "Score": 0.121240601503759,
+            "Condition": "jmp syndrome"
+          },
+          {
+            "Score": 0.121240601503759,
+            "Hp": "0002803",
+            "Condition": "nakajo nishimura syndrome",
+            "Id": "ORPHANET:2615",
+            "IdNote": "ORPHANET"
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.200187969924813,
+            "Condition": "jmp syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:324999"
+          },
+          {
+            "Condition": "nakajo nishimura syndrome",
+            "Score": 0.200187969924813,
+            "Hp": "0002804",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:2615"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KAT6B",
+    "Id": "ID:23522",
+    "Score": 0.813456632653061,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.134711779448622,
+            "Hp": "0002803"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00757753759398497,
+            "Hp": "0002803",
+            "Condition": "genitopatellar syndrome",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:606170"
+          },
+          {
+            "Score": 0.0606203007518797,
+            "Hp": "0002803",
+            "Condition": "genitopatellar syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:606170"
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:606170",
+            "Score": 0.0125117481203008,
+            "Hp": "0002804",
+            "Condition": "genitopatellar syndrome"
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.100093984962406,
+            "Condition": "genitopatellar syndrome",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:606170"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0002803",
+            "Score": 0.103920515574651,
+            "Condition": "genitopatellar syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:85201"
+          },
+          {
+            "Score": 0.171589688506982,
+            "Hp": "0002804",
+            "Condition": "genitopatellar syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:85201"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HSPG2",
+    "Id": "ID:3339",
+    "Score": 0.652742346938776,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:800",
+            "Condition": "schwartz jampel syndrome",
+            "Hp": "0002803",
+            "Score": 0.103920515574651
+          },
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:800",
+            "Condition": "schwartz jampel syndrome",
+            "Hp": "0002804",
+            "Score": 0.171589688506982
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:255800",
+            "Hp": "0002803",
+            "Score": 0.00757753759398497,
+            "Condition": "schwartz jampel syndrome type 1"
+          },
+          {
+            "Score": 0.0125117481203008,
+            "Hp": "0002804",
+            "Condition": "schwartz jampel syndrome type 1",
+            "Id": "OMIM:255800",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ERCC1",
+    "Id": "ID:2067",
+    "Score": 0.640019132653061,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:1466",
+            "Condition": "cofs syndrome",
+            "Hp": "0002803",
+            "Score": 0.103920515574651
+          },
+          {
+            "Id": "ORPHANET:1466",
+            "IdNote": "ORPHANET",
+            "Condition": "cofs syndrome",
+            "Score": 0.171589688506982,
+            "Hp": "0002804"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:610758",
+            "Score": 0.00277843045112781,
+            "Hp": "0002803",
+            "Condition": "cerebrooculofacioskeletal syndrome 4"
+          },
+          {
+            "Condition": "cerebrooculofacioskeletal syndrome 4",
+            "Score": 0.00458764097744362,
+            "Hp": "0002804",
+            "Id": "OMIM:610758",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ERCC6",
+    "Id": "ID:2074",
+    "Score": 0.632653061224491,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0002803",
+            "Score": 0.103920515574651,
+            "Condition": "cofs syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:1466"
+          },
+          {
+            "Condition": "cofs syndrome",
+            "Score": 0.171589688506982,
+            "Hp": "0002804",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:1466"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ERCC5",
+    "Id": "ID:2073",
+    "Score": 0.632653061224491,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.134711779448622,
+            "Hp": "0002803"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:1466",
+            "Hp": "0002803",
+            "Score": 0.103920515574651,
+            "Condition": "cofs syndrome"
+          },
+          {
+            "Condition": "cofs syndrome",
+            "Hp": "0002804",
+            "Score": 0.171589688506982,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:1466"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PLOD2",
+    "Id": "ID:5352",
+    "Score": 0.632653061224491,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:2771",
+            "IdNote": "ORPHANET",
+            "Condition": "bruck syndrome",
+            "Score": 0.103920515574651,
+            "Hp": "0002803"
+          },
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:2771",
+            "Score": 0.171589688506982,
+            "Hp": "0002804",
+            "Condition": "bruck syndrome"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ERCC2",
+    "Id": "ID:2068",
+    "Score": 0.632653061224491,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:1466",
+            "IdNote": "ORPHANET",
+            "Score": 0.103920515574651,
+            "Hp": "0002803",
+            "Condition": "cofs syndrome"
+          },
+          {
+            "Score": 0.171589688506982,
+            "Hp": "0002804",
+            "Condition": "cofs syndrome",
+            "Id": "ORPHANET:1466",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VIPAS39",
+    "Id": "ID:63894",
+    "Score": 0.594100765306122,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:2697",
+            "IdNote": "ORPHANET",
+            "Score": 0.0866004296455425,
+            "Hp": "0002803",
+            "Condition": "arthrogryposis renal dysfunction cholestasis"
+          },
+          {
+            "Id": "ORPHANET:2697",
+            "IdNote": "ORPHANET",
+            "Condition": "arthrogryposis renal dysfunction cholestasis",
+            "Score": 0.142991407089152,
+            "Hp": "0002804"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "arthrogryposis renal dysfunction and cholestasis 2",
+            "Score": 0.00277843045112781,
+            "Hp": "0002803",
+            "Id": "OMIM:613404",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:613404",
+            "Score": 0.00458764097744362,
+            "Hp": "0002804",
+            "Condition": "arthrogryposis renal dysfunction and cholestasis 2"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VPS33B",
+    "Id": "ID:26276",
+    "Score": 0.586734693877552,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:2697",
+            "Hp": "0002803",
+            "Score": 0.0866004296455425,
+            "Condition": "arthrogryposis renal dysfunction cholestasis"
+          },
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:2697",
+            "Condition": "arthrogryposis renal dysfunction cholestasis",
+            "Hp": "0002804",
+            "Score": 0.142991407089152
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAPSN",
+    "Id": "ID:5913",
+    "Score": 0.586734693877552,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "fetal akinesia deformation sequence",
+            "Hp": "0002803",
+            "Score": 0.0866004296455425,
+            "Id": "ORPHANET:994",
+            "IdNote": "ORPHANET"
+          },
+          {
+            "Id": "ORPHANET:994",
+            "IdNote": "ORPHANET",
+            "Condition": "fetal akinesia deformation sequence",
+            "Hp": "0002804",
+            "Score": 0.142991407089152
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FKBP10",
+    "Id": "ID:60681",
+    "Score": 0.586734693877552,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0002803",
+            "Score": 0.0866004296455425,
+            "Condition": "bruck syndrome",
+            "Id": "ORPHANET:2771",
+            "IdNote": "ORPHANET"
+          },
+          {
+            "Condition": "bruck syndrome",
+            "Hp": "0002804",
+            "Score": 0.142991407089152,
+            "Id": "ORPHANET:2771",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DOK7",
+    "Id": "ID:285489",
+    "Score": 0.586734693877552,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:994",
+            "Hp": "0002803",
+            "Score": 0.0866004296455425,
+            "Condition": "fetal akinesia deformation sequence"
+          },
+          {
+            "Condition": "fetal akinesia deformation sequence",
+            "Hp": "0002804",
+            "Score": 0.142991407089152,
+            "Id": "ORPHANET:994",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GBE1",
+    "Id": "ID:2632",
+    "Score": 0.475000000000001,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "glycogen storage disease iv",
+            "Hp": "0002803",
+            "Score": 0.0444548872180451,
+            "Id": "OMIM:232500",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.0734022556390978,
+            "Condition": "glycogen storage disease iv",
+            "Id": "OMIM:232500",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DHCR24",
+    "Id": "ID:1718",
+    "Score": 0.472895408163266,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:602398",
+            "IdNote": "CLINVAR",
+            "Score": 0.00555686090225565,
+            "Hp": "0002803",
+            "Condition": "desmosterolosis"
+          },
+          {
+            "Score": 0.00917528195488723,
+            "Hp": "0002804",
+            "Condition": "desmosterolosis",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:602398"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0381041890440387,
+            "Hp": "0002803",
+            "Condition": "desmosterolosis",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:35107"
+          },
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:35107",
+            "Score": 0.0629162191192267,
+            "Hp": "0002804",
+            "Condition": "desmosterolosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHST14",
+    "Id": "ID:113189",
+    "Score": 0.465529336734694,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:2953",
+            "IdNote": "ORPHANET",
+            "Hp": "0002803",
+            "Score": 0.0381041890440387,
+            "Condition": "ehlers danlos syndrome musculocontractural type"
+          },
+          {
+            "Id": "ORPHANET:2953",
+            "IdNote": "ORPHANET",
+            "Score": 0.0629162191192267,
+            "Hp": "0002804",
+            "Condition": "ehlers danlos syndrome musculocontractural type"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0002803",
+            "Score": 0.00277843045112781,
+            "Condition": "ehlers danlos syndrome musculocontractural type",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:601776"
+          },
+          {
+            "Condition": "ehlers danlos syndrome musculocontractural type",
+            "Hp": "0002804",
+            "Score": 0.00458764097744362,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:601776"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Distal arthrogryposis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005684"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MECP2",
+    "Id": "ID:4204",
+    "Score": 0.39469068877551,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "rett syndrome",
+            "Score": 0.00721670247046186,
+            "Hp": "0002803",
+            "Id": "ORPHANET:778",
+            "IdNote": "ORPHANET"
+          },
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:778",
+            "Condition": "rett syndrome",
+            "Hp": "0002804",
+            "Score": 0.0119159505907626
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "rett syndrome",
+            "Score": 0.00189438439849624,
+            "Hp": "0002803",
+            "Id": "OMIM:312750",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:312750",
+            "Condition": "rett syndrome",
+            "Hp": "0002803",
+            "Score": 0.0050516917293233
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:312750",
+            "Condition": "rett syndrome",
+            "Score": 0.00312793703007519,
+            "Hp": "0002804"
+          },
+          {
+            "Id": "OMIM:312750",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00834116541353384,
+            "Hp": "0002804",
+            "Condition": "rett syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GBA",
+    "Id": "ID:2629",
+    "Score": 0.393973214285714,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:608013",
+            "IdNote": "CLINVAR",
+            "Condition": "gaucher disease perinatal lethal",
+            "Hp": "0002803",
+            "Score": 0.00277843045112781
+          },
+          {
+            "Id": "OMIM:608013",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "gaucher disease perinatal lethal",
+            "Score": 0.0111137218045113,
+            "Hp": "0002803"
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:608013",
+            "Score": 0.00458764097744362,
+            "Hp": "0002804",
+            "Condition": "gaucher disease perinatal lethal"
+          },
+          {
+            "Score": 0.0183505639097745,
+            "Hp": "0002804",
+            "Condition": "gaucher disease perinatal lethal",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:608013"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PIEZO2",
+    "Id": "ID:63895",
+    "Score": 0.38001057330827,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Congenital finger flexion contractures",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005879"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:248700",
+            "IdNote": "CLINVAR",
+            "Condition": "marden walker syndrome",
+            "Score": 0.00757753759398497,
+            "Hp": "0002803"
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:108145",
+            "Hp": "0002803",
+            "Score": 0.00277843045112781,
+            "Condition": "oculomelic amyoplasia"
+          },
+          {
+            "Condition": "marden walker syndrome",
+            "Hp": "0002804",
+            "Score": 0.0125117481203008,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:248700"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZC4H2",
+    "Id": "ID:55906",
+    "Score": 0.371875000000001,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Congenital foot contractures",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005745"
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:314580",
+            "Condition": "wieacker wolff syndrome",
+            "Score": 0.00555686090225565,
+            "Hp": "0002803"
+          },
+          {
+            "Id": "OMIM:314580",
+            "IdNote": "CLINVAR",
+            "Hp": "0002804",
+            "Score": 0.00917528195488723,
+            "Condition": "wieacker wolff syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHMP1A",
+    "Id": "ID:5119",
+    "Score": 0.371014030612246,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622
+          },
+          {
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:324569",
+            "Score": 0.00481113498030792,
+            "Hp": "0002803",
+            "Condition": "pontocerebellar hypoplasia type 8"
+          },
+          {
+            "Score": 0.00794396706050842,
+            "Hp": "0002804",
+            "Condition": "pontocerebellar hypoplasia type 8",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:324569"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.000420974310776942,
+            "Hp": "0002803",
+            "Condition": "pontocerebellar hypoplasia type 8",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:614961"
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.000695097117794487,
+            "Condition": "pontocerebellar hypoplasia type 8",
+            "Id": "OMIM:614961",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "UBA1",
+    "Id": "ID:7317",
+    "Score": 0.364508928571428,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "spinal muscular atrophy x linked 2",
+            "Hp": "0002803",
+            "Score": 0.00277843045112781,
+            "Id": "OMIM:301830",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Score": 0.00458764097744362,
+            "Hp": "0002804",
+            "Condition": "spinal muscular atrophy x linked 2",
+            "Id": "OMIM:301830",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NEB",
+    "Id": "ID:4703",
+    "Score": 0.364508928571428,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:256030",
+            "Hp": "0002803",
+            "Score": 0.00277843045112781,
+            "Condition": "nemaline myopathy 2"
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:256030",
+            "Score": 0.00458764097744362,
+            "Hp": "0002804",
+            "Condition": "nemaline myopathy 2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AIMP1",
+    "Id": "ID:9255",
+    "Score": 0.364508928571428,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0002803",
+            "Score": 0.00277843045112781,
+            "Condition": "leukodystrophy hypomyelinating 3",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:260600"
+          },
+          {
+            "Id": "OMIM:260600",
+            "IdNote": "CLINVAR",
+            "Hp": "0002804",
+            "Score": 0.00458764097744362,
+            "Condition": "leukodystrophy hypomyelinating 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ERGIC1",
+    "Id": "ID:57222",
+    "Score": 0.364508928571428,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:208100",
+            "IdNote": "CLINVAR",
+            "Condition": "arthrogryposis multiplex congenita neurogenic type",
+            "Hp": "0002803",
+            "Score": 0.00277843045112781
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:208100",
+            "Condition": "arthrogryposis multiplex congenita neurogenic type",
+            "Hp": "0002804",
+            "Score": 0.00458764097744362
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACTA1",
+    "Id": "ID:58",
+    "Score": 0.364508928571428,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:161800",
+            "Hp": "0002803",
+            "Score": 0.00277843045112781,
+            "Condition": "nemaline myopathy 3"
+          },
+          {
+            "Id": "OMIM:161800",
+            "IdNote": "CLINVAR",
+            "Score": 0.00458764097744362,
+            "Hp": "0002804",
+            "Condition": "nemaline myopathy 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC35A3",
+    "Id": "ID:23443",
+    "Score": 0.364508928571428,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "arthrogryposis mental retardation and seizures",
+            "Hp": "0002803",
+            "Score": 0.00277843045112781,
+            "Id": "OMIM:615553",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Score": 0.00458764097744362,
+            "Hp": "0002804",
+            "Condition": "arthrogryposis mental retardation and seizures",
+            "Id": "OMIM:615553",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GLE1",
+    "Id": "ID:2733",
+    "Score": 0.364508928571428,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:253310",
+            "IdNote": "CLINVAR",
+            "Score": 0.00277843045112781,
+            "Hp": "0002803",
+            "Condition": "lethal congenital contracture syndrome 1"
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.00458764097744362,
+            "Condition": "lethal congenital contracture syndrome 1",
+            "Id": "OMIM:253310",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NEK9",
+    "Id": "ID:91754",
+    "Score": 0.364508928571428,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.134711779448622,
+            "Hp": "0002803"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:614262",
+            "Hp": "0002803",
+            "Score": 0.00277843045112781,
+            "Condition": "arthrogryposis perthes disease and upward gaze palsy"
+          },
+          {
+            "Score": 0.00458764097744362,
+            "Hp": "0002804",
+            "Condition": "arthrogryposis perthes disease and upward gaze palsy",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:614262"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IBA57",
+    "Id": "ID:200205",
+    "Score": 0.364508928571428,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "multiple mitochondrial dysfunctions syndrome 3",
+            "Score": 0.00277843045112781,
+            "Hp": "0002803",
+            "Id": "OMIM:615330",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Id": "OMIM:615330",
+            "IdNote": "CLINVAR",
+            "Hp": "0002804",
+            "Score": 0.00458764097744362,
+            "Condition": "multiple mitochondrial dysfunctions syndrome 3"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ERBB3",
+    "Id": "ID:2065",
+    "Score": 0.364508928571428,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:607598",
+            "IdNote": "CLINVAR",
+            "Condition": "lethal congenital contracture syndrome 2",
+            "Hp": "0002803",
+            "Score": 0.00277843045112781
+          },
+          {
+            "Condition": "lethal congenital contracture syndrome 2",
+            "Score": 0.00458764097744362,
+            "Hp": "0002804",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:607598"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.134711779448622,
+            "Hp": "0002803"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG3",
+    "Id": "ID:10195",
+    "Score": 0.362739823697173,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "Condition": "congenital disorder of glycosylation type id"
+          },
+          {
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Condition": "congenital disorder of glycosylation type iu",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:615042"
+          },
+          {
+            "Score": 0.00253111226341717,
+            "Hp": "0002804",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RFT1",
+    "Id": "ID:91869",
+    "Score": 0.362739823697173,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Score": 0.00153292714544983,
+            "Hp": "0002803"
+          },
+          {
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "Condition": "congenital disorder of glycosylation type iu"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type id",
+            "Score": 0.00253111226341717,
+            "Hp": "0002804",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYBPC1",
+    "Id": "ID:4604",
+    "Score": 0.359921287593986,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "lethal congenital contracture syndrome 4",
+            "Hp": "0002803",
+            "Score": 0.00277843045112781,
+            "Id": "OMIM:614915",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0005684",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Distal arthrogryposis",
+            "Score": 0.134711779448622,
+            "Hp": "0002803"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYH8",
+    "Id": "ID:4626",
+    "Score": 0.359921287593986,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "carney complex variant",
+            "Score": 0.00277843045112781,
+            "Hp": "0002803",
+            "Id": "OMIM:608837",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0005684",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Distal arthrogryposis"
+          },
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZNHIT3",
+    "Id": "ID:9326",
+    "Score": 0.358816964285715,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:260565",
+            "IdNote": "CLINVAR",
+            "Condition": "peho syndrome",
+            "Hp": "0002803",
+            "Score": 0.000631461466165414
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.00104264567669173,
+            "Condition": "peho syndrome",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:260565"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FAM20C",
+    "Id": "ID:56975",
+    "Score": 0.358258928571429,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:259775",
+            "IdNote": "CLINVAR",
+            "Hp": "0002803",
+            "Score": 0.000420974310776942,
+            "Condition": "raine syndrome"
+          },
+          {
+            "Condition": "raine syndrome",
+            "Score": 0.000695097117794487,
+            "Hp": "0002804",
+            "Id": "OMIM:259775",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.134711779448622,
+            "Hp": "0002803"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDX1",
+    "Id": "ID:3651",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "C12ORF65",
+    "Id": "ID:91574",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FBN2",
+    "Id": "ID:2201",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005684",
+            "Condition": "Distal arthrogryposis",
+            "Hp": "0002803",
+            "Score": 0.134711779448622
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHRNE",
+    "Id": "ID:1145",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VAMP1",
+    "Id": "ID:6843",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PI4KA",
+    "Id": "ID:5297",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COX2",
+    "Id": "ID:8923202",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND5",
+    "Id": "ID:8923210",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LGI4",
+    "Id": "ID:163175",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0005684",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Distal arthrogryposis"
+          },
+          {
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ITGA6",
+    "Id": "ID:3655",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KIF14",
+    "Id": "ID:9928",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ABCC8",
+    "Id": "ID:6833",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNJ11",
+    "Id": "ID:3767",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNW",
+    "Id": "ID:8923194",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYO9A",
+    "Id": "ID:4649",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CFL2",
+    "Id": "ID:1073",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TNNT3",
+    "Id": "ID:7140",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Distal arthrogryposis",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Id": "HP:0005684",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MUSK",
+    "Id": "ID:4593",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDK5",
+    "Id": "ID:1020",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SOX10",
+    "Id": "ID:6663",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNS1",
+    "Id": "ID:4574",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ECEL1",
+    "Id": "ID:9427",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LMNA",
+    "Id": "ID:4000",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNL1",
+    "Id": "ID:4567",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SNAP25",
+    "Id": "ID:6616",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAGEL2",
+    "Id": "ID:54551",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ASCC1",
+    "Id": "ID:51008",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TPM3",
+    "Id": "ID:7170",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GFPT1",
+    "Id": "ID:2673",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KLHL41",
+    "Id": "ID:10324",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC5A7",
+    "Id": "ID:60482",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "STAT3",
+    "Id": "ID:6774",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC9A6",
+    "Id": "ID:10479",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.134711779448622,
+            "Hp": "0002803"
+          },
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ADCY6",
+    "Id": "ID:112",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PLXND1",
+    "Id": "ID:23129",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZMPSTE24",
+    "Id": "ID:10269",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AUTS2",
+    "Id": "ID:26053",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND4",
+    "Id": "ID:8923197",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "REV3L",
+    "Id": "ID:5980",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SYT2",
+    "Id": "ID:127833",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TBCD",
+    "Id": "ID:6904",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TPM2",
+    "Id": "ID:7169",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Distal arthrogryposis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005684"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRIP4",
+    "Id": "ID:9325",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ITGB4",
+    "Id": "ID:3691",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PSAT1",
+    "Id": "ID:29968",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KIF1A",
+    "Id": "ID:547",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL13A1",
+    "Id": "ID:1305",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNS2",
+    "Id": "ID:4575",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.134711779448622,
+            "Hp": "0002803"
+          },
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HYMAI",
+    "Id": "ID:57061",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SHPK",
+    "Id": "ID:23729",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TNNI2",
+    "Id": "ID:7136",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005684",
+            "Condition": "Distal arthrogryposis",
+            "Score": 0.134711779448622,
+            "Hp": "0002803"
+          },
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PHGDH",
+    "Id": "ID:26227",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYOD1",
+    "Id": "ID:4654",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYH3",
+    "Id": "ID:4621",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Distal arthrogryposis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005684"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHAT",
+    "Id": "ID:1103",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZNF335",
+    "Id": "ID:63925",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.134711779448622,
+            "Hp": "0002803"
+          },
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC25A1",
+    "Id": "ID:6576",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KIF5C",
+    "Id": "ID:3800",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KLHL40",
+    "Id": "ID:131377",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND1",
+    "Id": "ID:8923209",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GCK",
+    "Id": "ID:2645",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC6A9",
+    "Id": "ID:6536",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNQ",
+    "Id": "ID:8923208",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHRNG",
+    "Id": "ID:1146",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRPV4",
+    "Id": "ID:59341",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHRNA1",
+    "Id": "ID:1134",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CNTNAP1",
+    "Id": "ID:8506",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNH",
+    "Id": "ID:8923196",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AGRN",
+    "Id": "ID:375790",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PIP5K1C",
+    "Id": "ID:23396",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "INS",
+    "Id": "ID:3630",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZFP57",
+    "Id": "ID:346171",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNF",
+    "Id": "ID:8923184",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COX3",
+    "Id": "ID:8923187",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LMOD3",
+    "Id": "ID:56203",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804",
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC18A3",
+    "Id": "ID:6572",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND6",
+    "Id": "ID:8923198",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Score": 0.222431077694236,
+            "Hp": "0002804",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COX1",
+    "Id": "ID:8923218",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PLEC",
+    "Id": "ID:5339",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.222431077694236,
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PLAGL1",
+    "Id": "ID:5325",
+    "Score": 0.357142857142858,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002804"
+          },
+          {
+            "Id": "HP:0002804",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Arthrogryposis multiplex congenita",
+            "Score": 0.222431077694236,
+            "Hp": "0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FIG4",
+    "Id": "ID:9896",
+    "Score": 0.180039887665593,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00277843045112781,
+            "Hp": "0002803",
+            "Condition": "charcot marie tooth disease type 4j",
+            "Id": "OMIM:611228",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Id": "OMIM:611228",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "charcot marie tooth disease type 4j",
+            "Score": 0.00444548872180451,
+            "Hp": "0002803"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0002803",
+            "Score": 0.0381041890440387,
+            "Condition": "charcot marie tooth disease type 4j",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:139515"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0005684",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Distal arthrogryposis",
+            "Hp": "0002803",
+            "Score": 0.134711779448622
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VRK1",
+    "Id": "ID:7443",
+    "Score": 0.179166666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002803",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Congenital contracture"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:2254",
+            "Condition": "pontocerebellar hypoplasia type 1",
+            "Hp": "0002803",
+            "Score": 0.0444548872180451
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRG4",
+    "Id": "ID:10216",
+    "Score": 0.169243700769782,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Congenital finger flexion contractures",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Id": "HP:0005879",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:2848",
+            "Condition": "camptodactyly arthropathy coxa vara pericarditis syndrome",
+            "Hp": "0002803",
+            "Score": 0.0317534908700323
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:208250",
+            "IdNote": "CLINVAR",
+            "Condition": "camptodactyly arthropathy coxa vara pericarditis syndrome",
+            "Hp": "0002803",
+            "Score": 0.00277843045112781
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TSEN54",
+    "Id": "ID:283989",
+    "Score": 0.166465270318654,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002803",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Congenital contracture",
+            "Hp": "0002803",
+            "Score": 0.134711779448622
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "pontocerebellar hypoplasia type 1",
+            "Hp": "0002803",
+            "Score": 0.0317534908700323,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:2254"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DPM2",
+    "Id": "ID:8818",
+    "Score": 0.140308746002938,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type id",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110"
+          },
+          {
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type id",
+            "Score": 0.00253111226341717,
+            "Hp": "0002804",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Congenital contracture",
+            "Id": "HP:0002803",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FKTN",
+    "Id": "ID:2218",
+    "Score": 0.134711779448622,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Congenital contracture",
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Id": "HP:0002803",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DNM2",
+    "Id": "ID:1785",
+    "Score": 0.134711779448622,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002803",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Congenital contracture",
+            "Score": 0.134711779448622,
+            "Hp": "0002803"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FKRP",
+    "Id": "ID:79147",
+    "Score": 0.134711779448622,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Congenital contracture",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002803"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POMT1",
+    "Id": "ID:10585",
+    "Score": 0.134711779448622,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Congenital contracture",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Id": "HP:0002803",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATAD1",
+    "Id": "ID:84896",
+    "Score": 0.134711779448622,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Distal arthrogryposis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005684"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POMT2",
+    "Id": "ID:29954",
+    "Score": 0.134711779448622,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Congenital contracture",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002803"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BICD2",
+    "Id": "ID:23299",
+    "Score": 0.134711779448622,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0005853",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Congenital foot contraction deformities",
+            "Score": 0.134711779448622,
+            "Hp": "0002803"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYH2",
+    "Id": "ID:4620",
+    "Score": 0.134711779448622,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Congenital contracture",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002803"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CAPN3",
+    "Id": "ID:825",
+    "Score": 0.134711779448622,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Congenital finger flexion contractures",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Id": "HP:0005879",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GLI3",
+    "Id": "ID:2737",
+    "Score": 0.134711779448622,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002803",
+            "Score": 0.134711779448622,
+            "Condition": "Distal arthrogryposis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005684"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZBTB42",
+    "Id": "ID:100128927",
+    "Score": 0.134711779448622,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002803",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Congenital contracture",
+            "Score": 0.134711779448622,
+            "Hp": "0002803"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NALCN",
+    "Id": "ID:259232",
+    "Score": 0.134711779448622,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Congenital contracture",
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Id": "HP:0002803",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TBX4",
+    "Id": "ID:9496",
+    "Score": 0.134711779448622,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.134711779448622,
+            "Hp": "0002803",
+            "Condition": "Congenital contracture",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002803"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DSE",
+    "Id": "ID:29940",
+    "Score": 0.101020408163265,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "ehlers danlos syndrome musculocontractural type",
+            "Hp": "0002803",
+            "Score": 0.0381041890440387,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:2953"
+          },
+          {
+            "Score": 0.0629162191192267,
+            "Hp": "0002804",
+            "Condition": "ehlers danlos syndrome musculocontractural type",
+            "Id": "ORPHANET:2953",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EXOSC3",
+    "Id": "ID:51010",
+    "Score": 0.0381041890440387,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:2254",
+            "IdNote": "ORPHANET",
+            "Condition": "pontocerebellar hypoplasia type 1",
+            "Hp": "0002803",
+            "Score": 0.0381041890440387
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RARS2",
+    "Id": "ID:57038",
+    "Score": 0.0381041890440387,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:2254",
+            "Hp": "0002803",
+            "Score": 0.0381041890440387,
+            "Condition": "pontocerebellar hypoplasia type 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ESCO2",
+    "Id": "ID:157570",
+    "Score": 0.0363520408163266,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:3103",
+            "Score": 0.00866004296455425,
+            "Hp": "0002803",
+            "Condition": "roberts syndrome"
+          },
+          {
+            "Id": "ORPHANET:3103",
+            "IdNote": "ORPHANET",
+            "Score": 0.0142991407089152,
+            "Hp": "0002804",
+            "Condition": "roberts syndrome"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:268300",
+            "Condition": "roberts syndrome",
+            "Score": 0.0050516917293233,
+            "Hp": "0002803"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:268300",
+            "Score": 0.00834116541353384,
+            "Hp": "0002804",
+            "Condition": "roberts syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RECQL4",
+    "Id": "ID:9401",
+    "Score": 0.0301339285714286,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:268400",
+            "Hp": "0002803",
+            "Score": 0.00126292293233083,
+            "Condition": "rothmund thomson syndrome"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:268400",
+            "Condition": "rothmund thomson syndrome",
+            "Hp": "0002803",
+            "Score": 0.0101033834586466
+          },
+          {
+            "Condition": "rothmund thomson syndrome",
+            "Score": 0.00208529135338347,
+            "Hp": "0002804",
+            "Id": "OMIM:268400",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Condition": "rothmund thomson syndrome",
+            "Score": 0.0166823308270677,
+            "Hp": "0002804",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:268400"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COG8",
+    "Id": "ID:84342",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Condition": "congenital disorder of glycosylation type id"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00253111226341717,
+            "Hp": "0002804",
+            "Condition": "congenital disorder of glycosylation type id"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COG7",
+    "Id": "ID:91949",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type id",
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:615042",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "Condition": "congenital disorder of glycosylation type iu"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110",
+            "Score": 0.00253111226341717,
+            "Hp": "0002804",
+            "Condition": "congenital disorder of glycosylation type id"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COG6",
+    "Id": "ID:57511",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type id",
+            "Score": 0.00253111226341717,
+            "Hp": "0002804",
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COG4",
+    "Id": "ID:25839",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type id",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:615042",
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Score": 0.00153292714544983,
+            "Hp": "0002803"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Hp": "0002804",
+            "Score": 0.00253111226341717
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MOGS",
+    "Id": "ID:7841",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Score": 0.00153292714544983,
+            "Hp": "0002803"
+          },
+          {
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "Condition": "congenital disorder of glycosylation type iu"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110",
+            "Hp": "0002804",
+            "Score": 0.00253111226341717,
+            "Condition": "congenital disorder of glycosylation type id"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COG5",
+    "Id": "ID:10466",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "Condition": "congenital disorder of glycosylation type id"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:615042"
+          },
+          {
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Hp": "0002804",
+            "Score": 0.00253111226341717
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG8",
+    "Id": "ID:79053",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Score": 0.00153292714544983,
+            "Hp": "0002803"
+          },
+          {
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "Condition": "congenital disorder of glycosylation type iu"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110",
+            "Score": 0.00253111226341717,
+            "Hp": "0002804",
+            "Condition": "congenital disorder of glycosylation type id"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PGM1",
+    "Id": "ID:5236",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type id",
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:615042",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "Condition": "congenital disorder of glycosylation type iu"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110",
+            "Hp": "0002804",
+            "Score": 0.00253111226341717,
+            "Condition": "congenital disorder of glycosylation type id"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DOLK",
+    "Id": "ID:22845",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type id",
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:615042",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "Condition": "congenital disorder of glycosylation type iu"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110",
+            "Hp": "0002804",
+            "Score": 0.00253111226341717,
+            "Condition": "congenital disorder of glycosylation type id"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DDOST",
+    "Id": "ID:1650",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Condition": "congenital disorder of glycosylation type id"
+          },
+          {
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "Condition": "congenital disorder of glycosylation type iu",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:615042"
+          },
+          {
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00253111226341717,
+            "Hp": "0002804",
+            "Condition": "congenital disorder of glycosylation type id"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SRD5A3",
+    "Id": "ID:79644",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110",
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Condition": "congenital disorder of glycosylation type id"
+          },
+          {
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Condition": "congenital disorder of glycosylation type iu",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:615042"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type id",
+            "Score": 0.00253111226341717,
+            "Hp": "0002804",
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MPI",
+    "Id": "ID:4351",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00253111226341717,
+            "Hp": "0002804",
+            "Condition": "congenital disorder of glycosylation type id"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PMM2",
+    "Id": "ID:5373",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Score": 0.00153292714544983,
+            "Hp": "0002803"
+          },
+          {
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "Condition": "congenital disorder of glycosylation type iu"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110",
+            "Score": 0.00253111226341717,
+            "Hp": "0002804",
+            "Condition": "congenital disorder of glycosylation type id"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DPM1",
+    "Id": "ID:8813",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Condition": "congenital disorder of glycosylation type id"
+          },
+          {
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Condition": "congenital disorder of glycosylation type iu",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:615042"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type id",
+            "Score": 0.00253111226341717,
+            "Hp": "0002804",
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG2",
+    "Id": "ID:85365",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983
+          },
+          {
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Score": 0.00153292714544983,
+            "Hp": "0002803"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Hp": "0002804",
+            "Score": 0.00253111226341717
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC35C1",
+    "Id": "ID:55343",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983
+          },
+          {
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983
+          },
+          {
+            "Score": 0.00253111226341717,
+            "Hp": "0002804",
+            "Condition": "congenital disorder of glycosylation type id",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COG1",
+    "Id": "ID:9382",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "Condition": "congenital disorder of glycosylation type id"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:615042"
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.00253111226341717,
+            "Condition": "congenital disorder of glycosylation type id",
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG12",
+    "Id": "ID:79087",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "Condition": "congenital disorder of glycosylation type id"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:615042"
+          },
+          {
+            "Score": 0.00253111226341717,
+            "Hp": "0002804",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "B4GALT1",
+    "Id": "ID:2683",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Condition": "congenital disorder of glycosylation type id",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110"
+          },
+          {
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00253111226341717,
+            "Hp": "0002804",
+            "Condition": "congenital disorder of glycosylation type id"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TUSC3",
+    "Id": "ID:7991",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "Condition": "congenital disorder of glycosylation type id",
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Hp": "0002804",
+            "Score": 0.00253111226341717
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG11",
+    "Id": "ID:440138",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type id",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:615042",
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Score": 0.00153292714544983,
+            "Hp": "0002803"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Score": 0.00253111226341717,
+            "Hp": "0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG1",
+    "Id": "ID:56052",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983
+          },
+          {
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Score": 0.00253111226341717,
+            "Hp": "0002804"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG6",
+    "Id": "ID:29929",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983
+          },
+          {
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Score": 0.00153292714544983,
+            "Hp": "0002803"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110",
+            "Hp": "0002804",
+            "Score": 0.00253111226341717,
+            "Condition": "congenital disorder of glycosylation type id"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DPAGT1",
+    "Id": "ID:1798",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "Condition": "congenital disorder of glycosylation type id"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:615042"
+          },
+          {
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00253111226341717,
+            "Hp": "0002804",
+            "Condition": "congenital disorder of glycosylation type id"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MPDU1",
+    "Id": "ID:9526",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Condition": "congenital disorder of glycosylation type id",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110"
+          },
+          {
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.00253111226341717,
+            "Hp": "0002804",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM165",
+    "Id": "ID:55858",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Condition": "congenital disorder of glycosylation type id",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110"
+          },
+          {
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.00253111226341717,
+            "Condition": "congenital disorder of glycosylation type id",
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MGAT2",
+    "Id": "ID:4247",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0002804",
+            "Score": 0.00253111226341717,
+            "Condition": "congenital disorder of glycosylation type id",
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC35A1",
+    "Id": "ID:10559",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type id",
+            "Score": 0.00253111226341717,
+            "Hp": "0002804",
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG13",
+    "Id": "ID:79868",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983
+          },
+          {
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Score": 0.00153292714544983,
+            "Hp": "0002803"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110",
+            "Hp": "0002804",
+            "Score": 0.00253111226341717,
+            "Condition": "congenital disorder of glycosylation type id"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG9",
+    "Id": "ID:79796",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type id",
+            "Score": 0.00253111226341717,
+            "Hp": "0002804",
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAGT1",
+    "Id": "ID:84061",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00153292714544983,
+            "Hp": "0002803",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0002803",
+            "Score": 0.00153292714544983,
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "congenital disorder of glycosylation type id",
+            "Hp": "0002804",
+            "Score": 0.00253111226341717,
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DPM3",
+    "Id": "ID:54344",
+    "Score": 0.00559696655431684,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:601110",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type id",
+            "Hp": "0002803",
+            "Score": 0.00153292714544983
+          },
+          {
+            "Id": "OMIM:615042",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type iu",
+            "Score": 0.00153292714544983,
+            "Hp": "0002803"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601110",
+            "Hp": "0002804",
+            "Score": 0.00253111226341717,
+            "Condition": "congenital disorder of glycosylation type id"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SH3TC2",
+    "Id": "ID:79628",
+    "Score": 0.00444548872180451,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611228",
+            "Hp": "0002803",
+            "Score": 0.00444548872180451,
+            "Condition": "charcot marie tooth disease type 4j"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MTMR2",
+    "Id": "ID:8898",
+    "Score": 0.00444548872180451,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00444548872180451,
+            "Hp": "0002803",
+            "Condition": "charcot marie tooth disease type 4j",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611228"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FGD4",
+    "Id": "ID:121512",
+    "Score": 0.00444548872180451,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0002803",
+            "Score": 0.00444548872180451,
+            "Condition": "charcot marie tooth disease type 4j",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611228"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GDAP1",
+    "Id": "ID:54332",
+    "Score": 0.00444548872180451,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "charcot marie tooth disease type 4j",
+            "Hp": "0002803",
+            "Score": 0.00444548872180451,
+            "Id": "OMIM:611228",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDRG1",
+    "Id": "ID:10397",
+    "Score": 0.00444548872180451,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:611228",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "charcot marie tooth disease type 4j",
+            "Hp": "0002803",
+            "Score": 0.00444548872180451
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SBF2",
+    "Id": "ID:81846",
+    "Score": 0.00444548872180451,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611228",
+            "Score": 0.00444548872180451,
+            "Hp": "0002803",
+            "Condition": "charcot marie tooth disease type 4j"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SBF1",
+    "Id": "ID:6305",
+    "Score": 0.00444548872180451,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611228",
+            "Hp": "0002803",
+            "Score": 0.00444548872180451,
+            "Condition": "charcot marie tooth disease type 4j"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EGR2",
+    "Id": "ID:1959",
+    "Score": 0.00444548872180451,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:611228",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "charcot marie tooth disease type 4j",
+            "Hp": "0002803",
+            "Score": 0.00444548872180451
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRX",
+    "Id": "ID:57716",
+    "Score": 0.00444548872180451,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:611228",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "charcot marie tooth disease type 4j",
+            "Hp": "0002803",
+            "Score": 0.00444548872180451
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CCDC88A",
+    "Id": "ID:55704",
+    "Score": 0.00167410714285715,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000631461466165414,
+            "Hp": "0002803",
+            "Condition": "peho syndrome",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:260565"
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:260565",
+            "Score": 0.00104264567669173,
+            "Hp": "0002804",
+            "Condition": "peho syndrome"
+          }
+        ]
+      }
+    ]
+  }
+]

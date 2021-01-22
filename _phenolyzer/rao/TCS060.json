@@ -1,0 +1,4544 @@
+[
+  {
+    "Name": "XDH",
+    "Id": "ID:7498",
+    "Score": 1,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012330",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Pyelonephritis",
+            "Hp": "0012330",
+            "Score": 0.75187969924812
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:93601",
+            "Hp": "0012330",
+            "Score": 0.24812030075188,
+            "Condition": "xanthinuria type i"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCTD1",
+    "Id": "ID:284252",
+    "Score": 0.78108216970999,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012330",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Pyelonephritis",
+            "Hp": "0012330",
+            "Score": 0.75187969924812
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:2036",
+            "Score": 0.0268528464017186,
+            "Hp": "0012330",
+            "Condition": "scalp ear nipple syndrome"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:181270",
+            "IdNote": "CLINVAR",
+            "Condition": "scalp ear nipple syndrome",
+            "Score": 0.00234962406015038,
+            "Hp": "0012330"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HOXA13",
+    "Id": "ID:3209",
+    "Score": 0.75187969924812,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012330",
+            "Hp": "0012330",
+            "Score": 0.75187969924812,
+            "Condition": "Pyelonephritis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SHANK3",
+    "Id": "ID:85358",
+    "Score": 0.75187969924812,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012787",
+            "Hp": "0012330",
+            "Score": 0.75187969924812,
+            "Condition": "Recurrent pyelonephritis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CFI",
+    "Id": "ID:3426",
+    "Score": 0.75187969924812,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pyelonephritis",
+            "Score": 0.75187969924812,
+            "Hp": "0012330",
+            "Id": "HP:0012330",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC7A7",
+    "Id": "ID:9056",
+    "Score": 0.0981860195601788,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "lysinuric protein intolerance",
+            "Score": 0.0167900955396009,
+            "Hp": "0001733",
+            "Id": "ORPHANET:470",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:222700",
+            "IdNote": "CLINVAR",
+            "Condition": "lysinuric protein intolerance",
+            "Score": 0.00244855559952512,
+            "Hp": "0001733"
+          },
+          {
+            "Hp": "0001733",
+            "Score": 0.019588444796201,
+            "Condition": "lysinuric protein intolerance",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:222700"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SPINK1",
+    "Id": "ID:6690",
+    "Score": 0.0951681742837728,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:167800",
+            "Hp": "0001733",
+            "Score": 0.00979422239810051,
+            "Condition": "pancreatitis hereditary"
+          },
+          {
+            "Condition": "tropical calcific pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.00122427779976257,
+            "Id": "OMIM:608189",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Score": 0.00351113633139454,
+            "Hp": "0001977",
+            "Condition": "pancreatitis hereditary",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:167800"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Recurrent pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0100027",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0030247",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Splanchnic vein thrombosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRSS1",
+    "Id": "ID:5644",
+    "Score": 0.0939438964840104,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:167800",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "pancreatitis hereditary",
+            "Score": 0.00979422239810051,
+            "Hp": "0001733"
+          },
+          {
+            "Id": "OMIM:167800",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "pancreatitis hereditary",
+            "Score": 0.00351113633139454,
+            "Hp": "0001977"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Recurrent pancreatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0100027"
+          },
+          {
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Splanchnic vein thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0030247"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CTRC",
+    "Id": "ID:11330",
+    "Score": 0.0939438964840104,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Condition": "Recurrent pancreatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0100027"
+          },
+          {
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Splanchnic vein thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0030247"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:167800",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "pancreatitis hereditary",
+            "Score": 0.00979422239810051,
+            "Hp": "0001733"
+          },
+          {
+            "Id": "OMIM:167800",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "pancreatitis hereditary",
+            "Hp": "0001977",
+            "Score": 0.00351113633139454
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CFTR",
+    "Id": "ID:1080",
+    "Score": 0.0939438964840104,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:167800",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "pancreatitis hereditary",
+            "Score": 0.00979422239810051,
+            "Hp": "0001733"
+          },
+          {
+            "Id": "OMIM:167800",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "pancreatitis hereditary",
+            "Hp": "0001977",
+            "Score": 0.00351113633139454
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0100027",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Condition": "Recurrent pancreatitis"
+          },
+          {
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Splanchnic vein thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0030247"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MEFV",
+    "Id": "ID:4210",
+    "Score": 0.0852892034224447,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Condition": "Pancreatitis"
+          },
+          {
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Venous thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00381593080445475,
+            "Hp": "0001733",
+            "Condition": "familial mediterranean fever",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:342"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.000834734863474476,
+            "Hp": "0001733",
+            "Condition": "familial mediterranean fever",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:249100"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-B",
+    "Id": "ID:3106",
+    "Score": 0.0844544685589702,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Condition": "myositis",
+            "Hp": "0001977",
+            "Score": 3.19194211944957E-47,
+            "Id": "PUBMED:26291516 26291516",
+            "IdNote": "GWAS"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00381593080445475,
+            "Hp": "0001733",
+            "Condition": "stevens johnson syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:36426"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Venous thrombosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AGPAT2",
+    "Id": "ID:10555",
+    "Score": 0.0827632992255075,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:608594",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "lipodystrophy congenital generalized type 1",
+            "Score": 0.00979422239810051,
+            "Hp": "0001733"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:269700",
+            "Score": 0.00979422239810051,
+            "Hp": "0001733",
+            "Condition": "lipodystrophy congenital generalized type 2"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Condition": "Acute pancreatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001735"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:528",
+            "IdNote": "ORPHANET",
+            "Condition": "berardinelli seip congenital lipodystrophy",
+            "Score": 0.00381593080445475,
+            "Hp": "0001733"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BSCL2",
+    "Id": "ID:26580",
+    "Score": 0.0821273107580982,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:608594",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "lipodystrophy congenital generalized type 1",
+            "Hp": "0001733",
+            "Score": 0.00979422239810051
+          },
+          {
+            "Id": "OMIM:269700",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "lipodystrophy congenital generalized type 2",
+            "Hp": "0001733",
+            "Score": 0.00979422239810051
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001735",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Condition": "Acute pancreatitis"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:528",
+            "IdNote": "ORPHANET",
+            "Condition": "berardinelli seip congenital lipodystrophy",
+            "Score": 0.00317994233704561,
+            "Hp": "0001733"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IL23R",
+    "Id": "ID:149233",
+    "Score": 0.0806385377545154,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis"
+          },
+          {
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Venous thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "UBAC2",
+    "Id": "ID:337867",
+    "Score": 0.0806385377545154,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Pancreatitis",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Venous thrombosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-DPB1",
+    "Id": "ID:3115",
+    "Score": 0.0806385377545154,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pancreatitis",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Venous thrombosis"
+          }
+        ],
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Id": "PUBMED:26291516",
+            "Hp": "0001977",
+            "Score": 1.59597105972479E-24,
+            "Condition": "myositis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IL12A-AS1",
+    "Id": "ID:101928376",
+    "Score": 0.0806385377545154,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Venous thrombosis",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IL10",
+    "Id": "ID:3586",
+    "Score": 0.0806385377545154,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis"
+          },
+          {
+            "Condition": "Venous thrombosis",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CASR",
+    "Id": "ID:846",
+    "Score": 0.0806385377545154,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Condition": "Recurrent pancreatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0100027"
+          },
+          {
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Splanchnic vein thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0030247"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TLR4",
+    "Id": "ID:7099",
+    "Score": 0.0806385377545154,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis"
+          },
+          {
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Venous thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CTLA4",
+    "Id": "ID:1493",
+    "Score": 0.0806385377545154,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Pancreatitis",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733"
+          },
+          {
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Venous thrombosis",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ERAP1",
+    "Id": "ID:51752",
+    "Score": 0.0806385377545154,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Venous thrombosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRTN3",
+    "Id": "ID:5657",
+    "Score": 0.0806385377545154,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis"
+          },
+          {
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Venous thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PTPN22",
+    "Id": "ID:26191",
+    "Score": 0.0806385377545154,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis"
+          },
+          {
+            "Condition": "Venous thrombosis",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FAS",
+    "Id": "ID:355",
+    "Score": 0.0806385377545154,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Pancreatitis",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733"
+          },
+          {
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Venous thrombosis",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CPA1",
+    "Id": "ID:1357",
+    "Score": 0.0806385377545154,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Recurrent pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0100027",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Id": "HP:0030247",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Splanchnic vein thrombosis",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRSS2",
+    "Id": "ID:5645",
+    "Score": 0.0806385377545154,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0100027",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Recurrent pancreatitis"
+          },
+          {
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Splanchnic vein thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0030247"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CBS",
+    "Id": "ID:875",
+    "Score": 0.0806385377545154,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Venous thrombosis",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "STAT4",
+    "Id": "ID:6775",
+    "Score": 0.0806385377545154,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Venous thrombosis",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "C4A",
+    "Id": "ID:720",
+    "Score": 0.0806385377545154,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Venous thrombosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IL12A",
+    "Id": "ID:3592",
+    "Score": 0.0806385377545154,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis"
+          },
+          {
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Venous thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CCR1",
+    "Id": "ID:1230",
+    "Score": 0.0806385377545154,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Venous thrombosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KLRC4",
+    "Id": "ID:8302",
+    "Score": 0.0806385377545154,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Pancreatitis",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Venous thrombosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "G6PC",
+    "Id": "ID:2538",
+    "Score": 0.0789473684210527,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00979422239810051,
+            "Hp": "0001733",
+            "Condition": "glycogen storage disease ia",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:232200"
+          },
+          {
+            "Hp": "0001733",
+            "Score": 0.00979422239810051,
+            "Condition": "glycogen storage disease ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:232220"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC37A4",
+    "Id": "ID:2542",
+    "Score": 0.0789473684210527,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001733",
+            "Score": 0.00979422239810051,
+            "Condition": "glycogen storage disease ia",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:232200"
+          },
+          {
+            "Condition": "glycogen storage disease ib",
+            "Hp": "0001733",
+            "Score": 0.00979422239810051,
+            "Id": "OMIM:232220",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0006280",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Chronic pancreatitis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PCCA",
+    "Id": "ID:5095",
+    "Score": 0.0785975747639777,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00244855559952512,
+            "Hp": "0001733",
+            "Condition": "propionyl coa carboxylase deficiency",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:606054"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0167900955396009,
+            "Hp": "0001733",
+            "Condition": "propionic acidemia",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:35"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PCCB",
+    "Id": "ID:5096",
+    "Score": 0.0785975747639777,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:35",
+            "IdNote": "ORPHANET",
+            "Condition": "propionic acidemia",
+            "Score": 0.0167900955396009,
+            "Hp": "0001733"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Condition": "Pancreatitis"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001733",
+            "Score": 0.00244855559952512,
+            "Condition": "propionyl coa carboxylase deficiency",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:606054"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LPL",
+    "Id": "ID:4023",
+    "Score": 0.0703774238227146,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:238600",
+            "IdNote": "CLINVAR",
+            "Condition": "hyperlipoproteinemia type i",
+            "Score": 0.00122427779976257,
+            "Hp": "0001733"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:238600",
+            "Hp": "0001733",
+            "Score": 0.00979422239810051,
+            "Condition": "lipoprotein lipase deficiency"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DBT",
+    "Id": "ID:1629",
+    "Score": 0.064256034823902,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0001733",
+            "Score": 0.00489711119905027,
+            "Condition": "maple syrup urine disease",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:248600"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Pancreatitis",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BCKDHB",
+    "Id": "ID:594",
+    "Score": 0.064256034823902,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00489711119905027,
+            "Hp": "0001733",
+            "Condition": "maple syrup urine disease",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:248600"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BCKDHA",
+    "Id": "ID:593",
+    "Score": 0.064256034823902,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:248600",
+            "IdNote": "CLINVAR",
+            "Condition": "maple syrup urine disease",
+            "Score": 0.00489711119905027,
+            "Hp": "0001733"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Condition": "Pancreatitis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CAV1",
+    "Id": "ID:857",
+    "Score": 0.0631748544293064,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:528",
+            "Hp": "0001733",
+            "Score": 0.00381593080445475,
+            "Condition": "berardinelli seip congenital lipodystrophy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FOS",
+    "Id": "ID:2353",
+    "Score": 0.0631748544293064,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:528",
+            "IdNote": "ORPHANET",
+            "Condition": "berardinelli seip congenital lipodystrophy",
+            "Score": 0.00381593080445475,
+            "Hp": "0001733"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AP2S1",
+    "Id": "ID:1175",
+    "Score": 0.0618074792243768,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00244855559952512,
+            "Hp": "0001733",
+            "Condition": "hypocalciuric hypercalcemia familial type iii",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:600740"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Pancreatitis",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "JAK2",
+    "Id": "ID:3717",
+    "Score": 0.0612786388140163,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:3318",
+            "Hp": "0001977",
+            "Score": 0.0191516527166974,
+            "Condition": "essential thrombocythemia"
+          },
+          {
+            "Condition": "familial thrombocytosis",
+            "Hp": "0001977",
+            "Score": 0.0191516527166974,
+            "Id": "ORPHANET:71493",
+            "IdNote": "ORPHANET"
+          },
+          {
+            "Hp": "0001977",
+            "Score": 0.00159597105972479,
+            "Condition": "polycythemia vera",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:729"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Splanchnic vein thrombosis",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Id": "HP:0030247",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:263300",
+            "IdNote": "CLINVAR",
+            "Condition": "polycythemia vera",
+            "Score": 9.97481912327989E-05,
+            "Hp": "0001977"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MPL",
+    "Id": "ID:4352",
+    "Score": 0.0611788906227835,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:3318",
+            "IdNote": "ORPHANET",
+            "Condition": "essential thrombocythemia",
+            "Hp": "0001977",
+            "Score": 0.0191516527166974
+          },
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:71493",
+            "Score": 0.0191516527166974,
+            "Hp": "0001977",
+            "Condition": "familial thrombocytosis"
+          },
+          {
+            "Condition": "polycythemia vera",
+            "Score": 0.00159597105972479,
+            "Hp": "0001977",
+            "Id": "ORPHANET:729",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Splanchnic vein thrombosis",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Id": "HP:0030247",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDC73",
+    "Id": "ID:79577",
+    "Score": 0.0605832014246141,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0100027",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Recurrent pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:145001",
+            "IdNote": "CLINVAR",
+            "Condition": "hyperparathyroidism 2",
+            "Score": 0.00122427779976257,
+            "Hp": "0001733"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATP8B1",
+    "Id": "ID:5205",
+    "Score": 0.0605832014246141,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0001733",
+            "Score": 0.00122427779976257,
+            "Condition": "cholestasis benign recurrent intrahepatic 1",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:243300"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GNA11",
+    "Id": "ID:2767",
+    "Score": 0.0605832014246141,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:145981",
+            "Score": 0.00122427779976257,
+            "Hp": "0001733",
+            "Condition": "hypocalciuric hypercalcemia familial type ii"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "XPNPEP3",
+    "Id": "ID:63929",
+    "Score": 0.0595444202611794,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Chronic pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0006280",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:613159",
+            "Score": 0.000185496636327662,
+            "Hp": "0001733",
+            "Condition": "nephronophthisis like nephropathy 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LMF1",
+    "Id": "ID:64788",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0100027",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Recurrent pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND6",
+    "Id": "ID:8923198",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNS2",
+    "Id": "ID:4575",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNQ",
+    "Id": "ID:8923208",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IFT172",
+    "Id": "ID:26160",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NSMCE2",
+    "Id": "ID:286053",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Acute pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0001735",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PPARG",
+    "Id": "ID:5468",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GPR35",
+    "Id": "ID:2859",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "STUB1",
+    "Id": "ID:10273",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LMNA",
+    "Id": "ID:4000",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Acute pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0001735",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GPIHBP1",
+    "Id": "ID:338328",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0100027",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Recurrent pancreatitis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNH",
+    "Id": "ID:8923196",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COX2",
+    "Id": "ID:8923202",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "APOE",
+    "Id": "ID:348",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Acute pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0001735",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NADK2",
+    "Id": "ID:133686",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ABCB4",
+    "Id": "ID:5244",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TCF4",
+    "Id": "ID:6925",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND4",
+    "Id": "ID:8923197",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND1",
+    "Id": "ID:8923209",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC25A13",
+    "Id": "ID:10165",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNW",
+    "Id": "ID:8923194",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COX3",
+    "Id": "ID:8923187",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IKZF1",
+    "Id": "ID:10320",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNL1",
+    "Id": "ID:4567",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COX1",
+    "Id": "ID:8923218",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CIDEC",
+    "Id": "ID:63924",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MUT",
+    "Id": "ID:4594",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNF",
+    "Id": "ID:8923184",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MST1",
+    "Id": "ID:4485",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNS1",
+    "Id": "ID:4574",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001733",
+            "Score": 0.0593589236248516,
+            "Hp": "0001733",
+            "Condition": "Pancreatitis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACTG2",
+    "Id": "ID:72",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "APOC2",
+    "Id": "ID:344",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516,
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND5",
+    "Id": "ID:8923210",
+    "Score": 0.0593589236248516,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001733",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Pancreatitis",
+            "Hp": "0001733",
+            "Score": 0.0593589236248516
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "THPO",
+    "Id": "ID:7066",
+    "Score": 0.0388922947530551,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:187950",
+            "IdNote": "CLINVAR",
+            "Condition": "essential thrombocythemia",
+            "Hp": "0001977",
+            "Score": 0.00119697829479359
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:71493",
+            "IdNote": "ORPHANET",
+            "Condition": "familial thrombocytosis",
+            "Score": 0.0164157023285978,
+            "Hp": "0001977"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Venous thrombosis",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CALR",
+    "Id": "ID:811",
+    "Score": 0.0388922947530551,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:3318",
+            "IdNote": "ORPHANET",
+            "Condition": "essential thrombocythemia",
+            "Score": 0.0164157023285978,
+            "Hp": "0001977"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Venous thrombosis"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "essential thrombocythemia",
+            "Score": 0.00119697829479359,
+            "Hp": "0001977",
+            "Id": "OMIM:187950",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IDH2",
+    "Id": "ID:3418",
+    "Score": 0.0376953164582617,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Venous thrombosis"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0164157023285978,
+            "Hp": "0001977",
+            "Condition": "maffucci syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:163634"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TP53",
+    "Id": "ID:7157",
+    "Score": 0.0376953164582617,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0164157023285978,
+            "Hp": "0001977",
+            "Condition": "essential thrombocythemia",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:3318"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Venous thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IDH1",
+    "Id": "ID:3417",
+    "Score": 0.0376953164582617,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Venous thrombosis",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:163634",
+            "IdNote": "ORPHANET",
+            "Condition": "maffucci syndrome",
+            "Score": 0.0164157023285978,
+            "Hp": "0001977"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TET2",
+    "Id": "ID:54790",
+    "Score": 0.0360993453985367,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:3318",
+            "Score": 0.0136797519404982,
+            "Hp": "0001977",
+            "Condition": "essential thrombocythemia"
+          },
+          {
+            "Condition": "polycythemia vera",
+            "Hp": "0001977",
+            "Score": 0.00113997932837484,
+            "Id": "ORPHANET:729",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Splanchnic vein thrombosis",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Id": "HP:0030247",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PROC",
+    "Id": "ID:5624",
+    "Score": 0.0319194211944957,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0106398070648319,
+            "Hp": "0001977",
+            "Condition": "hereditary thrombophilia due to congenital protein c deficiency",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:745"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Cerebral venous thrombosis",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Id": "HP:0005305",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC2A10",
+    "Id": "ID:81031",
+    "Score": 0.0277375970249073,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "arterial tortuosity syndrome",
+            "Score": 0.00601909085381919,
+            "Hp": "0001977",
+            "Id": "ORPHANET:3342",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0001977",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Abnormal thrombosis",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:208050",
+            "Score": 0.000438892041424315,
+            "Hp": "0001977",
+            "Condition": "arterial tortuosity syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AKT1",
+    "Id": "ID:207",
+    "Score": 0.023174829763087,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Venous thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "proteus syndrome",
+            "Hp": "0001977",
+            "Score": 0.00159597105972479,
+            "Id": "ORPHANET:744",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "proteus syndrome",
+            "Hp": "0001977",
+            "Score": 0.000299244573698398,
+            "Id": "OMIM:176920",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PROS1",
+    "Id": "ID:5627",
+    "Score": 0.023086481365138,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "thrombophilia due to protein s deficiency autosomal recessive",
+            "Score": 0.000438892041424315,
+            "Hp": "0001977",
+            "Id": "OMIM:614514",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Disseminated intravascular coagulation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005521"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:743",
+            "IdNote": "ORPHANET",
+            "Condition": "hereditary thrombophilia due to congenital protein s deficiency",
+            "Hp": "0001977",
+            "Score": 0.00136797519404982
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYH9",
+    "Id": "ID:4627",
+    "Score": 0.0230351822953611,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:155100",
+            "Hp": "0001977",
+            "Score": 0.00175556816569726,
+            "Condition": "may hegglin anomaly"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Abnormal thrombosis",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Id": "HP:0001977",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GNAQ",
+    "Id": "ID:2776",
+    "Score": 0.0228470857061793,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:185300",
+            "Score": 0.000199496382465598,
+            "Hp": "0001977",
+            "Condition": "sturge weber syndrome"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00136797519404982,
+            "Hp": "0001977",
+            "Condition": "sturge weber syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:3205"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Venous thrombosis",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MMACHC",
+    "Id": "ID:25974",
+    "Score": 0.0226840686622216,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:277400",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "methylmalonic aciduria and homocystinuria cblc type",
+            "Score": 0.00140445453255781,
+            "Hp": "0001977"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001977",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Abnormal thrombosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACVRL1",
+    "Id": "ID:94",
+    "Score": 0.0226475893237137,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Venous thrombosis",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:774",
+            "IdNote": "ORPHANET",
+            "Condition": "hereditary hemorrhagic telangiectasia",
+            "Score": 0.00136797519404982,
+            "Hp": "0001977"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PTEN",
+    "Id": "ID:5728",
+    "Score": 0.0226475893237137,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Venous thrombosis",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00136797519404982,
+            "Hp": "0001977",
+            "Condition": "proteus syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:744"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SMAD4",
+    "Id": "ID:4089",
+    "Score": 0.0226475893237137,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Venous thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "hereditary hemorrhagic telangiectasia",
+            "Hp": "0001977",
+            "Score": 0.00136797519404982,
+            "Id": "ORPHANET:774",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SH2B3",
+    "Id": "ID:10019",
+    "Score": 0.0224765924244574,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Venous thrombosis",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:187950",
+            "IdNote": "CLINVAR",
+            "Condition": "essential thrombocythemia",
+            "Hp": "0001977",
+            "Score": 0.00119697829479359
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GDF2",
+    "Id": "ID:2658",
+    "Score": 0.0224195934580386,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Venous thrombosis",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:774",
+            "Hp": "0001977",
+            "Score": 0.00113997932837484,
+            "Condition": "hereditary hemorrhagic telangiectasia"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ENG",
+    "Id": "ID:2022",
+    "Score": 0.0224195934580386,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:774",
+            "IdNote": "ORPHANET",
+            "Condition": "hereditary hemorrhagic telangiectasia",
+            "Hp": "0001977",
+            "Score": 0.00113997932837484
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Venous thrombosis",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PIGM",
+    "Id": "ID:93183",
+    "Score": 0.0217185061710881,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0030247",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Splanchnic vein thrombosis"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:610293",
+            "Hp": "0001977",
+            "Score": 0.000438892041424315,
+            "Condition": "glycosylphosphatidylinositol deficiency"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNQ1",
+    "Id": "ID:3784",
+    "Score": 0.0217185061710881,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "atrial fibrillation familial 3",
+            "Hp": "0001977",
+            "Score": 0.000438892041424315,
+            "Id": "OMIM:607554",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001977",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Abnormal thrombosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "THBD",
+    "Id": "ID:7056",
+    "Score": 0.0217185061710881,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Venous thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "thrombophilia due to thrombomodulin defect",
+            "Hp": "0001977",
+            "Score": 0.000438892041424315,
+            "Id": "OMIM:614486",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SERPINC1",
+    "Id": "ID:462",
+    "Score": 0.0217185061710881,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:613118",
+            "Score": 0.000438892041424315,
+            "Hp": "0001977",
+            "Condition": "antithrombin iii deficiency"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0005305",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Cerebral venous thrombosis",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "F9",
+    "Id": "ID:2158",
+    "Score": 0.0217185061710881,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000438892041424315,
+            "Hp": "0001977",
+            "Condition": "thrombophilia x linked due to factor ix defect",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:300807"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Venous thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SERPIND1",
+    "Id": "ID:3053",
+    "Score": 0.0217185061710881,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005521",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Disseminated intravascular coagulation"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:612356",
+            "IdNote": "CLINVAR",
+            "Condition": "heparin cofactor ii deficiency",
+            "Hp": "0001977",
+            "Score": 0.000438892041424315
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VHL",
+    "Id": "ID:7428",
+    "Score": 0.0217185061710881,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Peripheral thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002641"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:263400",
+            "Score": 0.000438892041424315,
+            "Hp": "0001977",
+            "Condition": "erythrocytosis familial 2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MPI",
+    "Id": "ID:4351",
+    "Score": 0.0215217614628634,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Abnormal thrombosis",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Id": "HP:0001977",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Score": 0.000242147333199623,
+            "Hp": "0001977",
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RFT1",
+    "Id": "ID:91869",
+    "Score": 0.0215217614628634,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001977",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Abnormal thrombosis"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Hp": "0001977",
+            "Score": 0.000242147333199623,
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PGM1",
+    "Id": "ID:5236",
+    "Score": 0.0215217614628634,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Score": 0.000242147333199623,
+            "Hp": "0001977",
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005305",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Cerebral venous thrombosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HBB",
+    "Id": "ID:3043",
+    "Score": 0.0213793623208966,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Venous thrombosis"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:613985",
+            "IdNote": "CLINVAR",
+            "Condition": "beta thalassemia",
+            "Hp": "0001977",
+            "Score": 9.97481912327989E-05
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KIF11",
+    "Id": "ID:3832",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Venous thrombosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRKAR1A",
+    "Id": "ID:5573",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005305",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Cerebral venous thrombosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BMPR2",
+    "Id": "ID:659",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Abnormal thrombosis",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Id": "HP:0001977",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FCGR2C",
+    "Id": "ID:9103",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Arterial thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004420"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FGB",
+    "Id": "ID:2244",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Venous thrombosis",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDE4D",
+    "Id": "ID:5144",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005305",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Cerebral venous thrombosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDGFRA",
+    "Id": "ID:5156",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Venous thrombosis",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AGGF1",
+    "Id": "ID:55109",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Venous thrombosis",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NOTCH1",
+    "Id": "ID:4851",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Splanchnic vein thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0030247"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "F2",
+    "Id": "ID:2147",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0005305",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Cerebral venous thrombosis",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HRG",
+    "Id": "ID:3273",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Recurrent thromboembolism",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Id": "HP:0004831",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PIEZO1",
+    "Id": "ID:9780",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Venous thrombosis",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PTH1R",
+    "Id": "ID:5745",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Venous thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FGA",
+    "Id": "ID:2243",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Condition": "Venous thrombosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NLRC4",
+    "Id": "ID:58484",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0005521",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Disseminated intravascular coagulation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FGG",
+    "Id": "ID:2266",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Venous thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "F5",
+    "Id": "ID:2153",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Venous thrombosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PLAT",
+    "Id": "ID:5327",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Venous thrombosis",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRDX1",
+    "Id": "ID:5052",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001977",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Abnormal thrombosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "USP8",
+    "Id": "ID:9101",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Venous thrombosis",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CD55",
+    "Id": "ID:1604",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Splanchnic vein thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0030247"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EPOR",
+    "Id": "ID:2057",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Venous thrombosis",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638,
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SAA1",
+    "Id": "ID:6288",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0004936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Venous thrombosis",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MET",
+    "Id": "ID:4233",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0030247",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Splanchnic vein thrombosis",
+            "Hp": "0001977",
+            "Score": 0.0212796141296638
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDH23",
+    "Id": "ID:64072",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Venous thrombosis",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004936"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CTNNB1",
+    "Id": "ID:1499",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0030247",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Splanchnic vein thrombosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYH7",
+    "Id": "ID:4625",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004420",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Arterial thrombosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PIGA",
+    "Id": "ID:5277",
+    "Score": 0.0212796141296638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001977",
+            "Score": 0.0212796141296638,
+            "Hp": "0001977",
+            "Condition": "Abnormal thrombosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MTR",
+    "Id": "ID:4548",
+    "Score": 0.00140445453255781,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00140445453255781,
+            "Hp": "0001977",
+            "Condition": "methylmalonic aciduria and homocystinuria cblc type",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:277400"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ABCD4",
+    "Id": "ID:5826",
+    "Score": 0.00140445453255781,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "methylmalonic aciduria and homocystinuria cblc type",
+            "Hp": "0001977",
+            "Score": 0.00140445453255781,
+            "Id": "OMIM:277400",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LMBRD1",
+    "Id": "ID:55788",
+    "Score": 0.00140445453255781,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:277400",
+            "Score": 0.00140445453255781,
+            "Hp": "0001977",
+            "Condition": "methylmalonic aciduria and homocystinuria cblc type"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MMADHC",
+    "Id": "ID:27249",
+    "Score": 0.00140445453255781,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "methylmalonic aciduria and homocystinuria cblc type",
+            "Hp": "0001977",
+            "Score": 0.00140445453255781,
+            "Id": "OMIM:277400",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MTRR",
+    "Id": "ID:4552",
+    "Score": 0.00140445453255781,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "methylmalonic aciduria and homocystinuria cblc type",
+            "Hp": "0001977",
+            "Score": 0.00140445453255781,
+            "Id": "OMIM:277400",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RBPJ",
+    "Id": "ID:3516",
+    "Score": 0.00136797519404982,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "adams oliver syndrome",
+            "Hp": "0001977",
+            "Score": 0.00136797519404982,
+            "Id": "ORPHANET:974",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DOCK6",
+    "Id": "ID:57572",
+    "Score": 0.00136797519404982,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "adams oliver syndrome",
+            "Hp": "0001977",
+            "Score": 0.00136797519404982,
+            "Id": "ORPHANET:974",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ARHGAP31",
+    "Id": "ID:57514",
+    "Score": 0.00136797519404982,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "adams oliver syndrome",
+            "Hp": "0001977",
+            "Score": 0.00136797519404982,
+            "Id": "ORPHANET:974",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EOGT",
+    "Id": "ID:285203",
+    "Score": 0.00113997932837485,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "adams oliver syndrome",
+            "Hp": "0001977",
+            "Score": 0.00113997932837484,
+            "Id": "ORPHANET:974",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AIP",
+    "Id": "ID:9049",
+    "Score": 0.000531990353241594,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:219090",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "pituitary adenoma acth secreting",
+            "Hp": "0001977",
+            "Score": 0.000531990353241596
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TLR5",
+    "Id": "ID:7100",
+    "Score": 0.000278244954491493,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:608556",
+            "Score": 0.000278244954491493,
+            "Hp": "0001733",
+            "Condition": "legionellosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG11",
+    "Id": "ID:440138",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579",
+            "Score": 0.000242147333199623,
+            "Hp": "0001977",
+            "Condition": "congenital disorder of glycosylation type ib"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DPM3",
+    "Id": "ID:54344",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579",
+            "Score": 0.000242147333199623,
+            "Hp": "0001977",
+            "Condition": "congenital disorder of glycosylation type ib"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG8",
+    "Id": "ID:79053",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000242147333199623,
+            "Hp": "0001977",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "B4GALT1",
+    "Id": "ID:2683",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Hp": "0001977",
+            "Score": 0.000242147333199623,
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC35C1",
+    "Id": "ID:55343",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000242147333199623,
+            "Hp": "0001977",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DPM1",
+    "Id": "ID:8813",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000242147333199623,
+            "Hp": "0001977",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DOLK",
+    "Id": "ID:22845",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000242147333199623,
+            "Hp": "0001977",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COG6",
+    "Id": "ID:57511",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000242147333199623,
+            "Hp": "0001977",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DPM2",
+    "Id": "ID:8818",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Hp": "0001977",
+            "Score": 0.000242147333199623
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG13",
+    "Id": "ID:79868",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Hp": "0001977",
+            "Score": 0.000242147333199623
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SRD5A3",
+    "Id": "ID:79644",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579",
+            "Score": 0.000242147333199623,
+            "Hp": "0001977",
+            "Condition": "congenital disorder of glycosylation type ib"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COG4",
+    "Id": "ID:25839",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Hp": "0001977",
+            "Score": 0.000242147333199623,
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MPDU1",
+    "Id": "ID:9526",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Hp": "0001977",
+            "Score": 0.000242147333199623
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COG5",
+    "Id": "ID:10466",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000242147333199623,
+            "Hp": "0001977",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG9",
+    "Id": "ID:79796",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000242147333199623,
+            "Hp": "0001977",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COG1",
+    "Id": "ID:9382",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Hp": "0001977",
+            "Score": 0.000242147333199623
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG6",
+    "Id": "ID:29929",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579",
+            "Score": 0.000242147333199623,
+            "Hp": "0001977",
+            "Condition": "congenital disorder of glycosylation type ib"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MOGS",
+    "Id": "ID:7841",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579",
+            "Score": 0.000242147333199623,
+            "Hp": "0001977",
+            "Condition": "congenital disorder of glycosylation type ib"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COG7",
+    "Id": "ID:91949",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000242147333199623,
+            "Hp": "0001977",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG3",
+    "Id": "ID:10195",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Hp": "0001977",
+            "Score": 0.000242147333199623
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG12",
+    "Id": "ID:79087",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000242147333199623,
+            "Hp": "0001977",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC35A1",
+    "Id": "ID:10559",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Hp": "0001977",
+            "Score": 0.000242147333199623,
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DPAGT1",
+    "Id": "ID:1798",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Hp": "0001977",
+            "Score": 0.000242147333199623,
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DDOST",
+    "Id": "ID:1650",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579",
+            "Score": 0.000242147333199623,
+            "Hp": "0001977",
+            "Condition": "congenital disorder of glycosylation type ib"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TUSC3",
+    "Id": "ID:7991",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000242147333199623,
+            "Hp": "0001977",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PMM2",
+    "Id": "ID:5373",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Hp": "0001977",
+            "Score": 0.000242147333199623,
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG2",
+    "Id": "ID:85365",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Hp": "0001977",
+            "Score": 0.000242147333199623,
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALG1",
+    "Id": "ID:56052",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Hp": "0001977",
+            "Score": 0.000242147333199623,
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COG8",
+    "Id": "ID:84342",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Hp": "0001977",
+            "Score": 0.000242147333199623
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAGT1",
+    "Id": "ID:84061",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Hp": "0001977",
+            "Score": 0.000242147333199623,
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MGAT2",
+    "Id": "ID:4247",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "congenital disorder of glycosylation type ib",
+            "Hp": "0001977",
+            "Score": 0.000242147333199623,
+            "Id": "OMIM:602579",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM165",
+    "Id": "ID:55858",
+    "Score": 0.000242147333199623,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000242147333199623,
+            "Hp": "0001977",
+            "Condition": "congenital disorder of glycosylation type ib",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:602579"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDE1A",
+    "Id": "ID:5136",
+    "Score": 1.40445453255781E-11,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Id": "PUBMED:29088834",
+            "Score": 1.40445453255781E-11,
+            "Hp": "0001977",
+            "Condition": "pulmonary arterial hypertension"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DNAJC10",
+    "Id": "ID:54431",
+    "Score": 1.40445453255781E-11,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Id": "PUBMED:29088834",
+            "IdNote": "GWAS",
+            "Condition": "pulmonary arterial hypertension",
+            "Hp": "0001977",
+            "Score": 1.40445453255781E-11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CBLN2",
+    "Id": "ID:147381",
+    "Score": 1.22889771598808E-12,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Id": "PUBMED:23502781",
+            "Score": 1.22889771598808E-12,
+            "Hp": "0001977",
+            "Condition": "pulmonary arterial hypertension"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-DQA2",
+    "Id": "ID:3118",
+    "Score": 1.59597105972479E-14,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Id": "PUBMED:26291516 26291516",
+            "Score": 1.59597105972479E-14,
+            "Hp": "0001977",
+            "Condition": "myositis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-DPA1",
+    "Id": "ID:3113",
+    "Score": 3.59093488438076E-16,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Condition": "myositis",
+            "Hp": "0001977",
+            "Score": 3.59093488438076E-16,
+            "Id": "PUBMED:26291516 26291516",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-DQA1",
+    "Id": "ID:3117",
+    "Score": 3.98992764931196E-19,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Id": "PUBMED:26291516",
+            "Score": 3.98992764931196E-19,
+            "Hp": "0001977",
+            "Condition": "myositis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-C",
+    "Id": "ID:3107",
+    "Score": 3.59093488438076E-31,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Id": "PUBMED:26291516",
+            "Score": 3.59093488438076E-31,
+            "Hp": "0001977",
+            "Condition": "myositis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-DQB1",
+    "Id": "ID:3119",
+    "Score": 3.19194211944957E-48,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Id": "PUBMED:26291516 26291516 26291516",
+            "Score": 3.19194211944957E-48,
+            "Hp": "0001977",
+            "Condition": "myositis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HCP5",
+    "Id": "ID:10866",
+    "Score": 7.97985529862391E-49,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Condition": "myositis",
+            "Hp": "0001977",
+            "Score": 7.97985529862391E-49,
+            "Id": "PUBMED:26291516 26291516 26291516",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-DRB1",
+    "Id": "ID:3123",
+    "Score": 3.98992764931196E-50,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Condition": "myositis",
+            "Hp": "0001977",
+            "Score": 3.98992764931196E-50,
+            "Id": "PUBMED:26291516 26291516 26291516 26291516",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATP6V1G2",
+    "Id": "ID:534",
+    "Score": 2.39395658958717E-52,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Condition": "myositis",
+            "Hp": "0001977",
+            "Score": 2.39395658958717E-52,
+            "Id": "PUBMED:26291516",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DDX39B",
+    "Id": "ID:7919",
+    "Score": 1.19697829479359E-52,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Score": 1.19697829479359E-52,
+            "Hp": "0001977",
+            "Condition": "myositis",
+            "IdNote": "GWAS",
+            "Id": "PUBMED:26291516 26291516"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MICB",
+    "Id": "ID:4277",
+    "Score": 3.98992764931196E-53,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Score": 3.98992764931196E-53,
+            "Hp": "0001977",
+            "Condition": "myositis",
+            "IdNote": "GWAS",
+            "Id": "PUBMED:26291516 26291516 26291516 26291516"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HCG26",
+    "Id": "ID:352961",
+    "Score": 3.98992764931196E-53,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Id": "PUBMED:26291516 26291516 26291516 26291516",
+            "IdNote": "GWAS",
+            "Condition": "myositis",
+            "Hp": "0001977",
+            "Score": 3.98992764931196E-53
+          }
+        ]
+      }
+    ]
+  }
+]

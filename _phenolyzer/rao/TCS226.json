@@ -1,0 +1,1065 @@
+[
+  {
+    "Name": "TGFBR2",
+    "Id": "ID:7048",
+    "Score": 1,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "aortic aneurysm familial thoracic 6",
+            "Hp": "0002647",
+            "Id": "OMIM:611788",
+            "Score": 0.0229166666666666,
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:613780",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0229166666666666,
+            "Condition": "aortic aneurysm familial thoracic 7",
+            "Hp": "0002647"
+          },
+          {
+            "Hp": "0002647",
+            "Condition": "loeys dietz syndrome type 1",
+            "Score": 0.09375,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:609192"
+          },
+          {
+            "Id": "OMIM:613795",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.034375,
+            "Condition": "loeys dietz syndrome type 3",
+            "Hp": "0002647"
+          },
+          {
+            "Condition": "loeys dietz syndrome type 4",
+            "Hp": "0002647",
+            "Id": "OMIM:614816",
+            "Score": 0.034375,
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "loeys dietz syndrome type 1",
+            "Hp": "0002647",
+            "Id": "ORPHANET:60030",
+            "IdNote": "ORPHANET",
+            "Score": 0.375
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0002647",
+            "Condition": "Descending aortic dissection",
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012499"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGFBR1",
+    "Id": "ID:7046",
+    "Score": 1,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002647",
+            "Condition": "Descending aortic dissection",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.416666666666667,
+            "Id": "HP:0012499"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0002647",
+            "Condition": "loeys dietz syndrome type 1",
+            "Score": 0.375,
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:60030"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:611788",
+            "Score": 0.0229166666666666,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "aortic aneurysm familial thoracic 6",
+            "Hp": "0002647"
+          },
+          {
+            "Condition": "aortic aneurysm familial thoracic 7",
+            "Hp": "0002647",
+            "Id": "OMIM:613780",
+            "Score": 0.0229166666666666,
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "loeys dietz syndrome type 1",
+            "Hp": "0002647",
+            "Id": "OMIM:609192",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.09375
+          },
+          {
+            "Hp": "0002647",
+            "Condition": "loeys dietz syndrome type 3",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.034375,
+            "Id": "OMIM:613795"
+          },
+          {
+            "Score": 0.034375,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:614816",
+            "Hp": "0002647",
+            "Condition": "loeys dietz syndrome type 4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PLOD1",
+    "Id": "ID:5351",
+    "Score": 0.791666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002647",
+            "Condition": "Aortic dissection",
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002647"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "ehlers danlos syndrome type vi",
+            "Hp": "0002647",
+            "Id": "OMIM:225400",
+            "Score": 0.375,
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SMAD3",
+    "Id": "ID:4088",
+    "Score": 0.625,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0229166666666666,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611788",
+            "Hp": "0002647",
+            "Condition": "aortic aneurysm familial thoracic 6"
+          },
+          {
+            "Condition": "aortic aneurysm familial thoracic 7",
+            "Hp": "0002647",
+            "Id": "OMIM:613780",
+            "Score": 0.0229166666666666,
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "loeys dietz syndrome type 1",
+            "Hp": "0002647",
+            "Id": "OMIM:609192",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.09375
+          },
+          {
+            "Hp": "0002647",
+            "Condition": "loeys dietz syndrome type 3",
+            "Score": 0.034375,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:613795"
+          },
+          {
+            "Id": "OMIM:614816",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.034375,
+            "Condition": "loeys dietz syndrome type 4",
+            "Hp": "0002647"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0002647",
+            "Condition": "Descending aortic dissection",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.416666666666667,
+            "Id": "HP:0012499"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC2A10",
+    "Id": "ID:81031",
+    "Score": 0.608258928571428,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002647",
+            "Condition": "Aortic dissection",
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002647"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:3342",
+            "IdNote": "ORPHANET",
+            "Score": 0.178571428571429,
+            "Condition": "arterial tortuosity syndrome",
+            "Hp": "0002647"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.0130208333333333,
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:208050",
+            "Hp": "0002647",
+            "Condition": "arterial tortuosity syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGFB2",
+    "Id": "ID:7042",
+    "Score": 0.579166666666666,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.09375,
+            "Id": "OMIM:609192",
+            "Hp": "0002647",
+            "Condition": "loeys dietz syndrome type 1"
+          },
+          {
+            "Hp": "0002647",
+            "Condition": "loeys dietz syndrome type 3",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.034375,
+            "Id": "OMIM:613795"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.034375,
+            "Id": "OMIM:614816",
+            "Hp": "0002647",
+            "Condition": "loeys dietz syndrome type 4"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012499",
+            "Hp": "0002647",
+            "Condition": "Descending aortic dissection"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FBN1",
+    "Id": "ID:2200",
+    "Score": 0.4859375,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:611788",
+            "Score": 0.0229166666666666,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "aortic aneurysm familial thoracic 6",
+            "Hp": "0002647"
+          },
+          {
+            "Condition": "aortic aneurysm familial thoracic 7",
+            "Hp": "0002647",
+            "Id": "OMIM:613780",
+            "Score": 0.0229166666666666,
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:154700",
+            "Score": 0.0078125,
+            "IdNote": "CLINVAR",
+            "Condition": "marfan syndrome",
+            "Hp": "0002647"
+          },
+          {
+            "Condition": "marfan syndrome",
+            "Hp": "0002647",
+            "Id": "OMIM:154700",
+            "Score": 0.015625,
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Descending aortic dissection",
+            "Hp": "0002647",
+            "Id": "HP:0012499",
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYLK",
+    "Id": "ID:4638",
+    "Score": 0.471093749999999,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Descending aortic dissection",
+            "Hp": "0002647",
+            "Id": "HP:0012499",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.416666666666667
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0002647",
+            "Condition": "aortic aneurysm familial thoracic 6",
+            "Score": 0.0229166666666666,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:611788"
+          },
+          {
+            "Id": "OMIM:613780",
+            "Score": 0.00859374999999999,
+            "IdNote": "CLINVAR",
+            "Condition": "aortic aneurysm familial thoracic 7",
+            "Hp": "0002647"
+          },
+          {
+            "Id": "OMIM:613780",
+            "Score": 0.0229166666666666,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "aortic aneurysm familial thoracic 7",
+            "Hp": "0002647"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACTA2",
+    "Id": "ID:59",
+    "Score": 0.471093749999999,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Descending aortic dissection",
+            "Hp": "0002647",
+            "Id": "HP:0012499",
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "aortic aneurysm familial thoracic 6",
+            "Hp": "0002647",
+            "Id": "OMIM:611788",
+            "Score": 0.00859374999999999,
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Condition": "aortic aneurysm familial thoracic 6",
+            "Hp": "0002647",
+            "Id": "OMIM:611788",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0229166666666666
+          },
+          {
+            "Score": 0.0229166666666666,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:613780",
+            "Hp": "0002647",
+            "Condition": "aortic aneurysm familial thoracic 7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYH11",
+    "Id": "ID:4629",
+    "Score": 0.4625,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002647",
+            "Condition": "Descending aortic dissection",
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012499"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:611788",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0229166666666666,
+            "Condition": "aortic aneurysm familial thoracic 6",
+            "Hp": "0002647"
+          },
+          {
+            "Hp": "0002647",
+            "Condition": "aortic aneurysm familial thoracic 7",
+            "Score": 0.0229166666666666,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:613780"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SMAD6",
+    "Id": "ID:4091",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0004933",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.416666666666667,
+            "Condition": "Ascending aortic dissection",
+            "Hp": "0002647"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PTPN22",
+    "Id": "ID:26191",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002647",
+            "Condition": "Aortic dissection",
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002647"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRKG1",
+    "Id": "ID:5592",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012499",
+            "Hp": "0002647",
+            "Condition": "Descending aortic dissection"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ELN",
+    "Id": "ID:2006",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.416666666666667,
+            "Id": "HP:0012499",
+            "Hp": "0002647",
+            "Condition": "Descending aortic dissection"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGFBR3",
+    "Id": "ID:7049",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002647",
+            "Condition": "Aortic dissection",
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002647"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COX1",
+    "Id": "ID:8923218",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002647",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.416666666666667,
+            "Condition": "Aortic dissection",
+            "Hp": "0002647"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MFAP5",
+    "Id": "ID:8076",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002647",
+            "Condition": "Descending aortic dissection",
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012499"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND5",
+    "Id": "ID:8923210",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.416666666666667,
+            "Id": "HP:0002647",
+            "Hp": "0002647",
+            "Condition": "Aortic dissection"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ANGPTL6",
+    "Id": "ID:83854",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Aortic dissection",
+            "Hp": "0002647",
+            "Id": "HP:0002647",
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL1A1",
+    "Id": "ID:1277",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.416666666666667,
+            "Id": "HP:0002647",
+            "Hp": "0002647",
+            "Condition": "Aortic dissection"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COX3",
+    "Id": "ID:8923187",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Aortic dissection",
+            "Hp": "0002647",
+            "Id": "HP:0002647",
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND1",
+    "Id": "ID:8923209",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002647",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.416666666666667,
+            "Condition": "Aortic dissection",
+            "Hp": "0002647"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NKX2-5",
+    "Id": "ID:1482",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Ascending aortic dissection",
+            "Hp": "0002647",
+            "Id": "HP:0004933",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.416666666666667
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ENG",
+    "Id": "ID:2022",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002647",
+            "Condition": "Aortic dissection",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.416666666666667,
+            "Id": "HP:0002647"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND6",
+    "Id": "ID:8923198",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002647",
+            "Condition": "Aortic dissection",
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002647"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL3A1",
+    "Id": "ID:1281",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002647",
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Aortic dissection",
+            "Hp": "0002647"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL5A1",
+    "Id": "ID:1289",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002647",
+            "Hp": "0002647",
+            "Condition": "Aortic dissection"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FOXE3",
+    "Id": "ID:2301",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012499",
+            "Hp": "0002647",
+            "Condition": "Descending aortic dissection"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL5A2",
+    "Id": "ID:1290",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002647",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.416666666666667,
+            "Condition": "Aortic dissection",
+            "Hp": "0002647"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LOX",
+    "Id": "ID:4015",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Descending aortic dissection",
+            "Hp": "0002647",
+            "Id": "HP:0012499",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.416666666666667
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GATA5",
+    "Id": "ID:140628",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002647",
+            "Condition": "Ascending aortic dissection",
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004933"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNW",
+    "Id": "ID:8923194",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002647",
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Aortic dissection",
+            "Hp": "0002647"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND4",
+    "Id": "ID:8923197",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002647",
+            "Hp": "0002647",
+            "Condition": "Aortic dissection"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNH",
+    "Id": "ID:8923196",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002647",
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Aortic dissection",
+            "Hp": "0002647"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNS1",
+    "Id": "ID:4574",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.416666666666667,
+            "Id": "HP:0002647",
+            "Hp": "0002647",
+            "Condition": "Aortic dissection"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNF",
+    "Id": "ID:8923184",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002647",
+            "Condition": "Aortic dissection",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.416666666666667,
+            "Id": "HP:0002647"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNL1",
+    "Id": "ID:4567",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Aortic dissection",
+            "Hp": "0002647",
+            "Id": "HP:0002647",
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COX2",
+    "Id": "ID:8923202",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002647",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.416666666666667,
+            "Condition": "Aortic dissection",
+            "Hp": "0002647"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNS2",
+    "Id": "ID:4575",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Aortic dissection",
+            "Hp": "0002647",
+            "Id": "HP:0002647",
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NOTCH1",
+    "Id": "ID:4851",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.416666666666667,
+            "Id": "HP:0004933",
+            "Hp": "0002647",
+            "Condition": "Ascending aortic dissection"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNQ",
+    "Id": "ID:8923208",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002647",
+            "Condition": "Aortic dissection",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.416666666666667,
+            "Id": "HP:0002647"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BGN",
+    "Id": "ID:633",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Aortic dissection",
+            "Hp": "0002647",
+            "Id": "HP:0002647",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.416666666666667
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGFB3",
+    "Id": "ID:7043",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002647",
+            "Condition": "Descending aortic dissection",
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012499"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SMAD4",
+    "Id": "ID:4089",
+    "Score": 0.416666666666667,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002647",
+            "Score": 0.416666666666667,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Aortic dissection",
+            "Hp": "0002647"
+          }
+        ]
+      }
+    ]
+  }
+]

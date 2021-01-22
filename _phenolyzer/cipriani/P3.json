@@ -1,0 +1,240 @@
+[
+  {
+    "Name": "OPN1SW",
+    "Id": "ID:611",
+    "Score": 1,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "tritanopia",
+            "Id": "OMIM:190900",
+            "Score": 0.0158230015754504,
+            "Hp": "0008275",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:88629",
+            "Condition": "tritanopia",
+            "IdNote": "ORPHANET",
+            "Score": 0.217001164463319,
+            "Hp": "0008275"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0008275",
+            "Condition": "Abnormal light-adapted electroretinogram",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0008275",
+            "Score": 0.767175833961231
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CNGA3",
+    "Id": "ID:1261",
+    "Score": 0.147377674269927,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:216900",
+            "Condition": "achromatopsia 2",
+            "IdNote": "CLINVAR",
+            "Score": 0.00263716692924173,
+            "Hp": "0011516"
+          },
+          {
+            "Id": "OMIM:216900",
+            "Condition": "achromatopsia 2",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00843893417357354,
+            "Hp": "0011516"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00843893417357354,
+            "Hp": "0011516",
+            "Id": "OMIM:613856",
+            "Condition": "achromatopsia 4"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0011516",
+            "Condition": "Achromatopsia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0011516",
+            "Score": 0.127862638993538
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GNAT2",
+    "Id": "ID:2780",
+    "Score": 0.147377674269927,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "achromatopsia 2",
+            "Id": "OMIM:216900",
+            "Hp": "0011516",
+            "Score": 0.00843893417357354,
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "achromatopsia 4",
+            "Id": "OMIM:613856",
+            "Hp": "0011516",
+            "Score": 0.00263716692924173,
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Condition": "achromatopsia 4",
+            "Id": "OMIM:613856",
+            "Hp": "0011516",
+            "Score": 0.00843893417357354,
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0011516",
+            "Condition": "Achromatopsia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.127862638993538,
+            "Hp": "0011516"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CNGB3",
+    "Id": "ID:54714",
+    "Score": 0.144740507340685,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00843893417357354,
+            "Hp": "0011516",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "achromatopsia 2",
+            "Id": "OMIM:216900"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0011516",
+            "Score": 0.00843893417357354,
+            "Id": "OMIM:613856",
+            "Condition": "achromatopsia 4"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0011516",
+            "Condition": "Achromatopsia",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0011516",
+            "Score": 0.127862638993538
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATF6",
+    "Id": "ID:22926",
+    "Score": 0.127862638993538,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Achromatopsia",
+            "Id": "HP:0011516",
+            "Score": 0.127862638993538,
+            "Hp": "0011516",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NBAS",
+    "Id": "ID:51594",
+    "Score": 0.127862638993538,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0011516",
+            "Score": 0.127862638993538,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Achromatopsia",
+            "Id": "HP:0011516"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDE6H",
+    "Id": "ID:5149",
+    "Score": 0.0168778683471471,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:216900",
+            "Condition": "achromatopsia 2",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00843893417357354,
+            "Hp": "0011516"
+          },
+          {
+            "Id": "OMIM:613856",
+            "Condition": "achromatopsia 4",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00843893417357354,
+            "Hp": "0011516"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDE6C",
+    "Id": "ID:5146",
+    "Score": 0.0168778683471471,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00843893417357354,
+            "Hp": "0011516",
+            "Id": "OMIM:216900",
+            "Condition": "achromatopsia 2"
+          },
+          {
+            "Id": "OMIM:613856",
+            "Condition": "achromatopsia 4",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0011516",
+            "Score": 0.00843893417357354
+          }
+        ]
+      }
+    ]
+  }
+]

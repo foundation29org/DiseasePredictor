@@ -1,0 +1,470 @@
+[
+  {
+    "Name": "TYR",
+    "Id": "ID:7299",
+    "Score": 1,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:203100",
+            "Hp": "0007750",
+            "Condition": "albinism oculocutaneous type ia",
+            "Score": 0.141630901287554
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.858369098712446,
+            "Hp": "0007750",
+            "Condition": "Hypoplasia of the fovea",
+            "Id": "HP:0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PAX6",
+    "Id": "ID:5080",
+    "Score": 0.952789699570815,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0007750",
+            "Condition": "aniridia",
+            "Score": 0.0944206008583691,
+            "Id": "OMIM:106210",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.858369098712446,
+            "Hp": "0007750",
+            "Condition": "Hypoplasia of the fovea"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "OCA2",
+    "Id": "ID:4948",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hypoplasia of the fovea",
+            "Hp": "0007750",
+            "Score": 0.858369098712446,
+            "Id": "HP:0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HPS5",
+    "Id": "ID:11234",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007750",
+            "Hp": "0007750",
+            "Condition": "Hypoplasia of the fovea",
+            "Score": 0.858369098712446
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HPS4",
+    "Id": "ID:89781",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypoplasia of the fovea",
+            "Hp": "0007750",
+            "Score": 0.858369098712446
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDE6H",
+    "Id": "ID:5149",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.858369098712446,
+            "Condition": "Hypoplasia of the fovea",
+            "Hp": "0007750"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MITF",
+    "Id": "ID:4286",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.858369098712446,
+            "Condition": "Hypoplasia of the fovea",
+            "Hp": "0007750"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BLOC1S3",
+    "Id": "ID:388552",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hypoplasia of the fovea",
+            "Hp": "0007750",
+            "Score": 0.858369098712446,
+            "Id": "HP:0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GNAT2",
+    "Id": "ID:2780",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.858369098712446,
+            "Hp": "0007750",
+            "Condition": "Hypoplasia of the fovea",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007750"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ELP4",
+    "Id": "ID:26610",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.858369098712446,
+            "Hp": "0007750",
+            "Condition": "Hypoplasia of the fovea",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007750"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RPGR",
+    "Id": "ID:6103",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.858369098712446,
+            "Condition": "Hypoplasia of the fovea",
+            "Hp": "0007750"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CACNA1F",
+    "Id": "ID:778",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.858369098712446,
+            "Condition": "Hypoplasia of the fovea",
+            "Hp": "0007750",
+            "Id": "HP:0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC38A8",
+    "Id": "ID:146167",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Hypoplasia of the fovea",
+            "Hp": "0007750",
+            "Score": 0.858369098712446,
+            "Id": "HP:0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PDE6C",
+    "Id": "ID:5146",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007750",
+            "Hp": "0007750",
+            "Condition": "Hypoplasia of the fovea",
+            "Score": 0.858369098712446
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CNGA3",
+    "Id": "ID:1261",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.858369098712446,
+            "Condition": "Hypoplasia of the fovea",
+            "Hp": "0007750",
+            "Id": "HP:0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GPR143",
+    "Id": "ID:4935",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.858369098712446,
+            "Condition": "Hypoplasia of the fovea",
+            "Hp": "0007750",
+            "Id": "HP:0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IKBKG",
+    "Id": "ID:8517",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.858369098712446,
+            "Condition": "Hypoplasia of the fovea",
+            "Hp": "0007750",
+            "Id": "HP:0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATF6",
+    "Id": "ID:22926",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007750",
+            "Condition": "Hypoplasia of the fovea",
+            "Score": 0.858369098712446,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007750"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GDF6",
+    "Id": "ID:392255",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007750",
+            "Hp": "0007750",
+            "Condition": "Hypoplasia of the fovea",
+            "Score": 0.858369098712446
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC24A5",
+    "Id": "ID:283652",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007750",
+            "Hp": "0007750",
+            "Condition": "Hypoplasia of the fovea",
+            "Score": 0.858369098712446
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "C8ORF37",
+    "Id": "ID:157657",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypoplasia of the fovea",
+            "Hp": "0007750",
+            "Score": 0.858369098712446
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CNGB3",
+    "Id": "ID:54714",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007750",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Hypoplasia of the fovea",
+            "Hp": "0007750",
+            "Score": 0.858369098712446
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WT1",
+    "Id": "ID:7490",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.858369098712446,
+            "Hp": "0007750",
+            "Condition": "Hypoplasia of the fovea",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007750"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC45A2",
+    "Id": "ID:51151",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.858369098712446,
+            "Hp": "0007750",
+            "Condition": "Hypoplasia of the fovea",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007750"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GDF3",
+    "Id": "ID:9573",
+    "Score": 0.858369098712446,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0007750",
+            "Condition": "Hypoplasia of the fovea",
+            "Score": 0.858369098712446,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007750"
+          }
+        ]
+      }
+    ]
+  }
+]

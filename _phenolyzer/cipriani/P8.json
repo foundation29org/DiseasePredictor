@@ -1,0 +1,1158 @@
+[
+  {
+    "Name": "CHD7",
+    "Id": "ID:55636",
+    "Score": 1,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.406976744186047,
+            "Hp": "0000480",
+            "Id": "HP:0000480",
+            "Condition": "Retinal coloboma"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.345930232558139,
+            "Hp": "0000480",
+            "Condition": "charge syndrome",
+            "Id": "OMIM:214800"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:138",
+            "Condition": "charge syndrome",
+            "Hp": "0000480",
+            "Score": 0.247093023255814,
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SEMA3E",
+    "Id": "ID:9723",
+    "Score": 0.703488372093023,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Retinal coloboma",
+            "Id": "HP:0000480",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000480",
+            "Score": 0.406976744186047
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:138",
+            "Condition": "charge syndrome",
+            "IdNote": "ORPHANET",
+            "Hp": "0000480",
+            "Score": 0.296511627906975
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PAX2",
+    "Id": "ID:5076",
+    "Score": 0.653997093023255,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:1475",
+            "Condition": "renal coloboma syndrome",
+            "Hp": "0000480",
+            "Score": 0.0959302325581395,
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "papillorenal syndrome",
+            "Id": "OMIM:120330",
+            "Score": 0.134302325581395,
+            "Hp": "0000480",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Hp": "0000480",
+            "Score": 0.0167877906976744,
+            "IdNote": "CLINVAR",
+            "Condition": "renal coloboma syndrome",
+            "Id": "OMIM:120330"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Retinal coloboma",
+            "Id": "HP:0000480",
+            "Score": 0.406976744186047,
+            "Hp": "0000480",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SALL4",
+    "Id": "ID:57167",
+    "Score": 0.558066860465115,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0167877906976744,
+            "Hp": "0000480",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:607323",
+            "Condition": "duane radial ray syndrome"
+          },
+          {
+            "Condition": "duane radial ray syndrome",
+            "Id": "OMIM:607323",
+            "Hp": "0000480",
+            "Score": 0.134302325581395,
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.406976744186047,
+            "Hp": "0000480",
+            "Condition": "Retinal coloboma",
+            "Id": "HP:0000480"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TFAP2A",
+    "Id": "ID:7020",
+    "Score": 0.549672965116279,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "branchiooculofacial syndrome",
+            "Id": "OMIM:113620",
+            "IdNote": "CLINVAR",
+            "Hp": "0000480",
+            "Score": 0.00839389534883719
+          },
+          {
+            "Score": 0.134302325581395,
+            "Hp": "0000480",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:113620",
+            "Condition": "branchiooculofacial syndrome"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Retinal coloboma",
+            "Id": "HP:0000480",
+            "Hp": "0000480",
+            "Score": 0.406976744186047,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CEP290",
+    "Id": "ID:80184",
+    "Score": 0.433162827966607,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Retinal coloboma",
+            "Id": "HP:0000480",
+            "Hp": "0000480",
+            "Score": 0.406976744186047,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Score": 0.00839389534883719,
+            "Hp": "0000480",
+            "Condition": "joubert syndrome 5",
+            "Id": "OMIM:610188"
+          },
+          {
+            "Hp": "0000480",
+            "Score": 0.00746124031007755,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610188",
+            "Condition": "joubert syndrome 5"
+          },
+          {
+            "Condition": "leber congenital amaurosis 9",
+            "Id": "OMIM:608553",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000480",
+            "Score": 0.0103309481216458
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NMNAT1",
+    "Id": "ID:64802",
+    "Score": 0.425701587656528,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001116",
+            "Condition": "Macular coloboma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.406976744186047,
+            "Hp": "0000480"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.00839389534883719,
+            "Hp": "0000480",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:608553",
+            "Condition": "leber congenital amaurosis 9"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0103309481216458,
+            "Hp": "0000480",
+            "Condition": "leber congenital amaurosis 9",
+            "Id": "OMIM:608553"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PIGL",
+    "Id": "ID:9487",
+    "Score": 0.415370639534883,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000480",
+            "Condition": "Retinal coloboma",
+            "Score": 0.406976744186047,
+            "Hp": "0000480",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "zunich neuroectodermal syndrome",
+            "Id": "OMIM:280000",
+            "Hp": "0000480",
+            "Score": 0.00839389534883719,
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "INPP5E",
+    "Id": "ID:56623",
+    "Score": 0.414437984496124,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000480",
+            "Score": 0.406976744186047,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Retinal coloboma",
+            "Id": "HP:0000480"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000480",
+            "Score": 0.00746124031007755,
+            "Condition": "joubert syndrome 5",
+            "Id": "OMIM:610188"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AHI1",
+    "Id": "ID:54806",
+    "Score": 0.414437984496124,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "joubert syndrome 5",
+            "Id": "OMIM:610188",
+            "Hp": "0000480",
+            "Score": 0.00746124031007755,
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0000480",
+            "Score": 0.406976744186047,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Retinal coloboma",
+            "Id": "HP:0000480"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CEP41",
+    "Id": "ID:95681",
+    "Score": 0.414437984496124,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000480",
+            "Score": 0.00746124031007755,
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610188",
+            "Condition": "joubert syndrome 5"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Retinal coloboma",
+            "Id": "HP:0000480",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.406976744186047,
+            "Hp": "0000480"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAB3GAP2",
+    "Id": "ID:25782",
+    "Score": 0.406976744186047,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000480",
+            "Condition": "Retinal coloboma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.406976744186047,
+            "Hp": "0000480"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAB18",
+    "Id": "ID:22931",
+    "Score": 0.406976744186047,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000480",
+            "Score": 0.406976744186047,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Retinal coloboma",
+            "Id": "HP:0000480"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TBC1D20",
+    "Id": "ID:128637",
+    "Score": 0.406976744186047,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000480",
+            "Condition": "Retinal coloboma",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.406976744186047,
+            "Hp": "0000480"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KIAA0586",
+    "Id": "ID:9786",
+    "Score": 0.406976744186047,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.406976744186047,
+            "Hp": "0000480",
+            "Id": "HP:0000480",
+            "Condition": "Retinal coloboma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MKS1",
+    "Id": "ID:54903",
+    "Score": 0.406976744186047,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Retinal coloboma",
+            "Id": "HP:0000480",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000480",
+            "Score": 0.406976744186047
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FGF3",
+    "Id": "ID:2248",
+    "Score": 0.406976744186047,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000480",
+            "Condition": "Retinal coloboma",
+            "Score": 0.406976744186047,
+            "Hp": "0000480",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CEP120",
+    "Id": "ID:153241",
+    "Score": 0.406976744186047,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Retinal coloboma",
+            "Id": "HP:0000480",
+            "Hp": "0000480",
+            "Score": 0.406976744186047,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAB3GAP1",
+    "Id": "ID:22930",
+    "Score": 0.406976744186047,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.406976744186047,
+            "Hp": "0000480",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000480",
+            "Condition": "Retinal coloboma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CLDN19",
+    "Id": "ID:149461",
+    "Score": 0.406976744186047,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Macular coloboma",
+            "Id": "HP:0001116",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000480",
+            "Score": 0.406976744186047
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "B3GALTL",
+    "Id": "ID:145173",
+    "Score": 0.24702034883721,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0000480",
+            "Score": 0.0959302325581395,
+            "IdNote": "ORPHANET",
+            "Condition": "peters plus syndrome",
+            "Id": "ORPHANET:709"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0000480",
+            "Score": 0.0167877906976744,
+            "Condition": "peters plus syndrome",
+            "Id": "OMIM:261540"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000480",
+            "Score": 0.134302325581395,
+            "Id": "OMIM:261540",
+            "Condition": "peters plus syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LTBP4",
+    "Id": "ID:8425",
+    "Score": 0.0280704941860466,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "cutis laxa",
+            "Id": "OMIM:613177",
+            "Score": 0.00190770348837209,
+            "Hp": "0000480",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "cutis laxa",
+            "Id": "ORPHANET:221145",
+            "IdNote": "ORPHANET",
+            "Hp": "0000480",
+            "Score": 0.0261627906976744
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IMPDH1",
+    "Id": "ID:3614",
+    "Score": 0.0103309481216458,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0103309481216458,
+            "Hp": "0000480",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:608553",
+            "Condition": "leber congenital amaurosis 9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RD3",
+    "Id": "ID:343035",
+    "Score": 0.0103309481216458,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "leber congenital amaurosis 9",
+            "Id": "OMIM:608553",
+            "Hp": "0000480",
+            "Score": 0.0103309481216458,
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CRB1",
+    "Id": "ID:23418",
+    "Score": 0.0103309481216458,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:608553",
+            "Condition": "leber congenital amaurosis 9",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0103309481216458,
+            "Hp": "0000480"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TULP1",
+    "Id": "ID:7287",
+    "Score": 0.0103309481216458,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0103309481216458,
+            "Hp": "0000480",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:608553",
+            "Condition": "leber congenital amaurosis 9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNJ13",
+    "Id": "ID:3769",
+    "Score": 0.0103309481216458,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:608553",
+            "Condition": "leber congenital amaurosis 9",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0103309481216458,
+            "Hp": "0000480"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GUCY2D",
+    "Id": "ID:3000",
+    "Score": 0.0103309481216458,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "leber congenital amaurosis 9",
+            "Id": "OMIM:608553",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000480",
+            "Score": 0.0103309481216458
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LCA5",
+    "Id": "ID:167691",
+    "Score": 0.0103309481216458,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0103309481216458,
+            "Hp": "0000480",
+            "Id": "OMIM:608553",
+            "Condition": "leber congenital amaurosis 9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RPE65",
+    "Id": "ID:6121",
+    "Score": 0.0103309481216458,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0103309481216458,
+            "Hp": "0000480",
+            "Id": "OMIM:608553",
+            "Condition": "leber congenital amaurosis 9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IQCB1",
+    "Id": "ID:9657",
+    "Score": 0.0103309481216458,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:608553",
+            "Condition": "leber congenital amaurosis 9",
+            "Score": 0.0103309481216458,
+            "Hp": "0000480",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SPATA7",
+    "Id": "ID:55812",
+    "Score": 0.0103309481216458,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "leber congenital amaurosis 9",
+            "Id": "OMIM:608553",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000480",
+            "Score": 0.0103309481216458
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AIPL1",
+    "Id": "ID:23746",
+    "Score": 0.0103309481216458,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0103309481216458,
+            "Hp": "0000480",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:608553",
+            "Condition": "leber congenital amaurosis 9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RPGRIP1",
+    "Id": "ID:57096",
+    "Score": 0.0103309481216458,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0103309481216458,
+            "Hp": "0000480",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:608553",
+            "Condition": "leber congenital amaurosis 9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LRAT",
+    "Id": "ID:9227",
+    "Score": 0.0103309481216458,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "leber congenital amaurosis 9",
+            "Id": "OMIM:608553",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000480",
+            "Score": 0.0103309481216458
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RDH12",
+    "Id": "ID:145226",
+    "Score": 0.0103309481216458,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000480",
+            "Score": 0.0103309481216458,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "leber congenital amaurosis 9",
+            "Id": "OMIM:608553"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CRX",
+    "Id": "ID:1406",
+    "Score": 0.0103309481216458,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:608553",
+            "Condition": "leber congenital amaurosis 9",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0103309481216458,
+            "Hp": "0000480"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "C5ORF42",
+    "Id": "ID:65250",
+    "Score": 0.00746124031007753,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000480",
+            "Score": 0.00746124031007755,
+            "Condition": "joubert syndrome 5",
+            "Id": "OMIM:610188"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CC2D2A",
+    "Id": "ID:57545",
+    "Score": 0.00746124031007753,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000480",
+            "Score": 0.00746124031007755,
+            "Condition": "joubert syndrome 5",
+            "Id": "OMIM:610188"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM216",
+    "Id": "ID:51259",
+    "Score": 0.00746124031007753,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "joubert syndrome 5",
+            "Id": "OMIM:610188",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000480",
+            "Score": 0.00746124031007755
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM231",
+    "Id": "ID:79583",
+    "Score": 0.00746124031007753,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00746124031007755,
+            "Hp": "0000480",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610188",
+            "Condition": "joubert syndrome 5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TTC21B",
+    "Id": "ID:79809",
+    "Score": 0.00746124031007753,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "joubert syndrome 5",
+            "Id": "OMIM:610188",
+            "Hp": "0000480",
+            "Score": 0.00746124031007755,
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ARL13B",
+    "Id": "ID:200894",
+    "Score": 0.00746124031007753,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:610188",
+            "Condition": "joubert syndrome 5",
+            "Score": 0.00746124031007755,
+            "Hp": "0000480",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TCTN3",
+    "Id": "ID:26123",
+    "Score": 0.00746124031007753,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000480",
+            "Score": 0.00746124031007755,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "joubert syndrome 5",
+            "Id": "OMIM:610188"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "OFD1",
+    "Id": "ID:8481",
+    "Score": 0.00746124031007753,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000480",
+            "Score": 0.00746124031007755,
+            "Condition": "joubert syndrome 5",
+            "Id": "OMIM:610188"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RPGRIP1L",
+    "Id": "ID:23322",
+    "Score": 0.00746124031007753,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000480",
+            "Score": 0.00746124031007755,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "joubert syndrome 5",
+            "Id": "OMIM:610188"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TCTN2",
+    "Id": "ID:79867",
+    "Score": 0.00746124031007753,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000480",
+            "Score": 0.00746124031007755,
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "joubert syndrome 5",
+            "Id": "OMIM:610188"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TCTN1",
+    "Id": "ID:79600",
+    "Score": 0.00746124031007753,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "joubert syndrome 5",
+            "Id": "OMIM:610188",
+            "Hp": "0000480",
+            "Score": 0.00746124031007755,
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM237",
+    "Id": "ID:65062",
+    "Score": 0.00746124031007753,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00746124031007755,
+            "Hp": "0000480",
+            "Id": "OMIM:610188",
+            "Condition": "joubert syndrome 5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM138",
+    "Id": "ID:51524",
+    "Score": 0.00746124031007753,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "joubert syndrome 5",
+            "Id": "OMIM:610188",
+            "Hp": "0000480",
+            "Score": 0.00746124031007755,
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NPHP1",
+    "Id": "ID:4867",
+    "Score": 0.00746124031007753,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00746124031007755,
+            "Hp": "0000480",
+            "Id": "OMIM:610188",
+            "Condition": "joubert syndrome 5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM67",
+    "Id": "ID:91147",
+    "Score": 0.00746124031007753,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00746124031007755,
+            "Hp": "0000480",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610188",
+            "Condition": "joubert syndrome 5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KIF7",
+    "Id": "ID:374654",
+    "Score": 0.00746124031007753,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:610188",
+            "Condition": "joubert syndrome 5",
+            "Score": 0.00746124031007755,
+            "Hp": "0000480",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATP6V0A2",
+    "Id": "ID:23545",
+    "Score": 0.00190770348837209,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "cutis laxa",
+            "Id": "OMIM:219200",
+            "IdNote": "CLINVAR",
+            "Hp": "0000480",
+            "Score": 0.00190770348837209
+          }
+        ]
+      }
+    ]
+  }
+]

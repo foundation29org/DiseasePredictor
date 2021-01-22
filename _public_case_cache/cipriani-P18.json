@@ -1,0 +1,613 @@
+{
+  "query": {
+    "HP:0000548": {
+      "id": "HP:0000548",
+      "status": "ok",
+      "target": [
+        "HP:0000548"
+      ]
+    }
+  },
+  "response": {
+    "SLC19A2": {
+      "rank": 1,
+      "id": 10560,
+      "score": 1.0,
+      "status": "SeedGene"
+    },
+    "ALMS1": {
+      "rank": 2,
+      "id": 7840,
+      "score": 0.6614,
+      "status": "SeedGene"
+    },
+    "CNNM4": {
+      "rank": 3,
+      "id": 26504,
+      "score": 0.4704,
+      "status": "SeedGene"
+    },
+    "CRX": {
+      "rank": 4,
+      "id": 1406,
+      "score": 0.2023,
+      "status": "SeedGene"
+    },
+    "RPGR": {
+      "rank": 5,
+      "id": 6103,
+      "score": 0.1932,
+      "status": "SeedGene"
+    },
+    "ABCA4": {
+      "rank": 6,
+      "id": 24,
+      "score": 0.1918,
+      "status": "SeedGene"
+    },
+    "SEMA4A": {
+      "rank": 7,
+      "id": 64218,
+      "score": 0.1879,
+      "status": "SeedGene"
+    },
+    "PROM1": {
+      "rank": 8,
+      "id": 8842,
+      "score": 0.1879,
+      "status": "SeedGene"
+    },
+    "RAX2": {
+      "rank": 9,
+      "id": 84839,
+      "score": 0.184,
+      "status": "SeedGene"
+    },
+    "GUCY2D": {
+      "rank": 10,
+      "id": 3000,
+      "score": 0.1783,
+      "status": "SeedGene"
+    },
+    "PDE6H": {
+      "rank": 11,
+      "id": 5149,
+      "score": 0.1765,
+      "status": "SeedGene"
+    },
+    "ADAM9": {
+      "rank": 12,
+      "id": 8754,
+      "score": 0.169,
+      "status": "SeedGene"
+    },
+    "AIPL1": {
+      "rank": 13,
+      "id": 23746,
+      "score": 0.159,
+      "status": "SeedGene"
+    },
+    "C8ORF37": {
+      "rank": 14,
+      "id": 157657,
+      "score": 0.159,
+      "status": "SeedGene"
+    },
+    "GUCA1A": {
+      "rank": 15,
+      "id": 2978,
+      "score": 0.1499,
+      "status": "SeedGene"
+    },
+    "PDE6C": {
+      "rank": 16,
+      "id": 5146,
+      "score": 0.1484,
+      "status": "SeedGene"
+    },
+    "RPGRIP1": {
+      "rank": 17,
+      "id": 57096,
+      "score": 0.1472,
+      "status": "SeedGene"
+    },
+    "CACNA1F": {
+      "rank": 18,
+      "id": 778,
+      "score": 0.1454,
+      "status": "SeedGene"
+    },
+    "CACNA2D4": {
+      "rank": 19,
+      "id": 93589,
+      "score": 0.1441,
+      "status": "SeedGene"
+    },
+    "PCYT1A": {
+      "rank": 20,
+      "id": 5130,
+      "score": 0.144,
+      "status": "SeedGene"
+    },
+    "PITPNM3": {
+      "rank": 21,
+      "id": 83394,
+      "score": 0.1439,
+      "status": "SeedGene"
+    },
+    "LZTFL1": {
+      "rank": 22,
+      "id": 54585,
+      "score": 0.1438,
+      "status": "SeedGene"
+    },
+    "RIMS1": {
+      "rank": 23,
+      "id": 22999,
+      "score": 0.1416,
+      "status": "SeedGene"
+    },
+    "ATXN7": {
+      "rank": 24,
+      "id": 6314,
+      "score": 0.1413,
+      "status": "SeedGene"
+    },
+    "NGLY1": {
+      "rank": 25,
+      "id": 55768,
+      "score": 0.1407,
+      "status": "SeedGene"
+    },
+    "KCNV2": {
+      "rank": 26,
+      "id": 169522,
+      "score": 0.1406,
+      "status": "SeedGene"
+    },
+    "POC1B": {
+      "rank": 27,
+      "id": 282809,
+      "score": 0.1401,
+      "status": "SeedGene"
+    },
+    "RAB28": {
+      "rank": 28,
+      "id": 9364,
+      "score": 0.1401,
+      "status": "SeedGene"
+    },
+    "CDHR1": {
+      "rank": 29,
+      "id": 92211,
+      "score": 0.1401,
+      "status": "SeedGene"
+    },
+    "TTLL5": {
+      "rank": 30,
+      "id": 23093,
+      "score": 0.1401,
+      "status": "SeedGene"
+    },
+    "CNGB1": {
+      "rank": 31,
+      "id": 1258,
+      "score": 0.0413,
+      "status": "SeedGene"
+    },
+    "PDE6B": {
+      "rank": 32,
+      "id": 5158,
+      "score": 0.0328,
+      "status": "SeedGene"
+    },
+    "PDE6A": {
+      "rank": 33,
+      "id": 5145,
+      "score": 0.0328,
+      "status": "SeedGene"
+    },
+    "PDE6G": {
+      "rank": 34,
+      "id": 5148,
+      "score": 0.0328,
+      "status": "SeedGene"
+    },
+    "LRAT": {
+      "rank": 35,
+      "id": 9227,
+      "score": 0.0321,
+      "status": "SeedGene"
+    },
+    "GUCA1B": {
+      "rank": 36,
+      "id": 2979,
+      "score": 0.0309,
+      "status": "SeedGene"
+    },
+    "SLC5A6": {
+      "rank": 37,
+      "id": 8884,
+      "score": 0.0301,
+      "status": "Predicted"
+    },
+    "SLC46A1": {
+      "rank": 38,
+      "id": 113235,
+      "score": 0.0301,
+      "status": "Predicted"
+    },
+    "SLC25A10": {
+      "rank": 39,
+      "id": 1468,
+      "score": 0.0298,
+      "status": "Predicted"
+    },
+    "SLC19A3": {
+      "rank": 40,
+      "id": 80704,
+      "score": 0.0296,
+      "status": "Predicted"
+    },
+    "SLC52A3": {
+      "rank": 41,
+      "id": 113278,
+      "score": 0.0296,
+      "status": "Predicted"
+    },
+    "SLC19A1": {
+      "rank": 42,
+      "id": 6573,
+      "score": 0.0296,
+      "status": "Predicted"
+    },
+    "SLC23A1": {
+      "rank": 43,
+      "id": 9963,
+      "score": 0.0296,
+      "status": "Predicted"
+    },
+    "RHO": {
+      "rank": 44,
+      "id": 6010,
+      "score": 0.0286,
+      "status": "SeedGene"
+    },
+    "SLC25A19": {
+      "rank": 45,
+      "id": 60386,
+      "score": 0.0283,
+      "status": "Predicted"
+    },
+    "SLC25A4": {
+      "rank": 46,
+      "id": 291,
+      "score": 0.0282,
+      "status": "Predicted"
+    },
+    "SLC24A1": {
+      "rank": 47,
+      "id": 9187,
+      "score": 0.0282,
+      "status": "Predicted"
+    },
+    "SLC9A1": {
+      "rank": 48,
+      "id": 6548,
+      "score": 0.028,
+      "status": "Predicted"
+    },
+    "SLC6A11": {
+      "rank": 49,
+      "id": 6538,
+      "score": 0.0279,
+      "status": "Predicted"
+    },
+    "SLC2A1": {
+      "rank": 50,
+      "id": 6513,
+      "score": 0.0276,
+      "status": "Predicted"
+    },
+    "SLC22A1": {
+      "rank": 51,
+      "id": 6580,
+      "score": 0.0276,
+      "status": "Predicted"
+    },
+    "SLC22A2": {
+      "rank": 52,
+      "id": 6582,
+      "score": 0.0276,
+      "status": "Predicted"
+    },
+    "SLC2A2": {
+      "rank": 53,
+      "id": 6514,
+      "score": 0.0274,
+      "status": "Predicted"
+    },
+    "SLC6A12": {
+      "rank": 54,
+      "id": 6539,
+      "score": 0.0268,
+      "status": "Predicted"
+    },
+    "SLC45A3": {
+      "rank": 55,
+      "id": 85414,
+      "score": 0.0268,
+      "status": "Predicted"
+    },
+    "SLC22A3": {
+      "rank": 56,
+      "id": 6581,
+      "score": 0.0268,
+      "status": "Predicted"
+    },
+    "SLC2A3": {
+      "rank": 57,
+      "id": 6515,
+      "score": 0.0267,
+      "status": "Predicted"
+    },
+    "SLC5A8": {
+      "rank": 58,
+      "id": 160728,
+      "score": 0.0266,
+      "status": "Predicted"
+    },
+    "SLC44A2": {
+      "rank": 59,
+      "id": 57153,
+      "score": 0.0266,
+      "status": "Predicted"
+    },
+    "SLC25A5": {
+      "rank": 60,
+      "id": 292,
+      "score": 0.0266,
+      "status": "Predicted"
+    },
+    "SLC44A5": {
+      "rank": 61,
+      "id": 204962,
+      "score": 0.0265,
+      "status": "Predicted"
+    },
+    "SLC44A4": {
+      "rank": 62,
+      "id": 80736,
+      "score": 0.0265,
+      "status": "Predicted"
+    },
+    "SLC44A3": {
+      "rank": 63,
+      "id": 126969,
+      "score": 0.0265,
+      "status": "Predicted"
+    },
+    "SLC2A4": {
+      "rank": 64,
+      "id": 6517,
+      "score": 0.0264,
+      "status": "Predicted"
+    },
+    "SLC25A12": {
+      "rank": 65,
+      "id": 8604,
+      "score": 0.0264,
+      "status": "Predicted"
+    },
+    "SLC25A13": {
+      "rank": 66,
+      "id": 10165,
+      "score": 0.0264,
+      "status": "Predicted"
+    },
+    "IMPDH1": {
+      "rank": 67,
+      "id": 3614,
+      "score": 0.0263,
+      "status": "SeedGene"
+    },
+    "SLC52A2": {
+      "rank": 68,
+      "id": 79581,
+      "score": 0.0262,
+      "status": "Predicted"
+    },
+    "SLC22A13": {
+      "rank": 69,
+      "id": 9390,
+      "score": 0.0262,
+      "status": "Predicted"
+    },
+    "SLC25A32": {
+      "rank": 70,
+      "id": 81034,
+      "score": 0.0262,
+      "status": "Predicted"
+    },
+    "SLC25A16": {
+      "rank": 71,
+      "id": 8034,
+      "score": 0.0262,
+      "status": "Predicted"
+    },
+    "SLC23A2": {
+      "rank": 72,
+      "id": 9962,
+      "score": 0.0262,
+      "status": "Predicted"
+    },
+    "SLC52A1": {
+      "rank": 73,
+      "id": 55065,
+      "score": 0.0262,
+      "status": "Predicted"
+    },
+    "SLC16A8": {
+      "rank": 74,
+      "id": 23539,
+      "score": 0.0258,
+      "status": "Predicted"
+    },
+    "SLC16A1": {
+      "rank": 75,
+      "id": 6566,
+      "score": 0.0258,
+      "status": "Predicted"
+    },
+    "SLC16A3": {
+      "rank": 76,
+      "id": 9123,
+      "score": 0.0258,
+      "status": "Predicted"
+    },
+    "SLC3A2": {
+      "rank": 77,
+      "id": 6520,
+      "score": 0.0258,
+      "status": "Predicted"
+    },
+    "SLC2A5": {
+      "rank": 78,
+      "id": 6518,
+      "score": 0.0257,
+      "status": "Predicted"
+    },
+    "SLC5A4": {
+      "rank": 79,
+      "id": 6527,
+      "score": 0.0257,
+      "status": "Predicted"
+    },
+    "SLC5A2": {
+      "rank": 80,
+      "id": 6524,
+      "score": 0.0257,
+      "status": "Predicted"
+    },
+    "SLC26A1": {
+      "rank": 81,
+      "id": 10861,
+      "score": 0.0257,
+      "status": "Predicted"
+    },
+    "SLC50A1": {
+      "rank": 82,
+      "id": 55974,
+      "score": 0.0257,
+      "status": "Predicted"
+    },
+    "SLCO1A2": {
+      "rank": 83,
+      "id": 6579,
+      "score": 0.0257,
+      "status": "Predicted"
+    },
+    "SLC5A3": {
+      "rank": 84,
+      "id": 6526,
+      "score": 0.0257,
+      "status": "Predicted"
+    },
+    "SLC5A10": {
+      "rank": 85,
+      "id": 125206,
+      "score": 0.0257,
+      "status": "Predicted"
+    },
+    "SLC35B3": {
+      "rank": 86,
+      "id": 51000,
+      "score": 0.0257,
+      "status": "Predicted"
+    },
+    "SLCO1B1": {
+      "rank": 87,
+      "id": 10599,
+      "score": 0.0257,
+      "status": "Predicted"
+    },
+    "SLC5A1": {
+      "rank": 88,
+      "id": 6523,
+      "score": 0.0257,
+      "status": "Predicted"
+    },
+    "SLC35B2": {
+      "rank": 89,
+      "id": 347734,
+      "score": 0.0257,
+      "status": "Predicted"
+    },
+    "SLC35D1": {
+      "rank": 90,
+      "id": 23169,
+      "score": 0.0257,
+      "status": "Predicted"
+    },
+    "SLC37A4": {
+      "rank": 91,
+      "id": 2542,
+      "score": 0.0257,
+      "status": "Predicted"
+    },
+    "SLC2A14": {
+      "rank": 92,
+      "id": 144195,
+      "score": 0.0257,
+      "status": "Predicted"
+    },
+    "SLC35D2": {
+      "rank": 93,
+      "id": 11046,
+      "score": 0.0257,
+      "status": "Predicted"
+    },
+    "SLC5A9": {
+      "rank": 94,
+      "id": 200010,
+      "score": 0.0257,
+      "status": "Predicted"
+    },
+    "SLC6A7": {
+      "rank": 95,
+      "id": 6534,
+      "score": 0.0257,
+      "status": "Predicted"
+    },
+    "SLCO1B3": {
+      "rank": 96,
+      "id": 28234,
+      "score": 0.0257,
+      "status": "Predicted"
+    },
+    "SLC5A5": {
+      "rank": 97,
+      "id": 6528,
+      "score": 0.0257,
+      "status": "Predicted"
+    },
+    "SLC26A2": {
+      "rank": 98,
+      "id": 1836,
+      "score": 0.0257,
+      "status": "Predicted"
+    },
+    "SLC8A1": {
+      "rank": 99,
+      "id": 6546,
+      "score": 0.0254,
+      "status": "Predicted"
+    },
+    "SLC25A14": {
+      "rank": 100,
+      "id": 9016,
+      "score": 0.0252,
+      "status": "Predicted"
+    }
+  }
+}

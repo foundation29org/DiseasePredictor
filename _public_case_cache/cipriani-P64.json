@@ -1,0 +1,613 @@
+{
+  "query": {
+    "HP:0007754": {
+      "id": "HP:0007754",
+      "status": "ok",
+      "target": [
+        "HP:0007754"
+      ]
+    }
+  },
+  "response": {
+    "CDH3": {
+      "rank": 1,
+      "id": 1001,
+      "score": 1.0,
+      "status": "SeedGene"
+    },
+    "ELOVL4": {
+      "rank": 2,
+      "id": 6785,
+      "score": 0.2996,
+      "status": "SeedGene"
+    },
+    "TRNL1": {
+      "rank": 3,
+      "id": 4567,
+      "score": 0.2584,
+      "status": "SeedGene"
+    },
+    "TRNE": {
+      "rank": 4,
+      "id": 8923199,
+      "score": 0.2584,
+      "status": "SeedGene"
+    },
+    "TRNK": {
+      "rank": 5,
+      "id": 8923190,
+      "score": 0.2584,
+      "status": "SeedGene"
+    },
+    "CHST6": {
+      "rank": 6,
+      "id": 4166,
+      "score": 0.2487,
+      "status": "SeedGene"
+    },
+    "MFSD8": {
+      "rank": 7,
+      "id": 256471,
+      "score": 0.2478,
+      "status": "SeedGene"
+    },
+    "BBS5": {
+      "rank": 8,
+      "id": 129880,
+      "score": 0.2478,
+      "status": "SeedGene"
+    },
+    "MYO5A": {
+      "rank": 9,
+      "id": 4644,
+      "score": 0.2478,
+      "status": "SeedGene"
+    },
+    "BEST1": {
+      "rank": 10,
+      "id": 7439,
+      "score": 0.2478,
+      "status": "SeedGene"
+    },
+    "PEX1": {
+      "rank": 11,
+      "id": 5189,
+      "score": 0.2478,
+      "status": "SeedGene"
+    },
+    "PROM1": {
+      "rank": 12,
+      "id": 8842,
+      "score": 0.2478,
+      "status": "SeedGene"
+    },
+    "SYCE1": {
+      "rank": 13,
+      "id": 93426,
+      "score": 0.2478,
+      "status": "SeedGene"
+    },
+    "RP1L1": {
+      "rank": 14,
+      "id": 94137,
+      "score": 0.2478,
+      "status": "SeedGene"
+    },
+    "PRPH2": {
+      "rank": 15,
+      "id": 5961,
+      "score": 0.2478,
+      "status": "SeedGene"
+    },
+    "CCNQ": {
+      "rank": 16,
+      "id": 92002,
+      "score": 0.2478,
+      "status": "SeedGene"
+    },
+    "IMPG1": {
+      "rank": 17,
+      "id": 3617,
+      "score": 0.2478,
+      "status": "SeedGene"
+    },
+    "TIMP3": {
+      "rank": 18,
+      "id": 7078,
+      "score": 0.2478,
+      "status": "SeedGene"
+    },
+    "IMPG2": {
+      "rank": 19,
+      "id": 50939,
+      "score": 0.2478,
+      "status": "SeedGene"
+    },
+    "CDH15": {
+      "rank": 20,
+      "id": 1013,
+      "score": 0.0285,
+      "status": "Predicted"
+    },
+    "CDH4": {
+      "rank": 21,
+      "id": 1002,
+      "score": 0.0285,
+      "status": "Predicted"
+    },
+    "CDH8": {
+      "rank": 22,
+      "id": 1006,
+      "score": 0.0276,
+      "status": "Predicted"
+    },
+    "CDH6": {
+      "rank": 23,
+      "id": 1004,
+      "score": 0.0276,
+      "status": "Predicted"
+    },
+    "CDH13": {
+      "rank": 24,
+      "id": 1012,
+      "score": 0.0261,
+      "status": "Predicted"
+    },
+    "CDH24": {
+      "rank": 25,
+      "id": 64403,
+      "score": 0.0261,
+      "status": "Predicted"
+    },
+    "CDH7": {
+      "rank": 26,
+      "id": 1005,
+      "score": 0.0261,
+      "status": "Predicted"
+    },
+    "CDH9": {
+      "rank": 27,
+      "id": 1007,
+      "score": 0.0261,
+      "status": "Predicted"
+    },
+    "CDH12": {
+      "rank": 28,
+      "id": 1010,
+      "score": 0.0261,
+      "status": "Predicted"
+    },
+    "CDH17": {
+      "rank": 29,
+      "id": 1015,
+      "score": 0.0261,
+      "status": "Predicted"
+    },
+    "CDH18": {
+      "rank": 30,
+      "id": 1016,
+      "score": 0.0261,
+      "status": "Predicted"
+    },
+    "CDH10": {
+      "rank": 31,
+      "id": 1008,
+      "score": 0.0261,
+      "status": "Predicted"
+    },
+    "CDH11": {
+      "rank": 32,
+      "id": 1009,
+      "score": 0.0261,
+      "status": "Predicted"
+    },
+    "ROM1": {
+      "rank": 33,
+      "id": 6094,
+      "score": 0.0259,
+      "status": "Predicted"
+    },
+    "CELSR2": {
+      "rank": 34,
+      "id": 1952,
+      "score": 0.0228,
+      "status": "Predicted"
+    },
+    "DSC1": {
+      "rank": 35,
+      "id": 1823,
+      "score": 0.0221,
+      "status": "Predicted"
+    },
+    "DSG1": {
+      "rank": 36,
+      "id": 1828,
+      "score": 0.0221,
+      "status": "Predicted"
+    },
+    "CDH12P2": {
+      "rank": 37,
+      "id": 1011,
+      "score": 0.0213,
+      "status": "Predicted"
+    },
+    "CDH20": {
+      "rank": 38,
+      "id": 28316,
+      "score": 0.0213,
+      "status": "Predicted"
+    },
+    "CELSR3": {
+      "rank": 39,
+      "id": 1951,
+      "score": 0.0213,
+      "status": "Predicted"
+    },
+    "DSG2": {
+      "rank": 40,
+      "id": 1829,
+      "score": 0.0213,
+      "status": "Predicted"
+    },
+    "DSC2": {
+      "rank": 41,
+      "id": 1824,
+      "score": 0.0213,
+      "status": "Predicted"
+    },
+    "DSC3": {
+      "rank": 42,
+      "id": 1825,
+      "score": 0.0213,
+      "status": "Predicted"
+    },
+    "CDH26": {
+      "rank": 43,
+      "id": 60437,
+      "score": 0.0213,
+      "status": "Predicted"
+    },
+    "CDH16": {
+      "rank": 44,
+      "id": 1014,
+      "score": 0.0213,
+      "status": "Predicted"
+    },
+    "CDH19": {
+      "rank": 45,
+      "id": 28513,
+      "score": 0.0213,
+      "status": "Predicted"
+    },
+    "DSG4": {
+      "rank": 46,
+      "id": 147409,
+      "score": 0.0213,
+      "status": "Predicted"
+    },
+    "DSG3": {
+      "rank": 47,
+      "id": 1830,
+      "score": 0.0213,
+      "status": "Predicted"
+    },
+    "CDH22": {
+      "rank": 48,
+      "id": 64405,
+      "score": 0.0213,
+      "status": "Predicted"
+    },
+    "CELSR1": {
+      "rank": 49,
+      "id": 9620,
+      "score": 0.0213,
+      "status": "Predicted"
+    },
+    "CTNNA1": {
+      "rank": 50,
+      "id": 1495,
+      "score": 0.0195,
+      "status": "Predicted"
+    },
+    "CTNND1": {
+      "rank": 51,
+      "id": 1500,
+      "score": 0.0185,
+      "status": "Predicted"
+    },
+    "PEX6": {
+      "rank": 52,
+      "id": 5190,
+      "score": 0.0174,
+      "status": "Predicted"
+    },
+    "PRPH": {
+      "rank": 53,
+      "id": 5630,
+      "score": 0.0172,
+      "status": "Predicted"
+    },
+    "SDC1": {
+      "rank": 54,
+      "id": 6382,
+      "score": 0.0163,
+      "status": "Predicted"
+    },
+    "CTNNB1": {
+      "rank": 55,
+      "id": 1499,
+      "score": 0.0159,
+      "status": "Predicted"
+    },
+    "ITGAM": {
+      "rank": 56,
+      "id": 3684,
+      "score": 0.0159,
+      "status": "Predicted"
+    },
+    "TRNY": {
+      "rank": 57,
+      "id": 8923203,
+      "score": 0.0159,
+      "status": "Predicted"
+    },
+    "TRNS2": {
+      "rank": 58,
+      "id": 4575,
+      "score": 0.0159,
+      "status": "Predicted"
+    },
+    "TRNL2": {
+      "rank": 59,
+      "id": 4568,
+      "score": 0.0159,
+      "status": "Predicted"
+    },
+    "TRND": {
+      "rank": 60,
+      "id": 8923215,
+      "score": 0.0159,
+      "status": "Predicted"
+    },
+    "TRNW": {
+      "rank": 61,
+      "id": 8923194,
+      "score": 0.0159,
+      "status": "Predicted"
+    },
+    "TRNG": {
+      "rank": 62,
+      "id": 8923191,
+      "score": 0.0159,
+      "status": "Predicted"
+    },
+    "TRNC": {
+      "rank": 63,
+      "id": 8923200,
+      "score": 0.0159,
+      "status": "Predicted"
+    },
+    "TRNR": {
+      "rank": 64,
+      "id": 8923195,
+      "score": 0.0159,
+      "status": "Predicted"
+    },
+    "TRNH": {
+      "rank": 65,
+      "id": 8923196,
+      "score": 0.0159,
+      "status": "Predicted"
+    },
+    "TRNQ": {
+      "rank": 66,
+      "id": 8923208,
+      "score": 0.0159,
+      "status": "Predicted"
+    },
+    "TRNS1": {
+      "rank": 67,
+      "id": 4574,
+      "score": 0.0159,
+      "status": "Predicted"
+    },
+    "TRNN": {
+      "rank": 68,
+      "id": 6775091,
+      "score": 0.0159,
+      "status": "Predicted"
+    },
+    "TRNF": {
+      "rank": 69,
+      "id": 8923184,
+      "score": 0.0159,
+      "status": "Predicted"
+    },
+    "TRNA": {
+      "rank": 70,
+      "id": 8923217,
+      "score": 0.0159,
+      "status": "Predicted"
+    },
+    "TRNM": {
+      "rank": 71,
+      "id": 8923204,
+      "score": 0.0159,
+      "status": "Predicted"
+    },
+    "TRNP": {
+      "rank": 72,
+      "id": 8923216,
+      "score": 0.0159,
+      "status": "Predicted"
+    },
+    "TRNT": {
+      "rank": 73,
+      "id": 8923192,
+      "score": 0.0159,
+      "status": "Predicted"
+    },
+    "TRNI": {
+      "rank": 74,
+      "id": 8923193,
+      "score": 0.0159,
+      "status": "Predicted"
+    },
+    "TRNV": {
+      "rank": 75,
+      "id": 8923185,
+      "score": 0.0159,
+      "status": "Predicted"
+    },
+    "ITGB1": {
+      "rank": 76,
+      "id": 3688,
+      "score": 0.015,
+      "status": "Predicted"
+    },
+    "ITGAV": {
+      "rank": 77,
+      "id": 3685,
+      "score": 0.015,
+      "status": "Predicted"
+    },
+    "PECAM1": {
+      "rank": 78,
+      "id": 5175,
+      "score": 0.0147,
+      "status": "Predicted"
+    },
+    "CD86": {
+      "rank": 79,
+      "id": 942,
+      "score": 0.0147,
+      "status": "Predicted"
+    },
+    "SELL": {
+      "rank": 80,
+      "id": 6402,
+      "score": 0.0144,
+      "status": "Predicted"
+    },
+    "CD58": {
+      "rank": 81,
+      "id": 965,
+      "score": 0.0144,
+      "status": "Predicted"
+    },
+    "ITGB2": {
+      "rank": 82,
+      "id": 3689,
+      "score": 0.0144,
+      "status": "Predicted"
+    },
+    "ITGA4": {
+      "rank": 83,
+      "id": 3676,
+      "score": 0.0144,
+      "status": "Predicted"
+    },
+    "SELP": {
+      "rank": 84,
+      "id": 6403,
+      "score": 0.014,
+      "status": "Predicted"
+    },
+    "JAM2": {
+      "rank": 85,
+      "id": 58494,
+      "score": 0.0137,
+      "status": "Predicted"
+    },
+    "SELE": {
+      "rank": 86,
+      "id": 6401,
+      "score": 0.0137,
+      "status": "Predicted"
+    },
+    "F11R": {
+      "rank": 87,
+      "id": 50848,
+      "score": 0.0137,
+      "status": "Predicted"
+    },
+    "CD2": {
+      "rank": 88,
+      "id": 914,
+      "score": 0.0137,
+      "status": "Predicted"
+    },
+    "CD4": {
+      "rank": 89,
+      "id": 920,
+      "score": 0.0137,
+      "status": "Predicted"
+    },
+    "L1CAM": {
+      "rank": 90,
+      "id": 3897,
+      "score": 0.0137,
+      "status": "Predicted"
+    },
+    "CD28": {
+      "rank": 91,
+      "id": 940,
+      "score": 0.0132,
+      "status": "Predicted"
+    },
+    "CD80": {
+      "rank": 92,
+      "id": 941,
+      "score": 0.0132,
+      "status": "Predicted"
+    },
+    "SIGLEC1": {
+      "rank": 93,
+      "id": 6614,
+      "score": 0.0132,
+      "status": "Predicted"
+    },
+    "ICAM3": {
+      "rank": 94,
+      "id": 3385,
+      "score": 0.0132,
+      "status": "Predicted"
+    },
+    "NCAM1": {
+      "rank": 95,
+      "id": 4684,
+      "score": 0.0132,
+      "status": "Predicted"
+    },
+    "CD226": {
+      "rank": 96,
+      "id": 10666,
+      "score": 0.0132,
+      "status": "Predicted"
+    },
+    "ICAM1": {
+      "rank": 97,
+      "id": 3383,
+      "score": 0.0132,
+      "status": "Predicted"
+    },
+    "CDH1": {
+      "rank": 98,
+      "id": 999,
+      "score": 0.0132,
+      "status": "Predicted"
+    },
+    "CD274": {
+      "rank": 99,
+      "id": 29126,
+      "score": 0.0132,
+      "status": "Predicted"
+    },
+    "PDCD1": {
+      "rank": 100,
+      "id": 5133,
+      "score": 0.0132,
+      "status": "Predicted"
+    }
+  }
+}

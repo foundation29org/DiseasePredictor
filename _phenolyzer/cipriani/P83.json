@@ -1,0 +1,3268 @@
+[
+  {
+    "Name": "NOTCH3",
+    "Id": "ID:4854",
+    "Score": 1,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Score": 0.110244988864142,
+            "Id": "ORPHANET:136",
+            "Condition": "cadasil",
+            "Hp": "0000649"
+          },
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "cadasil",
+            "Hp": "0001138",
+            "Id": "ORPHANET:136",
+            "Score": 0.110244988864142
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649",
+            "Id": "HP:0000649",
+            "Score": 0.389755011135856
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007634",
+            "Score": 0.389755011135856,
+            "Condition": "Nonarteritic anterior ischemic optic neuropathy",
+            "Hp": "0001138"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ASPA",
+    "Id": "ID:443",
+    "Score": 0.847369153674831,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "canavan disease",
+            "Hp": "0000649",
+            "Score": 0.194877505567929,
+            "Id": "OMIM:271900"
+          },
+          {
+            "Id": "OMIM:271900",
+            "Score": 0.0121798440979955,
+            "Condition": "spongy degeneration of central nervous system",
+            "Hp": "0000649",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:314911",
+            "Score": 0.250556792873052,
+            "Hp": "0000649",
+            "Condition": "severe canavan disease",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND4",
+    "Id": "ID:8923197",
+    "Score": 0.779510022271713,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Id": "HP:0000649",
+            "Score": 0.389755011135856
+          },
+          {
+            "Hp": "0001138",
+            "Condition": "Optic neuropathy",
+            "Score": 0.389755011135856,
+            "Id": "HP:0001138",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND1",
+    "Id": "ID:8923209",
+    "Score": 0.779510022271713,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001138",
+            "Condition": "Optic neuropathy",
+            "Score": 0.389755011135856,
+            "Id": "HP:0001138"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND6",
+    "Id": "ID:8923198",
+    "Score": 0.779510022271713,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000649",
+            "Score": 0.389755011135856,
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Hp": "0001138",
+            "Condition": "Optic neuropathy",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND5",
+    "Id": "ID:8923210",
+    "Score": 0.779510022271713,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.389755011135856,
+            "Id": "HP:0001138",
+            "Hp": "0001138",
+            "Condition": "Optic neuropathy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COX3",
+    "Id": "ID:8923187",
+    "Score": 0.779510022271713,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials"
+          },
+          {
+            "Score": 0.389755011135856,
+            "Id": "HP:0001138",
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACOX1",
+    "Id": "ID:51",
+    "Score": 0.734270601336302,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "peroxisomal acyl coa oxidase deficiency",
+            "Hp": "0000649",
+            "Id": "ORPHANET:2971",
+            "Score": 0.30066815144766
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "pseudoneonatal adrenoleukodystrophy",
+            "Hp": "0000649",
+            "Score": 0.0438474387527839,
+            "Id": "OMIM:264470",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TCIRG1",
+    "Id": "ID:10312",
+    "Score": 0.690423162583519,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "autosomal recessive malignant osteopetrosis",
+            "Hp": "0000649",
+            "Score": 0.30066815144766,
+            "Id": "ORPHANET:667"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CLCN7",
+    "Id": "ID:1186",
+    "Score": 0.690423162583519,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:667",
+            "Score": 0.30066815144766,
+            "Hp": "0000649",
+            "Condition": "autosomal recessive malignant osteopetrosis"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TNFSF11",
+    "Id": "ID:8600",
+    "Score": 0.640311804008908,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Score": 0.250556792873052,
+            "Id": "ORPHANET:667",
+            "Condition": "autosomal recessive malignant osteopetrosis",
+            "Hp": "0000649"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0000649",
+            "Score": 0.389755011135856,
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SNX10",
+    "Id": "ID:29887",
+    "Score": 0.640311804008908,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:667",
+            "Score": 0.250556792873052,
+            "Hp": "0000649",
+            "Condition": "autosomal recessive malignant osteopetrosis",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Id": "HP:0000649",
+            "Score": 0.389755011135856
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SH3BP2",
+    "Id": "ID:6452",
+    "Score": 0.610244988864142,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.128619153674833,
+            "Id": "OMIM:118400",
+            "Hp": "0001138",
+            "Condition": "cherubism"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0001138",
+            "Condition": "Optic neuropathy",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:184",
+            "Score": 0.0918708240534522,
+            "Condition": "cherubism",
+            "Hp": "0001138",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAB3GAP2",
+    "Id": "ID:25782",
+    "Score": 0.53699192650334,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:2510",
+            "Score": 0.139198218262806,
+            "Hp": "0000649",
+            "Condition": "micro syndrome",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.389755011135856,
+            "Id": "HP:0007965",
+            "Condition": "Undetectable visual evoked potentials",
+            "Hp": "0000649"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:614225",
+            "Score": 0.00803869710467704,
+            "Hp": "0000649",
+            "Condition": "warburg micro syndrome 2",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GALC",
+    "Id": "ID:2581",
+    "Score": 0.534451559020044,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000649",
+            "Condition": "galactosylceramide beta galactosidase deficiency",
+            "Id": "OMIM:245200",
+            "Score": 0.0160773942093541,
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Hp": "0000649",
+            "Condition": "krabbe disease",
+            "Score": 0.128619153674833,
+            "Id": "OMIM:245200",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000649",
+            "Condition": "Abnormal flash visual evoked potentials",
+            "Id": "HP:0007928",
+            "Score": 0.389755011135856
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TBC1D20",
+    "Id": "ID:128637",
+    "Score": 0.528953229398663,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "micro syndrome",
+            "Hp": "0000649",
+            "Score": 0.139198218262806,
+            "Id": "ORPHANET:2510",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649",
+            "Id": "HP:0000649",
+            "Score": 0.389755011135856,
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAB18",
+    "Id": "ID:22931",
+    "Score": 0.528953229398663,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Hp": "0000649",
+            "Condition": "micro syndrome",
+            "Score": 0.139198218262806,
+            "Id": "ORPHANET:2510"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAB3GAP1",
+    "Id": "ID:22930",
+    "Score": 0.528953229398663,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:2510",
+            "Score": 0.139198218262806,
+            "Condition": "micro syndrome",
+            "Hp": "0000649"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ERCC8",
+    "Id": "ID:1161",
+    "Score": 0.526412861915367,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0000649",
+            "Condition": "cockayne syndrome type a",
+            "Score": 0.00803869710467704,
+            "Id": "OMIM:216400"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000649",
+            "Condition": "cockayne syndrome type a",
+            "Id": "OMIM:216400",
+            "Score": 0.0643095768374163
+          },
+          {
+            "Hp": "0000649",
+            "Condition": "cockayne syndrome type b",
+            "Id": "OMIM:133540",
+            "Score": 0.0643095768374163,
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "OPA1",
+    "Id": "ID:4976",
+    "Score": 0.51837416481069,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "optic atrophy 1",
+            "Hp": "0000649",
+            "Score": 0.128619153674833,
+            "Id": "OMIM:165500",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0100289",
+            "Score": 0.389755011135856,
+            "Hp": "0000649",
+            "Condition": "Abnormality of pattern reversal visual evoked potentials",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ERCC6",
+    "Id": "ID:2074",
+    "Score": 0.51837416481069,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "cockayne syndrome type a",
+            "Hp": "0000649",
+            "Id": "OMIM:216400",
+            "Score": 0.0643095768374163
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0643095768374163,
+            "Id": "OMIM:133540",
+            "Hp": "0000649",
+            "Condition": "cockayne syndrome type b"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDRG1",
+    "Id": "ID:10397",
+    "Score": 0.50252644766147,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "charcot marie tooth disease type 4d",
+            "Hp": "0000649",
+            "Score": 0.00803869710467704,
+            "Id": "OMIM:601455"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.0128619153674833,
+            "Id": "OMIM:601455",
+            "Hp": "0000649",
+            "Condition": "charcot marie tooth disease type 4d"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.0918708240534522,
+            "Id": "ORPHANET:99950",
+            "Condition": "charcot marie tooth disease type 4d",
+            "Hp": "0000649",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AAAS",
+    "Id": "ID:8086",
+    "Score": 0.5,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0000649",
+            "Condition": "triple a syndrome",
+            "Score": 0.110244988864142,
+            "Id": "ORPHANET:869",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TYR",
+    "Id": "ID:7299",
+    "Score": 0.48719376391982,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "albinism oculocutaneous type ia",
+            "Hp": "0000649",
+            "Id": "OMIM:203100",
+            "Score": 0.0974387527839643
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POLG",
+    "Id": "ID:5428",
+    "Score": 0.48162583518931,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0000649",
+            "Score": 0.389755011135856,
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0000649",
+            "Condition": "alpers syndrome",
+            "Score": 0.0918708240534522,
+            "Id": "ORPHANET:726",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZNHIT3",
+    "Id": "ID:9326",
+    "Score": 0.397793708240533,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Condition": "peho syndrome",
+            "Hp": "0000649",
+            "Score": 0.00803869710467704,
+            "Id": "OMIM:260565"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.389755011135856,
+            "Id": "HP:0007965",
+            "Condition": "Undetectable visual evoked potentials",
+            "Hp": "0000649",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CCDC88A",
+    "Id": "ID:55704",
+    "Score": 0.397793708240533,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000649",
+            "Condition": "Undetectable visual evoked potentials",
+            "Score": 0.389755011135856,
+            "Id": "HP:0007965"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:260565",
+            "Score": 0.00803869710467704,
+            "Condition": "peho syndrome",
+            "Hp": "0000649",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FXN",
+    "Id": "ID:2395",
+    "Score": 0.397793708240533,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000649",
+            "Condition": "friedreich ataxia 1",
+            "Score": 0.00803869710467704,
+            "Id": "OMIM:229300",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ELOVL4",
+    "Id": "ID:6785",
+    "Score": 0.390972995545657,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:614457",
+            "Score": 0.00121798440979955,
+            "Condition": "ichthyosis spastic quadriplegia and mental retardation",
+            "Hp": "0000649",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNW",
+    "Id": "ID:8923194",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFB11",
+    "Id": "ID:54539",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856,
+            "Hp": "0001138",
+            "Condition": "Optic neuropathy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PROM1",
+    "Id": "ID:8842",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFA11",
+    "Id": "ID:126328",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNH",
+    "Id": "ID:8923196",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFA13",
+    "Id": "ID:51079",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856,
+            "Hp": "0001138",
+            "Condition": "Optic neuropathy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ABCG5",
+    "Id": "ID:64240",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.389755011135856,
+            "Id": "HP:0001138",
+            "Hp": "0001138",
+            "Condition": "Optic neuropathy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATP6",
+    "Id": "ID:8923188",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001138",
+            "Condition": "Optic neuropathy",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ABCA4",
+    "Id": "ID:24",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NUBPL",
+    "Id": "ID:80224",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.389755011135856,
+            "Id": "HP:0001138",
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CLCN2",
+    "Id": "ID:1181",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856,
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRPH2",
+    "Id": "ID:5961",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "C12ORF65",
+    "Id": "ID:91574",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFB9",
+    "Id": "ID:4715",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.389755011135856,
+            "Id": "HP:0001138",
+            "Hp": "0001138",
+            "Condition": "Optic neuropathy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYTB",
+    "Id": "ID:8923205",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.389755011135856,
+            "Id": "HP:0001138",
+            "Hp": "0001138",
+            "Condition": "Optic neuropathy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PLA2G6",
+    "Id": "ID:8398",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000649",
+            "Score": 0.389755011135856,
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POGZ",
+    "Id": "ID:23126",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Id": "HP:0000649",
+            "Score": 0.389755011135856
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "APOB",
+    "Id": "ID:338",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856,
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ARHGEF2",
+    "Id": "ID:9181",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000649",
+            "Score": 0.389755011135856,
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LDLR",
+    "Id": "ID:3949",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TIMMDC1",
+    "Id": "ID:51300",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856,
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATXN1",
+    "Id": "ID:6310",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0007928",
+            "Score": 0.389755011135856,
+            "Hp": "0000649",
+            "Condition": "Abnormal flash visual evoked potentials"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFAF5",
+    "Id": "ID:79133",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MFN2",
+    "Id": "ID:9927",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000649",
+            "Score": 0.389755011135856,
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNS2",
+    "Id": "ID:4575",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000649",
+            "Score": 0.389755011135856,
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COX2",
+    "Id": "ID:8923202",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFS2",
+    "Id": "ID:4720",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001138",
+            "Condition": "Optic neuropathy",
+            "Score": 0.389755011135856,
+            "Id": "HP:0001138",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ARSA",
+    "Id": "ID:410",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Id": "HP:0000649",
+            "Score": 0.389755011135856
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFV1",
+    "Id": "ID:4723",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND2",
+    "Id": "ID:8923212",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138",
+            "Score": 0.389755011135856,
+            "Id": "HP:0001138",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TTPA",
+    "Id": "ID:7274",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TXN2",
+    "Id": "ID:25828",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856,
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EMC1",
+    "Id": "ID:23065",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000649",
+            "Score": 0.389755011135856,
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFAF4",
+    "Id": "ID:29078",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001138",
+            "Condition": "Optic neuropathy",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFAF1",
+    "Id": "ID:51103",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.389755011135856,
+            "Id": "HP:0001138",
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CISD2",
+    "Id": "ID:493856",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GJC2",
+    "Id": "ID:57165",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000649",
+            "Score": 0.389755011135856,
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LAMA2",
+    "Id": "ID:3908",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649",
+            "Id": "HP:0000649",
+            "Score": 0.389755011135856
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFS4",
+    "Id": "ID:4724",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFB3",
+    "Id": "ID:4709",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.389755011135856,
+            "Id": "HP:0001138",
+            "Hp": "0001138",
+            "Condition": "Optic neuropathy",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND4L",
+    "Id": "ID:8923201",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.389755011135856,
+            "Id": "HP:0001138",
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFS3",
+    "Id": "ID:4722",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856,
+            "Hp": "0001138",
+            "Condition": "Optic neuropathy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFS1",
+    "Id": "ID:4719",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856,
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LDLRAP1",
+    "Id": "ID:26119",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.389755011135856,
+            "Id": "HP:0001138",
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COX1",
+    "Id": "ID:8923218",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000649",
+            "Score": 0.389755011135856,
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SUCLA2",
+    "Id": "ID:8803",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000649",
+            "Score": 0.389755011135856,
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNF",
+    "Id": "ID:8923184",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNQ",
+    "Id": "ID:8923208",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNS1",
+    "Id": "ID:4574",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC25A22",
+    "Id": "ID:79751",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AGXT",
+    "Id": "ID:189",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POMGNT1",
+    "Id": "ID:55624",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0000649",
+            "Condition": "Abnormal amplitude of flash visual evoked potentials",
+            "Id": "HP:0030462",
+            "Score": 0.389755011135856
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CNGB3",
+    "Id": "ID:54714",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0000649",
+            "Score": 0.389755011135856,
+            "Condition": "Abnormality of visual evoked potentials",
+            "Hp": "0000649"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATN1",
+    "Id": "ID:1822",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856,
+            "Hp": "0001138",
+            "Condition": "Optic neuropathy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFAF2",
+    "Id": "ID:91942",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856,
+            "Hp": "0001138",
+            "Condition": "Optic neuropathy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFV2",
+    "Id": "ID:4729",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856,
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFS6",
+    "Id": "ID:4726",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PCSK9",
+    "Id": "ID:255738",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001138",
+            "Condition": "Optic neuropathy",
+            "Score": 0.389755011135856,
+            "Id": "HP:0001138",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM126B",
+    "Id": "ID:55863",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001138",
+            "Condition": "Optic neuropathy",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TSFM",
+    "Id": "ID:10102",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FOXRED1",
+    "Id": "ID:55572",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFAF3",
+    "Id": "ID:25915",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001138",
+            "Score": 0.389755011135856,
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PSAP",
+    "Id": "ID:5660",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ABCG8",
+    "Id": "ID:64241",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001138",
+            "Condition": "Optic neuropathy",
+            "Score": 0.389755011135856,
+            "Id": "HP:0001138",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NDUFA1",
+    "Id": "ID:4694",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.389755011135856,
+            "Id": "HP:0001138",
+            "Condition": "Optic neuropathy",
+            "Hp": "0001138",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNL1",
+    "Id": "ID:4567",
+    "Score": 0.389755011135856,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0000649",
+            "Condition": "Abnormality of visual evoked potentials",
+            "Score": 0.389755011135856,
+            "Id": "HP:0000649",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AP3B1",
+    "Id": "ID:8546",
+    "Score": 0.167037861915367,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "hermansky pudlak syndrome",
+            "Hp": "0000649",
+            "Id": "ORPHANET:183678",
+            "Score": 0.167037861915367
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HPS6",
+    "Id": "ID:79803",
+    "Score": 0.139198218262806,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Hp": "0000649",
+            "Condition": "hermansky pudlak syndrome",
+            "Id": "ORPHANET:231512",
+            "Score": 0.139198218262806
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HPS4",
+    "Id": "ID:89781",
+    "Score": 0.139198218262806,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:231500",
+            "Score": 0.139198218262806,
+            "Condition": "hermansky pudlak syndrome",
+            "Hp": "0000649"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HPS1",
+    "Id": "ID:3257",
+    "Score": 0.139198218262806,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "hermansky pudlak syndrome",
+            "Hp": "0000649",
+            "Score": 0.139198218262806,
+            "Id": "ORPHANET:231500",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HPS5",
+    "Id": "ID:11234",
+    "Score": 0.139198218262806,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.139198218262806,
+            "Id": "ORPHANET:231512",
+            "Condition": "hermansky pudlak syndrome",
+            "Hp": "0000649",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HPS3",
+    "Id": "ID:84343",
+    "Score": 0.139198218262806,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0000649",
+            "Condition": "hermansky pudlak syndrome",
+            "Score": 0.139198218262806,
+            "Id": "ORPHANET:231512",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PLP1",
+    "Id": "ID:5354",
+    "Score": 0.133978285077951,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000649",
+            "Condition": "pelizaeus merzbacher disease",
+            "Score": 0.0365395322939867,
+            "Id": "OMIM:312080",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Condition": "pelizaeus merzbacher disease",
+            "Hp": "0000649",
+            "Score": 0.0974387527839643,
+            "Id": "OMIM:312080",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-DRB1",
+    "Id": "ID:3123",
+    "Score": 0.110244988864142,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Condition": "sarcoidosis",
+            "Hp": "0001138",
+            "Id": "ORPHANET:797",
+            "Score": 0.110244988864142
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GMPPA",
+    "Id": "ID:29926",
+    "Score": 0.110244988864142,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "triple a syndrome",
+            "Hp": "0000649",
+            "Score": 0.110244988864142,
+            "Id": "ORPHANET:869",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BTNL2",
+    "Id": "ID:56244",
+    "Score": 0.0918708240544167,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Score": 9.64643652561245E-13,
+            "Id": "PUBMED:22936702",
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "IdNote": "GWAS"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:797",
+            "Score": 0.0918708240534522,
+            "Condition": "sarcoidosis",
+            "Hp": "0001138"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CLN3",
+    "Id": "ID:1201",
+    "Score": 0.021923719376392,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000649",
+            "Condition": "juvenile neuronal ceroid lipofuscinosis",
+            "Score": 0.021923719376392,
+            "Id": "OMIM:204200",
+            "IdNote": "CLINVAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EGR2",
+    "Id": "ID:1959",
+    "Score": 0.0128619153674833,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "charcot marie tooth disease type 4d",
+            "Hp": "0000649",
+            "Id": "OMIM:601455",
+            "Score": 0.0128619153674833
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FIG4",
+    "Id": "ID:9896",
+    "Score": 0.0128619153674833,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000649",
+            "Condition": "charcot marie tooth disease type 4d",
+            "Id": "OMIM:601455",
+            "Score": 0.0128619153674833
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SBF1",
+    "Id": "ID:6305",
+    "Score": 0.0128619153674833,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000649",
+            "Condition": "charcot marie tooth disease type 4d",
+            "Score": 0.0128619153674833,
+            "Id": "OMIM:601455",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SBF2",
+    "Id": "ID:81846",
+    "Score": 0.0128619153674833,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0000649",
+            "Condition": "charcot marie tooth disease type 4d",
+            "Score": 0.0128619153674833,
+            "Id": "OMIM:601455",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GDAP1",
+    "Id": "ID:54332",
+    "Score": 0.0128619153674833,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:601455",
+            "Score": 0.0128619153674833,
+            "Condition": "charcot marie tooth disease type 4d",
+            "Hp": "0000649"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRX",
+    "Id": "ID:57716",
+    "Score": 0.0128619153674833,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "charcot marie tooth disease type 4d",
+            "Hp": "0000649",
+            "Id": "OMIM:601455",
+            "Score": 0.0128619153674833
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MTMR2",
+    "Id": "ID:8898",
+    "Score": 0.0128619153674833,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0128619153674833,
+            "Id": "OMIM:601455",
+            "Hp": "0000649",
+            "Condition": "charcot marie tooth disease type 4d",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FGD4",
+    "Id": "ID:121512",
+    "Score": 0.0128619153674833,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "charcot marie tooth disease type 4d",
+            "Hp": "0000649",
+            "Id": "OMIM:601455",
+            "Score": 0.0128619153674833
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SH3TC2",
+    "Id": "ID:79628",
+    "Score": 0.0128619153674833,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0000649",
+            "Condition": "charcot marie tooth disease type 4d",
+            "Id": "OMIM:601455",
+            "Score": 0.0128619153674833
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GP1BA",
+    "Id": "ID:2811",
+    "Score": 0.00803869710467704,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:258660",
+            "Score": 0.00803869710467704,
+            "Hp": "0001138",
+            "Condition": "nonarteritic anterior ischemic optic neuropathy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FAM117B",
+    "Id": "ID:150864",
+    "Score": 6.43095768374163E-10,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Score": 6.43095768374163E-10,
+            "Id": "PUBMED:26051272",
+            "Condition": "sarcoidosis",
+            "Hp": "0001138",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IL12B",
+    "Id": "ID:3593",
+    "Score": 6.43095768374163E-11,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "Score": 6.43095768374163E-11,
+            "Id": "PUBMED:26051272",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MANBA",
+    "Id": "ID:4126",
+    "Score": 3.21547884187082E-11,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "Id": "PUBMED:26051272",
+            "Score": 3.21547884187082E-11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IL23R",
+    "Id": "ID:149233",
+    "Score": 9.64643652561245E-12,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Id": "PUBMED:26051272",
+            "Score": 9.64643652561245E-12,
+            "Condition": "sarcoidosis",
+            "Hp": "0001138"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATXN2",
+    "Id": "ID:6311",
+    "Score": 6.43095768374163E-12,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "Id": "PUBMED:26051272",
+            "Score": 6.43095768374163E-12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SH2B3",
+    "Id": "ID:10019",
+    "Score": 6.43095768374163E-12,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "Id": "PUBMED:26051272",
+            "Score": 6.43095768374163E-12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-DOB",
+    "Id": "ID:3112",
+    "Score": 1.28619153674833E-12,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "Id": "PUBMED:26651848",
+            "Score": 1.28619153674833E-12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-DQB1",
+    "Id": "ID:3119",
+    "Score": 6.43095768374163E-13,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Id": "PUBMED:26651848",
+            "Score": 6.43095768374163E-13,
+            "Condition": "sarcoidosis",
+            "Hp": "0001138"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-DQA2",
+    "Id": "ID:3118",
+    "Score": 6.43095768374163E-13,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Condition": "sarcoidosis",
+            "Hp": "0001138",
+            "Score": 6.43095768374163E-13,
+            "Id": "PUBMED:26651848",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HCG4",
+    "Id": "ID:54435",
+    "Score": 2.25083518930957E-17,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Condition": "sarcoidosis",
+            "Hp": "0001138",
+            "Id": "PUBMED:26651848",
+            "Score": 2.25083518930957E-17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-G",
+    "Id": "ID:3135",
+    "Score": 2.25083518930957E-17,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Condition": "sarcoidosis",
+            "Hp": "0001138",
+            "Score": 2.25083518930957E-17,
+            "Id": "PUBMED:26651848",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZNF184",
+    "Id": "ID:7738",
+    "Score": 3.21547884187082E-18,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Score": 3.21547884187082E-18,
+            "Id": "PUBMED:26651848",
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LOC100131289",
+    "Id": "ID:100131289",
+    "Score": 3.21547884187082E-18,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "Id": "PUBMED:26651848",
+            "Score": 3.21547884187082E-18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZNF165",
+    "Id": "ID:7718",
+    "Score": 9.64643652561247E-19,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "Id": "PUBMED:26651848",
+            "Score": 9.64643652561247E-19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZKSCAN3",
+    "Id": "ID:80317",
+    "Score": 1.60773942093541E-19,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Condition": "sarcoidosis",
+            "Hp": "0001138",
+            "Id": "PUBMED:26651848",
+            "Score": 1.60773942093541E-19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZSCAN12",
+    "Id": "ID:9753",
+    "Score": 1.60773942093541E-19,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Score": 1.60773942093541E-19,
+            "Id": "PUBMED:26651848",
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "OR2J3",
+    "Id": "ID:442186",
+    "Score": 2.25083518930957E-20,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Condition": "sarcoidosis",
+            "Hp": "0001138",
+            "Id": "PUBMED:26651848",
+            "Score": 2.25083518930957E-20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "OR2B3",
+    "Id": "ID:442184",
+    "Score": 2.25083518930957E-20,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "Id": "PUBMED:26651848",
+            "Score": 2.25083518930957E-20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "C6ORF100",
+    "Id": "ID:729583",
+    "Score": 1.28619153674833E-20,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Id": "PUBMED:26651848",
+            "Score": 1.28619153674833E-20,
+            "Hp": "0001138",
+            "Condition": "sarcoidosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRIM27",
+    "Id": "ID:5987",
+    "Score": 1.28619153674833E-20,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Score": 1.28619153674833E-20,
+            "Id": "PUBMED:26651848",
+            "Condition": "sarcoidosis",
+            "Hp": "0001138",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRIM26",
+    "Id": "ID:7726",
+    "Score": 2.57238307349666E-21,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Condition": "sarcoidosis",
+            "Hp": "0001138",
+            "Score": 2.57238307349666E-21,
+            "Id": "PUBMED:26651848",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LOC401242",
+    "Id": "ID:401242",
+    "Score": 2.25083518930957E-21,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Id": "PUBMED:26651848",
+            "Score": 2.25083518930957E-21,
+            "Hp": "0001138",
+            "Condition": "sarcoidosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAS1L",
+    "Id": "ID:116511",
+    "Score": 3.21547884187082E-22,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Score": 3.21547884187082E-22,
+            "Id": "PUBMED:26651848",
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZNRD1",
+    "Id": "ID:30834",
+    "Score": 3.21547884187082E-22,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Condition": "sarcoidosis",
+            "Hp": "0001138",
+            "Score": 3.21547884187082E-22,
+            "Id": "PUBMED:26651848",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "OR12D2",
+    "Id": "ID:26529",
+    "Score": 3.21547884187082E-22,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "Score": 3.21547884187082E-22,
+            "Id": "PUBMED:26651848",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "OR12D3",
+    "Id": "ID:81797",
+    "Score": 3.21547884187082E-22,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "Score": 3.21547884187082E-22,
+            "Id": "PUBMED:26651848",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-DMA",
+    "Id": "ID:3108",
+    "Score": 1.92928730512249E-24,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Score": 1.92928730512249E-24,
+            "Id": "PUBMED:26651848",
+            "Condition": "sarcoidosis",
+            "Hp": "0001138",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-DMB",
+    "Id": "ID:3109",
+    "Score": 1.92928730512249E-24,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Score": 1.92928730512249E-24,
+            "Id": "PUBMED:26651848",
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RPP21",
+    "Id": "ID:79897",
+    "Score": 1.28619153674833E-24,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Score": 1.28619153674833E-24,
+            "Id": "PUBMED:26651848",
+            "Condition": "sarcoidosis",
+            "Hp": "0001138",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-E",
+    "Id": "ID:3133",
+    "Score": 1.28619153674833E-24,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Id": "PUBMED:26651848",
+            "Score": 1.28619153674833E-24,
+            "Hp": "0001138",
+            "Condition": "sarcoidosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GTF2H4",
+    "Id": "ID:2968",
+    "Score": 6.43095768374164E-26,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "Score": 6.43095768374164E-26,
+            "Id": "PUBMED:26651848",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IER3",
+    "Id": "ID:8870",
+    "Score": 3.21547884187082E-27,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "Score": 3.21547884187082E-27,
+            "Id": "PUBMED:26651848",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-C",
+    "Id": "ID:3107",
+    "Score": 3.21547884187082E-27,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Id": "PUBMED:26651848",
+            "Score": 3.21547884187082E-27,
+            "Condition": "sarcoidosis",
+            "Hp": "0001138"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DDR1",
+    "Id": "ID:780",
+    "Score": 3.21547884187082E-27,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Id": "PUBMED:26651848",
+            "Score": 3.21547884187082E-27,
+            "Hp": "0001138",
+            "Condition": "sarcoidosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-B",
+    "Id": "ID:3106",
+    "Score": 3.21547884187082E-27,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Condition": "sarcoidosis",
+            "Hp": "0001138",
+            "Id": "PUBMED:26651848",
+            "Score": 3.21547884187082E-27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "C6ORF15",
+    "Id": "ID:29113",
+    "Score": 2.57238307349666E-28,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Id": "PUBMED:26651848",
+            "Score": 2.57238307349666E-28,
+            "Condition": "sarcoidosis",
+            "Hp": "0001138"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BAG6",
+    "Id": "ID:7917",
+    "Score": 3.21547884187082E-32,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Id": "PUBMED:26651848",
+            "Score": 3.21547884187082E-32,
+            "Hp": "0001138",
+            "Condition": "sarcoidosis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "APOM",
+    "Id": "ID:55937",
+    "Score": 3.21547884187082E-32,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Score": 3.21547884187082E-32,
+            "Id": "PUBMED:26651848",
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "VARS",
+    "Id": "ID:7407",
+    "Score": 1.28619153674833E-33,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "Id": "PUBMED:26651848",
+            "Score": 1.28619153674833E-33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-DRB5",
+    "Id": "ID:3127",
+    "Score": 9.64643652561247E-34,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "Id": "PUBMED:26651848",
+            "Score": 9.64643652561245E-34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "STK19",
+    "Id": "ID:8859",
+    "Score": 3.21547884187082E-34,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Condition": "sarcoidosis",
+            "Hp": "0001138",
+            "Id": "PUBMED:26651848",
+            "Score": 3.21547884187082E-34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-DRA",
+    "Id": "ID:3122",
+    "Score": 9.64643652561245E-35,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Condition": "sarcoidosis",
+            "Hp": "0001138",
+            "Score": 9.64643652561245E-35,
+            "Id": "PUBMED:26651848 26651848",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "C6ORF10",
+    "Id": "ID:10665",
+    "Score": 3.21547884187082E-35,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "Id": "PUBMED:26651848",
+            "Score": 3.21547884187082E-35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-DQA1",
+    "Id": "ID:3117",
+    "Score": 1.60773942093541E-37,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Score": 1.60773942093541E-37,
+            "Id": "PUBMED:26651848 26651848",
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATF6B",
+    "Id": "ID:1388",
+    "Score": 1.28619153674833E-67,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Hp": "0001138",
+            "Condition": "sarcoidosis",
+            "Score": 1.28619153674833E-67,
+            "Id": "PUBMED:26651848 26651848",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  }
+]

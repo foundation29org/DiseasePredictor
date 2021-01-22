@@ -1,0 +1,3722 @@
+[
+  {
+    "Name": "FBN1",
+    "Id": "ID:2200",
+    "Score": 1,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          },
+          {
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "aortic aneurysm familial thoracic 4",
+            "Score": 0.00207625519063798,
+            "Id": "OMIM:132900"
+          },
+          {
+            "Id": "OMIM:611788",
+            "Condition": "aortic aneurysm familial thoracic 6",
+            "Score": 0.00207625519063798,
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:613780",
+            "Condition": "aortic aneurysm familial thoracic 7",
+            "Score": 0.00207625519063798,
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "marfan syndrome",
+            "Score": 0.00471876179690449,
+            "Id": "OMIM:154700",
+            "Hp": "0002617",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00943752359380898,
+            "Condition": "marfan syndrome",
+            "Id": "OMIM:154700"
+          },
+          {
+            "Id": "OMIM:154700",
+            "Condition": "marfan syndrome",
+            "Score": 0.0622876557191393,
+            "IdNote": "CLINVAR",
+            "Hp": "0012727"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0012727",
+            "Id": "OMIM:154700",
+            "Score": 0.124575311438279,
+            "Condition": "marfan syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGFBR2",
+    "Id": "ID:7048",
+    "Score": 0.844563986409966,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727",
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002617",
+            "Id": "OMIM:132900",
+            "Condition": "aortic aneurysm familial thoracic 4",
+            "Score": 0.00207625519063798
+          },
+          {
+            "Id": "OMIM:611788",
+            "Condition": "aortic aneurysm familial thoracic 6",
+            "Score": 0.00207625519063798,
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Score": 0.00207625519063798,
+            "Condition": "aortic aneurysm familial thoracic 7",
+            "Id": "OMIM:613780",
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:609192",
+            "Condition": "loeys dietz syndrome type 1",
+            "Score": 0.00849377123442809,
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Condition": "loeys dietz syndrome type 3",
+            "Score": 0.00311438278595697,
+            "Id": "OMIM:613795",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002617"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:60030",
+            "Score": 0.0339750849377123,
+            "Condition": "loeys dietz syndrome type 1",
+            "Hp": "0002617",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGFBR1",
+    "Id": "ID:7046",
+    "Score": 0.844563986409966,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:60030",
+            "Score": 0.0339750849377123,
+            "Condition": "loeys dietz syndrome type 1",
+            "IdNote": "ORPHANET",
+            "Hp": "0002617"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00207625519063798,
+            "Condition": "aortic aneurysm familial thoracic 4",
+            "Id": "OMIM:132900"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002617",
+            "Condition": "aortic aneurysm familial thoracic 6",
+            "Score": 0.00207625519063798,
+            "Id": "OMIM:611788"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002617",
+            "Condition": "aortic aneurysm familial thoracic 7",
+            "Score": 0.00207625519063798,
+            "Id": "OMIM:613780"
+          },
+          {
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00849377123442809,
+            "Condition": "loeys dietz syndrome type 1",
+            "Id": "OMIM:609192"
+          },
+          {
+            "Id": "OMIM:613795",
+            "Score": 0.00311438278595697,
+            "Condition": "loeys dietz syndrome type 3",
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0012727",
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "Id": "HP:0012727",
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC2A10",
+    "Id": "ID:81031",
+    "Score": 0.823996926063744,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0002617",
+            "Id": "OMIM:208050",
+            "Score": 0.00212344280860702,
+            "Condition": "arterial tortuosity syndrome"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Hp": "0002617",
+            "Condition": "arterial tortuosity syndrome",
+            "Score": 0.029121501375182,
+            "Id": "ORPHANET:3342"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359
+          },
+          {
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "Id": "HP:0012727",
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-B",
+    "Id": "ID:3106",
+    "Score": 0.821873483255137,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Score": 2.54813137032843E-17,
+            "Condition": "takayasu arteritis",
+            "Id": "PUBMED:25604533 25604533 25604533",
+            "Hp": "0002617",
+            "IdNote": "GWAS"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.029121501375182,
+            "Condition": "takayasu arteritis",
+            "Id": "ORPHANET:3287",
+            "Hp": "0002617",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          },
+          {
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MLX",
+    "Id": "ID:6945",
+    "Score": 0.821873483255137,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:3287",
+            "Condition": "takayasu arteritis",
+            "Score": 0.029121501375182,
+            "Hp": "0002617",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359
+          },
+          {
+            "Id": "HP:0012727",
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IL12B",
+    "Id": "ID:3593",
+    "Score": 0.817019899692606,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0002617",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:3287",
+            "Score": 0.0242679178126517,
+            "Condition": "takayasu arteritis"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          },
+          {
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SMAD3",
+    "Id": "ID:4088",
+    "Score": 0.810588901472254,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012727",
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm"
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "aortic aneurysm familial thoracic 4",
+            "Score": 0.00207625519063798,
+            "Id": "OMIM:132900",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002617"
+          },
+          {
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00207625519063798,
+            "Condition": "aortic aneurysm familial thoracic 6",
+            "Id": "OMIM:611788"
+          },
+          {
+            "Id": "OMIM:613780",
+            "Condition": "aortic aneurysm familial thoracic 7",
+            "Score": 0.00207625519063798,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002617"
+          },
+          {
+            "Condition": "loeys dietz syndrome type 1",
+            "Score": 0.00849377123442809,
+            "Id": "OMIM:609192",
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002617",
+            "Id": "OMIM:613795",
+            "Score": 0.00311438278595697,
+            "Condition": "loeys dietz syndrome type 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "B3GAT3",
+    "Id": "ID:26229",
+    "Score": 0.809102491506229,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0002617",
+            "Score": 0.000778595696489241,
+            "Condition": "multiple joint dislocations short stature craniofacial dysmorphism and congenital heart defects",
+            "Id": "OMIM:245600"
+          },
+          {
+            "Id": "OMIM:245600",
+            "Condition": "multiple joint dislocations short stature craniofacial dysmorphism and congenital heart defects",
+            "Score": 0.0155719139297848,
+            "Hp": "0012727",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727",
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "Id": "HP:0012727",
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHST3",
+    "Id": "ID:9469",
+    "Score": 0.809102491506229,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0012727",
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "Id": "HP:0012727"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0002617",
+            "IdNote": "CLINVAR",
+            "Condition": "multiple joint dislocations short stature craniofacial dysmorphism and congenital heart defects",
+            "Score": 0.000778595696489241,
+            "Id": "OMIM:245600"
+          },
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0012727",
+            "Score": 0.0155719139297848,
+            "Condition": "multiple joint dislocations short stature craniofacial dysmorphism and congenital heart defects",
+            "Id": "OMIM:245600"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FBLN5",
+    "Id": "ID:10516",
+    "Score": 0.808930593755056,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Condition": "autosomal recessive cutis laxa type 1",
+            "Score": 0.0161786118751011,
+            "Id": "ORPHANET:90349",
+            "Hp": "0002617",
+            "IdNote": "ORPHANET"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          },
+          {
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "Id": "HP:0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGFB2",
+    "Id": "ID:7042",
+    "Score": 0.80436013590034,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002617",
+            "Id": "OMIM:609192",
+            "Score": 0.00849377123442809,
+            "Condition": "loeys dietz syndrome type 1"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002617",
+            "Id": "OMIM:613795",
+            "Score": 0.00311438278595697,
+            "Condition": "loeys dietz syndrome type 3"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Id": "HP:0012727",
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACTA2",
+    "Id": "ID:59",
+    "Score": 0.800537938844847,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:132900",
+            "Condition": "aortic aneurysm familial thoracic 4",
+            "Score": 0.00207625519063798
+          },
+          {
+            "Score": 0.000778595696489241,
+            "Condition": "aortic aneurysm familial thoracic 6",
+            "Id": "OMIM:611788",
+            "Hp": "0002617",
+            "IdNote": "CLINVAR"
+          },
+          {
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00207625519063798,
+            "Condition": "aortic aneurysm familial thoracic 6",
+            "Id": "OMIM:611788"
+          },
+          {
+            "Id": "OMIM:613780",
+            "Condition": "aortic aneurysm familial thoracic 7",
+            "Score": 0.00207625519063798,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002617"
+          },
+          {
+            "Id": "OMIM:613834",
+            "Score": 0.000778595696489241,
+            "Condition": "multisystemic smooth muscle dysfunction syndrome",
+            "IdNote": "CLINVAR",
+            "Hp": "0002617"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          },
+          {
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYLK",
+    "Id": "ID:4638",
+    "Score": 0.799759343148358,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS",
+            "Score": 0.00207625519063798,
+            "Condition": "aortic aneurysm familial thoracic 4",
+            "Id": "OMIM:132900"
+          },
+          {
+            "Id": "OMIM:611788",
+            "Score": 0.00207625519063798,
+            "Condition": "aortic aneurysm familial thoracic 6",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002617"
+          },
+          {
+            "Score": 0.000778595696489241,
+            "Condition": "aortic aneurysm familial thoracic 7",
+            "Id": "OMIM:613780",
+            "IdNote": "CLINVAR",
+            "Hp": "0002617"
+          },
+          {
+            "Score": 0.00207625519063798,
+            "Condition": "aortic aneurysm familial thoracic 7",
+            "Id": "OMIM:613780",
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYH11",
+    "Id": "ID:4629",
+    "Score": 0.799759343148358,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727",
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0002617",
+            "Score": 0.000778595696489241,
+            "Condition": "aortic aneurysm familial thoracic 4",
+            "Id": "OMIM:132900"
+          },
+          {
+            "Score": 0.00207625519063798,
+            "Condition": "aortic aneurysm familial thoracic 4",
+            "Id": "OMIM:132900",
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS"
+          },
+          {
+            "Id": "OMIM:611788",
+            "Condition": "aortic aneurysm familial thoracic 6",
+            "Score": 0.00207625519063798,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002617"
+          },
+          {
+            "Condition": "aortic aneurysm familial thoracic 7",
+            "Score": 0.00207625519063798,
+            "Id": "OMIM:613780",
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ENG",
+    "Id": "ID:2022",
+    "Score": 0.79524348810872,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation of celiac artery",
+            "Id": "HP:0100858",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:610655",
+            "Score": 0.00249150622876557,
+            "Condition": "telangiectasia hereditary hemorrhagic type 4",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FMR1",
+    "Id": "ID:2332",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012727",
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SMAD6",
+    "Id": "ID:4091",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL1A1",
+    "Id": "ID:1277",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012727",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm"
+          },
+          {
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "Id": "HP:0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRDM16",
+    "Id": "ID:63976",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGFB3",
+    "Id": "ID:7043",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012727",
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FOXE3",
+    "Id": "ID:2301",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LMNA",
+    "Id": "ID:4000",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012727",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ANGPTL6",
+    "Id": "ID:83854",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359
+          },
+          {
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012727",
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FBN2",
+    "Id": "ID:2201",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012727",
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GABRD",
+    "Id": "ID:2563",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012727",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm"
+          },
+          {
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RFC2",
+    "Id": "ID:5982",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LOX",
+    "Id": "ID:4015",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          },
+          {
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TPM2",
+    "Id": "ID:7169",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          },
+          {
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYP17A1",
+    "Id": "ID:1586",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012727",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "Id": "HP:0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GATA5",
+    "Id": "ID:140628",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          },
+          {
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYPN",
+    "Id": "ID:84665",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          },
+          {
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MFAP5",
+    "Id": "ID:8076",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CLIP2",
+    "Id": "ID:7461",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012727",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm"
+          },
+          {
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GTF2I",
+    "Id": "ID:2969",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0012727"
+          },
+          {
+            "Id": "HP:0012727",
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "POR",
+    "Id": "ID:5447",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359
+          },
+          {
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SKI",
+    "Id": "ID:6497",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHD7",
+    "Id": "ID:55636",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL5A2",
+    "Id": "ID:1290",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          },
+          {
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL3A1",
+    "Id": "ID:1281",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Id": "HP:0012727",
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CYP11B1",
+    "Id": "ID:1584",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BAZ1B",
+    "Id": "ID:9031",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012727",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm"
+          },
+          {
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NKX2-5",
+    "Id": "ID:1482",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0012727"
+          },
+          {
+            "Id": "HP:0012727",
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MED12",
+    "Id": "ID:9968",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012727",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RERE",
+    "Id": "ID:473",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LIMK1",
+    "Id": "ID:3984",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          },
+          {
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRKG1",
+    "Id": "ID:5592",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0012727"
+          },
+          {
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZMPSTE24",
+    "Id": "ID:10269",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0012727"
+          },
+          {
+            "Id": "HP:0012727",
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SEMA3E",
+    "Id": "ID:9723",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          },
+          {
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL5A1",
+    "Id": "ID:1289",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0012727"
+          },
+          {
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GTF2IRD1",
+    "Id": "ID:9569",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNH1",
+    "Id": "ID:3756",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          },
+          {
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TPM3",
+    "Id": "ID:7170",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727"
+          },
+          {
+            "Score": 0.755001887504719,
+            "Condition": "Thoracic aortic aneurysm",
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ELN",
+    "Id": "ID:2006",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TBL2",
+    "Id": "ID:26608",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359
+          },
+          {
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NOTCH1",
+    "Id": "ID:4851",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012727",
+            "Score": 0.0377500943752359,
+            "Condition": "Thoracic aortic aneurysm",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "Id": "HP:0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNAB2",
+    "Id": "ID:8514",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Hp": "0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGFBR3",
+    "Id": "ID:7049",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TNXB",
+    "Id": "ID:7148",
+    "Score": 0.792751981879955,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0012727",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          },
+          {
+            "Id": "HP:0012727",
+            "Condition": "Thoracic aortic aneurysm",
+            "Score": 0.755001887504719,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0012727"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATP7A",
+    "Id": "ID:538",
+    "Score": 0.100666918333962,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Condition": "Dilatation",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0002617"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Hp": "0002617",
+            "Condition": "menkes disease",
+            "Score": 0.029121501375182,
+            "Id": "ORPHANET:565"
+          },
+          {
+            "IdNote": "ORPHANET",
+            "Hp": "0002617",
+            "Score": 0.0161786118751011,
+            "Condition": "occipital horn syndrome",
+            "Id": "ORPHANET:198"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "menkes disease",
+            "Score": 0.0113250283125708,
+            "Id": "OMIM:309400"
+          },
+          {
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:304150",
+            "Condition": "occipital horn syndrome",
+            "Score": 0.00629168239587265
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EFEMP2",
+    "Id": "ID:30008",
+    "Score": 0.066386237394165,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0004942",
+            "Score": 0.0377500943752359,
+            "Condition": "Aortic aneurysm",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002617",
+            "Id": "OMIM:614437",
+            "Condition": "cutis laxa autosomal recessive type ib",
+            "Score": 0.0124575311438279
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:90349",
+            "Score": 0.0161786118751011,
+            "Condition": "autosomal recessive cutis laxa type 1",
+            "IdNote": "ORPHANET",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GAA",
+    "Id": "ID:2548",
+    "Score": 0.0502076255190638,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0004944",
+            "Condition": "Dilatation of the cerebral artery",
+            "Score": 0.0377500943752359
+          }
+        ],
+        "OMIM": [
+          {
+            "Condition": "glycogen storage disease ii",
+            "Score": 0.0124575311438279,
+            "Id": "OMIM:232300",
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ABCC6",
+    "Id": "ID:368",
+    "Score": 0.0419464218303402,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0002617",
+            "Id": "OMIM:264800",
+            "Condition": "pseudoxanthoma elasticum",
+            "Score": 0.000353907134767837
+          },
+          {
+            "Id": "OMIM:264800",
+            "Condition": "pseudoxanthoma elasticum",
+            "Score": 0.00141562853907135,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002617"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.00242679178126517,
+            "Condition": "pseudoxanthoma elasticum",
+            "Id": "ORPHANET:758",
+            "IdNote": "ORPHANET",
+            "Hp": "0002617"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Condition": "Dilatation",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "OFD1",
+    "Id": "ID:8481",
+    "Score": 0.0405813514533786,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation",
+            "Id": "HP:0002617",
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:311200",
+            "Score": 0.0028312570781427,
+            "Condition": "orofaciodigital syndrome i",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAF1",
+    "Id": "ID:5894",
+    "Score": 0.0405813514533786,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:500",
+            "Score": 0.0028312570781427,
+            "Condition": "leopard syndrome",
+            "IdNote": "ORPHANET",
+            "Hp": "0002617"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0002617",
+            "Condition": "Dilatation",
+            "Score": 0.0377500943752359
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BRAF",
+    "Id": "ID:673",
+    "Score": 0.0405813514533786,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Hp": "0002617",
+            "Condition": "leopard syndrome",
+            "Score": 0.0028312570781427,
+            "Id": "ORPHANET:500"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation",
+            "Id": "HP:0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SMAD4",
+    "Id": "ID:4089",
+    "Score": 0.0402416006040015,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0004942",
+            "Score": 0.0377500943752359,
+            "Condition": "Aortic aneurysm",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0002617",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:610655",
+            "Score": 0.00249150622876557,
+            "Condition": "telangiectasia hereditary hemorrhagic type 4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EXT2",
+    "Id": "ID:2132",
+    "Score": 0.040176886156501,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Hp": "0002617",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:321",
+            "Condition": "multiple osteochondromas",
+            "Score": 0.00242679178126517
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation",
+            "Id": "HP:0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TSC1",
+    "Id": "ID:7248",
+    "Score": 0.040176886156501,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002617",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0002617",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:805",
+            "Condition": "tuberous sclerosis",
+            "Score": 0.00242679178126517
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PTPN11",
+    "Id": "ID:5781",
+    "Score": 0.040176886156501,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002617",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0002617",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:500",
+            "Score": 0.00242679178126517,
+            "Condition": "leopard syndrome"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TSC2",
+    "Id": "ID:7249",
+    "Score": 0.040176886156501,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002617",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Hp": "0002617",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:805",
+            "Condition": "tuberous sclerosis",
+            "Score": 0.00242679178126517
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EXT1",
+    "Id": "ID:2131",
+    "Score": 0.040176886156501,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation",
+            "Id": "HP:0002617",
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:321",
+            "Condition": "multiple osteochondromas",
+            "Score": 0.00242679178126517,
+            "IdNote": "ORPHANET",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RYR2",
+    "Id": "ID:6262",
+    "Score": 0.0385286900717252,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.000778595696489241,
+            "Condition": "arrhythmogenic right ventricular dysplasia familial 2",
+            "Id": "OMIM:600996",
+            "Hp": "0002617",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0006698",
+            "Condition": "Dilatation of the ventricular cavity",
+            "Score": 0.0377500943752359,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MKS1",
+    "Id": "ID:54903",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation",
+            "Id": "HP:0002617",
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HGD",
+    "Id": "ID:3081",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0004942",
+            "Score": 0.0377500943752359,
+            "Condition": "Aortic aneurysm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNH",
+    "Id": "ID:8923196",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0377500943752359,
+            "Condition": "Aortic aneurysm",
+            "Id": "HP:0004942",
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GANAB",
+    "Id": "ID:23193",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0004944",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation of the cerebral artery"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CC2D2A",
+    "Id": "ID:57545",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation",
+            "Id": "HP:0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COX2",
+    "Id": "ID:8923202",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0004942"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAPK1",
+    "Id": "ID:5594",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0004942",
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNL1",
+    "Id": "ID:4567",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0004942"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC25A24",
+    "Id": "ID:29957",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0004942",
+            "Score": 0.0377500943752359,
+            "Condition": "Aortic aneurysm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FLNA",
+    "Id": "ID:2316",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0377500943752359,
+            "Condition": "Aortic aneurysm",
+            "Id": "HP:0004942",
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NPPA",
+    "Id": "ID:4878",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0006698",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation of the ventricular cavity",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BCR",
+    "Id": "ID:613",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0004942",
+            "Score": 0.0377500943752359,
+            "Condition": "Aortic aneurysm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GGCX",
+    "Id": "ID:2677",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0004944",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation of the cerebral artery"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNW",
+    "Id": "ID:8923194",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0004942",
+            "Condition": "Aortic aneurysm",
+            "Score": 0.0377500943752359
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SEC63",
+    "Id": "ID:11231",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002617",
+            "Condition": "Dilatation",
+            "Score": 0.0377500943752359,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNS1",
+    "Id": "ID:4574",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Aortic aneurysm",
+            "Id": "HP:0004942"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRKCSH",
+    "Id": "ID:5589",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0002617",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PLOD3",
+    "Id": "ID:8985",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0004944",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation of the cerebral artery"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EPHB4",
+    "Id": "ID:2050",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation",
+            "Id": "HP:0002617",
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHRNG",
+    "Id": "ID:1146",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0004942",
+            "Condition": "Aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ENPP1",
+    "Id": "ID:5167",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation",
+            "Id": "HP:0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND1",
+    "Id": "ID:8923209",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0004942",
+            "Score": 0.0377500943752359,
+            "Condition": "Aortic aneurysm",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WDR19",
+    "Id": "ID:57728",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation",
+            "Id": "HP:0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RIN2",
+    "Id": "ID:54453",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0004942"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PTPN22",
+    "Id": "ID:26191",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0005112",
+            "Score": 0.0377500943752359,
+            "Condition": "Abdominal aortic aneurysm",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "STAT1",
+    "Id": "ID:6772",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0004944",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation of the cerebral artery"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BGN",
+    "Id": "ID:633",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Dilatation of the cerebral artery",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0004944",
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CRB2",
+    "Id": "ID:286204",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0002617",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PKP2",
+    "Id": "ID:5318",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0006698",
+            "Condition": "Dilatation of the ventricular cavity",
+            "Score": 0.0377500943752359
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KANSL1",
+    "Id": "ID:284058",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Aortic aneurysm",
+            "Id": "HP:0004942"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND6",
+    "Id": "ID:8923198",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0004942"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ALDH18A1",
+    "Id": "ID:5832",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0004942",
+            "Score": 0.0377500943752359,
+            "Condition": "Aortic aneurysm",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SALL4",
+    "Id": "ID:57167",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0002617",
+            "Condition": "Dilatation",
+            "Score": 0.0377500943752359
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNQ",
+    "Id": "ID:8923208",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Aortic aneurysm",
+            "Id": "HP:0004942"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LRP5",
+    "Id": "ID:4041",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation",
+            "Id": "HP:0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MARS2",
+    "Id": "ID:92935",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0002617",
+            "Condition": "Dilatation",
+            "Score": 0.0377500943752359
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GMPPB",
+    "Id": "ID:29925",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation of the ventricular cavity",
+            "Id": "HP:0006698",
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PAM16",
+    "Id": "ID:51025",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Dilatation",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNS2",
+    "Id": "ID:4575",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0004942",
+            "Score": 0.0377500943752359,
+            "Condition": "Aortic aneurysm",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRKAR1A",
+    "Id": "ID:5573",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0004944",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation of the cerebral artery"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NOD2",
+    "Id": "ID:64127",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0377500943752359,
+            "Condition": "Aortic aneurysm",
+            "Id": "HP:0004942",
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TAB2",
+    "Id": "ID:23118",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0004942",
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND4",
+    "Id": "ID:8923197",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0004942",
+            "Score": 0.0377500943752359,
+            "Condition": "Aortic aneurysm",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PBX1",
+    "Id": "ID:5087",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002617",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PIGY",
+    "Id": "ID:84992",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0002617",
+            "Condition": "Dilatation",
+            "Score": 0.0377500943752359
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FLNB",
+    "Id": "ID:2317",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0377500943752359,
+            "Condition": "Aortic aneurysm",
+            "Id": "HP:0004942",
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM67",
+    "Id": "ID:91147",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0002617",
+            "Condition": "Dilatation",
+            "Score": 0.0377500943752359
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PTEN",
+    "Id": "ID:5728",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0004942",
+            "Condition": "Aortic aneurysm",
+            "Score": 0.0377500943752359
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PEX12",
+    "Id": "ID:5193",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation",
+            "Id": "HP:0002617",
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NSMCE2",
+    "Id": "ID:286053",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0005112",
+            "Condition": "Abdominal aortic aneurysm",
+            "Score": 0.0377500943752359
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SOX10",
+    "Id": "ID:6663",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002617",
+            "Condition": "Dilatation",
+            "Score": 0.0377500943752359,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL4A1",
+    "Id": "ID:1282",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation of the cerebral artery",
+            "Id": "HP:0004944"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COX1",
+    "Id": "ID:8923218",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0377500943752359,
+            "Condition": "Aortic aneurysm",
+            "Id": "HP:0004942",
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PCNT",
+    "Id": "ID:5116",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Dilatation of the cerebral artery",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0004944",
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "STAT3",
+    "Id": "ID:6774",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation",
+            "Id": "HP:0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ND5",
+    "Id": "ID:8923210",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Aortic aneurysm",
+            "Score": 0.0377500943752359,
+            "Id": "HP:0004942",
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CRKL",
+    "Id": "ID:1399",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0004942",
+            "Score": 0.0377500943752359,
+            "Condition": "Aortic aneurysm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNF",
+    "Id": "ID:8923184",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Aortic aneurysm",
+            "Id": "HP:0004942"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LTBP4",
+    "Id": "ID:8425",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002617",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "C12ORF57",
+    "Id": "ID:113246",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0004942",
+            "Score": 0.0377500943752359,
+            "Condition": "Aortic aneurysm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MNX1",
+    "Id": "ID:3110",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002617",
+            "Condition": "Dilatation",
+            "Score": 0.0377500943752359,
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COX3",
+    "Id": "ID:8923187",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0004942",
+            "Condition": "Aortic aneurysm",
+            "Score": 0.0377500943752359
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PKD1",
+    "Id": "ID:5310",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0007029",
+            "Score": 0.0377500943752359,
+            "Condition": "Cerebral berry aneurysm",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "UBR1",
+    "Id": "ID:197131",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation",
+            "Id": "HP:0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RPGRIP1L",
+    "Id": "ID:23322",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation",
+            "Id": "HP:0002617",
+            "Hp": "0002617",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SEC61A1",
+    "Id": "ID:29927",
+    "Score": 0.0377500943752359,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002617",
+            "Id": "HP:0002617",
+            "Score": 0.0377500943752359,
+            "Condition": "Dilatation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACVRL1",
+    "Id": "ID:94",
+    "Score": 0.00249150622876557,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:610655",
+            "Condition": "telangiectasia hereditary hemorrhagic type 4",
+            "Score": 0.00249150622876557,
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "XYLT2",
+    "Id": "ID:64132",
+    "Score": 0.000353907134767837,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0002617",
+            "Id": "OMIM:264800",
+            "Condition": "pseudoxanthoma elasticum",
+            "Score": 0.000353907134767837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "XYLT1",
+    "Id": "ID:64131",
+    "Score": 0.000353907134767837,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Hp": "0002617",
+            "Id": "OMIM:264800",
+            "Condition": "pseudoxanthoma elasticum",
+            "Score": 0.000353907134767837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RPS9",
+    "Id": "ID:6203",
+    "Score": 1.69875424688562E-10,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Hp": "0002617",
+            "IdNote": "GWAS",
+            "Score": 1.69875424688562E-10,
+            "Condition": "takayasu arteritis",
+            "Id": "PUBMED:25604533 25604533"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LILRB3",
+    "Id": "ID:11025",
+    "Score": 1.69875424688562E-10,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Hp": "0002617",
+            "Id": "PUBMED:25604533 25604533",
+            "Condition": "takayasu arteritis",
+            "Score": 1.69875424688562E-10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "IL6",
+    "Id": "ID:3569",
+    "Score": 5.94563986409966E-11,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Hp": "0002617",
+            "IdNote": "GWAS",
+            "Score": 5.94563986409966E-11,
+            "Condition": "takayasu arteritis",
+            "Id": "PUBMED:25604533"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-C",
+    "Id": "ID:3107",
+    "Score": 8.49377123442809E-12,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Condition": "takayasu arteritis",
+            "Score": 8.49377123442809E-12,
+            "Id": "PUBMED:25604533",
+            "Hp": "0002617",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AIF1",
+    "Id": "ID:199",
+    "Score": 8.49377123442809E-12,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Condition": "takayasu arteritis",
+            "Score": 8.49377123442809E-12,
+            "Id": "PUBMED:25604533",
+            "Hp": "0002617",
+            "IdNote": "GWAS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NCR3",
+    "Id": "ID:259197",
+    "Score": 8.49377123442809E-12,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Hp": "0002617",
+            "Id": "PUBMED:25604533",
+            "Score": 8.49377123442809E-12,
+            "Condition": "takayasu arteritis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDSN",
+    "Id": "ID:1041",
+    "Score": 1.69875424688562E-12,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Id": "PUBMED:25604533",
+            "Condition": "takayasu arteritis",
+            "Score": 1.69875424688562E-12,
+            "IdNote": "GWAS",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HLA-DOB",
+    "Id": "ID:3112",
+    "Score": 1.69875424688562E-12,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "IdNote": "GWAS",
+            "Hp": "0002617",
+            "Id": "PUBMED:25604533",
+            "Score": 1.69875424688562E-12,
+            "Condition": "takayasu arteritis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PSORS1C1",
+    "Id": "ID:170679",
+    "Score": 1.69875424688562E-12,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Id": "PUBMED:25604533",
+            "Condition": "takayasu arteritis",
+            "Score": 1.69875424688562E-12,
+            "IdNote": "GWAS",
+            "Hp": "0002617"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MICA",
+    "Id": "ID:100507436",
+    "Score": 2.54813137032843E-17,
+    "Diseases": [
+      {
+        "PUBMED": [
+          {
+            "Hp": "0002617",
+            "IdNote": "GWAS",
+            "Score": 2.54813137032843E-17,
+            "Condition": "takayasu arteritis",
+            "Id": "PUBMED:25604533 25604533"
+          }
+        ]
+      }
+    ]
+  }
+]

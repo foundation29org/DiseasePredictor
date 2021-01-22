@@ -1,0 +1,3395 @@
+[
+  {
+    "Name": "COL2A1",
+    "Id": "ID:1280",
+    "Score": 1,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001519",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001519",
+            "Condition": "Disproportionate tall stature",
+            "Score": 0.423985463355541
+          },
+          {
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development",
+            "Score": 0.357737734706238
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:90653",
+            "Score": 0.181708055723804,
+            "Condition": "stickler syndrome type 1",
+            "Hp": "0001519"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:108300",
+            "IdNote": "CLINVAR",
+            "Hp": "0001519",
+            "Condition": "stickler syndrome type 1",
+            "Score": 0.0132495457298607
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:108300",
+            "Score": 0.0233192004845548,
+            "Hp": "0001519",
+            "Condition": "stickler syndrome type i"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PTEN",
+    "Id": "ID:5728",
+    "Score": 0.922263022410659,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0001519",
+            "Condition": "Disproportionate tall stature",
+            "Score": 0.423985463355541,
+            "Id": "HP:0001519",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          },
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194",
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Score": 0.101188673531193,
+            "Condition": "bannayan riley ruvalcaba syndrome",
+            "Hp": "0002194",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:109"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0002194",
+            "Condition": "bannayan riley ruvalcaba syndrome",
+            "Score": 0.0393511508176862,
+            "Id": "OMIM:153480",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ASXL3",
+    "Id": "ID:80816",
+    "Score": 0.78172319806178,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001519",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Disproportionate tall stature",
+            "Hp": "0001519",
+            "Score": 0.423985463355541
+          },
+          {
+            "Id": "HP:0031936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002194",
+            "Condition": "Delayed ability to walk",
+            "Score": 0.357737734706238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATP6V1A",
+    "Id": "ID:523",
+    "Score": 0.78172319806178,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001519",
+            "Score": 0.423985463355541,
+            "Condition": "Disproportionate tall stature",
+            "Hp": "0001519"
+          },
+          {
+            "Hp": "0002194",
+            "Condition": "Delayed ability to walk",
+            "Score": 0.357737734706238,
+            "Id": "HP:0031936",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FBN1",
+    "Id": "ID:2200",
+    "Score": 0.71892035130224,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.423985463355541,
+            "Hp": "0001519",
+            "Condition": "Disproportionate tall stature",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001519"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.0953967292549969,
+            "Hp": "0001519",
+            "Condition": "marfan syndrome",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:154700"
+          },
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:154700",
+            "Score": 0.190793458509994,
+            "Hp": "0001519",
+            "Condition": "marfan syndrome"
+          },
+          {
+            "Id": "OMIM:604308",
+            "IdNote": "CLINVAR",
+            "Hp": "0001519",
+            "Condition": "mass syndrome",
+            "Score": 0.00874470018170805
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGFBR1",
+    "Id": "ID:7046",
+    "Score": 0.688976377952756,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001519",
+            "Score": 0.423985463355541,
+            "Hp": "0001519",
+            "Condition": "Disproportionate tall stature"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:60030",
+            "IdNote": "ORPHANET",
+            "Hp": "0001519",
+            "Condition": "loeys dietz syndrome type 1",
+            "Score": 0.211992731677771
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.0529981829194427,
+            "Condition": "loeys dietz syndrome type 1",
+            "Hp": "0001519",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:609192"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGFBR2",
+    "Id": "ID:7048",
+    "Score": 0.688976377952756,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:60030",
+            "Score": 0.211992731677771,
+            "Condition": "loeys dietz syndrome type 1",
+            "Hp": "0001519"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.423985463355541,
+            "Hp": "0001519",
+            "Condition": "Disproportionate tall stature",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001519"
+          }
+        ],
+        "OMIM": [
+          {
+            "Score": 0.0529981829194427,
+            "Condition": "loeys dietz syndrome type 1",
+            "Hp": "0001519",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:609192"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RBBP8",
+    "Id": "ID:5932",
+    "Score": 0.662212295578437,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0011342",
+            "Score": 0.635978195033313,
+            "Hp": "0011342",
+            "Condition": "Mild global developmental delay"
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:606744",
+            "Score": 0.013117050272562,
+            "Condition": "seckel syndrome 2",
+            "Hp": "0011342"
+          },
+          {
+            "Score": 0.013117050272562,
+            "Hp": "0011342",
+            "Condition": "seckel syndrome 2",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:606744"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CENPJ",
+    "Id": "ID:55835",
+    "Score": 0.649095245305875,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "seckel syndrome 2",
+            "Hp": "0011342",
+            "Score": 0.013117050272562,
+            "Id": "OMIM:606744",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0011342",
+            "Score": 0.635978195033313,
+            "Condition": "Mild global developmental delay",
+            "Hp": "0011342"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATRIP",
+    "Id": "ID:84126",
+    "Score": 0.649095245305875,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0011342",
+            "Condition": "Mild global developmental delay",
+            "Score": 0.635978195033313,
+            "Id": "HP:0011342",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "OMIM": [
+          {
+            "Hp": "0011342",
+            "Condition": "seckel syndrome 2",
+            "Score": 0.013117050272562,
+            "Id": "OMIM:606744",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CEP152",
+    "Id": "ID:22995",
+    "Score": 0.649095245305875,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0011342",
+            "Condition": "seckel syndrome 2",
+            "Score": 0.013117050272562,
+            "Id": "OMIM:606744",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.635978195033313,
+            "Hp": "0011342",
+            "Condition": "Mild global developmental delay",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0011342"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RNF168",
+    "Id": "ID:165918",
+    "Score": 0.649095245305875,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.635978195033313,
+            "Condition": "Mild global developmental delay",
+            "Hp": "0011342",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0011342"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:611943",
+            "IdNote": "CLINVAR",
+            "Hp": "0011342",
+            "Condition": "riddle syndrome",
+            "Score": 0.013117050272562
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATR",
+    "Id": "ID:545",
+    "Score": 0.649095245305875,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0011342",
+            "Condition": "seckel syndrome 2",
+            "Score": 0.013117050272562,
+            "Id": "OMIM:606744",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ],
+        "HP": [
+          {
+            "Hp": "0011342",
+            "Condition": "Mild global developmental delay",
+            "Score": 0.635978195033313,
+            "Id": "HP:0011342",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KCNJ11",
+    "Id": "ID:3767",
+    "Score": 0.635978195033313,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.635978195033313,
+            "Condition": "Mild global developmental delay",
+            "Hp": "0011342",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0011342"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CENPE",
+    "Id": "ID:1062",
+    "Score": 0.635978195033313,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0011342",
+            "Score": 0.635978195033313,
+            "Condition": "Mild global developmental delay",
+            "Hp": "0011342"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PCNT",
+    "Id": "ID:5116",
+    "Score": 0.635978195033313,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0011342",
+            "Score": 0.635978195033313,
+            "Condition": "Mild global developmental delay",
+            "Hp": "0011342"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TBX4",
+    "Id": "ID:9496",
+    "Score": 0.635978195033313,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0011342",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Mild global developmental delay",
+            "Hp": "0011342",
+            "Score": 0.635978195033313
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ABCC8",
+    "Id": "ID:6833",
+    "Score": 0.635978195033313,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0011342",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Mild global developmental delay",
+            "Hp": "0011342",
+            "Score": 0.635978195033313
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GJA1",
+    "Id": "ID:2697",
+    "Score": 0.635978195033313,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0011342",
+            "Score": 0.635978195033313,
+            "Condition": "Mild global developmental delay",
+            "Hp": "0011342"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDC6",
+    "Id": "ID:990",
+    "Score": 0.635978195033313,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0011342",
+            "Score": 0.635978195033313,
+            "Condition": "Mild global developmental delay",
+            "Hp": "0011342"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ASPA",
+    "Id": "ID:443",
+    "Score": 0.635978195033313,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0011342",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Mild global developmental delay",
+            "Hp": "0011342",
+            "Score": 0.635978195033313
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRAIP",
+    "Id": "ID:10293",
+    "Score": 0.635978195033313,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0011342",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Mild global developmental delay",
+            "Hp": "0011342",
+            "Score": 0.635978195033313
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "B4GALT7",
+    "Id": "ID:11285",
+    "Score": 0.635978195033313,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0011342",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Mild global developmental delay",
+            "Hp": "0011342",
+            "Score": 0.635978195033313
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TRNK",
+    "Id": "ID:8923190",
+    "Score": 0.635978195033313,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0011342",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Mild global developmental delay",
+            "Hp": "0011342",
+            "Score": 0.635978195033313
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ACTB",
+    "Id": "ID:60",
+    "Score": 0.635978195033313,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0011342",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0011342",
+            "Condition": "Mild global developmental delay",
+            "Score": 0.635978195033313
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NONO",
+    "Id": "ID:4841",
+    "Score": 0.635978195033313,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0011342",
+            "Condition": "Mild global developmental delay",
+            "Score": 0.635978195033313,
+            "Id": "HP:0011342",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PLK4",
+    "Id": "ID:10733",
+    "Score": 0.635978195033313,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0011342",
+            "Condition": "Mild global developmental delay",
+            "Score": 0.635978195033313,
+            "Id": "HP:0011342",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LRP5",
+    "Id": "ID:4041",
+    "Score": 0.635978195033313,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0011342",
+            "Condition": "Mild global developmental delay",
+            "Score": 0.635978195033313,
+            "Id": "HP:0011342",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PLOD1",
+    "Id": "ID:5351",
+    "Score": 0.563900666262871,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.139915202907329,
+            "Condition": "ehlers danlos syndrome type vi",
+            "Hp": "0001519",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:225400"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.423985463355541,
+            "Hp": "0001519",
+            "Condition": "Disproportionate tall stature",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001519"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZNF469",
+    "Id": "ID:84627",
+    "Score": 0.523924894003634,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:90354",
+            "IdNote": "ORPHANET",
+            "Condition": "brittle cornea syndrome",
+            "Hp": "0001519",
+            "Score": 0.0999394306480921
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001519",
+            "Score": 0.423985463355541,
+            "Hp": "0001519",
+            "Condition": "Disproportionate tall stature"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MED12",
+    "Id": "ID:9968",
+    "Score": 0.493943064809207,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001519",
+            "Score": 0.423985463355541,
+            "Hp": "0001519",
+            "Condition": "Disproportionate tall stature"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:309520",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0001519",
+            "Condition": "lujan fryns syndrome",
+            "Score": 0.0699576014536644
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GALE",
+    "Id": "ID:2582",
+    "Score": 0.475791187159297,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:230350",
+            "Score": 0.118053452453059,
+            "Hp": "0002194",
+            "Condition": "galactose epimerase deficiency"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194",
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DLAT",
+    "Id": "ID:1737",
+    "Score": 0.466304749015748,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:245348",
+            "Score": 0.00737834077831617,
+            "Condition": "pyruvate dehydrogenase e2 deficiency",
+            "Hp": "0002194"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development",
+            "Score": 0.357737734706238
+          }
+        ],
+        "ORPHANET": [
+          {
+            "Condition": "pyruvate dehydrogenase e2 deficiency",
+            "Hp": "0002194",
+            "Score": 0.101188673531193,
+            "Id": "ORPHANET:79244",
+            "IdNote": "ORPHANET"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NELFA",
+    "Id": "ID:7469",
+    "Score": 0.451241671714112,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:280",
+            "IdNote": "ORPHANET",
+            "Condition": "wolf hirschhorn syndrome",
+            "Hp": "0001519",
+            "Score": 0.0272562083585705
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001519",
+            "Score": 0.423985463355541,
+            "Condition": "Disproportionate tall stature",
+            "Hp": "0001519"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LETM1",
+    "Id": "ID:3954",
+    "Score": 0.446698970321017,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0227135069654754,
+            "Hp": "0001519",
+            "Condition": "wolf hirschhorn syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:280"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0001519",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001519",
+            "Condition": "Disproportionate tall stature",
+            "Score": 0.423985463355541
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CNTNAP2",
+    "Id": "ID:26047",
+    "Score": 0.442061629315566,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194",
+            "Score": 0.357737734706238,
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:163681",
+            "Score": 0.0843238946093278,
+            "Condition": "cortical dysplasia focal epilepsy syndrome",
+            "Hp": "0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HOXA1",
+    "Id": "ID:3198",
+    "Score": 0.442061629315566,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0843238946093278,
+            "Hp": "0002194",
+            "Condition": "athabaskan brainstem dysgenesis syndrome",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:69739"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194",
+            "Score": 0.357737734706238,
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZDHHC9",
+    "Id": "ID:51114",
+    "Score": 0.43273016353725,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00874470018170805,
+            "Hp": "0001519",
+            "Condition": "mental retardation x linked syndromic raymond type",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:300799"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.423985463355541,
+            "Condition": "Disproportionate tall stature",
+            "Hp": "0001519",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001519"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HPGD",
+    "Id": "ID:3248",
+    "Score": 0.423985463355541,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.423985463355541,
+            "Condition": "Disproportionate tall stature",
+            "Hp": "0001519",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001519"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RET",
+    "Id": "ID:5979",
+    "Score": 0.423985463355541,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.423985463355541,
+            "Condition": "Disproportionate tall stature",
+            "Hp": "0001519",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001519"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LOX",
+    "Id": "ID:4015",
+    "Score": 0.423985463355541,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.423985463355541,
+            "Hp": "0001519",
+            "Condition": "Disproportionate tall stature",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001519"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FKBP14",
+    "Id": "ID:55033",
+    "Score": 0.423985463355541,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001519",
+            "Score": 0.423985463355541,
+            "Condition": "Disproportionate tall stature",
+            "Hp": "0001519"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AKT1",
+    "Id": "ID:207",
+    "Score": 0.423985463355541,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.423985463355541,
+            "Condition": "Disproportionate tall stature",
+            "Hp": "0001519",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001519"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FBN2",
+    "Id": "ID:2201",
+    "Score": 0.423985463355541,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001519",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Disproportionate tall stature",
+            "Hp": "0001519",
+            "Score": 0.423985463355541
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CBS",
+    "Id": "ID:875",
+    "Score": 0.423985463355541,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.423985463355541,
+            "Hp": "0001519",
+            "Condition": "Disproportionate tall stature",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0001519"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATP6V1E1",
+    "Id": "ID:529",
+    "Score": 0.423985463355541,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Disproportionate tall stature",
+            "Hp": "0001519",
+            "Score": 0.423985463355541,
+            "Id": "HP:0001519",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "UPF3B",
+    "Id": "ID:65109",
+    "Score": 0.423985463355541,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0001519",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0001519",
+            "Condition": "Disproportionate tall stature",
+            "Score": 0.423985463355541
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL11A2",
+    "Id": "ID:1302",
+    "Score": 0.381056935190793,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194",
+            "Score": 0.357737734706238
+          }
+        ],
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:108300",
+            "Score": 0.0233192004845548,
+            "Condition": "stickler syndrome type i",
+            "Hp": "0001519"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NPHP1",
+    "Id": "ID:4867",
+    "Score": 0.371674600620836,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00737834077831617,
+            "Condition": "joubert syndrome 4",
+            "Hp": "0002194",
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:609583"
+          },
+          {
+            "Score": 0.00655852513628106,
+            "Hp": "0002194",
+            "Condition": "joubert syndrome 4",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:609583"
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194",
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TNNT1",
+    "Id": "ID:7138",
+    "Score": 0.365116075484555,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "CLINVAR",
+            "Id": "OMIM:605355",
+            "Score": 0.00737834077831617,
+            "Condition": "nemaline myopathy 5",
+            "Hp": "0002194"
+          }
+        ],
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CFL2",
+    "Id": "ID:1073",
+    "Score": 0.365116075484555,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:610687",
+            "IdNote": "CLINVAR",
+            "Condition": "nemaline myopathy 7",
+            "Hp": "0002194",
+            "Score": 0.00737834077831617
+          }
+        ],
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194",
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DSE",
+    "Id": "ID:29940",
+    "Score": 0.365116075484555,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "ehlers danlos syndrome musculocontractural type 2",
+            "Hp": "0002194",
+            "Score": 0.00737834077831617,
+            "Id": "OMIM:615539",
+            "IdNote": "CLINVAR"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194",
+            "Score": 0.357737734706238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AHI1",
+    "Id": "ID:54806",
+    "Score": 0.36429625984252,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00655852513628106,
+            "Hp": "0002194",
+            "Condition": "joubert syndrome 4",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:609583"
+          }
+        ],
+        "HP": [
+          {
+            "Id": "HP:0031936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002194",
+            "Condition": "Delayed ability to walk",
+            "Score": 0.357737734706238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BMP1",
+    "Id": "ID:649",
+    "Score": 0.358855665127195,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194"
+          }
+        ],
+        "OMIM": [
+          {
+            "Id": "OMIM:614856",
+            "IdNote": "CLINVAR",
+            "Hp": "0002194",
+            "Condition": "osteogenesis imperfecta type xiii",
+            "Score": 0.001117930420957
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GRIA4",
+    "Id": "ID:2893",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0031936",
+            "Score": 0.357737734706238,
+            "Condition": "Delayed ability to walk",
+            "Hp": "0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CPLX1",
+    "Id": "ID:10815",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Condition": "Delayed ability to walk",
+            "Hp": "0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0031936"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FOXP1",
+    "Id": "ID:27086",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Condition": "Delayed ability to walk",
+            "Hp": "0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0031936"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LARS",
+    "Id": "ID:51520",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RYR1",
+    "Id": "ID:6261",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194",
+            "Score": 0.357737734706238,
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DYNC1H1",
+    "Id": "ID:1778",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0031936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Delayed ability to walk",
+            "Hp": "0002194",
+            "Score": 0.357737734706238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SET",
+    "Id": "ID:6418",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0031936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Delayed ability to walk",
+            "Hp": "0002194",
+            "Score": 0.357737734706238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FBXO11",
+    "Id": "ID:80204",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0031936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Delayed ability to walk",
+            "Hp": "0002194",
+            "Score": 0.357737734706238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RUSC2",
+    "Id": "ID:9853",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0031936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002194",
+            "Condition": "Delayed ability to walk",
+            "Score": 0.357737734706238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC5A7",
+    "Id": "ID:60482",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002194",
+            "Condition": "Delayed ability to walk",
+            "Score": 0.357737734706238,
+            "Id": "HP:0031936",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HUWE1",
+    "Id": "ID:10075",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194",
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "REPS1",
+    "Id": "ID:85021",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0031936",
+            "Score": 0.357737734706238,
+            "Condition": "Delayed ability to walk",
+            "Hp": "0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BRAT1",
+    "Id": "ID:221927",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0031936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Delayed ability to walk",
+            "Hp": "0002194",
+            "Score": 0.357737734706238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FLVCR1",
+    "Id": "ID:28982",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development",
+            "Score": 0.357737734706238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EP300",
+    "Id": "ID:2033",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development",
+            "Score": 0.357737734706238,
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PIEZO2",
+    "Id": "ID:63895",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Delayed ability to walk",
+            "Hp": "0002194",
+            "Score": 0.357737734706238,
+            "Id": "HP:0031936",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AMPD2",
+    "Id": "ID:271",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Condition": "Delayed ability to walk",
+            "Hp": "0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0031936"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "EBF3",
+    "Id": "ID:253738",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed ability to walk",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0031936"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHRNA1",
+    "Id": "ID:1134",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development",
+            "Score": 0.357737734706238,
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMTC3",
+    "Id": "ID:160418",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Delayed ability to walk",
+            "Hp": "0002194",
+            "Score": 0.357737734706238,
+            "Id": "HP:0031936",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TAF1",
+    "Id": "ID:6872",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FGF3",
+    "Id": "ID:2248",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194",
+            "Score": 0.357737734706238,
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PACS2",
+    "Id": "ID:23241",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0031936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002194",
+            "Condition": "Delayed ability to walk",
+            "Score": 0.357737734706238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DOK7",
+    "Id": "ID:285489",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194",
+            "Score": 0.357737734706238,
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHRNB1",
+    "Id": "ID:1140",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYF6",
+    "Id": "ID:4618",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194",
+            "Score": 0.357737734706238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ZNF148",
+    "Id": "ID:7707",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Condition": "Delayed ability to walk",
+            "Hp": "0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0031936"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHST3",
+    "Id": "ID:9469",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194",
+            "Score": 0.357737734706238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KMT2A",
+    "Id": "ID:4297",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development",
+            "Score": 0.357737734706238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL1A2",
+    "Id": "ID:1278",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194",
+            "Score": 0.357737734706238,
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRMT7",
+    "Id": "ID:54496",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed ability to walk",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0031936"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TIMM50",
+    "Id": "ID:92609",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0031936",
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed ability to walk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FKRP",
+    "Id": "ID:79147",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194",
+            "Score": 0.357737734706238,
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RAPSN",
+    "Id": "ID:5913",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194",
+            "Score": 0.357737734706238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BIN1",
+    "Id": "ID:274",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL1A1",
+    "Id": "ID:1277",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development",
+            "Score": 0.357737734706238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KIF14",
+    "Id": "ID:9928",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194",
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL13A1",
+    "Id": "ID:1305",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194",
+            "Score": 0.357737734706238,
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HECW2",
+    "Id": "ID:57520",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0031936",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002194",
+            "Condition": "Delayed ability to walk",
+            "Score": 0.357737734706238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PIGC",
+    "Id": "ID:5279",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0031936",
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed ability to walk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHRND",
+    "Id": "ID:1144",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194",
+            "Score": 0.357737734706238,
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PAK3",
+    "Id": "ID:5063",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SUCLA2",
+    "Id": "ID:8803",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194",
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DHX30",
+    "Id": "ID:22907",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Delayed ability to walk",
+            "Hp": "0002194",
+            "Score": 0.357737734706238,
+            "Id": "HP:0031936",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ITPR1",
+    "Id": "ID:3708",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development",
+            "Score": 0.357737734706238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ATG5",
+    "Id": "ID:9474",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Delayed ability to walk",
+            "Hp": "0002194",
+            "Score": 0.357737734706238,
+            "Id": "HP:0031936",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AK9",
+    "Id": "ID:221264",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "DNM2",
+    "Id": "ID:1785",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ERLIN2",
+    "Id": "ID:11160",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed ability to walk",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0031936"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MTPAP",
+    "Id": "ID:55149",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0031936",
+            "Score": 0.357737734706238,
+            "Condition": "Delayed ability to walk",
+            "Hp": "0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SLC6A3",
+    "Id": "ID:6531",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SCN4A",
+    "Id": "ID:6329",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "GJC2",
+    "Id": "ID:57165",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194",
+            "Score": 0.357737734706238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BCL11B",
+    "Id": "ID:64919",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed ability to walk",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0031936"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL12A1",
+    "Id": "ID:1303",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0031936",
+            "Score": 0.357737734706238,
+            "Condition": "Delayed ability to walk",
+            "Hp": "0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NAA10",
+    "Id": "ID:8260",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MTMR14",
+    "Id": "ID:64419",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MUSK",
+    "Id": "ID:4593",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194",
+            "Score": 0.357737734706238,
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MYH7",
+    "Id": "ID:4625",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CHRNE",
+    "Id": "ID:1145",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194",
+            "Score": 0.357737734706238,
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PPP2R1A",
+    "Id": "ID:5518",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development",
+            "Score": 0.357737734706238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WDR26",
+    "Id": "ID:80232",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Delayed ability to walk",
+            "Hp": "0002194",
+            "Score": 0.357737734706238,
+            "Id": "HP:0031936",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MFN2",
+    "Id": "ID:9927",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MBOAT7",
+    "Id": "ID:79143",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002194",
+            "Condition": "Delayed ability to walk",
+            "Score": 0.357737734706238,
+            "Id": "HP:0031936",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TTN",
+    "Id": "ID:7273",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194",
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "LRP4",
+    "Id": "ID:4038",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194",
+            "Score": 0.357737734706238,
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AGRN",
+    "Id": "ID:375790",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MAGEL2",
+    "Id": "ID:54551",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0031936",
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed ability to walk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CAMK2A",
+    "Id": "ID:815",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0031936",
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed ability to walk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDK13",
+    "Id": "ID:8621",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Delayed ability to walk",
+            "Hp": "0002194",
+            "Score": 0.357737734706238,
+            "Id": "HP:0031936",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SMC1A",
+    "Id": "ID:8243",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development",
+            "Score": 0.357737734706238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TK2",
+    "Id": "ID:7084",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development",
+            "Score": 0.357737734706238,
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "BRPF1",
+    "Id": "ID:7862",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0031936",
+            "Score": 0.357737734706238,
+            "Condition": "Delayed ability to walk",
+            "Hp": "0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "HARS",
+    "Id": "ID:3035",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development",
+            "Score": 0.357737734706238
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CLP1",
+    "Id": "ID:10978",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Condition": "Delayed gross motor development",
+            "Hp": "0002194",
+            "Score": 0.357737734706238,
+            "Id": "HP:0002194",
+            "IdNote": "HPO_PHENOTYPE_GENE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "FTSJ1",
+    "Id": "ID:24140",
+    "Score": 0.357737734706238,
+    "Diseases": [
+      {
+        "HP": [
+          {
+            "Score": 0.357737734706238,
+            "Hp": "0002194",
+            "Condition": "Delayed gross motor development",
+            "IdNote": "HPO_PHENOTYPE_GENE",
+            "Id": "HP:0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SCARF2",
+    "Id": "ID:91179",
+    "Score": 0.272562083585705,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:2460",
+            "Score": 0.272562083585705,
+            "Condition": "van den ende gupta syndrome",
+            "Hp": "0001519"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PRDM5",
+    "Id": "ID:11107",
+    "Score": 0.099939430648092,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Score": 0.0999394306480921,
+            "Condition": "brittle cornea syndrome",
+            "Hp": "0001519",
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:90354"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGFB1",
+    "Id": "ID:7040",
+    "Score": 0.0590551181102362,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0317989097516657,
+            "Hp": "0001519",
+            "Condition": "camurati engelmann disease",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:131300"
+          }
+        ],
+        "ORPHANET": [
+          {
+            "IdNote": "ORPHANET",
+            "Id": "ORPHANET:1328",
+            "Score": 0.0272562083585705,
+            "Condition": "camurati engelmann disease",
+            "Hp": "0001519"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "SMAD3",
+    "Id": "ID:4088",
+    "Score": 0.0529981829194427,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0529981829194427,
+            "Hp": "0001519",
+            "Condition": "loeys dietz syndrome type 1",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:609192"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TGFB2",
+    "Id": "ID:7042",
+    "Score": 0.0529981829194427,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "loeys dietz syndrome type 1",
+            "Hp": "0001519",
+            "Score": 0.0529981829194427,
+            "Id": "OMIM:609192",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL9A2",
+    "Id": "ID:1298",
+    "Score": 0.0233192004845548,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.0233192004845548,
+            "Condition": "stickler syndrome type i",
+            "Hp": "0001519",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:108300"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL9A1",
+    "Id": "ID:1297",
+    "Score": 0.0233192004845548,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:108300",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "stickler syndrome type i",
+            "Hp": "0001519",
+            "Score": 0.0233192004845548
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "COL11A1",
+    "Id": "ID:1301",
+    "Score": 0.0233192004845548,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:108300",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "stickler syndrome type i",
+            "Hp": "0001519",
+            "Score": 0.0233192004845548
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WHSC1",
+    "Id": "ID:7468",
+    "Score": 0.0227135069654754,
+    "Diseases": [
+      {
+        "ORPHANET": [
+          {
+            "Id": "ORPHANET:280",
+            "IdNote": "ORPHANET",
+            "Hp": "0001519",
+            "Condition": "wolf hirschhorn syndrome",
+            "Score": 0.0227135069654754
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "STIL",
+    "Id": "ID:6491",
+    "Score": 0.013117050272562,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:606744",
+            "Score": 0.013117050272562,
+            "Condition": "seckel syndrome 2",
+            "Hp": "0011342"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CASC5",
+    "Id": "ID:57082",
+    "Score": 0.013117050272562,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:606744",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0011342",
+            "Condition": "seckel syndrome 2",
+            "Score": 0.013117050272562
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ASPM",
+    "Id": "ID:259266",
+    "Score": 0.013117050272562,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "seckel syndrome 2",
+            "Hp": "0011342",
+            "Score": 0.013117050272562,
+            "Id": "OMIM:606744",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CEP135",
+    "Id": "ID:9662",
+    "Score": 0.013117050272562,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:606744",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0011342",
+            "Condition": "seckel syndrome 2",
+            "Score": 0.013117050272562
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CEP63",
+    "Id": "ID:80254",
+    "Score": 0.013117050272562,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0011342",
+            "Condition": "seckel syndrome 2",
+            "Score": 0.013117050272562,
+            "Id": "OMIM:606744",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "PHC1",
+    "Id": "ID:1911",
+    "Score": 0.013117050272562,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:606744",
+            "Score": 0.013117050272562,
+            "Hp": "0011342",
+            "Condition": "seckel syndrome 2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "MCPH1",
+    "Id": "ID:79648",
+    "Score": 0.013117050272562,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0011342",
+            "Condition": "seckel syndrome 2",
+            "Score": 0.013117050272562,
+            "Id": "OMIM:606744",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDK6",
+    "Id": "ID:1021",
+    "Score": 0.013117050272562,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0011342",
+            "Condition": "seckel syndrome 2",
+            "Score": 0.013117050272562,
+            "Id": "OMIM:606744",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CDK5RAP2",
+    "Id": "ID:55755",
+    "Score": 0.013117050272562,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:606744",
+            "Score": 0.013117050272562,
+            "Condition": "seckel syndrome 2",
+            "Hp": "0011342"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "NIN",
+    "Id": "ID:51199",
+    "Score": 0.013117050272562,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.013117050272562,
+            "Hp": "0011342",
+            "Condition": "seckel syndrome 2",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:606744"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "WDR62",
+    "Id": "ID:284403",
+    "Score": 0.013117050272562,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:606744",
+            "Score": 0.013117050272562,
+            "Hp": "0011342",
+            "Condition": "seckel syndrome 2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM231",
+    "Id": "ID:79583",
+    "Score": 0.00655852513628104,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:609583",
+            "Score": 0.00655852513628106,
+            "Hp": "0002194",
+            "Condition": "joubert syndrome 4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM138",
+    "Id": "ID:51524",
+    "Score": 0.00655852513628104,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:609583",
+            "Score": 0.00655852513628106,
+            "Hp": "0002194",
+            "Condition": "joubert syndrome 4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "C5ORF42",
+    "Id": "ID:65250",
+    "Score": 0.00655852513628104,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0002194",
+            "Condition": "joubert syndrome 4",
+            "Score": 0.00655852513628106,
+            "Id": "OMIM:609583",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "KIF7",
+    "Id": "ID:374654",
+    "Score": 0.00655852513628104,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:609583",
+            "Score": 0.00655852513628106,
+            "Condition": "joubert syndrome 4",
+            "Hp": "0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TCTN2",
+    "Id": "ID:79867",
+    "Score": 0.00655852513628104,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:609583",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "joubert syndrome 4",
+            "Hp": "0002194",
+            "Score": 0.00655852513628106
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TCTN3",
+    "Id": "ID:26123",
+    "Score": 0.00655852513628104,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:609583",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "joubert syndrome 4",
+            "Hp": "0002194",
+            "Score": 0.00655852513628106
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM216",
+    "Id": "ID:51259",
+    "Score": 0.00655852513628104,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:609583",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "joubert syndrome 4",
+            "Hp": "0002194",
+            "Score": 0.00655852513628106
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM67",
+    "Id": "ID:91147",
+    "Score": 0.00655852513628104,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00655852513628106,
+            "Condition": "joubert syndrome 4",
+            "Hp": "0002194",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:609583"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CEP41",
+    "Id": "ID:95681",
+    "Score": 0.00655852513628104,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Score": 0.00655852513628106,
+            "Hp": "0002194",
+            "Condition": "joubert syndrome 4",
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:609583"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TCTN1",
+    "Id": "ID:79600",
+    "Score": 0.00655852513628104,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "joubert syndrome 4",
+            "Hp": "0002194",
+            "Score": 0.00655852513628106,
+            "Id": "OMIM:609583",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ARL13B",
+    "Id": "ID:200894",
+    "Score": 0.00655852513628104,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:609583",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002194",
+            "Condition": "joubert syndrome 4",
+            "Score": 0.00655852513628106
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "INPP5E",
+    "Id": "ID:56623",
+    "Score": 0.00655852513628104,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Hp": "0002194",
+            "Condition": "joubert syndrome 4",
+            "Score": 0.00655852513628106,
+            "Id": "OMIM:609583",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CC2D2A",
+    "Id": "ID:57545",
+    "Score": 0.00655852513628104,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:609583",
+            "Score": 0.00655852513628106,
+            "Hp": "0002194",
+            "Condition": "joubert syndrome 4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "RPGRIP1L",
+    "Id": "ID:23322",
+    "Score": 0.00655852513628104,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Condition": "joubert syndrome 4",
+            "Hp": "0002194",
+            "Score": 0.00655852513628106,
+            "Id": "OMIM:609583",
+            "IdNote": "GENE_REVIEWS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "CEP290",
+    "Id": "ID:80184",
+    "Score": 0.00655852513628104,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:609583",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "joubert syndrome 4",
+            "Hp": "0002194",
+            "Score": 0.00655852513628106
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TTC21B",
+    "Id": "ID:79809",
+    "Score": 0.00655852513628104,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:609583",
+            "IdNote": "GENE_REVIEWS",
+            "Hp": "0002194",
+            "Condition": "joubert syndrome 4",
+            "Score": 0.00655852513628106
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "TMEM237",
+    "Id": "ID:65062",
+    "Score": 0.00655852513628104,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "IdNote": "GENE_REVIEWS",
+            "Id": "OMIM:609583",
+            "Score": 0.00655852513628106,
+            "Condition": "joubert syndrome 4",
+            "Hp": "0002194"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "OFD1",
+    "Id": "ID:8481",
+    "Score": 0.00655852513628104,
+    "Diseases": [
+      {
+        "OMIM": [
+          {
+            "Id": "OMIM:609583",
+            "IdNote": "GENE_REVIEWS",
+            "Condition": "joubert syndrome 4",
+            "Hp": "0002194",
+            "Score": 0.00655852513628106
+          }
+        ]
+      }
+    ]
+  }
+]
